@@ -1,0 +1,109 @@
+[
+  {
+    "name": "Lockheed Martin",
+    "platform": "workday",
+    "config": {
+      "tenant": "lockheedmartin",
+      "site": "Lockheed_Martin",
+      "wd": "wd1",
+      "external_url": "https://www.lockheedmartinjobs.com/en/job"
+    }
+  },
+  {
+    "name": "Raytheon (RTX)",
+    "platform": "workday",
+    "config": {
+      "tenant": "rtx",
+      "site": "REC_RTX_Ext_Gateway",
+      "wd": "wd5",
+      "external_url": "https://careers.rtx.com/global/en/job"
+    }
+  },
+  {
+    "name": "Northrop Grumman",
+    "platform": "workday",
+    "config": {
+      "tenant": "ngc",
+      "site": "NGCExternal",
+      "wd": "wd1",
+      "external_url": "https://www.northropgrumman.com/jobs/details"
+    }
+  },
+  {
+    "name": "L3Harris",
+    "platform": "workday",
+    "config": {
+      "tenant": "l3harris",
+      "site": "L3Harris_Career_Site_External",
+      "wd": "wd1",
+      "external_url": "https://careers.l3harris.com/en-US/job"
+    }
+  },
+  {
+    "name": "General Dynamics",
+    "platform": "workday",
+    "config": {
+      "tenant": "gd",
+      "site": "External",
+      "wd": "wd1",
+      "external_url": "https://gd.wd1.myworkdayjobs.com/en-US/External"
+    }
+  },
+  {
+    "name": "Boeing",
+    "platform": "workday",
+    "config": {
+      "tenant": "boeing",
+      "site": "EXTERNAL_CAREERS",
+      "wd": "wd1",
+      "external_url": "https://jobs.boeing.com/job"
+    }
+  },
+  {
+    "name": "Leidos",
+    "platform": "workday",
+    "config": {
+      "tenant": "leidos",
+      "site": "External",
+      "wd": "wd5",
+      "external_url": "https://careers.leidos.com/jobs"
+    }
+  },
+  {
+    "name": "SAIC",
+    "platform": "workday",
+    "config": {
+      "tenant": "saic",
+      "site": "saic_external_career_site",
+      "wd": "wd1",
+      "external_url": "https://jobs.saic.com/jobs"
+    }
+  },
+  {
+    "name": "Booz Allen Hamilton",
+    "platform": "workday",
+    "config": {
+      "tenant": "bah",
+      "site": "BAH_External",
+      "wd": "wd1",
+      "external_url": "https://careers.boozallen.com/careers/JobDetail"
+    }
+  },
+
+{
+  "name": "Anduril",
+  "platform": "greenhouse",
+  "config": {
+    "tenant": "andurilindustries",
+    "external_url": "https://job-boards.greenhouse.io/andurilindustries"
+  }
+},
+
+  {
+    "name": "Palantir",
+    "platform": "lever",
+    "config": {
+      "site": "palantir"
+    }
+  }
+]
