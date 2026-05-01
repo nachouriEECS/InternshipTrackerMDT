@@ -1,1 +1,410 @@
-[]
+[
+  {
+    "company": "Anduril",
+    "title": "Electrical Engineering Intern",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802466007?gh_jid=4802466007",
+    "date_found": "2026-05-01",
+    "disciplines": [
+      "Templates : Intern"
+    ]
+  },
+  {
+    "company": "Anduril",
+    "title": "Firmware Engineer Intern",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5121683007?gh_jid=5121683007",
+    "date_found": "2026-05-01",
+    "disciplines": [
+      "Hardware Engineering : Electrical Engineering : Firmware"
+    ]
+  },
+  {
+    "company": "Anduril",
+    "title": "Product Design Intern",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4830567007?gh_jid=4830567007",
+    "date_found": "2026-05-01",
+    "disciplines": [
+      "Corporate Operations : COO Office : COO Office"
+    ]
+  },
+  {
+    "company": "Boeing",
+    "title": "Back-End Developer Intern",
+    "location": "KOR - Seoul, South Korea",
+    "url": "https://jobs.boeing.com/job/job/KOR---Seoul-South-Korea/Back-End-Developer-Intern_JR2026506058-2",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Boeing",
+    "title": "Intern - Boeing Japan Tokyo Office Intern- Tokyo, Japan",
+    "location": "JPN - Tokyo, Japan",
+    "url": "https://jobs.boeing.com/job/job/JPN---Tokyo-Japan/Intern---Boeing-Japan-Tokyo-Office-Intern--Tokyo--Japan_JR2026505802-1",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Boeing",
+    "title": "Intern - Student Engineer",
+    "location": "UKR - Kyiv, Ukraine",
+    "url": "https://jobs.boeing.com/job/job/UKR---Kyiv-Ukraine/Intern---Student-Engineer_JR2026499659-1",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Boeing",
+    "title": "Intern - Student Engineer - Nagoya, Japan",
+    "location": "JPN - Nagoya, Japan",
+    "url": "https://jobs.boeing.com/job/job/JPN---Nagoya-Japan/Intern---Student-Engineer---Nagoya--Japan_JR2026506912-1",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Boeing",
+    "title": "Intern - Supply Chain Operation Intern - Nagoya/Tokyo, Japan",
+    "location": "2 Locations",
+    "url": "https://jobs.boeing.com/job/job/JPN---Nagoya-Japan/Job-Posting-Title-Intern---Supply-Chain-Operation-Intern---Nagoya-Tokyo--Japan_JR2026507586-1",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Boeing",
+    "title": "Test & Evaluation Intern 2026 - 12 Month Placement",
+    "location": "2 Locations",
+    "url": "https://jobs.boeing.com/job/job/GBR---Middle-Wallop-UK/Test---Evaluation-Intern-2026---12-Month-Placement_JR2026504037",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Boeing",
+    "title": "UI/UX Development Intern",
+    "location": "KOR - Seoul, South Korea",
+    "url": "https://jobs.boeing.com/job/job/KOR---Seoul-South-Korea/Front-End-Developer-Intern_JR2026506060-2",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "AI Data Science Intern",
+    "location": "Orlando, FL",
+    "url": "https://careers.leidos.com/jobs/job/Orlando-FL/AI-Data-Science-Intern_R-00170158",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Business Development High School Intern",
+    "location": "Reston, VA",
+    "url": "https://careers.leidos.com/jobs/job/Reston-VA/Business-Development-High-School-Intern_R-00180737",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "CAD Drafter Intern",
+    "location": "Walled Lake, MI",
+    "url": "https://careers.leidos.com/jobs/job/Walled-Lake-MI/CAD-Drafter-Intern_R-00182153",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Capture Management Intern",
+    "location": "2 Locations",
+    "url": "https://careers.leidos.com/jobs/job/Reston-VA/Capture-Management-Intern_R-00181735",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Computer Engineering Co-op",
+    "location": "Bethesda, MD",
+    "url": "https://careers.leidos.com/jobs/job/Bethesda-MD/Computer-Engineering-Co-op_R-00173303",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Content Strategist Intern",
+    "location": "6314 Remote/Teleworker US",
+    "url": "https://careers.leidos.com/jobs/job/6314-RemoteTeleworker-US/Content-Strategist-Intern_R-00179396",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Cybersecurity Platform Intern",
+    "location": "6314 Remote/Teleworker US",
+    "url": "https://careers.leidos.com/jobs/job/6314-RemoteTeleworker-US/Cybersecurity-Platform-Intern_R-00179999",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Data Engineer Intern",
+    "location": "Fort Belvoir, VA",
+    "url": "https://careers.leidos.com/jobs/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Data Engineer Intern",
+    "location": "Fort Belvoir, VA",
+    "url": "https://careers.leidos.com/jobs/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00182075",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Electrical Engineer Intern",
+    "location": "2 Locations",
+    "url": "https://careers.leidos.com/jobs/job/Reston-VA/Electrical-Engineer-Intern_R-00181662",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Electrical Engineering Intern",
+    "location": "Beavercreek, OH",
+    "url": "https://careers.leidos.com/jobs/job/Beavercreek-OH/Electrical-Engineering-Intern_R-00181724",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Electrical Engineering Intern – Rapid Integration and Prototyping",
+    "location": "Huntsville, AL",
+    "url": "https://careers.leidos.com/jobs/job/Huntsville-AL/Electrical-Engineering-Intern---Rapid-Integration-and-Prototyping_R-00181356",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Engineering Intern – High School",
+    "location": "Huntsville, AL",
+    "url": "https://careers.leidos.com/jobs/job/Huntsville-AL/Engineering-Intern---High-School_R-00182018",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Engineering Intern – Modeling and Simulation",
+    "location": "Huntsville, AL",
+    "url": "https://careers.leidos.com/jobs/job/Huntsville-AL/Engineering-Intern---Modeling-and-Simulation_R-00181951-1",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Ethics & Business Integrity Intern",
+    "location": "Reston, VA",
+    "url": "https://careers.leidos.com/jobs/job/Reston-VA/Ethics---Business-Integrity-Intern_R-00181745-1",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Global Security Analyst Intern",
+    "location": "Reston, VA",
+    "url": "https://careers.leidos.com/jobs/job/Reston-VA/Global-Security-Analyst-Intern_R-00181958",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Marketing Intern",
+    "location": "Farnborough, Hampshire, UK",
+    "url": "https://careers.leidos.com/jobs/job/Farnborough-Hampshire-UK/Marketing-Intern_R-00181600",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Mechanical Design and Analysis Intern",
+    "location": "Huntsville, AL",
+    "url": "https://careers.leidos.com/jobs/job/Huntsville-AL/Mechanical-Design-and-Analysis-Intern_R-00181314",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Mechanical Engineer Intern",
+    "location": "2 Locations",
+    "url": "https://careers.leidos.com/jobs/job/Reston-VA/Mechanical-Engineer-Intern_R-00181668",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Mechanical Engineering Intern",
+    "location": "Long Beach, MS",
+    "url": "https://careers.leidos.com/jobs/job/Long-Beach-MS/Mechanical-Engineering-Intern_R-00181990",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Migration Execution Intern",
+    "location": "6314 Remote/Teleworker US",
+    "url": "https://careers.leidos.com/jobs/job/6314-RemoteTeleworker-US/Migration-Execution-Intern_R-00176399",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Program Coordination Intern",
+    "location": "Orlando, FL",
+    "url": "https://careers.leidos.com/jobs/job/Orlando-FL/Program-Coordination-Intern_R-00181532",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Quantum Information Science Intern",
+    "location": "Huntsville, AL",
+    "url": "https://careers.leidos.com/jobs/job/Huntsville-AL/Quantum-Information-Science-Intern_R-00181429",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "ServiceNow Intern",
+    "location": "6314 Remote/Teleworker US",
+    "url": "https://careers.leidos.com/jobs/job/6314-RemoteTeleworker-US/ServiceNow-Intern_R-00181809",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Signal Processing Intern",
+    "location": "San Diego, CA",
+    "url": "https://careers.leidos.com/jobs/job/San-Diego-CA/Signal-Processing-Intern_R-00181765",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Software Developer Intern",
+    "location": "Annapolis Junction, MD",
+    "url": "https://careers.leidos.com/jobs/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00181646",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Software Developer Intern",
+    "location": "2 Locations",
+    "url": "https://careers.leidos.com/jobs/job/Reston-VA/Software-Developer-Intern_R-00181656",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Software Engineer Intern",
+    "location": "6314 Remote/Teleworker US",
+    "url": "https://careers.leidos.com/jobs/job/6314-RemoteTeleworker-US/Software-Engineer-Intern_R-00180869",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "​​Intern – Speech Processing / ASR for Low-Resource Languages​",
+    "location": "6314 Remote/Teleworker US",
+    "url": "https://careers.leidos.com/jobs/job/6314-RemoteTeleworker-US/XMLNAME---Intern---Speech-Processing---ASR-for-Low-Resource-Languages-_R-00181128",
+    "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Palantir",
+    "title": "Deployment Strategist, Internship - US Government",
+    "location": "Honolulu, HI",
+    "url": "https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e",
+    "date_found": "2026-05-01",
+    "disciplines": [
+      "Echo"
+    ]
+  },
+  {
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - France",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f",
+    "date_found": "2026-05-01",
+    "disciplines": [
+      "Delta"
+    ]
+  },
+  {
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - Poland",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9",
+    "date_found": "2026-05-01",
+    "disciplines": [
+      "Delta"
+    ]
+  },
+  {
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - US Government",
+    "location": "Honolulu, HI",
+    "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e",
+    "date_found": "2026-05-01",
+    "disciplines": [
+      "Delta"
+    ]
+  },
+  {
+    "company": "Palantir",
+    "title": "Software Engineer, Internship",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602",
+    "date_found": "2026-05-01",
+    "disciplines": [
+      "Dev"
+    ]
+  },
+  {
+    "company": "Palantir",
+    "title": "Software Engineer, Internship",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
+    "date_found": "2026-05-01",
+    "disciplines": [
+      "Dev"
+    ]
+  },
+  {
+    "company": "Palantir",
+    "title": "UK Meritocracy Fellowship",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.lever.co/palantir/be19ad5e-e323-41c9-8a22-1b34668b1889",
+    "date_found": "2026-05-01",
+    "disciplines": [
+      "Business Development"
+    ]
+  },
+  {
+    "company": "Palantir",
+    "title": "Year at Palantir, Internship",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/030ece08-c341-4959-bdfe-314e89b691ce",
+    "date_found": "2026-05-01",
+    "disciplines": [
+      "Business Development"
+    ]
+  },
+  {
+    "company": "Palantir",
+    "title": "Year at Palantir, Internship",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/9410b487-c6c0-4178-903c-3311ce6b1861",
+    "date_found": "2026-05-01",
+    "disciplines": [
+      "Business Development"
+    ]
+  }
+]

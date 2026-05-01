@@ -90,14 +90,13 @@
     }
   },
 
-{
-  "name": "Anduril",
-  "platform": "greenhouse",
-  "config": {
-    "tenant": "andurilindustries",
-    "external_url": "https://job-boards.greenhouse.io/andurilindustries"
-  }
-},
+  {
+    "name": "Anduril",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "andurilindustries"
+    }
+  },
 
   {
     "name": "Palantir",

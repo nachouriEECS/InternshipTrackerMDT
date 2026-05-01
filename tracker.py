@@ -229,6 +229,9 @@ def collect(companies: Iterable[dict[str, Any]], today: str) -> list[Posting]:
         except requests.RequestException as e:
             log.error("%s: request failed: %s", name, e)
             continue
+        except Exception as e:
+            log.error("%s: unexpected error (%s): %s", name, type(e).__name__, e)
+            continue
         log.info("%s (%s): %d internship postings", name, platform, len(found))
         results.extend(found)
     return results
