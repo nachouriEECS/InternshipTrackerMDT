@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Defense Internship Tracker</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --panel: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --accent: #58a6ff;
+      --accent-hover: #79b8ff;
+      --row-hover: #1f242c;
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+    .wrap { max-width: 1200px; margin: 0 auto; padding: 32px 20px 80px; }
+    header { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin-bottom: 6px; flex-wrap: wrap; }
+    h1 { font-size: 22px; margin: 0; font-weight: 600; }
+    .meta { color: var(--muted); font-size: 13px; }
+    .meta a { color: var(--accent); text-decoration: none; }
+    .meta a:hover { color: var(--accent-hover); text-decoration: underline; }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 1fr 220px 220px;
+      gap: 10px;
+      margin: 20px 0 14px;
+    }
+    @media (max-width: 720px) { .controls { grid-template-columns: 1fr; } }
+
+    input[type="text"], select {
+      background: var(--panel);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 8px 10px;
+      font-size: 14px;
+      font-family: inherit;
+      width: 100%;
+    }
+    input[type="text"]:focus, select:focus {
+      outline: none;
+      border-color: var(--accent);
+    }
+
+    .summary { color: var(--muted); font-size: 13px; margin-bottom: 10px; }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    thead th {
+      text-align: left;
+      padding: 10px 12px;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+      cursor: pointer;
+      user-select: none;
+      white-space: nowrap;
+    }
+    thead th:hover { color: var(--text); }
+    thead th .arrow { display: inline-block; width: 10px; color: var(--accent); }
+    tbody tr { border-bottom: 1px solid var(--border); }
+    tbody tr:last-child { border-bottom: none; }
+    tbody tr:hover { background: var(--row-hover); }
+    tbody td { padding: 10px 12px; vertical-align: top; }
+    tbody td.title a { color: var(--accent); text-decoration: none; font-weight: 500; }
+    tbody td.title a:hover { color: var(--accent-hover); text-decoration: underline; }
+    tbody td.company { white-space: nowrap; }
+    tbody td.date { white-space: nowrap; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+    .empty, .error {
+      padding: 40px 20px;
+      text-align: center;
+      color: var(--muted);
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+    .error { color: #f85149; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>Defense Industry Internship Tracker</h1>
+      <div class="meta">
+        <span id="last-updated"></span>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/nachouriEECS/InternshipTrackerMDT" target="_blank" rel="noopener">repo</a>
+      </div>
+    </header>
+
+    <div class="controls">
+      <input id="search" type="text" placeholder="Search title, company, or location…" autocomplete="off">
+      <select id="company"><option value="">All companies</option></select>
+      <select id="sort">
+        <option value="date_found:desc">Newest first</option>
+        <option value="date_found:asc">Oldest first</option>
+        <option value="company:asc">Company A→Z</option>
+        <option value="title:asc">Title A→Z</option>
+        <option value="location:asc">Location A→Z</option>
+      </select>
+    </div>
+
+    <div class="summary" id="summary"></div>
+    <div id="content"></div>
+  </div>
+
+  <script>
+    const COLUMNS = [
+      { key: "title",    label: "Title",    cls: "title" },
+      { key: "company",  label: "Company",  cls: "company" },
+      { key: "location", label: "Location", cls: "location" },
+      { key: "date_found", label: "Posted", cls: "date" },
+    ];
+
+    let postings = [];
+
+    async function load() {
+      try {
+        const resp = await fetch("internships.json", { cache: "no-cache" });
+        if (!resp.ok) throw new Error("HTTP " + resp.status);
+        postings = await resp.json();
+      } catch (e) {
+        document.getElementById("content").innerHTML =
+          '<div class="error">Failed to load internships.json: ' + e.message + "</div>";
+        return;
+      }
+
+      const companies = [...new Set(postings.map(p => p.company))].sort();
+      const sel = document.getElementById("company");
+      for (const c of companies) {
+        const opt = document.createElement("option");
+        opt.value = c; opt.textContent = c;
+        sel.appendChild(opt);
+      }
+
+      const dates = postings.map(p => p.date_found).filter(Boolean).sort();
+      const latest = dates[dates.length - 1];
+      if (latest) document.getElementById("last-updated").textContent = "Last updated " + latest;
+
+      render();
+    }
+
+    function render() {
+      const q = document.getElementById("search").value.trim().toLowerCase();
+      const company = document.getElementById("company").value;
+      const [sortKey, sortDir] = document.getElementById("sort").value.split(":");
+
+      let rows = postings;
+      if (company) rows = rows.filter(p => p.company === company);
+      if (q) {
+        rows = rows.filter(p =>
+          (p.title || "").toLowerCase().includes(q) ||
+          (p.company || "").toLowerCase().includes(q) ||
+          (p.location || "").toLowerCase().includes(q)
+        );
+      }
+
+      rows = [...rows].sort((a, b) => {
+        const av = (a[sortKey] || "").toString();
+        const bv = (b[sortKey] || "").toString();
+        const cmp = av.localeCompare(bv);
+        return sortDir === "desc" ? -cmp : cmp;
+      });
+
+      document.getElementById("summary").textContent =
+        rows.length + " of " + postings.length + " postings";
+
+      const content = document.getElementById("content");
+      if (rows.length === 0) {
+        content.innerHTML = '<div class="empty">No postings match these filters.</div>';
+        return;
+      }
+
+      const head = "<thead><tr>" +
+        COLUMNS.map(c => `<th data-key="${c.key}">${c.label}</th>`).join("") +
+        "</tr></thead>";
+      const body = "<tbody>" + rows.map(p => `
+        <tr>
+          <td class="title"><a href="${escapeAttr(p.url)}" target="_blank" rel="noopener">${escapeHtml(p.title || "")}</a></td>
+          <td class="company">${escapeHtml(p.company || "")}</td>
+          <td class="location">${escapeHtml(p.location || "")}</td>
+          <td class="date">${escapeHtml(p.date_found || "")}</td>
+        </tr>
+      `).join("") + "</tbody>";
+
+      content.innerHTML = "<table>" + head + body + "</table>";
+    }
+
+    function escapeHtml(s) {
+      return s.replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+    }
+    function escapeAttr(s) { return escapeHtml(s); }
+
+    document.getElementById("search").addEventListener("input", render);
+    document.getElementById("company").addEventListener("change", render);
+    document.getElementById("sort").addEventListener("change", render);
+
+    load();
+  </script>
+</body>
+</html>
