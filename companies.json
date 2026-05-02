@@ -6,7 +6,7 @@
       "tenant": "ngc",
       "site": "Northrop_Grumman_External_Site",
       "wd": "wd1",
-      "external_url": "https://www.northropgrumman.com/jobs/details"
+      "external_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site"
     }
   },
   {
@@ -36,7 +36,7 @@
       "tenant": "bah",
       "site": "BAH_Jobs",
       "wd": "wd1",
-      "external_url": "https://careers.boozallen.com/careers/JobDetail"
+      "external_url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs"
     }
   },
   {
