@@ -21,6 +21,7 @@ import requests
 ROOT = Path(__file__).resolve().parent
 COMPANIES_FILE = ROOT / "companies.json"
 DATA_FILE = ROOT / "internships.json"
+DIFF_FILE = ROOT / "diff.json"
 
 REQUEST_TIMEOUT = 30
 USER_AGENT = "defense-internship-tracker/1.0 (+https://github.com)"
@@ -239,7 +240,7 @@ def collect(companies: Iterable[dict[str, Any]], today: str) -> list[Posting]:
 
 def diff_and_merge(
     existing: list[dict[str, Any]], current: list[Posting]
-) -> tuple[list[dict[str, Any]], int, int]:
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]], int]:
     existing_by_key = {f"{e['company']}::{e['url']}": e for e in existing}
     current_by_key = {p.key: p for p in current}
 
@@ -247,7 +248,7 @@ def diff_and_merge(
     removed_keys = existing_by_key.keys() - current_by_key.keys()
 
     merged: list[dict[str, Any]] = []
-    # Preserve original date_found for postings still present.
+    added: list[dict[str, Any]] = []
     for key, posting in current_by_key.items():
         if key in existing_by_key:
             preserved = existing_by_key[key].copy()
@@ -257,10 +258,13 @@ def diff_and_merge(
                 preserved["disciplines"] = list(posting.disciplines)
             merged.append(preserved)
         else:
-            merged.append(posting.to_dict())
+            d = posting.to_dict()
+            merged.append(d)
+            added.append(d)
 
     merged.sort(key=lambda p: (p["company"], p["title"]))
-    return merged, len(added_keys), len(removed_keys)
+    added.sort(key=lambda p: (p["company"], p["title"]))
+    return merged, added, len(removed_keys)
 
 
 def main() -> int:
@@ -275,11 +279,12 @@ def main() -> int:
     current = collect(companies, today)
     merged, added, removed = diff_and_merge(existing, current)
     save_json(DATA_FILE, merged)
+    save_json(DIFF_FILE, {"date": today, "added": added})
 
     log.info(
         "summary: %d total | +%d added | -%d removed | %d companies scanned",
         len(merged),
-        added,
+        len(added),
         removed,
         len(companies),
     )
