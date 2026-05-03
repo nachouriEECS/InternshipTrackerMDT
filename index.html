@@ -155,9 +155,16 @@
         sel.appendChild(opt);
       }
 
-      const dates = postings.map(p => p.date_found).filter(Boolean).sort();
-      const latest = dates[dates.length - 1];
-      if (latest) document.getElementById("last-updated").textContent = "Last updated " + latest;
+      let lastScanned = null;
+      try {
+        const metaResp = await fetch("meta.json", { cache: "no-cache" });
+        if (metaResp.ok) lastScanned = (await metaResp.json()).last_scanned;
+      } catch (_) { /* fall through to date_found fallback */ }
+      if (!lastScanned) {
+        const dates = postings.map(p => p.date_found).filter(Boolean).sort();
+        lastScanned = dates[dates.length - 1];
+      }
+      if (lastScanned) document.getElementById("last-updated").textContent = "Last updated " + lastScanned;
 
       render();
     }
