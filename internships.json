@@ -3,7 +3,7 @@
     "company": "Anduril",
     "title": "Electrical Engineering Intern",
     "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802466007?gh_jid=4802466007",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4802466007?gh_jid=4802466007",
     "date_found": "2026-05-01",
     "disciplines": [
       "Templates : Intern"
@@ -13,33 +13,35 @@
     "company": "Anduril",
     "title": "Firmware Engineer Intern",
     "location": "Costa Mesa, California, United States",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5121683007?gh_jid=5121683007",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5121683007?gh_jid=5121683007",
     "date_found": "2026-05-01",
     "disciplines": [
       "Hardware Engineering : Electrical Engineering : Firmware"
     ]
   },
   {
-    "company": "Boeing",
-    "title": "Back-End Developer Intern",
-    "location": "KOR - Seoul, South Korea",
-    "url": "https://jobs.boeing.com/job/job/KOR---Seoul-South-Korea/Back-End-Developer-Intern_JR2026506058-2",
+    "company": "Anduril",
+    "title": "Product Design Intern",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4830567007?gh_jid=4830567007",
     "date_found": "2026-05-01",
-    "disciplines": []
+    "disciplines": [
+      "Corporate Operations : COO Office : COO Office"
+    ]
   },
   {
     "company": "Boeing",
-    "title": "Engineering Intern",
-    "location": "IDN - Jakarta, Indonesia",
-    "url": "https://jobs.boeing.com/job/job/IDN---Jakarta-Indonesia/Engineering-Intern_JR2026507818-3",
-    "date_found": "2026-05-04",
+    "title": "Back-End Developer Intern",
+    "location": "KOR - Seoul, South Korea",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/KOR---Seoul-South-Korea/Back-End-Developer-Intern_JR2026506058-2",
+    "date_found": "2026-05-01",
     "disciplines": []
   },
   {
     "company": "Boeing",
     "title": "Intern - Boeing Japan Tokyo Office Intern- Tokyo, Japan",
     "location": "JPN - Tokyo, Japan",
-    "url": "https://jobs.boeing.com/job/job/JPN---Tokyo-Japan/Intern---Boeing-Japan-Tokyo-Office-Intern--Tokyo--Japan_JR2026505802-1",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/JPN---Tokyo-Japan/Intern---Boeing-Japan-Tokyo-Office-Intern--Tokyo--Japan_JR2026505802-1",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -47,7 +49,7 @@
     "company": "Boeing",
     "title": "Intern - Student Engineer",
     "location": "UKR - Kyiv, Ukraine",
-    "url": "https://jobs.boeing.com/job/job/UKR---Kyiv-Ukraine/Intern---Student-Engineer_JR2026499659-1",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/UKR---Kyiv-Ukraine/Intern---Student-Engineer_JR2026499659-1",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -55,7 +57,7 @@
     "company": "Boeing",
     "title": "Intern - Student Engineer - Nagoya, Japan",
     "location": "JPN - Nagoya, Japan",
-    "url": "https://jobs.boeing.com/job/job/JPN---Nagoya-Japan/Intern---Student-Engineer---Nagoya--Japan_JR2026506912-1",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/JPN---Nagoya-Japan/Intern---Student-Engineer---Nagoya--Japan_JR2026506912-1",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -63,7 +65,7 @@
     "company": "Boeing",
     "title": "Intern - Supply Chain Operation Intern - Nagoya/Tokyo, Japan",
     "location": "2 Locations",
-    "url": "https://jobs.boeing.com/job/job/JPN---Nagoya-Japan/Job-Posting-Title-Intern---Supply-Chain-Operation-Intern---Nagoya-Tokyo--Japan_JR2026507586-1",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/JPN---Nagoya-Japan/Job-Posting-Title-Intern---Supply-Chain-Operation-Intern---Nagoya-Tokyo--Japan_JR2026507586-1",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -71,7 +73,7 @@
     "company": "Boeing",
     "title": "UI/UX Development Intern",
     "location": "KOR - Seoul, South Korea",
-    "url": "https://jobs.boeing.com/job/job/KOR---Seoul-South-Korea/Front-End-Developer-Intern_JR2026506060-2",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/KOR---Seoul-South-Korea/Front-End-Developer-Intern_JR2026506060-2",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -207,23 +209,15 @@
     "company": "Leidos",
     "title": "AI Data Science Intern",
     "location": "Orlando, FL",
-    "url": "https://careers.leidos.com/jobs/job/Orlando-FL/AI-Data-Science-Intern_R-00170158",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Orlando-FL/AI-Data-Science-Intern_R-00170158",
     "date_found": "2026-05-01",
-    "disciplines": []
-  },
-  {
-    "company": "Leidos",
-    "title": "AI Data Science Intern",
-    "location": "Orlando, FL",
-    "url": "https://careers.leidos.com/jobs/job/Orlando-FL/AI-Data-Science-Intern_R-00182332",
-    "date_found": "2026-05-04",
     "disciplines": []
   },
   {
     "company": "Leidos",
     "title": "Business Development High School Intern",
     "location": "Reston, VA",
-    "url": "https://careers.leidos.com/jobs/job/Reston-VA/Business-Development-High-School-Intern_R-00180737",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/Business-Development-High-School-Intern_R-00180737",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -231,7 +225,7 @@
     "company": "Leidos",
     "title": "CAD Drafter Intern",
     "location": "Walled Lake, MI",
-    "url": "https://careers.leidos.com/jobs/job/Walled-Lake-MI/CAD-Drafter-Intern_R-00182153",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Walled-Lake-MI/CAD-Drafter-Intern_R-00182153",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -239,7 +233,7 @@
     "company": "Leidos",
     "title": "Capture Management Intern",
     "location": "2 Locations",
-    "url": "https://careers.leidos.com/jobs/job/Reston-VA/Capture-Management-Intern_R-00181735",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/Capture-Management-Intern_R-00181735",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -247,7 +241,7 @@
     "company": "Leidos",
     "title": "Computer Engineering Co-op",
     "location": "Bethesda, MD",
-    "url": "https://careers.leidos.com/jobs/job/Bethesda-MD/Computer-Engineering-Co-op_R-00173303",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00173303",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -255,7 +249,7 @@
     "company": "Leidos",
     "title": "Content Strategist Intern",
     "location": "6314 Remote/Teleworker US",
-    "url": "https://careers.leidos.com/jobs/job/6314-RemoteTeleworker-US/Content-Strategist-Intern_R-00179396",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Content-Strategist-Intern_R-00179396",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -263,7 +257,7 @@
     "company": "Leidos",
     "title": "Cybersecurity Platform Intern",
     "location": "6314 Remote/Teleworker US",
-    "url": "https://careers.leidos.com/jobs/job/6314-RemoteTeleworker-US/Cybersecurity-Platform-Intern_R-00179999",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Cybersecurity-Platform-Intern_R-00179999",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -271,7 +265,7 @@
     "company": "Leidos",
     "title": "Data Engineer Intern",
     "location": "Fort Belvoir, VA",
-    "url": "https://careers.leidos.com/jobs/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -279,7 +273,7 @@
     "company": "Leidos",
     "title": "Data Engineer Intern",
     "location": "Fort Belvoir, VA",
-    "url": "https://careers.leidos.com/jobs/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00182075",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00182075",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -287,7 +281,7 @@
     "company": "Leidos",
     "title": "Electrical Engineer Intern",
     "location": "2 Locations",
-    "url": "https://careers.leidos.com/jobs/job/Reston-VA/Electrical-Engineer-Intern_R-00181662",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/Electrical-Engineer-Intern_R-00181662",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -295,7 +289,7 @@
     "company": "Leidos",
     "title": "Electrical Engineering Intern",
     "location": "Beavercreek, OH",
-    "url": "https://careers.leidos.com/jobs/job/Beavercreek-OH/Electrical-Engineering-Intern_R-00181724",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Beavercreek-OH/Electrical-Engineering-Intern_R-00181724",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -303,7 +297,7 @@
     "company": "Leidos",
     "title": "Electrical Engineering Intern – Rapid Integration and Prototyping",
     "location": "Huntsville, AL",
-    "url": "https://careers.leidos.com/jobs/job/Huntsville-AL/Electrical-Engineering-Intern---Rapid-Integration-and-Prototyping_R-00181356",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electrical-Engineering-Intern---Rapid-Integration-and-Prototyping_R-00181356",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -311,7 +305,7 @@
     "company": "Leidos",
     "title": "Engineering Intern – High School",
     "location": "Huntsville, AL",
-    "url": "https://careers.leidos.com/jobs/job/Huntsville-AL/Engineering-Intern---High-School_R-00182018",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Engineering-Intern---High-School_R-00182018",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -319,7 +313,7 @@
     "company": "Leidos",
     "title": "Engineering Intern – Modeling and Simulation",
     "location": "Huntsville, AL",
-    "url": "https://careers.leidos.com/jobs/job/Huntsville-AL/Engineering-Intern---Modeling-and-Simulation_R-00181951-1",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Engineering-Intern---Modeling-and-Simulation_R-00181951-1",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -327,7 +321,7 @@
     "company": "Leidos",
     "title": "Ethics & Business Integrity Intern",
     "location": "Reston, VA",
-    "url": "https://careers.leidos.com/jobs/job/Reston-VA/Ethics---Business-Integrity-Intern_R-00181745-1",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/Ethics---Business-Integrity-Intern_R-00181745-1",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -335,7 +329,7 @@
     "company": "Leidos",
     "title": "Global Security Analyst Intern",
     "location": "Reston, VA",
-    "url": "https://careers.leidos.com/jobs/job/Reston-VA/Global-Security-Analyst-Intern_R-00181958",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/Global-Security-Analyst-Intern_R-00181958",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -343,7 +337,7 @@
     "company": "Leidos",
     "title": "Marketing Intern",
     "location": "Farnborough, Hampshire, UK",
-    "url": "https://careers.leidos.com/jobs/job/Farnborough-Hampshire-UK/Marketing-Intern_R-00181600",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Farnborough-Hampshire-UK/Marketing-Intern_R-00181600",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -351,7 +345,7 @@
     "company": "Leidos",
     "title": "Mechanical Design and Analysis Intern",
     "location": "Huntsville, AL",
-    "url": "https://careers.leidos.com/jobs/job/Huntsville-AL/Mechanical-Design-and-Analysis-Intern_R-00181314",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Mechanical-Design-and-Analysis-Intern_R-00181314",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -359,7 +353,7 @@
     "company": "Leidos",
     "title": "Mechanical Engineer Intern",
     "location": "2 Locations",
-    "url": "https://careers.leidos.com/jobs/job/Reston-VA/Mechanical-Engineer-Intern_R-00181668",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/Mechanical-Engineer-Intern_R-00181668",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -367,7 +361,7 @@
     "company": "Leidos",
     "title": "Mechanical Engineering Intern",
     "location": "Long Beach, MS",
-    "url": "https://careers.leidos.com/jobs/job/Long-Beach-MS/Mechanical-Engineering-Intern_R-00181990",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Long-Beach-MS/Mechanical-Engineering-Intern_R-00181990",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -375,7 +369,7 @@
     "company": "Leidos",
     "title": "Migration Execution Intern",
     "location": "6314 Remote/Teleworker US",
-    "url": "https://careers.leidos.com/jobs/job/6314-RemoteTeleworker-US/Migration-Execution-Intern_R-00176399",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Migration-Execution-Intern_R-00176399",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -383,7 +377,7 @@
     "company": "Leidos",
     "title": "Program Coordination Intern",
     "location": "Orlando, FL",
-    "url": "https://careers.leidos.com/jobs/job/Orlando-FL/Program-Coordination-Intern_R-00181532",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Orlando-FL/Program-Coordination-Intern_R-00181532",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -391,7 +385,7 @@
     "company": "Leidos",
     "title": "Quantum Information Science Intern",
     "location": "Huntsville, AL",
-    "url": "https://careers.leidos.com/jobs/job/Huntsville-AL/Quantum-Information-Science-Intern_R-00181429",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Quantum-Information-Science-Intern_R-00181429",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -399,7 +393,7 @@
     "company": "Leidos",
     "title": "ServiceNow Intern",
     "location": "6314 Remote/Teleworker US",
-    "url": "https://careers.leidos.com/jobs/job/6314-RemoteTeleworker-US/ServiceNow-Intern_R-00181809",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/ServiceNow-Intern_R-00181809",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -407,7 +401,7 @@
     "company": "Leidos",
     "title": "Signal Processing Intern",
     "location": "San Diego, CA",
-    "url": "https://careers.leidos.com/jobs/job/San-Diego-CA/Signal-Processing-Intern_R-00181765",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Signal-Processing-Intern_R-00181765",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -415,7 +409,7 @@
     "company": "Leidos",
     "title": "Software Developer Intern",
     "location": "Annapolis Junction, MD",
-    "url": "https://careers.leidos.com/jobs/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00181646",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00181646",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -423,7 +417,7 @@
     "company": "Leidos",
     "title": "Software Developer Intern",
     "location": "2 Locations",
-    "url": "https://careers.leidos.com/jobs/job/Reston-VA/Software-Developer-Intern_R-00181656",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/Software-Developer-Intern_R-00181656",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -431,7 +425,7 @@
     "company": "Leidos",
     "title": "Software Engineer Intern",
     "location": "6314 Remote/Teleworker US",
-    "url": "https://careers.leidos.com/jobs/job/6314-RemoteTeleworker-US/Software-Engineer-Intern_R-00180869",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Software-Engineer-Intern_R-00180869",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -439,16 +433,16 @@
     "company": "Leidos",
     "title": "​​Intern – Speech Processing / ASR for Low-Resource Languages​",
     "location": "6314 Remote/Teleworker US",
-    "url": "https://careers.leidos.com/jobs/job/6314-RemoteTeleworker-US/XMLNAME---Intern---Speech-Processing---ASR-for-Low-Resource-Languages-_R-00181128",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/XMLNAME---Intern---Speech-Processing---ASR-for-Low-Resource-Languages-_R-00181128",
     "date_found": "2026-05-01",
     "disciplines": []
   },
   {
     "company": "Northrop Grumman",
-    "title": "2026 Global Business Development Intern - Falls Church VA",
-    "location": "2 Locations",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2026-Global-Business-Development-Intern---Falls-Church-VA_R10231751",
-    "date_found": "2026-05-04",
+    "title": "2026 High School Technical Intern - Grand Sky ND",
+    "location": "United States-North Dakota-Emerado",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Dakota-Emerado/XMLNAME-2026-High-School-Technical-Intern---Grand-Sky-ND_R10231513",
+    "date_found": "2026-05-02",
     "disciplines": []
   },
   {

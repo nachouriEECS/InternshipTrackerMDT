@@ -97,7 +97,9 @@ def fetch_greenhouse(company: str, cfg: dict[str, Any], today: str) -> list[Post
         if not is_internship(title):
             continue
         location = (job.get("location") or {}).get("name", "")
-        job_url = job.get("absolute_url", "")
+        job_url = job.get("absolute_url", "").replace(
+            "https://boards.greenhouse.io/", "https://job-boards.greenhouse.io/", 1
+        )
         disciplines = tuple(
             d.get("name", "") for d in job.get("departments", []) if d.get("name")
         )

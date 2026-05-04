@@ -16,7 +16,7 @@
       "tenant": "boeing",
       "site": "EXTERNAL_CAREERS",
       "wd": "wd1",
-      "external_url": "https://jobs.boeing.com/job"
+      "external_url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS"
     }
   },
   {
@@ -26,7 +26,7 @@
       "tenant": "leidos",
       "site": "External",
       "wd": "wd5",
-      "external_url": "https://careers.leidos.com/jobs"
+      "external_url": "https://leidos.wd5.myworkdayjobs.com/en-US/External"
     }
   },
   {
