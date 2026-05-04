@@ -20,21 +20,19 @@
     ]
   },
   {
-    "company": "Anduril",
-    "title": "Product Design Intern",
-    "location": "Costa Mesa, California, United States",
-    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4830567007?gh_jid=4830567007",
-    "date_found": "2026-05-01",
-    "disciplines": [
-      "Corporate Operations : COO Office : COO Office"
-    ]
-  },
-  {
     "company": "Boeing",
     "title": "Back-End Developer Intern",
     "location": "KOR - Seoul, South Korea",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/KOR---Seoul-South-Korea/Back-End-Developer-Intern_JR2026506058-2",
     "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Boeing",
+    "title": "Engineering Intern",
+    "location": "IDN - Jakarta, Indonesia",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/IDN---Jakarta-Indonesia/Engineering-Intern_JR2026507818-3",
+    "date_found": "2026-05-04",
     "disciplines": []
   },
   {
@@ -211,6 +209,14 @@
     "location": "Orlando, FL",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Orlando-FL/AI-Data-Science-Intern_R-00170158",
     "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "AI Data Science Intern",
+    "location": "Orlando, FL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Orlando-FL/AI-Data-Science-Intern_R-00182332",
+    "date_found": "2026-05-04",
     "disciplines": []
   },
   {
@@ -439,10 +445,10 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "2026 High School Technical Intern - Grand Sky ND",
-    "location": "United States-North Dakota-Emerado",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Dakota-Emerado/XMLNAME-2026-High-School-Technical-Intern---Grand-Sky-ND_R10231513",
-    "date_found": "2026-05-02",
+    "title": "2026 Global Business Development Intern - Falls Church VA",
+    "location": "2 Locations",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2026-Global-Business-Development-Intern---Falls-Church-VA_R10231751",
+    "date_found": "2026-05-04",
     "disciplines": []
   },
   {
