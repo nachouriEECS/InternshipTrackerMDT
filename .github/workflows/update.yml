@@ -2,7 +2,7 @@ name: Update internship listings
 
 on:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "17 13 * * *"
   workflow_dispatch:
 
 permissions:
