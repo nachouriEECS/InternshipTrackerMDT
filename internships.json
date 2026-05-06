@@ -27,6 +27,14 @@
   },
   {
     "company": "Boeing",
+    "title": "ENGINEERING SUMMER INTERNSHIP 2026",
+    "location": "3 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/POL---Rzeszow-Poland/ENGINEERING-SUMMER-INTERNSHIP-2026_JR2026508377-1",
+    "date_found": "2026-05-06",
+    "disciplines": []
+  },
+  {
+    "company": "Boeing",
     "title": "Engineering Intern",
     "location": "IDN - Jakarta, Indonesia",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/IDN---Jakarta-Indonesia/Engineering-Intern_JR2026507818-3",
@@ -111,6 +119,22 @@
     "location": "San Antonio, TX",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Cyber-Intern_R0237150",
     "date_found": "2026-05-02",
+    "disciplines": []
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "Health Account Intern",
+    "location": "Atlanta, GA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Health-Account-Intern_R0239312",
+    "date_found": "2026-05-06",
+    "disciplines": []
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "Health Account Intern",
+    "location": "Atlanta, GA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Health-Account-Intern_R0239301",
+    "date_found": "2026-05-06",
     "disciplines": []
   },
   {
@@ -211,10 +235,10 @@
   },
   {
     "company": "Leidos",
-    "title": "AI Data Science Intern",
-    "location": "Orlando, FL",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Orlando-FL/AI-Data-Science-Intern_R-00182332",
-    "date_found": "2026-05-04",
+    "title": "AI Infrastructure & Security Intern",
+    "location": "6314 Remote/Teleworker US",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/AI-Infrastructure---Security-Intern_R-00182560",
+    "date_found": "2026-05-06",
     "disciplines": []
   },
   {
@@ -247,14 +271,6 @@
     "location": "Reston, VA",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/Contracts-and-Supply-Chain-Intern_R-00182471",
     "date_found": "2026-05-05",
-    "disciplines": []
-  },
-  {
-    "company": "Leidos",
-    "title": "Cybersecurity Platform Intern",
-    "location": "6314 Remote/Teleworker US",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Cybersecurity-Platform-Intern_R-00179999",
-    "date_found": "2026-05-01",
     "disciplines": []
   },
   {
@@ -299,10 +315,18 @@
   },
   {
     "company": "Leidos",
-    "title": "Global Security Analyst Intern",
-    "location": "Reston, VA",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/Global-Security-Analyst-Intern_R-00181958",
-    "date_found": "2026-05-01",
+    "title": "Full Stack Development Intern",
+    "location": "Orlando, FL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Orlando-FL/Full-Stack-Development-Intern_R-00182542",
+    "date_found": "2026-05-06",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Junior CEMA Software Engineer Intern",
+    "location": "5 Locations",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Lawton-OK/Junior-CEMA-Software-Engineer-Intern_R-00182554",
+    "date_found": "2026-05-06",
     "disciplines": []
   },
   {
@@ -311,6 +335,14 @@
     "location": "Farnborough, Hampshire, UK",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Farnborough-Hampshire-UK/Marketing-Intern_R-00181600",
     "date_found": "2026-05-01",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Mechanical Engineering Intern",
+    "location": "White Sands, NM",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/White-Sands-NM/Mechanical-Engineering-Intern_R-00182510",
+    "date_found": "2026-05-06",
     "disciplines": []
   },
   {
@@ -363,18 +395,18 @@
   },
   {
     "company": "Leidos",
-    "title": "Software Developer Intern",
-    "location": "2 Locations",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/Software-Developer-Intern_R-00181656",
-    "date_found": "2026-05-01",
+    "title": "System Administrator Intern",
+    "location": "Indianapolis, IN",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Indianapolis-IN/System-Administrator-Intern_R-00182453",
+    "date_found": "2026-05-06",
     "disciplines": []
   },
   {
-    "company": "Leidos",
-    "title": "​​Intern – Speech Processing / ASR for Low-Resource Languages​",
-    "location": "6314 Remote/Teleworker US",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/XMLNAME---Intern---Speech-Processing---ASR-for-Low-Resource-Languages-_R-00181128",
-    "date_found": "2026-05-01",
+    "company": "Northrop Grumman",
+    "title": "2026 Accounting Intern - Irving TX",
+    "location": "United States-Texas-Irving",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-Irving/XMLNAME-2026-Accounting-Intern---Irving-TX_R10226603",
+    "date_found": "2026-05-06",
     "disciplines": []
   },
   {
