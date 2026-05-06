@@ -40,10 +40,3 @@ jobs:
           else
             echo "No changes to internships.json or meta.json"
           fi
-
-      - name: Notify Slack of new postings
-        if: env.SLACK_WEBHOOK_URL != ''
-        env:
-          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-          SITE_URL: https://nachourieecs.github.io/InternshipTrackerMDT/
-        run: python notify_slack.py

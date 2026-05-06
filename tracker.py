@@ -21,7 +21,6 @@ import requests
 ROOT = Path(__file__).resolve().parent
 COMPANIES_FILE = ROOT / "companies.json"
 DATA_FILE = ROOT / "internships.json"
-DIFF_FILE = ROOT / "diff.json"
 META_FILE = ROOT / "meta.json"
 
 REQUEST_TIMEOUT = 30
@@ -282,7 +281,6 @@ def main() -> int:
     current = collect(companies, today)
     merged, added, removed = diff_and_merge(existing, current)
     save_json(DATA_FILE, merged)
-    save_json(DIFF_FILE, {"date": today, "added": added})
     save_json(META_FILE, {"last_scanned": today, "total_postings": len(merged)})
 
     log.info(
