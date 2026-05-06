@@ -251,6 +251,14 @@
   },
   {
     "company": "Leidos",
+    "title": "Business Intern – College",
+    "location": "Huntsville, AL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Business-Intern---College_R-00182570",
+    "date_found": "2026-05-06",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
     "title": "CAD Drafter Intern",
     "location": "Walled Lake, MI",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Walled-Lake-MI/CAD-Drafter-Intern_R-00182153",
@@ -286,14 +294,6 @@
     "title": "Electrical Engineering Intern",
     "location": "Beavercreek, OH",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Beavercreek-OH/Electrical-Engineering-Intern_R-00181724",
-    "date_found": "2026-05-01",
-    "disciplines": []
-  },
-  {
-    "company": "Leidos",
-    "title": "Electrical Engineering Intern – Rapid Integration and Prototyping",
-    "location": "Huntsville, AL",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electrical-Engineering-Intern---Rapid-Integration-and-Prototyping_R-00181356",
     "date_found": "2026-05-01",
     "disciplines": []
   },
@@ -379,18 +379,18 @@
   },
   {
     "company": "Leidos",
-    "title": "Signal Processing Intern",
-    "location": "San Diego, CA",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Signal-Processing-Intern_R-00181765",
+    "title": "Software Developer Intern",
+    "location": "Annapolis Junction, MD",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00181646",
     "date_found": "2026-05-01",
     "disciplines": []
   },
   {
     "company": "Leidos",
-    "title": "Software Developer Intern",
-    "location": "Annapolis Junction, MD",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00181646",
-    "date_found": "2026-05-01",
+    "title": "Strategic Sourcing Buyer Intern",
+    "location": "4 Locations",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Strategic-Sourcing-Buyer-Intern_R-00182653",
+    "date_found": "2026-05-06",
     "disciplines": []
   },
   {
@@ -406,6 +406,22 @@
     "title": "​​Intern – Speech Processing / ASR for Low-Resource Languages​",
     "location": "6314 Remote/Teleworker US",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/XMLNAME---Intern---Speech-Processing---ASR-for-Low-Resource-Languages-_R-00182594",
+    "date_found": "2026-05-06",
+    "disciplines": []
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2026 Accounting Intern - Irving TX",
+    "location": "United States-Texas-Irving",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-Irving/XMLNAME-2026-Accounting-Intern---Irving-TX_R10226603",
+    "date_found": "2026-05-06",
+    "disciplines": []
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2026 Global Business Development Intern - Falls Church VA",
+    "location": "2 Locations",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2026-Global-Business-Development-Intern---Falls-Church-VA_R10231751",
     "date_found": "2026-05-06",
     "disciplines": []
   },
