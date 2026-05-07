@@ -267,6 +267,14 @@
   },
   {
     "company": "Leidos",
+    "title": "Capture Management Intern",
+    "location": "2 Locations",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/Capture-Management-Intern_R-00182690",
+    "date_found": "2026-05-07",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
     "title": "Computer Engineering Co-op",
     "location": "Bethesda, MD",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00173303",
@@ -418,14 +426,6 @@
     "disciplines": []
   },
   {
-    "company": "Northrop Grumman",
-    "title": "2026 Global Business Development Intern - Falls Church VA",
-    "location": "2 Locations",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2026-Global-Business-Development-Intern---Falls-Church-VA_R10231751",
-    "date_found": "2026-05-06",
-    "disciplines": []
-  },
-  {
     "company": "Palantir",
     "title": "Deployment Strategist, Internship - US Government",
     "location": "Honolulu, HI",
@@ -463,26 +463,6 @@
     "date_found": "2026-05-01",
     "disciplines": [
       "Delta"
-    ]
-  },
-  {
-    "company": "Palantir",
-    "title": "Software Engineer, Internship",
-    "location": "London, United Kingdom",
-    "url": "https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602",
-    "date_found": "2026-05-01",
-    "disciplines": [
-      "Dev"
-    ]
-  },
-  {
-    "company": "Palantir",
-    "title": "Software Engineer, Internship",
-    "location": "New York, NY",
-    "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d",
-    "date_found": "2026-05-01",
-    "disciplines": [
-      "Dev"
     ]
   },
   {
