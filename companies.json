@@ -94,9 +94,33 @@
   },
   {
     "name": "GE Aerospace",
-    "platform": "ge_aerospace",
+    "platform": "phenom_sitemap",
     "config": {
       "sitemap_url": "https://careers.geaerospace.com/sitemap.xml"
+    }
+  },
+  {
+    "name": "KBR",
+    "platform": "phenom_sitemap",
+    "config": {
+      "sitemap_url": "https://careers.kbr.com/sitemap.xml"
+    }
+  },
+  {
+    "name": "Airbus",
+    "platform": "workday",
+    "config": {
+      "tenant": "ag",
+      "site": "Airbus",
+      "wd": "wd3",
+      "external_url": "https://ag.wd3.myworkdayjobs.com/Airbus"
+    }
+  },
+  {
+    "name": "Hermeus",
+    "platform": "lever",
+    "config": {
+      "site": "hermeus"
     }
   }
 ]

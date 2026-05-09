@@ -351,10 +351,11 @@ def fetch_clinch_sitemap(company: str, cfg: dict[str, Any], today: str) -> list[
     return postings
 
 
-def fetch_ge_aerospace(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
-    """GE Aerospace's careers site is Phenom and locked behind its tenant
-    auth, but the sitemap is public and each individual job page embeds its
-    title and location in JSON we can regex out.
+def fetch_phenom_sitemap(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
+    """Phenom careers sites (GE Aerospace, KBR, ...) lock down their JSON
+    search API behind a tenant token, but the sitemap is public. Each
+    individual job page embeds its location in JSON we can regex out;
+    title comes from the URL slug.
 
     cfg requires:
       - sitemap_url: e.g., "https://careers.geaerospace.com/sitemap.xml"
@@ -402,7 +403,7 @@ FETCHERS = {
     "talentbrew": fetch_talentbrew,
     "hii": fetch_hii,
     "clinch_sitemap": fetch_clinch_sitemap,
-    "ge_aerospace": fetch_ge_aerospace,
+    "phenom_sitemap": fetch_phenom_sitemap,
 }
 
 
