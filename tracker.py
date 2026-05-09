@@ -217,14 +217,18 @@ def fetch_talentbrew(company: str, cfg: dict[str, Any], today: str) -> list[Post
         log.warning("%s: search-results-list container missing", company)
         return []
     postings: list[Posting] = []
-    for a in container.select("a[href^='/job/']"):
-        title_el = a.find(class_="job-title")
-        if not title_el:
-            continue
-        title = title_el.get_text(strip=True)
+    # TalentBrew themes vary: Lockheed wraps title in <span class="job-title">,
+    # L3Harris uses <h2>. Location class also differs ("job-location" vs
+    # "results-facet job-location"). Try the known variants and fall back to
+    # the link text.
+    for a in container.find_all("a", href=re.compile(r"^(/[a-z]{2})?/job/")):
+        title_el = a.find(class_="job-title") or a.find("h2")
+        title = title_el.get_text(strip=True) if title_el else a.get_text(" ", strip=True)
         if not is_internship(title):
             continue
-        loc_el = a.find(class_="job-location")
+        loc_el = a.find(class_="job-location") or a.find(
+            "span", class_=re.compile(r"\bjob-location\b")
+        )
         location = loc_el.get_text(strip=True) if loc_el else ""
         postings.append(Posting(company, title, location, base + a["href"], today))
     return postings

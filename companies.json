@@ -59,5 +59,22 @@
     "config": {
       "base_url": "https://www.lockheedmartinjobs.com"
     }
+  },
+  {
+    "name": "L3Harris",
+    "platform": "talentbrew",
+    "config": {
+      "base_url": "https://careers.l3harris.com"
+    }
+  },
+  {
+    "name": "General Dynamics IT",
+    "platform": "workday",
+    "config": {
+      "tenant": "gdit",
+      "site": "External_Career_Site",
+      "wd": "wd5",
+      "external_url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site"
+    }
   }
 ]
