@@ -11,12 +11,14 @@ import json
 import logging
 import re
 import sys
+from collections import Counter
 from dataclasses import dataclass, asdict
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Iterable
 
 import requests
+from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent
 COMPANIES_FILE = ROOT / "companies.json"
@@ -195,10 +197,44 @@ def fetch_workday(company: str, cfg: dict[str, Any], today: str) -> list[Posting
     return postings
 
 
+def fetch_talentbrew(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
+    """Scrape a TalentBrew careers site (e.g., lockheedmartinjobs.com).
+
+    Pagination on these sites is JS-driven and not easily reproduced from a
+    plain HTTP request, so this fetches only the first results page (~15 jobs).
+    Filtering still goes through ``is_internship`` because the path-keyword
+    search matches anywhere in the description and lets unrelated roles leak in.
+
+    cfg requires:
+      - base_url: e.g., "https://www.lockheedmartinjobs.com"
+    """
+    base = cfg["base_url"].rstrip("/")
+    resp = http_get(f"{base}/search-jobs/intern", headers={"Accept": "text/html"})
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+    container = soup.find(id="search-results-list")
+    if container is None:
+        log.warning("%s: search-results-list container missing", company)
+        return []
+    postings: list[Posting] = []
+    for a in container.select("a[href^='/job/']"):
+        title_el = a.find(class_="job-title")
+        if not title_el:
+            continue
+        title = title_el.get_text(strip=True)
+        if not is_internship(title):
+            continue
+        loc_el = a.find(class_="job-location")
+        location = loc_el.get_text(strip=True) if loc_el else ""
+        postings.append(Posting(company, title, location, base + a["href"], today))
+    return postings
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
     "workday": fetch_workday,
+    "talentbrew": fetch_talentbrew,
 }
 
 
@@ -246,8 +282,21 @@ def diff_and_merge(
     existing_by_key = {f"{e['company']}::{e['url']}": e for e in existing}
     current_by_key = {p.key: p for p in current}
 
-    added_keys = current_by_key.keys() - existing_by_key.keys()
-    removed_keys = existing_by_key.keys() - current_by_key.keys()
+    # If a company previously had postings but returned zero this run, treat it
+    # as a likely scrape failure (rate limit, IP block, transient error) and
+    # carry over its existing entries instead of dropping them. Otherwise a
+    # single bad run wipes that company from the data.
+    existing_counts = Counter(e["company"] for e in existing)
+    current_counts = Counter(p.company for p in current)
+    preserve_companies = {
+        c for c, n in existing_counts.items() if n > 0 and current_counts[c] == 0
+    }
+    for c in preserve_companies:
+        log.warning(
+            "%s: 0 postings this run (had %d) — preserving existing entries",
+            c,
+            existing_counts[c],
+        )
 
     merged: list[dict[str, Any]] = []
     added: list[dict[str, Any]] = []
@@ -264,9 +313,18 @@ def diff_and_merge(
             merged.append(d)
             added.append(d)
 
+    removed_count = 0
+    for key, entry in existing_by_key.items():
+        if key in current_by_key:
+            continue
+        if entry["company"] in preserve_companies:
+            merged.append(entry)
+        else:
+            removed_count += 1
+
     merged.sort(key=lambda p: (p["company"], p["title"]))
     added.sort(key=lambda p: (p["company"], p["title"]))
-    return merged, added, len(removed_keys)
+    return merged, added, removed_count
 
 
 def main() -> int:

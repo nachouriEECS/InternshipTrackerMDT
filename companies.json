@@ -52,5 +52,12 @@
     "config": {
       "site": "palantir"
     }
+  },
+  {
+    "name": "Lockheed Martin",
+    "platform": "talentbrew",
+    "config": {
+      "base_url": "https://www.lockheedmartinjobs.com"
+    }
   }
 ]
