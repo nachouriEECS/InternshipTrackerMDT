@@ -122,5 +122,20 @@
     "config": {
       "site": "hermeus"
     }
+  },
+  {
+    "name": "ATI",
+    "platform": "phenom_sitemap",
+    "config": {
+      "sitemap_url": "https://careers.atimaterials.com/sitemap.xml"
+    }
+  },
+  {
+    "name": "Peraton",
+    "platform": "clinch_sitemap",
+    "config": {
+      "sitemap_url": "https://www.careers.peraton.com/sitemap.xml",
+      "jobs_path_segment": "/jobs/"
+    }
   }
 ]

@@ -328,14 +328,19 @@ def fetch_clinch_sitemap(company: str, cfg: dict[str, Any], today: str) -> list[
     job_urls = re.findall(
         r"<loc>([^<]+" + re.escape(seg) + r"[^<]+)</loc>", resp.text
     )
-    uuid_suffix = re.compile(
-        r"-[0-9a-f]{8}(?:-[0-9a-f]{4}){3}-[0-9a-f]{12}$", re.IGNORECASE
-    )
+    # Strip known trailing slug suffixes before location parsing:
+    # - Amentum (Clinch): optional UUID
+    # - Peraton (iCIMS portal): "-<id>-jobs--<category>--"
+    suffix_patterns = [
+        re.compile(r"-[0-9a-f]{8}(?:-[0-9a-f]{4}){3}-[0-9a-f]{12}$", re.IGNORECASE),
+        re.compile(r"-\d+-jobs--[a-z0-9-]+--$", re.IGNORECASE),
+    ]
     postings: list[Posting] = []
     seen: set[str] = set()
     for url in job_urls:
         slug = url.rsplit(seg, 1)[-1]
-        slug = uuid_suffix.sub("", slug)
+        for pat in suffix_patterns:
+            slug = pat.sub("", slug)
         title_slug, location = _parse_slug_location(slug)
         title = title_slug.replace("-", " ").title()
         if not is_internship(title):
