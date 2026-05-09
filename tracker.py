@@ -234,11 +234,125 @@ def fetch_talentbrew(company: str, cfg: dict[str, Any], today: str) -> list[Post
     return postings
 
 
+def fetch_hii(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
+    """Scrape an HII-style table-based careers site (jobs.hii-tsd.com,
+    careers.huntingtoningalls.com).
+
+    The site renders a results table with rows like
+    ``<tr class="data-row">`` containing a ``colTitle`` cell with
+    ``<a class="jobTitle-link">`` and a ``colLocation`` cell with
+    ``<span class="jobLocation">``. The path-based ``/search-jobs/intern``
+    URL doesn't actually filter, so we rely on ``is_internship`` against the
+    title to drop unrelated rows.
+
+    cfg requires:
+      - base_url: e.g., "https://jobs.hii-tsd.com"
+    """
+    base = cfg["base_url"].rstrip("/")
+    resp = http_get(f"{base}/search-jobs/intern", headers={"Accept": "text/html"})
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+    postings: list[Posting] = []
+    seen: set[str] = set()
+    for row in soup.select("tr.data-row"):
+        link = row.select_one("a.jobTitle-link")
+        if not link:
+            continue
+        title = link.get_text(strip=True)
+        if not is_internship(title):
+            continue
+        href = link.get("href", "")
+        if not href.startswith("/job/"):
+            continue
+        url = base + href
+        if url in seen:
+            continue
+        seen.add(url)
+        loc_el = row.select_one("span.jobLocation")
+        location = loc_el.get_text(strip=True) if loc_el else ""
+        postings.append(Posting(company, title, location, url, today))
+    return postings
+
+
+_US_STATES = sorted(
+    [
+        "alabama", "alaska", "arizona", "arkansas", "california", "colorado",
+        "connecticut", "delaware", "florida", "georgia", "hawaii", "idaho",
+        "illinois", "indiana", "iowa", "kansas", "kentucky", "louisiana",
+        "maine", "maryland", "massachusetts", "michigan", "minnesota",
+        "mississippi", "missouri", "montana", "nebraska", "nevada",
+        "new-hampshire", "new-jersey", "new-mexico", "new-york",
+        "north-carolina", "north-dakota", "ohio", "oklahoma", "oregon",
+        "pennsylvania", "rhode-island", "south-carolina", "south-dakota",
+        "tennessee", "texas", "utah", "vermont", "virginia", "washington",
+        "west-virginia", "wisconsin", "wyoming", "district-of-columbia",
+    ],
+    key=len,
+    reverse=True,
+)
+
+
+def _parse_slug_location(slug: str) -> tuple[str, str]:
+    """Strip trailing ``-united-states`` and a US-state suffix from a slug,
+    returning ``(remaining_slug, location)``. Falls back to empty location.
+    """
+    if slug.endswith("-united-states"):
+        slug = slug[: -len("-united-states")]
+    location = ""
+    for state in _US_STATES:
+        suffix = f"-{state}"
+        if slug.endswith(suffix):
+            slug = slug[: -len(suffix)]
+            location = state.replace("-", " ").title()
+            break
+    return slug, location
+
+
+def fetch_clinch_sitemap(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
+    """Discover postings via a public sitemap.xml when the careers site itself
+    is behind a bot challenge (e.g., Amentum's Clinch site is fronted by AWS
+    WAF and individual job pages return 202 to non-browser clients).
+
+    Title and location are derived from the URL slug because the job pages
+    can't be fetched cleanly. Slug shape is assumed to be
+    ``<title>-<city>-<state>-<country>[-<uuid>]``.
+
+    cfg requires:
+      - sitemap_url: e.g. "https://www.amentumcareers.com/sitemap.xml"
+      - jobs_path_segment: e.g. "/jobs/" — segment that introduces a job slug
+    """
+    seg = cfg["jobs_path_segment"]
+    resp = http_get(cfg["sitemap_url"], headers={"Accept": "application/xml"})
+    resp.raise_for_status()
+    job_urls = re.findall(
+        r"<loc>([^<]+" + re.escape(seg) + r"[^<]+)</loc>", resp.text
+    )
+    uuid_suffix = re.compile(
+        r"-[0-9a-f]{8}(?:-[0-9a-f]{4}){3}-[0-9a-f]{12}$", re.IGNORECASE
+    )
+    postings: list[Posting] = []
+    seen: set[str] = set()
+    for url in job_urls:
+        slug = url.rsplit(seg, 1)[-1]
+        slug = uuid_suffix.sub("", slug)
+        title_slug, location = _parse_slug_location(slug)
+        title = title_slug.replace("-", " ").title()
+        if not is_internship(title):
+            continue
+        if url in seen:
+            continue
+        seen.add(url)
+        postings.append(Posting(company, title, location, url, today))
+    return postings
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
     "workday": fetch_workday,
     "talentbrew": fetch_talentbrew,
+    "hii": fetch_hii,
+    "clinch_sitemap": fetch_clinch_sitemap,
 }
 
 

@@ -76,5 +76,20 @@
       "wd": "wd5",
       "external_url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site"
     }
+  },
+  {
+    "name": "HII",
+    "platform": "hii",
+    "config": {
+      "base_url": "https://jobs.hii-tsd.com"
+    }
+  },
+  {
+    "name": "Amentum",
+    "platform": "clinch_sitemap",
+    "config": {
+      "sitemap_url": "https://www.amentumcareers.com/sitemap.xml",
+      "jobs_path_segment": "/jobs/"
+    }
   }
 ]
