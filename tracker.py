@@ -351,6 +351,50 @@ def fetch_clinch_sitemap(company: str, cfg: dict[str, Any], today: str) -> list[
     return postings
 
 
+def fetch_ge_aerospace(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
+    """GE Aerospace's careers site is Phenom and locked behind its tenant
+    auth, but the sitemap is public and each individual job page embeds its
+    title and location in JSON we can regex out.
+
+    cfg requires:
+      - sitemap_url: e.g., "https://careers.geaerospace.com/sitemap.xml"
+        (a sitemap index that points at one or more nested sitemaps)
+    """
+    resp = http_get(cfg["sitemap_url"], headers={"Accept": "application/xml"})
+    resp.raise_for_status()
+    nested = re.findall(r"<loc>([^<]+\.xml)</loc>", resp.text)
+    if not nested:
+        nested = [cfg["sitemap_url"]]
+    job_urls: list[str] = []
+    for sm in nested:
+        r = http_get(sm, headers={"Accept": "application/xml"})
+        if not r.ok:
+            continue
+        job_urls.extend(re.findall(r"<loc>([^<]+/job/[^<]+)</loc>", r.text))
+
+    postings: list[Posting] = []
+    seen: set[str] = set()
+    for url in job_urls:
+        slug = url.rstrip("/").rsplit("/", 1)[-1]
+        title = slug.replace("-", " ")
+        if not is_internship(title):
+            continue
+        if url in seen:
+            continue
+        seen.add(url)
+        location = ""
+        try:
+            page = http_get(url, headers={"Accept": "text/html"})
+            if page.ok:
+                m = re.search(r'"location"\s*:\s*"([^"]+)"', page.text)
+                if m:
+                    location = m.group(1).encode("utf-8").decode("unicode_escape")
+        except requests.RequestException:
+            pass
+        postings.append(Posting(company, title, location, url, today))
+    return postings
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
@@ -358,6 +402,7 @@ FETCHERS = {
     "talentbrew": fetch_talentbrew,
     "hii": fetch_hii,
     "clinch_sitemap": fetch_clinch_sitemap,
+    "ge_aerospace": fetch_ge_aerospace,
 }
 
 

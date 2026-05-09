@@ -91,5 +91,12 @@
       "sitemap_url": "https://www.amentumcareers.com/sitemap.xml",
       "jobs_path_segment": "/jobs/"
     }
+  },
+  {
+    "name": "GE Aerospace",
+    "platform": "ge_aerospace",
+    "config": {
+      "sitemap_url": "https://careers.geaerospace.com/sitemap.xml"
+    }
   }
 ]
