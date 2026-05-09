@@ -261,6 +261,11 @@ def fetch_hii(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
         title = link.get_text(strip=True)
         if not is_internship(title):
             continue
+        # SkillBridge is a DoD program for transitioning service members, not a
+        # college internship. HII's intern listings are dominated by these, so
+        # drop them to keep the data focused on student internships.
+        if re.search(r"\bskill[\s\-]?bridge\b", title, re.IGNORECASE):
+            continue
         href = link.get("href", "")
         if not href.startswith("/job/"):
             continue
