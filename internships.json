@@ -209,14 +209,6 @@
   },
   {
     "company": "Airbus",
-    "title": "Long-Term Internship - Operations Analyst",
-    "location": "Wichita, KS",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term-Internship---Operations-Analyst_JR10411961",
-    "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "Airbus",
     "title": "Long-term Internship - Engineering",
     "location": "Wichita, KS",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term---Engineering_JR10411965",
@@ -301,6 +293,14 @@
     "location": "Colorado",
     "url": "https://www.amentumcareers.com/jobs/process-i-c-engineering-intern-englewood-colorado-united-states-7f992721-74c7-45ed-a6ed-e96c3a99a1c7",
     "date_found": "2026-05-09",
+    "disciplines": []
+  },
+  {
+    "company": "Amentum",
+    "title": "Rotational Engineering Intern Vandenberg Space Force Base",
+    "location": "California",
+    "url": "https://www.amentumcareers.com/jobs/rotational-engineering-intern-vandenberg-space-force-base-california-united-states-11c80025-1caa-469e-af5c-5d34d6a8fa59",
+    "date_found": "2026-05-11",
     "disciplines": []
   },
   {
@@ -583,6 +583,14 @@
     "location": "Crane, IN",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Crane-IN/University--Data-Engineering-Intern_R0238206",
     "date_found": "2026-05-02",
+    "disciplines": []
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University, Software Developer Intern",
+    "location": "Fayetteville, NC",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0239759",
+    "date_found": "2026-05-11",
     "disciplines": []
   },
   {
@@ -1337,14 +1345,6 @@
   },
   {
     "company": "Leidos",
-    "title": "AI Infrastructure & Security Intern",
-    "location": "6314 Remote/Teleworker US",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/AI-Infrastructure---Security-Intern_R-00182560",
-    "date_found": "2026-05-07",
-    "disciplines": []
-  },
-  {
-    "company": "Leidos",
     "title": "Business Development High School Intern",
     "location": "Reston, VA",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/Business-Development-High-School-Intern_R-00180737",
@@ -1494,6 +1494,16 @@
     "url": "https://www.lockheedmartinjobs.com/job/lexington/engineering-internship-lexington-ky/694/94559146080",
     "date_found": "2026-05-09",
     "disciplines": []
+  },
+  {
+    "company": "Palantir",
+    "title": "Deployment Strategist, Internship",
+    "location": "Paris, France",
+    "url": "https://jobs.lever.co/palantir/774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0",
+    "date_found": "2026-05-11",
+    "disciplines": [
+      "Echo"
+    ]
   },
   {
     "company": "Palantir",
