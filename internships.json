@@ -370,6 +370,16 @@
     ]
   },
   {
+    "company": "Anduril",
+    "title": "Supply Chain Intern",
+    "location": "Costa Mesa, California, United States",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4824123007?gh_jid=4824123007",
+    "date_found": "2026-05-11",
+    "disciplines": [
+      "Hardware Operations : Supply Chain"
+    ]
+  },
+  {
     "company": "Boeing",
     "title": "Boeing Engineering & Technology Innovation - Graduate Researcher Program – Autonomy Engineering Intern",
     "location": "USA - Seattle, WA",
@@ -438,14 +448,6 @@
     "title": "AIOps Engineer Intern",
     "location": "Lexington, MA",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-MA/AIOps-Engineer-Intern_R0237477",
-    "date_found": "2026-05-02",
-    "disciplines": []
-  },
-  {
-    "company": "Booz Allen Hamilton",
-    "title": "Aerospace Engineer Intern",
-    "location": "Huntsville, AL",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Aerospace-Engineer-Intern_R0238291",
     "date_found": "2026-05-02",
     "disciplines": []
   },
@@ -547,14 +549,6 @@
   },
   {
     "company": "Booz Allen Hamilton",
-    "title": "University - Applied AI Intern",
-    "location": "Washington, DC",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/University---Applied-AI-Intern_R0236827",
-    "date_found": "2026-05-02",
-    "disciplines": []
-  },
-  {
-    "company": "Booz Allen Hamilton",
     "title": "University, Applied AI Intern",
     "location": "Washington, DC",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/University--Applied-AI-Intern_R0236820",
@@ -574,14 +568,6 @@
     "title": "University, Data Engineering Intern",
     "location": "Crane, IN",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Crane-IN/University--Data-Engineering-Intern_R0234416",
-    "date_found": "2026-05-02",
-    "disciplines": []
-  },
-  {
-    "company": "Booz Allen Hamilton",
-    "title": "University, Data Engineering Intern",
-    "location": "Crane, IN",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Crane-IN/University--Data-Engineering-Intern_R0238206",
     "date_found": "2026-05-02",
     "disciplines": []
   },
@@ -1098,16 +1084,16 @@
   {
     "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Structural Engineer",
-    "location": "Perth, Western Australia",
-    "url": "https://careers.kbr.com/us/en/job/R2123188/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "location": "Adelaide, South Australia",
+    "url": "https://careers.kbr.com/us/en/job/R2123111/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
   {
     "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Structural Engineer",
-    "location": "Adelaide, South Australia",
-    "url": "https://careers.kbr.com/us/en/job/R2123111/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "location": "Perth, Western Australia",
+    "url": "https://careers.kbr.com/us/en/job/R2123188/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
@@ -1304,30 +1290,6 @@
     "disciplines": []
   },
   {
-    "company": "KBR",
-    "title": "Technical Intern",
-    "location": "Lexington Park, Maryland",
-    "url": "https://careers.kbr.com/us/en/job/R2122838/Technical-Intern",
-    "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "KBR",
-    "title": "Technical Intern",
-    "location": "Lexington Park, Maryland",
-    "url": "https://careers.kbr.com/us/en/job/R2122836/Technical-Intern",
-    "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "KBR",
-    "title": "Technical Intern Data Science",
-    "location": "Lexington Park, Maryland",
-    "url": "https://careers.kbr.com/us/en/job/R2122837/Technical-Intern-Data-Science",
-    "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
     "company": "L3Harris",
     "title": "Materials & Processes Engineering Intern (Orange, VA)",
     "location": "Orange, VA",
@@ -1377,6 +1339,14 @@
   },
   {
     "company": "Leidos",
+    "title": "Capture Management Intern",
+    "location": "2 Locations",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/Capture-Management-Intern_R-00183006",
+    "date_found": "2026-05-11",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
     "title": "Computer Engineering Co-op",
     "location": "Bethesda, MD",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00173303",
@@ -1389,6 +1359,14 @@
     "location": "Fort Belvoir, VA",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00180867",
     "date_found": "2026-05-07",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Electrical Engineering Intern",
+    "location": "Beavercreek, OH",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Beavercreek-OH/Electrical-Engineering-Intern_R-00182991",
+    "date_found": "2026-05-11",
     "disciplines": []
   },
   {
@@ -1461,6 +1439,14 @@
     "location": "Huntsville, AL",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Quantum-Information-Science-Intern_R-00181429",
     "date_found": "2026-05-07",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Signal Processing Intern",
+    "location": "San Diego, CA",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Signal-Processing-Intern_R-00182996",
+    "date_found": "2026-05-11",
     "disciplines": []
   },
   {
