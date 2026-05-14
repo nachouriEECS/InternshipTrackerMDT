@@ -147,7 +147,15 @@
         return;
       }
 
-      const companies = [...new Set(postings.map(p => p.company))].sort();
+      let companies;
+      try {
+        const compResp = await fetch("companies.json", { cache: "no-cache" });
+        if (!compResp.ok) throw new Error("HTTP " + compResp.status);
+        const compData = await compResp.json();
+        companies = compData.map(c => c.name).sort((a, b) => a.localeCompare(b));
+      } catch (_) {
+        companies = [...new Set(postings.map(p => p.company))].sort();
+      }
       const sel = document.getElementById("company");
       for (const c of companies) {
         const opt = document.createElement("option");

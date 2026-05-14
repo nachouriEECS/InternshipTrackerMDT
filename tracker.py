@@ -421,49 +421,56 @@ def save_json(path: Path, data: Any) -> None:
         f.write("\n")
 
 
-def collect(companies: Iterable[dict[str, Any]], today: str) -> list[Posting]:
+def collect(
+    companies: Iterable[dict[str, Any]], today: str
+) -> tuple[list[Posting], set[str]]:
     results: list[Posting] = []
+    errored: set[str] = set()
     for entry in companies:
         name = entry["name"]
         platform = entry["platform"].lower()
         fetcher = FETCHERS.get(platform)
         if fetcher is None:
             log.warning("%s: unknown platform %r — skipping", name, platform)
+            errored.add(name)
             continue
         try:
             found = fetcher(name, entry.get("config", {}), today)
         except requests.HTTPError as e:
             log.error("%s: HTTP error %s", name, e)
+            errored.add(name)
             continue
         except requests.RequestException as e:
             log.error("%s: request failed: %s", name, e)
+            errored.add(name)
             continue
         except Exception as e:
             log.error("%s: unexpected error (%s): %s", name, type(e).__name__, e)
+            errored.add(name)
             continue
         log.info("%s (%s): %d internship postings", name, platform, len(found))
         results.extend(found)
-    return results
+    return results, errored
 
 
 def diff_and_merge(
-    existing: list[dict[str, Any]], current: list[Posting]
+    existing: list[dict[str, Any]],
+    current: list[Posting],
+    errored_companies: set[str],
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]], int]:
     existing_by_key = {f"{e['company']}::{e['url']}": e for e in existing}
     current_by_key = {p.key: p for p in current}
 
-    # If a company previously had postings but returned zero this run, treat it
-    # as a likely scrape failure (rate limit, IP block, transient error) and
-    # carry over its existing entries instead of dropping them. Otherwise a
-    # single bad run wipes that company from the data.
+    # Only preserve existing entries when the scrape actually errored. A clean
+    # run that returns zero means every previously-tracked posting was taken
+    # down — drop them so the tracker doesn't accumulate dead links.
     existing_counts = Counter(e["company"] for e in existing)
-    current_counts = Counter(p.company for p in current)
     preserve_companies = {
-        c for c, n in existing_counts.items() if n > 0 and current_counts[c] == 0
+        c for c in errored_companies if existing_counts.get(c, 0) > 0
     }
     for c in preserve_companies:
         log.warning(
-            "%s: 0 postings this run (had %d) — preserving existing entries",
+            "%s: scrape errored — preserving %d existing entries",
             c,
             existing_counts[c],
         )
@@ -506,8 +513,8 @@ def main() -> int:
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     existing = load_json(DATA_FILE, default=[])
 
-    current = collect(companies, today)
-    merged, added, removed = diff_and_merge(existing, current)
+    current, errored = collect(companies, today)
+    merged, added, removed = diff_and_merge(existing, current, errored)
     save_json(DATA_FILE, merged)
     save_json(META_FILE, {"last_scanned": today, "total_postings": len(merged)})
 
