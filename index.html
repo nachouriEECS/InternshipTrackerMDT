@@ -3,17 +3,18 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Defense Internship Tracker</title>
+  <title>Defense Industry Internship Tracker by MDT</title>
+  <link rel="icon" type="image/png" href="mdt-logo.png">
   <style>
     :root {
-      --bg: #0d1117;
-      --panel: #161b22;
-      --border: #30363d;
-      --text: #e6edf3;
-      --muted: #8b949e;
-      --accent: #58a6ff;
-      --accent-hover: #79b8ff;
-      --row-hover: #1f242c;
+      --bg: #0c0c0e;
+      --panel: #18181b;
+      --border: #2a2a2e;
+      --text: #f0f0f2;
+      --muted: #9a9a9d;
+      --accent: #5e87c4;
+      --accent-hover: #7aa0d6;
+      --row-hover: #1f1f23;
     }
     * { box-sizing: border-box; }
     html, body {
@@ -26,8 +27,10 @@
       line-height: 1.5;
     }
     .wrap { max-width: 1200px; margin: 0 auto; padding: 32px 20px 80px; }
-    header { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin-bottom: 6px; flex-wrap: wrap; }
-    h1 { font-size: 22px; margin: 0; font-weight: 600; }
+    header { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 6px; flex-wrap: wrap; }
+    .title { display: flex; align-items: center; gap: 12px; }
+    .title img { width: 36px; height: 36px; display: block; }
+    h1 { font-size: 22px; margin: 0; font-weight: 600; letter-spacing: 0.01em; }
     .meta { color: var(--muted); font-size: 13px; }
     .meta a { color: var(--accent); text-decoration: none; }
     .meta a:hover { color: var(--accent-hover); text-decoration: underline; }
@@ -102,7 +105,10 @@
 <body>
   <div class="wrap">
     <header>
-      <h1>Defense Industry Internship Tracker</h1>
+      <div class="title">
+        <img src="mdt-logo.png" alt="MDT logo">
+        <h1>Defense Industry Internship Tracker by MDT</h1>
+      </div>
       <div class="meta">
         <span id="last-updated"></span>
         &nbsp;·&nbsp;
