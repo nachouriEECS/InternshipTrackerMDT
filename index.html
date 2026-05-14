@@ -27,16 +27,18 @@
       line-height: 1.5;
     }
     .wrap { max-width: 1200px; margin: 0 auto; padding: 14px 20px 80px; }
-    header { position: relative; padding-top: 14px; margin-bottom: 28px; }
+    header { padding-top: 14px; margin-bottom: 18px; }
     .title { display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 18px; }
     .title img { width: 72px; height: 72px; display: block; flex-shrink: 0; }
     h1 { font-size: clamp(22px, 3.4vw, 36px); margin: 0; font-weight: 700; letter-spacing: 0.005em; line-height: 1.15; white-space: nowrap; }
-    header .meta { position: absolute; top: 0; right: 0; }
+    .meta-row { text-align: right; color: var(--muted); font-size: 13px; margin-bottom: 6px; }
+    .meta-row a { color: var(--accent); text-decoration: none; }
+    .meta-row a:hover { color: var(--accent-hover); text-decoration: underline; }
     @media (max-width: 720px) {
       .title { gap: 12px; }
       .title img { width: 48px; height: 48px; }
       h1 { white-space: normal; text-align: center; }
-      header .meta { position: static; text-align: center; margin-top: 10px; }
+      .meta-row { text-align: center; }
     }
     .meta { color: var(--muted); font-size: 13px; }
     .meta a { color: var(--accent); text-decoration: none; }
@@ -116,12 +118,13 @@
         <img src="mdt-logo.svg" alt="MDT logo">
         <h1>Defense Industry Internship Tracker by MDT</h1>
       </div>
-      <div class="meta">
-        <span id="last-updated"></span>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/nachouriEECS/InternshipTrackerMDT" target="_blank" rel="noopener">repo</a>
-      </div>
     </header>
+
+    <div class="meta-row">
+      <span id="last-updated"></span>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/nachouriEECS/InternshipTrackerMDT" target="_blank" rel="noopener">repo</a>
+    </div>
 
     <div class="controls">
       <input id="search" type="text" placeholder="Search title, company, or location…" autocomplete="off">
