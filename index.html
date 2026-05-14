@@ -27,15 +27,15 @@
       line-height: 1.5;
     }
     .wrap { max-width: 1200px; margin: 0 auto; padding: 14px 20px 80px; }
-    header { position: relative; padding-top: 18px; margin-bottom: 28px; }
-    .title { display: flex; flex-direction: column; align-items: center; gap: 14px; text-align: center; }
-    .title img { width: 120px; height: 120px; display: block; }
-    h1 { font-size: 40px; margin: 0; font-weight: 700; letter-spacing: 0.01em; line-height: 1.15; text-align: center; max-width: 18ch; }
+    header { position: relative; padding-top: 14px; margin-bottom: 28px; }
+    .title { display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 18px; }
+    .title img { width: 72px; height: 72px; display: block; flex-shrink: 0; }
+    h1 { font-size: clamp(22px, 3.4vw, 36px); margin: 0; font-weight: 700; letter-spacing: 0.005em; line-height: 1.15; white-space: nowrap; }
     header .meta { position: absolute; top: 0; right: 0; }
     @media (max-width: 720px) {
-      .title { gap: 10px; }
-      .title img { width: 80px; height: 80px; }
-      h1 { font-size: 26px; }
+      .title { gap: 12px; }
+      .title img { width: 48px; height: 48px; }
+      h1 { white-space: normal; text-align: center; }
       header .meta { position: static; text-align: center; margin-top: 10px; }
     }
     .meta { color: var(--muted); font-size: 13px; }
