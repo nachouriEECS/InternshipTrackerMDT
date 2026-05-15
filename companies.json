@@ -150,7 +150,8 @@
     "platform": "clinch_sitemap",
     "config": {
       "sitemap_url": "https://jobs.parsons.com/sitemap.xml",
-      "jobs_path_segment": "/jobs/"
+      "jobs_path_segment": "/jobs/",
+      "fetch_details": true
     }
   }
 ]

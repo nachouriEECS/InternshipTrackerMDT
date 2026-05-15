@@ -309,6 +309,34 @@ def _parse_slug_location(slug: str) -> tuple[str, str]:
     return slug, location
 
 
+def _fetch_clinch_details(url: str) -> tuple[str, str]:
+    """Pull the clean title and location from a Clinch/iCIMS job page.
+
+    These pages server-render ``var jobTitle``/``addressLocality``/
+    ``addressRegion`` string assignments (the JSON-LD block itself is a
+    client-side template with unquoted placeholders, so it's not usable).
+    Returns ``("", "")`` when the page is unavailable — some sitemap entries
+    are stale and 404 — so the caller can fall back to slug-derived values.
+    """
+    try:
+        resp = http_get(url, headers={"Accept": "text/html"})
+    except requests.RequestException:
+        return "", ""
+    if not resp.ok:
+        return "", ""
+
+    def _var(name: str) -> str:
+        m = re.search(rf'var\s+{name}\s*=\s*"([^"]*)"', resp.text)
+        v = m.group(1).strip() if m else ""
+        return "" if v.lower() in ("", "null", "undefined") else v
+
+    title = _var("jobTitle")
+    location = ", ".join(
+        p for p in (_var("addressLocality"), _var("addressRegion")) if p
+    )
+    return title, location
+
+
 def fetch_clinch_sitemap(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
     """Discover postings via a public sitemap.xml when the careers site itself
     is behind a bot challenge (e.g., Amentum's Clinch site is fronted by AWS
@@ -321,6 +349,12 @@ def fetch_clinch_sitemap(company: str, cfg: dict[str, Any], today: str) -> list[
     cfg requires:
       - sitemap_url: e.g. "https://www.amentumcareers.com/sitemap.xml"
       - jobs_path_segment: e.g. "/jobs/" — segment that introduces a job slug
+    cfg optional:
+      - fetch_details: when true, fetch each internship's job page and use
+        its server-rendered title/location instead of the slug. Needed for
+        Parsons, whose slug omits the state and tacks an "-r-<id>" suffix
+        onto the title. Left off for Amentum (WAF-blocked) and Peraton
+        (slug already yields a usable state).
     """
     seg = cfg["jobs_path_segment"]
     resp = http_get(cfg["sitemap_url"], headers={"Accept": "application/xml"})
@@ -330,11 +364,15 @@ def fetch_clinch_sitemap(company: str, cfg: dict[str, Any], today: str) -> list[
     )
     # Strip known trailing slug suffixes before location parsing:
     # - Amentum (Clinch): optional UUID
-    # - Peraton (iCIMS portal): "-<id>-jobs--<category>--"
+    # - Peraton/Parsons (iCIMS portal): "-[<letter>-]<id>-jobs--<category>--".
+    #   Parsons requisitions carry a single-letter prefix ("-r-180587-"); the
+    #   optional [a-z]- group consumes it without eating Peraton's trailing
+    #   "-<state>" (which has no single-letter-then-dash shape before the id).
     suffix_patterns = [
         re.compile(r"-[0-9a-f]{8}(?:-[0-9a-f]{4}){3}-[0-9a-f]{12}$", re.IGNORECASE),
-        re.compile(r"-\d+-jobs--[a-z0-9-]+--$", re.IGNORECASE),
+        re.compile(r"-(?:[a-z]-)?\d+-jobs--[a-z0-9-]+--$", re.IGNORECASE),
     ]
+    enrich = cfg.get("fetch_details", False)
     postings: list[Posting] = []
     seen: set[str] = set()
     for url in job_urls:
@@ -348,6 +386,10 @@ def fetch_clinch_sitemap(company: str, cfg: dict[str, Any], today: str) -> list[
         if url in seen:
             continue
         seen.add(url)
+        if enrich:
+            page_title, page_location = _fetch_clinch_details(url)
+            title = page_title or title
+            location = page_location or location
         postings.append(Posting(company, title, location, url, today))
     return postings
 
