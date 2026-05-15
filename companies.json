@@ -137,5 +137,20 @@
       "sitemap_url": "https://www.careers.peraton.com/sitemap.xml",
       "jobs_path_segment": "/jobs/"
     }
+  },
+  {
+    "name": "BAE Systems",
+    "platform": "phenom_sitemap",
+    "config": {
+      "sitemap_url": "https://jobs.baesystems.com/sitemap.xml"
+    }
+  },
+  {
+    "name": "Parsons",
+    "platform": "clinch_sitemap",
+    "config": {
+      "sitemap_url": "https://jobs.parsons.com/sitemap.xml",
+      "jobs_path_segment": "/jobs/"
+    }
   }
 ]
