@@ -162,13 +162,6 @@
     }
   },
   {
-    "name": "V2X",
-    "platform": "phenom_jsonld_sitemap",
-    "config": {
-      "sitemap_url": "https://careers.gov2x.com/sitemap.xml"
-    }
-  },
-  {
     "name": "SAIC",
     "platform": "talemetry",
     "config": {
@@ -197,6 +190,31 @@
     "platform": "dejobs_sitemap",
     "config": {
       "sitemap_url": "https://bechtel.dejobs.org/sitemaps/index.xml"
+    }
+  },
+  {
+    "name": "Sierra Nevada Corporation",
+    "platform": "workday",
+    "config": {
+      "tenant": "snc",
+      "site": "SNC_External_Career_Site",
+      "wd": "wd1",
+      "external_url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site"
+    }
+  },
+  {
+    "name": "BWX Technologies",
+    "platform": "rss_feed",
+    "config": {
+      "feed_url": "https://careers.bwxt.com/sitemap.xml"
+    }
+  },
+  {
+    "name": "Parker Hannifin",
+    "platform": "ttcportals",
+    "config": {
+      "base_url": "https://parkercareers.ttcportals.com",
+      "impersonate": "chrome124"
     }
   }
 ]
