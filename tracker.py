@@ -622,6 +622,75 @@ def fetch_phenom_jsonld_sitemap(
     return postings
 
 
+def fetch_dejobs_sitemap(
+    company: str, cfg: dict[str, Any], today: str
+) -> list[Posting]:
+    """DirectEmployers / "dejobs"-style careers site (Bechtel's
+    ``bechtel.dejobs.org``, Textron's ``careers.textron.com``).
+
+    The job *detail* pages are client-rendered SPAs (the server only returns a
+    generic ``<title>Jobs | …</title>`` shell, no JSON-LD), but the public
+    sitemap encodes the title and location straight into the URL path::
+
+        https://<host>/<city-state-slug>/<title-slug>/<HEXID>/job/
+
+    so both are derivable without fetching a single job page — fast and far
+    less fragile than scraping the SPA.
+
+    cfg requires:
+      - sitemap_url: the sitemap index, e.g.
+        "https://bechtel.dejobs.org/sitemaps/index.xml"
+        (``/sitemap.xml`` 301-redirects here; requests follows that, but the
+        canonical URL avoids the extra hop).
+    """
+    resp = http_get(cfg["sitemap_url"], headers={"Accept": "application/xml"})
+    resp.raise_for_status()
+    subs = re.findall(r"<loc>([^<]+\.xml)</loc>", resp.text) or [
+        cfg["sitemap_url"]
+    ]
+    job_urls: list[str] = []
+    for sm in subs:
+        r = http_get(sm, headers={"Accept": "application/xml"})
+        if not r.ok:
+            continue
+        job_urls.extend(re.findall(r"<loc>([^<]+/job/)</loc>", r.text))
+
+    postings: list[Posting] = []
+    seen: set[str] = set()
+    for url in job_urls:
+        if url in seen:
+            continue
+        seen.add(url)
+        path = re.sub(r"^https?://[^/]+", "", url).strip("/")
+        parts = path.split("/")
+        # [<city-state>, <title>, <HEXID>, "job"]
+        if len(parts) < 4 or parts[-1] != "job":
+            continue
+        title = parts[-3].replace("-", " ")
+        # Some slugs (Textron's Québec roles) carry UTF-8 bytes that were
+        # decoded as Latin-1 — "Ã©" should be "é". Repair best-effort.
+        if "Ã" in title or "Â" in title:
+            try:
+                title = title.encode("latin-1").decode("utf-8")
+            except (UnicodeEncodeError, UnicodeDecodeError):
+                pass
+        title = title.title()
+        if not is_internship(title):
+            continue
+        loc_slug = parts[-4]
+        bits = loc_slug.split("-")
+        # Trailing token is a 2-letter state or 3-letter country code
+        # ("hunt-valley-md", "mirabel-can"); the rest is the city.
+        if len(bits) >= 2 and 2 <= len(bits[-1]) <= 3 and bits[-1].isalpha():
+            city = " ".join(bits[:-1]).title()
+            region = bits[-1].upper()
+            location = f"{city}, {region}" if city else region
+        else:
+            location = loc_slug.replace("-", " ").title()
+        postings.append(Posting(company, title, location, url, today))
+    return postings
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
@@ -632,6 +701,7 @@ FETCHERS = {
     "clinch_sitemap": fetch_clinch_sitemap,
     "phenom_sitemap": fetch_phenom_sitemap,
     "phenom_jsonld_sitemap": fetch_phenom_jsonld_sitemap,
+    "dejobs_sitemap": fetch_dejobs_sitemap,
 }
 
 

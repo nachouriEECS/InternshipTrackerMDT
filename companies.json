@@ -174,5 +174,29 @@
     "config": {
       "base_url": "https://jobs.saic.com"
     }
+  },
+  {
+    "name": "Oshkosh",
+    "platform": "workday",
+    "config": {
+      "tenant": "oshkoshcorporation",
+      "site": "Oshkosh",
+      "wd": "wd5",
+      "external_url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh"
+    }
+  },
+  {
+    "name": "Textron",
+    "platform": "dejobs_sitemap",
+    "config": {
+      "sitemap_url": "https://careers.textron.com/sitemaps/index.xml"
+    }
+  },
+  {
+    "name": "Bechtel",
+    "platform": "dejobs_sitemap",
+    "config": {
+      "sitemap_url": "https://bechtel.dejobs.org/sitemaps/index.xml"
+    }
   }
 ]
