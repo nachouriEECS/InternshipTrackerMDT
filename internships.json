@@ -683,14 +683,6 @@
   },
   {
     "company": "Boeing",
-    "title": "Mandatory Internship (m/f/d)",
-    "location": "DEU - Neu-Isenburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/DEU---Neu-Isenburg-Germany/Mandatory-Internship--m-f-d-_JR2025488635-2",
-    "date_found": "2026-05-13",
-    "disciplines": []
-  },
-  {
-    "company": "Boeing",
     "title": "Summer Internship 2026 - Software Developer - Boeing Defense, Space, and Security",
     "location": "POL - Gdansk, Poland",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/POL---Gdansk-Poland/Summer-Internship-2026---Software-Developer---Boeing-Defense--Space--and-Security_JR2026509610-1",
@@ -826,9 +818,129 @@
     "disciplines": []
   },
   {
+    "company": "Curtiss-Wright",
+    "title": "Co-Op (Fall Term)",
+    "location": "US-PA-Cheswick (EMD)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Cheswick-EMD/Co-Op--Fall-Term-_JR5318",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Co-op (Spring Term)",
+    "location": "US-PA-Cheswick (EMD)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Cheswick-EMD/Co-op_JR1907",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Co-op (Summer Term)",
+    "location": "US-PA-Cheswick (EMD)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Cheswick-EMD/Co-op--Summer-Term-_JR4041",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Engineering Intern",
+    "location": "US-PA-Newtown (TTC)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Newtown-TTC/Engineering-Intern_JR11844",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Engineering Intern",
+    "location": "US-NY-Hauppauge",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-Hauppauge/Engineering-Intern_JR12154",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Finance Intern (3 months)",
+    "location": "US-PA-Aston (ESCO)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Aston-ESCO/Finance-Intern--3-months-_JR11786-1",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Hardware/Electrical Engineering Intern",
+    "location": "US-PA-Newtown (TTC)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Newtown-TTC/Hardware-Electrical-Engineering-Intern_JR11998",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Intern, Manufacturing Engineering",
+    "location": "US-OH-Brecksville (Farris)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Brecksville-Farris/Intern--Manufacturing-Engineering_JR12102",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Manufacturing Engineering Intern",
+    "location": "US-NY-East Farmingdale (TR)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Manufacturing-Engineering-Intern_JR12100-1",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Manufacturing Intern (3 months)",
+    "location": "US-PA-Aston (ESCO)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Aston-ESCO/Manufacturing-Intern--3-months-_JR11555-1",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Planning Intern",
+    "location": "US-NY-East Farmingdale (TR)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Planning-Intern_JR11748-1",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Quality Assurance Intern",
+    "location": "US-NY-East Farmingdale (TR)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Quality-Assurance-Intern_JR11942-1",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Quality Engineering Summer Intern – Hatfield, PA",
+    "location": "US-PA-Hatfield (EST)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Hatfield-EST/Quality-Engineering-Summer-Intern---Hatfield--PA_JR11946",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Safety Intern",
+    "location": "US-PA-Aston (ESCO)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Aston-ESCO/Safety-Intern_JR12071-2",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Software/Electrical Engineering Intern",
+    "location": "US-PA-Newtown (TTC)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Newtown-TTC/Software-Electrical-Engineering-Intern_JR11947-1",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
     "company": "GE Aerospace",
     "title": "Additive Manufacturing Design Engineering Intern 6 Months",
-    "location": "Istanbul, Türkiye",
+    "location": "",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033956EXTERNALENGLOBAL/Additive-Manufacturing-Design-Engineering-Intern-6-Months",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1640,6 +1752,102 @@
     "disciplines": []
   },
   {
+    "company": "MITRE",
+    "title": "Chemistry Intern",
+    "location": "McLean, Virginia, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R115896/Chemistry-Intern",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "MITRE",
+    "title": "Cybersecurity Information Security Intern",
+    "location": "Bedford, Massachusetts, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R116648/Cybersecurity-Information-Security-Intern",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "MITRE",
+    "title": "Embedded Security Microelectronics Process Intern Albuquerque NM",
+    "location": "Albuquerque, New Mexico, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R116190/Embedded-Security-Microelectronics-Process-Intern-Albuquerque-NM",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "MITRE",
+    "title": "Engineering Lab CMMC Intern",
+    "location": "Bedford, Massachusetts, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R116527/Engineering-Lab-CMMC-Intern",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "MITRE",
+    "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
+    "location": "Windsor, Maryland, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "MITRE",
+    "title": "Radio Frequency RF Test and Evaluation Intern Aberdeen MD location",
+    "location": "Aberdeen, Maryland, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R116203/Radio-Frequency-RF-Test-and-Evaluation-Intern-Aberdeen-MD-location",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "MITRE",
+    "title": "Software Engineering Graduate Intern",
+    "location": "McLean, Virginia, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R116379/Software-Engineering-Graduate-Intern",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "MITRE",
+    "title": "Software Engineering Intern Orlando Fl",
+    "location": "Orlando, Florida, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R115933/Software-Engineering-Intern-Orlando-Fl",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "MITRE",
+    "title": "Software Systems Engineering Intern Omaha NE",
+    "location": "Bellevue, Nebraska, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R115929/Software-Systems-Engineering-Intern-Omaha-NE",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "MITRE",
+    "title": "TECH Futures Intern",
+    "location": "{{location}}",
+    "url": "https://careers.mitre.org/us/en/job/R115659/TECH-Futures-Intern",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Material & Process Engineering",
+    "location": "Torrance, CA",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Material---Process-Engineering_R-25-13768",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Systems Engineering",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Systems-Engineering_R-26-16992",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
     "company": "Northrop Grumman",
     "title": "Intern - ASI/PSI Engineer",
     "location": "2 Locations",
@@ -2033,70 +2241,6 @@
     "location": "Virginia",
     "url": "https://www.careers.peraton.com/jobs/disaster-recovery-coop-engineer-herndon-virginia-165079-jobs--cyber-security--",
     "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Drafter/CAD Operator Intern",
-    "location": "Crane, IN, United States",
-    "url": "https://jobs.saic.com/jobs/17735390-drafter-slash-cad-operator-intern",
-    "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Intern Technical II",
-    "location": "Virginia Beach, VA, United States",
-    "url": "https://jobs.saic.com/jobs/17639546-intern-technical-ii",
-    "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Intern Technical III",
-    "location": "El Segundo, CA, United States",
-    "url": "https://jobs.saic.com/jobs/17746324-intern-technical-iii",
-    "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Manufacturing Engineer Intern",
-    "location": "Indianapolis, IN, United States",
-    "url": "https://jobs.saic.com/jobs/17740209-manufacturing-engineer-intern",
-    "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Network Infrastructure Intern",
-    "location": "Scott Afb, IL, United States",
-    "url": "https://jobs.saic.com/jobs/17664069-network-infrastructure-intern",
-    "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Software Engineering Intern",
-    "location": "San Diego, CA, United States",
-    "url": "https://jobs.saic.com/jobs/17746703-software-engineering-intern",
-    "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Technical Intern",
-    "location": "Santa Ana, CA, United States",
-    "url": "https://jobs.saic.com/jobs/17731271-technical-intern",
-    "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "UTEP or NMSU Software Engineer Intern",
-    "location": "El Paso, TX, United States",
-    "url": "https://jobs.saic.com/jobs/17674335-utep-or-nmsu-software-engineer-intern",
-    "date_found": "2026-05-17",
     "disciplines": []
   },
   {
