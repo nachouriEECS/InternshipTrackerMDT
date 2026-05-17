@@ -185,81 +185,9 @@
   },
   {
     "company": "Amentum",
-    "title": "Engineering Intern Oak Ridge Oak Ridge",
-    "location": "Tennessee",
-    "url": "https://www.amentumcareers.com/jobs/engineering-intern-oak-ridge-oak-ridge-tennessee-united-states",
-    "date_found": "2026-05-14",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
     "title": "Gscm Intern Chantilly",
     "location": "Virginia",
     "url": "https://www.amentumcareers.com/jobs/gscm-intern-chantilly-virginia-united-states",
-    "date_found": "2026-05-14",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
-    "title": "Gscm Intern Remote",
-    "location": "",
-    "url": "https://www.amentumcareers.com/jobs/gscm-intern-remote-united-states-3cba56b5-a66d-4507-bbdb-d4aeedae7272",
-    "date_found": "2026-05-14",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
-    "title": "Gscm Intern Remote",
-    "location": "",
-    "url": "https://www.amentumcareers.com/jobs/gscm-intern-remote-united-states-69dcad9f-6aca-49f8-aeeb-c101fd983361",
-    "date_found": "2026-05-14",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
-    "title": "Gscm Intern Remote",
-    "location": "",
-    "url": "https://www.amentumcareers.com/jobs/gscm-intern-remote-united-states-a35ec2c4-5e9e-48ac-8895-fa0d5c9d6537",
-    "date_found": "2026-05-14",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
-    "title": "Gscm Intern Remote",
-    "location": "",
-    "url": "https://www.amentumcareers.com/jobs/gscm-intern-remote-united-states-08d080b8-f379-49d3-b38c-2e76f2d42bea",
-    "date_found": "2026-05-14",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
-    "title": "Gscm Intern Remote",
-    "location": "",
-    "url": "https://www.amentumcareers.com/jobs/gscm-intern-remote-united-states-739062e0-e84e-443f-905a-ed02c5c0c4b1",
-    "date_found": "2026-05-14",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
-    "title": "Gscm Intern Remote",
-    "location": "",
-    "url": "https://www.amentumcareers.com/jobs/gscm-intern-remote-united-states-631e1c7d-599f-4bbb-a678-6952c652207c",
-    "date_found": "2026-05-14",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
-    "title": "Intern Mechanical Design Huntsville",
-    "location": "Alabama",
-    "url": "https://www.amentumcareers.com/jobs/intern-mechanical-design-huntsville-alabama-united-states",
-    "date_found": "2026-05-14",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
-    "title": "Intern Nuclear Propulsion Huntsville",
-    "location": "Alabama",
-    "url": "https://www.amentumcareers.com/jobs/intern-nuclear-propulsion-huntsville-alabama-united-states-09338e49-548c-4c82-b454-63821d1e7cbb",
     "date_found": "2026-05-14",
     "disciplines": []
   },
@@ -301,14 +229,6 @@
     "location": "Colorado",
     "url": "https://www.amentumcareers.com/jobs/it-cyber-intern-englewood-colorado-united-states",
     "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
-    "title": "Maintenance Management Intern Richland",
-    "location": "Washington",
-    "url": "https://www.amentumcareers.com/jobs/maintenance-management-intern-richland-washington-united-states-50336578-9c08-48b0-88d8-6bda7a1fa7f3",
-    "date_found": "2026-05-14",
     "disciplines": []
   },
   {
@@ -523,6 +443,14 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Software Engineering Intern On Site",
+    "location": "Rome, New York, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/121107BR/Software-Engineering-Intern-On-Site",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Supply Chain Management Intern Summer 2026",
     "location": "Fort Worth, Texas, United States",
     "url": "https://jobs.baesystems.com/global/en/job/124267BR/Supply-Chain-Management-Intern-Summer-2026",
@@ -717,8 +645,8 @@
     "company": "GE Aerospace",
     "title": "Additive Manufacturing Design Engineering Intern 6 Months",
     "location": "Istanbul, Türkiye",
-    "url": "https://careers.geaerospace.com/global/en/job/R5033956/Additive-Manufacturing-Design-Engineering-Intern-6-Months",
-    "date_found": "2026-05-16",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033956EXTERNALENGLOBAL/Additive-Manufacturing-Design-Engineering-Intern-6-Months",
+    "date_found": "2026-05-17",
     "disciplines": []
   },
   {
@@ -749,8 +677,8 @@
     "company": "GE Aerospace",
     "title": "CNC Programmer Co op Fall 2026",
     "location": "Lynn, Massachusetts, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/R5030459/CNC-Programmer-Co-op-Fall-2026",
-    "date_found": "2026-05-16",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030459EXTERNALENGLOBAL/CNC-Programmer-Co-op-Fall-2026",
+    "date_found": "2026-05-17",
     "disciplines": []
   },
   {
@@ -789,8 +717,8 @@
     "company": "GE Aerospace",
     "title": "IT Intern part time",
     "location": "Prague, Praha, Czechia",
-    "url": "https://careers.geaerospace.com/global/en/job/R5032338/IT-Intern-part-time",
-    "date_found": "2026-05-16",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5032338EXTERNALENGLOBAL/IT-Intern-part-time",
+    "date_found": "2026-05-17",
     "disciplines": []
   },
   {
@@ -829,8 +757,8 @@
     "company": "GE Aerospace",
     "title": "Lynn Carpentry Trainee Co Op",
     "location": "Lynn, Massachusetts, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/R5034333/Lynn-Carpentry-Trainee-Co-Op",
-    "date_found": "2026-05-16",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034333EXTERNALENGLOBAL/Lynn-Carpentry-Trainee-Co-Op",
+    "date_found": "2026-05-17",
     "disciplines": []
   },
   {
@@ -845,8 +773,8 @@
     "company": "GE Aerospace",
     "title": "Material Plan Execution Specialist Intern",
     "location": "Suzhou, Jiangsu, China",
-    "url": "https://careers.geaerospace.com/global/en/job/R5034030/Material-Plan-Execution-Specialist-Intern",
-    "date_found": "2026-05-16",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034030EXTERNALENGLOBAL/Material-Plan-Execution-Specialist-Intern",
+    "date_found": "2026-05-17",
     "disciplines": []
   },
   {
@@ -869,8 +797,8 @@
     "company": "GE Aerospace",
     "title": "Production Associate High School Co op",
     "location": "Jacksonville, Florida, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/R5033264/Production-Associate-High-School-Co-op",
-    "date_found": "2026-05-16",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033264EXTERNALENGLOBAL/Production-Associate-High-School-Co-op",
+    "date_found": "2026-05-17",
     "disciplines": []
   },
   {
@@ -893,8 +821,8 @@
     "company": "GE Aerospace",
     "title": "Software Engineering Intern",
     "location": "Bengaluru, Karnātaka, India",
-    "url": "https://careers.geaerospace.com/global/en/job/R5034249/Software-Engineering-Intern",
-    "date_found": "2026-05-16",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034249EXTERNALENGLOBAL/Software-Engineering-Intern",
+    "date_found": "2026-05-17",
     "disciplines": []
   },
   {
@@ -909,8 +837,8 @@
     "company": "GE Aerospace",
     "title": "US Communications Intern Fall 2026",
     "location": "Evendale, Ohio, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/R5033640/US-Communications-Intern-Fall-2026",
-    "date_found": "2026-05-16",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033640EXTERNALENGLOBAL/US-Communications-Intern-Fall-2026",
+    "date_found": "2026-05-17",
     "disciplines": []
   },
   {
@@ -1226,16 +1154,16 @@
   {
     "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Structural Engineer",
-    "location": "Perth, Western Australia",
-    "url": "https://careers.kbr.com/us/en/job/R2123188/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "location": "Adelaide, South Australia",
+    "url": "https://careers.kbr.com/us/en/job/R2123111/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
   {
     "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Structural Engineer",
-    "location": "Adelaide, South Australia",
-    "url": "https://careers.kbr.com/us/en/job/R2123111/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "location": "Perth, Western Australia",
+    "url": "https://careers.kbr.com/us/en/job/R2123188/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
@@ -1245,6 +1173,14 @@
     "location": "Melbourne, Victoria",
     "url": "https://careers.kbr.com/us/en/job/R2123349/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
+    "disciplines": []
+  },
+  {
+    "company": "KBR",
+    "title": "KBR Summer Internship Program 2026 Structural Engineer",
+    "location": "Brisbane, Queensland",
+    "url": "https://careers.kbr.com/us/en/job/R2123200/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "date_found": "2026-05-17",
     "disciplines": []
   },
   {
