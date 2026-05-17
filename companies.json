@@ -216,5 +216,32 @@
       "base_url": "https://parkercareers.ttcportals.com",
       "impersonate": "chrome124"
     }
+  },
+  {
+    "name": "Curtiss-Wright",
+    "platform": "workday",
+    "config": {
+      "tenant": "curtisswright",
+      "site": "CW_External_Career_Site",
+      "wd": "wd1",
+      "external_url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site"
+    }
+  },
+  {
+    "name": "MITRE",
+    "platform": "phenom_sitemap",
+    "config": {
+      "sitemap_url": "https://careers.mitre.org/sitemaps/index.xml"
+    }
+  },
+  {
+    "name": "Moog",
+    "platform": "workday",
+    "config": {
+      "tenant": "moog",
+      "site": "MOOG_External_Career_Site",
+      "wd": "wd5",
+      "external_url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site"
+    }
   }
 ]
