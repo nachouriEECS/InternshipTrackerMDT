@@ -153,5 +153,26 @@
       "jobs_path_segment": "/jobs/",
       "fetch_details": true
     }
+  },
+  {
+    "name": "SpaceX",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "spacex"
+    }
+  },
+  {
+    "name": "V2X",
+    "platform": "phenom_jsonld_sitemap",
+    "config": {
+      "sitemap_url": "https://careers.gov2x.com/sitemap.xml"
+    }
+  },
+  {
+    "name": "SAIC",
+    "platform": "talemetry",
+    "config": {
+      "base_url": "https://jobs.saic.com"
+    }
   }
 ]
