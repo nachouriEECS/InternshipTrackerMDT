@@ -443,6 +443,14 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Software Engineering Intern On Site",
+    "location": "Rome, New York, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/121107BR/Software-Engineering-Intern-On-Site",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Supply Chain Management Intern Summer 2026",
     "location": "Fort Worth, Texas, United States",
     "url": "https://jobs.baesystems.com/global/en/job/124267BR/Supply-Chain-Management-Intern-Summer-2026",
@@ -1146,16 +1154,16 @@
   {
     "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Structural Engineer",
-    "location": "Adelaide, South Australia",
-    "url": "https://careers.kbr.com/us/en/job/R2123111/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "location": "Perth, Western Australia",
+    "url": "https://careers.kbr.com/us/en/job/R2123188/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
   {
     "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Structural Engineer",
-    "location": "Perth, Western Australia",
-    "url": "https://careers.kbr.com/us/en/job/R2123188/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "location": "Adelaide, South Australia",
+    "url": "https://careers.kbr.com/us/en/job/R2123111/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
@@ -1292,14 +1300,6 @@
     "title": "National Security Solutions NSS Model Based Systems Engineering Intern",
     "location": "Beavercreek Township, Ohio",
     "url": "https://careers.kbr.com/us/en/job/R2120304/National-Security-Solutions-NSS-Model-Based-Systems-Engineering-Intern",
-    "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "KBR",
-    "title": "National Security Solutions NSS Software Engineering Internship",
-    "location": "Chantilly, Virginia",
-    "url": "https://careers.kbr.com/us/en/job/R2116382/National-Security-Solutions-NSS-Software-Engineering-Internship",
     "date_found": "2026-05-09",
     "disciplines": []
   },
@@ -1826,5 +1826,109 @@
     "url": "https://www.careers.peraton.com/jobs/disaster-recovery-coop-engineer-herndon-virginia-165079-jobs--cyber-security--",
     "date_found": "2026-05-09",
     "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Drafter/CAD Operator Intern",
+    "location": "Crane, IN, United States",
+    "url": "https://jobs.saic.com/jobs/17735390-drafter-slash-cad-operator-intern",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Intern Technical II",
+    "location": "Virginia Beach, VA, United States",
+    "url": "https://jobs.saic.com/jobs/17639546-intern-technical-ii",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Intern Technical III",
+    "location": "El Segundo, CA, United States",
+    "url": "https://jobs.saic.com/jobs/17746324-intern-technical-iii",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Manufacturing Engineer Intern",
+    "location": "Indianapolis, IN, United States",
+    "url": "https://jobs.saic.com/jobs/17740209-manufacturing-engineer-intern",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Network Infrastructure Intern",
+    "location": "Scott Afb, IL, United States",
+    "url": "https://jobs.saic.com/jobs/17664069-network-infrastructure-intern",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Software Engineering Intern",
+    "location": "San Diego, CA, United States",
+    "url": "https://jobs.saic.com/jobs/17746703-software-engineering-intern",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Technical Intern",
+    "location": "Santa Ana, CA, United States",
+    "url": "https://jobs.saic.com/jobs/17731271-technical-intern",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "UTEP or NMSU Software Engineer Intern",
+    "location": "El Paso, TX, United States",
+    "url": "https://jobs.saic.com/jobs/17674335-utep-or-nmsu-software-engineer-intern",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "SpaceX",
+    "title": "Fall 2026 Business Operations Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8403205002?gh_jid=8403205002",
+    "date_found": "2026-05-17",
+    "disciplines": [
+      "Internships"
+    ]
+  },
+  {
+    "company": "SpaceX",
+    "title": "Fall 2026 Engineering Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8403206002?gh_jid=8403206002",
+    "date_found": "2026-05-17",
+    "disciplines": [
+      "Internships"
+    ]
+  },
+  {
+    "company": "SpaceX",
+    "title": "Fall 2026 Graduate Engineer Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8403223002?gh_jid=8403223002",
+    "date_found": "2026-05-17",
+    "disciplines": [
+      "Internships"
+    ]
+  },
+  {
+    "company": "SpaceX",
+    "title": "Fall 2026 Software Engineering Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8403219002?gh_jid=8403219002",
+    "date_found": "2026-05-17",
+    "disciplines": [
+      "Internships"
+    ]
   }
 ]
