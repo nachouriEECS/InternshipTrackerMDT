@@ -235,6 +235,91 @@ def fetch_talentbrew(company: str, cfg: dict[str, Any], today: str) -> list[Post
     return postings
 
 
+def _impersonated_get(url: str, **kwargs: Any) -> Any:
+    """GET ``url`` with a real browser's TLS/JA3 fingerprint via curl_cffi.
+
+    Some careers sites (SAIC's ``jobs.saic.com``) sit behind Akamai Bot
+    Manager, which blocks plain ``requests`` at the TLS handshake regardless of
+    headers — every path returns 403. Chrome impersonation clears the
+    challenge. Imported lazily so the dependency is only required by sites that
+    actually need it.
+    """
+    try:
+        from curl_cffi import requests as cffi_requests
+    except ModuleNotFoundError as e:  # pragma: no cover - dependency guard
+        raise RuntimeError(
+            "curl_cffi is required for bot-protected sites "
+            "(pip install curl_cffi)"
+        ) from e
+    headers = kwargs.pop("headers", {})
+    headers.setdefault("User-Agent", USER_AGENT)
+    return cffi_requests.get(
+        url,
+        headers=headers,
+        timeout=REQUEST_TIMEOUT,
+        impersonate=kwargs.pop("impersonate", "chrome"),
+        **kwargs,
+    )
+
+
+def fetch_talemetry(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
+    """Scrape a Talemetry/Radancy careersite (SAIC's ``jobs.saic.com``).
+
+    The keyword search at ``{base}/search/jobs/?q=intern`` server-renders every
+    matching role into ``<div class="jobs-section__item">`` rows: an
+    ``<h5><a>`` with the title/URL and a sibling column holding the location
+    after a hidden ``Location:`` label. The default response already contains
+    the full intern result set (no usable pagination param), matching the
+    first-page-only behaviour of the other HTML scrapers here.
+
+    The site is fronted by Akamai Bot Manager, so requests must use TLS
+    impersonation (see ``_impersonated_get``).
+
+    cfg requires:
+      - base_url: e.g. "https://jobs.saic.com"
+    cfg optional:
+      - query: search keyword (default "intern")
+    """
+    base = cfg["base_url"].rstrip("/")
+    query = cfg.get("query", "intern")
+    resp = _impersonated_get(
+        f"{base}/search/jobs/?q={query}",
+        headers={"Accept": "text/html"},
+    )
+    if not resp.ok:
+        log.warning("%s: talemetry search HTTP %s", company, resp.status_code)
+        return []
+    soup = BeautifulSoup(resp.text, "html.parser")
+    postings: list[Posting] = []
+    seen: set[str] = set()
+    for item in soup.select(".jobs-section__item"):
+        link = item.select_one("h5 a[href]")
+        if not link:
+            continue
+        title = link.get_text(strip=True)
+        if not is_internship(title):
+            continue
+        url = link["href"]
+        if url.startswith("/"):
+            url = base + url
+        if url in seen:
+            continue
+        seen.add(url)
+        # Location lives in the column that is neither the title nor the
+        # date; it's prefixed by a visually-hidden "Location:" label.
+        location = ""
+        for col in item.select("div.columns"):
+            if col.find("h5"):
+                continue
+            text = col.get_text(" ", strip=True)
+            if text.lower().startswith("location:"):
+                location = text[len("location:"):].strip()
+                break
+        location = re.sub(r"\s*,\s*", ", ", re.sub(r"\s+", " ", location)).strip()
+        postings.append(Posting(company, title, location, url, today))
+    return postings
+
+
 def fetch_hii(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
     """Scrape an HII-style table-based careers site (jobs.hii-tsd.com,
     careers.huntingtoningalls.com).
@@ -439,14 +524,114 @@ def fetch_phenom_sitemap(company: str, cfg: dict[str, Any], today: str) -> list[
     return postings
 
 
+def _jsonld_jobposting(html: str) -> dict[str, Any] | None:
+    """Return the first schema.org JobPosting object embedded in ``html``.
+
+    Phenom job pages server-render a clean ``<script type="application/ld+json">``
+    JobPosting block even when the search UI is a client-only SPA. The block is
+    sometimes a bare object and sometimes a list, so handle both.
+    """
+    for m in re.finditer(
+        r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>',
+        html,
+        re.S,
+    ):
+        blob = m.group(1).strip()
+        if '"JobPosting"' not in blob:
+            continue
+        try:
+            data = json.loads(blob)
+        except json.JSONDecodeError:
+            continue
+        if isinstance(data, list):
+            data = next(
+                (d for d in data if isinstance(d, dict)
+                 and d.get("@type") == "JobPosting"),
+                None,
+            )
+        if isinstance(data, dict) and data.get("@type") == "JobPosting":
+            return data
+    return None
+
+
+def _jsonld_location(job: dict[str, Any]) -> str:
+    loc = job.get("jobLocation")
+    if isinstance(loc, list):
+        loc = loc[0] if loc else None
+    addr = loc.get("address", {}) if isinstance(loc, dict) else {}
+    parts = [addr.get("addressLocality", ""), addr.get("addressRegion", "")]
+    return ", ".join(p for p in parts if p and p.upper() != "UNAVAILABLE")
+
+
+def fetch_phenom_jsonld_sitemap(
+    company: str, cfg: dict[str, Any], today: str
+) -> list[Posting]:
+    """Phenom careers site whose search API is locked behind a tenant token
+    *and* whose public sitemap lists jobs by numeric id (``/jobs/<id>``) rather
+    than a descriptive slug, so neither the search API nor the slug yields a
+    title. Each job *page*, however, server-renders a schema.org JobPosting
+    JSON-LD block — fetch every sitemap entry and read the title/location from
+    there. (V2X's ``careers.gov2x.com`` is Phenom tenant 11064; its
+    ``/search-results`` page is a client-only SPA, so the sitemap is the only
+    server-side enumeration available.)
+
+    cfg requires:
+      - sitemap_url: e.g. "https://careers.gov2x.com/sitemap.xml"
+        (a sitemap index pointing at one or more nested sitemaps)
+    cfg optional:
+      - job_path_pattern: regex a <loc> must contain to be treated as a job
+        (default ``/jobs/\\d+``)
+    """
+    job_re = cfg.get("job_path_pattern", r"/jobs/\d+")
+    resp = http_get(cfg["sitemap_url"], headers={"Accept": "application/xml"})
+    resp.raise_for_status()
+    nested = re.findall(r"<loc>([^<]+\.xml)</loc>", resp.text)
+    if not nested:
+        nested = [cfg["sitemap_url"]]
+    job_urls: list[str] = []
+    for sm in nested:
+        r = http_get(sm, headers={"Accept": "application/xml"})
+        if not r.ok:
+            continue
+        job_urls.extend(
+            re.findall(r"<loc>([^<]+" + job_re + r"[^<]*)</loc>", r.text)
+        )
+
+    postings: list[Posting] = []
+    seen: set[str] = set()
+    for url in job_urls:
+        if url in seen:
+            continue
+        seen.add(url)
+        try:
+            page = http_get(url, headers={"Accept": "text/html"})
+        except requests.RequestException:
+            continue
+        if not page.ok:
+            continue
+        job = _jsonld_jobposting(page.text)
+        if job is None:
+            continue
+        title = job.get("title", "") or ""
+        if not is_internship(title):
+            continue
+        job_url = job.get("url") or page.url or url
+        postings.append(
+            Posting(company, title, _jsonld_location(job), job_url, today)
+        )
+    return postings
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
     "workday": fetch_workday,
     "talentbrew": fetch_talentbrew,
+    "talemetry": fetch_talemetry,
     "hii": fetch_hii,
     "clinch_sitemap": fetch_clinch_sitemap,
     "phenom_sitemap": fetch_phenom_sitemap,
+    "phenom_jsonld_sitemap": fetch_phenom_jsonld_sitemap,
 }
 
 
