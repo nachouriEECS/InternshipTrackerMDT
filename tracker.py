@@ -524,104 +524,6 @@ def fetch_phenom_sitemap(company: str, cfg: dict[str, Any], today: str) -> list[
     return postings
 
 
-def _jsonld_jobposting(html: str) -> dict[str, Any] | None:
-    """Return the first schema.org JobPosting object embedded in ``html``.
-
-    Phenom job pages server-render a clean ``<script type="application/ld+json">``
-    JobPosting block even when the search UI is a client-only SPA. The block is
-    sometimes a bare object and sometimes a list, so handle both.
-    """
-    for m in re.finditer(
-        r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>',
-        html,
-        re.S,
-    ):
-        blob = m.group(1).strip()
-        if '"JobPosting"' not in blob:
-            continue
-        try:
-            data = json.loads(blob)
-        except json.JSONDecodeError:
-            continue
-        if isinstance(data, list):
-            data = next(
-                (d for d in data if isinstance(d, dict)
-                 and d.get("@type") == "JobPosting"),
-                None,
-            )
-        if isinstance(data, dict) and data.get("@type") == "JobPosting":
-            return data
-    return None
-
-
-def _jsonld_location(job: dict[str, Any]) -> str:
-    loc = job.get("jobLocation")
-    if isinstance(loc, list):
-        loc = loc[0] if loc else None
-    addr = loc.get("address", {}) if isinstance(loc, dict) else {}
-    parts = [addr.get("addressLocality", ""), addr.get("addressRegion", "")]
-    return ", ".join(p for p in parts if p and p.upper() != "UNAVAILABLE")
-
-
-def fetch_phenom_jsonld_sitemap(
-    company: str, cfg: dict[str, Any], today: str
-) -> list[Posting]:
-    """Phenom careers site whose search API is locked behind a tenant token
-    *and* whose public sitemap lists jobs by numeric id (``/jobs/<id>``) rather
-    than a descriptive slug, so neither the search API nor the slug yields a
-    title. Each job *page*, however, server-renders a schema.org JobPosting
-    JSON-LD block — fetch every sitemap entry and read the title/location from
-    there. (V2X's ``careers.gov2x.com`` is Phenom tenant 11064; its
-    ``/search-results`` page is a client-only SPA, so the sitemap is the only
-    server-side enumeration available.)
-
-    cfg requires:
-      - sitemap_url: e.g. "https://careers.gov2x.com/sitemap.xml"
-        (a sitemap index pointing at one or more nested sitemaps)
-    cfg optional:
-      - job_path_pattern: regex a <loc> must contain to be treated as a job
-        (default ``/jobs/\\d+``)
-    """
-    job_re = cfg.get("job_path_pattern", r"/jobs/\d+")
-    resp = http_get(cfg["sitemap_url"], headers={"Accept": "application/xml"})
-    resp.raise_for_status()
-    nested = re.findall(r"<loc>([^<]+\.xml)</loc>", resp.text)
-    if not nested:
-        nested = [cfg["sitemap_url"]]
-    job_urls: list[str] = []
-    for sm in nested:
-        r = http_get(sm, headers={"Accept": "application/xml"})
-        if not r.ok:
-            continue
-        job_urls.extend(
-            re.findall(r"<loc>([^<]+" + job_re + r"[^<]*)</loc>", r.text)
-        )
-
-    postings: list[Posting] = []
-    seen: set[str] = set()
-    for url in job_urls:
-        if url in seen:
-            continue
-        seen.add(url)
-        try:
-            page = http_get(url, headers={"Accept": "text/html"})
-        except requests.RequestException:
-            continue
-        if not page.ok:
-            continue
-        job = _jsonld_jobposting(page.text)
-        if job is None:
-            continue
-        title = job.get("title", "") or ""
-        if not is_internship(title):
-            continue
-        job_url = job.get("url") or page.url or url
-        postings.append(
-            Posting(company, title, _jsonld_location(job), job_url, today)
-        )
-    return postings
-
-
 def fetch_dejobs_sitemap(
     company: str, cfg: dict[str, Any], today: str
 ) -> list[Posting]:
@@ -691,16 +593,129 @@ def fetch_dejobs_sitemap(
     return postings
 
 
+def fetch_rss_feed(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
+    """Google-for-Jobs RSS/XML feed (BWXT's SuccessFactors "jobs2web" site
+    publishes one at ``careers.bwxt.com/sitemap.xml``).
+
+    The feed is a flat list of ``<item>`` blocks; each ``<title>`` is
+    ``"<Job Title> (City, ST, Country)"`` and ``<link>`` is the public job
+    page. Location is taken from the trailing parenthetical. One request, no
+    per-job fetches.
+
+    cfg requires:
+      - feed_url: e.g. "https://careers.bwxt.com/sitemap.xml"
+    """
+    resp = http_get(cfg["feed_url"], headers={"Accept": "application/xml"})
+    resp.raise_for_status()
+
+    def _tag(block: str, name: str) -> str:
+        m = re.search(
+            rf"<{name}>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</{name}>",
+            block,
+            re.S,
+        )
+        import html as _html
+
+        return _html.unescape(m.group(1).strip()) if m else ""
+
+    postings: list[Posting] = []
+    seen: set[str] = set()
+    for block in re.findall(r"<item>(.*?)</item>", resp.text, re.S):
+        raw_title = _tag(block, "title")
+        link = _tag(block, "link")
+        if not raw_title or not link or link in seen:
+            continue
+        m = re.match(r"^(.*?)\s*\(([^)]+)\)\s*$", raw_title)
+        title = m.group(1).strip() if m else raw_title
+        location = m.group(2).strip() if m else ""
+        if not is_internship(title):
+            continue
+        seen.add(link)
+        postings.append(Posting(company, title, location, link, today))
+    return postings
+
+
+def fetch_ttcportals(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
+    """Radancy "ttcportals" careersite (Parker Hannifin's
+    ``parkercareers.ttcportals.com``).
+
+    The search UI is a client-only SPA fronted by bot protection, but it is
+    backed by a clean paginated JSON API: ``/jobs/search.json?q=<kw>&page=N``
+    returns ``{total_entries, per_page, entries:[{id, permalink, title,
+    location}]}``. Requires TLS impersonation (see ``_impersonated_get``).
+    Job pages live at ``{base}/jobs/<id>-<permalink>``.
+
+    cfg requires:
+      - base_url: e.g. "https://parkercareers.ttcportals.com"
+    cfg optional:
+      - query: search keyword (default "intern")
+    """
+    base = cfg["base_url"].rstrip("/")
+    query = cfg.get("query", "intern")
+    # Radancy's edge only clears specific Chrome TLS fingerprints; the
+    # curl_cffi "chrome" alias floats and is currently blocked here, so pin a
+    # known-good profile (overridable per-company if it rots).
+    impersonate = cfg.get("impersonate", "chrome124")
+    postings: list[Posting] = []
+    seen: set[str] = set()
+    page = 1
+    while True:
+        resp = _impersonated_get(
+            f"{base}/jobs/search.json?q={query}&page={page}",
+            headers={"Accept": "application/json"},
+            impersonate=impersonate,
+        )
+        if not resp.ok:
+            log.warning("%s: ttcportals HTTP %s", company, resp.status_code)
+            break
+        try:
+            data = json.loads(resp.text)
+        except json.JSONDecodeError:
+            log.warning("%s: ttcportals non-JSON page %d", company, page)
+            break
+        entries = data.get("entries", [])
+        if not entries:
+            break
+        for e in entries:
+            title = e.get("title", "") or ""
+            if not is_internship(title):
+                continue
+            jid, perma = e.get("id", ""), e.get("permalink", "")
+            url = f"{base}/jobs/{jid}-{perma}" if jid else f"{base}/jobs/{perma}"
+            if url in seen:
+                continue
+            seen.add(url)
+            loc = e.get("location") or {}
+            parts = [
+                loc.get("locality", ""),
+                loc.get("region_abbr") or loc.get("region_full") or "",
+            ]
+            country = loc.get("country", "")
+            if country and country not in ("United States", "USA", "US"):
+                parts.append(country)
+            location = ", ".join(
+                p for p in dict.fromkeys(p for p in parts if p)
+            )
+            postings.append(Posting(company, title, location, url, today))
+        per_page = data.get("per_page") or len(entries)
+        total = data.get("total_entries", 0)
+        if page * per_page >= total or page > 50:
+            break
+        page += 1
+    return postings
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
     "workday": fetch_workday,
     "talentbrew": fetch_talentbrew,
     "talemetry": fetch_talemetry,
+    "ttcportals": fetch_ttcportals,
     "hii": fetch_hii,
+    "rss_feed": fetch_rss_feed,
     "clinch_sitemap": fetch_clinch_sitemap,
     "phenom_sitemap": fetch_phenom_sitemap,
-    "phenom_jsonld_sitemap": fetch_phenom_jsonld_sitemap,
     "dejobs_sitemap": fetch_dejobs_sitemap,
 }
 
