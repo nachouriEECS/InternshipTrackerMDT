@@ -193,22 +193,6 @@
   },
   {
     "company": "Amentum",
-    "title": "Gscm Intern Remote",
-    "location": "",
-    "url": "https://www.amentumcareers.com/jobs/gscm-intern-remote-united-states-75f95fbd-c2b5-4d2d-8d49-408de034a866",
-    "date_found": "2026-05-18",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
-    "title": "Gscm Intern Remote",
-    "location": "",
-    "url": "https://www.amentumcareers.com/jobs/gscm-intern-remote-united-states-61956798-8ac4-4865-9546-6a82f577afb3",
-    "date_found": "2026-05-18",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
     "title": "Intern Project Support Philadelphia",
     "location": "Pennsylvania",
     "url": "https://www.amentumcareers.com/jobs/intern-project-support-philadelphia-pennsylvania-united-states-8bda053f-0836-4478-af4f-ea24a53daa38",
@@ -311,6 +295,14 @@
     "location": "Sterling Heights, Michigan, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123441BR/Communications-Intern-2026",
     "date_found": "2026-05-15",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "EE CE RF Engineering Intern Summer 2026",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/120625BR/EE-CE-RF-Engineering-Intern-Summer-2026",
+    "date_found": "2026-05-18",
     "disciplines": []
   },
   {
@@ -419,6 +411,14 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Supply Chain Management Intern Summer 2026",
+    "location": "Fort Worth, Texas, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/124267BR/Supply-Chain-Management-Intern-Summer-2026",
+    "date_found": "2026-05-18",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Training Specialist Intern 2026",
     "location": "Radford, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/124476BR/Training-Specialist-Intern-2026",
@@ -461,6 +461,14 @@
     "company": "Bechtel",
     "title": "2026 Student Co Op Training Saudi Arabia Construction",
     "location": "Riyadh, SAU",
+    "url": "https://bechtel.dejobs.org/riyadh-sau/2026-student-co-op-training-saudi-arabia-construction/8F74EE20DCA64EE69E58C329EFC2E7E0/job/",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Bechtel",
+    "title": "2026 Student Co Op Training Saudi Arabia Construction",
+    "location": "Riyadh, SAU",
     "url": "https://bechtel.dejobs.org/riyadh-sau/2026-student-co-op-training-saudi-arabia-construction/F8F77FC171B845EB95A848FCDC5ED4E3/job/",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -478,22 +486,6 @@
     "title": "2026 Student Co Op Training Saudi Arabia Construction",
     "location": "Riyadh, SAU",
     "url": "https://bechtel.dejobs.org/riyadh-sau/2026-student-co-op-training-saudi-arabia-construction/F61A1F898A3C4E3AB78792F1D8D9499E/job/",
-    "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "Bechtel",
-    "title": "2026 Student Co Op Training Saudi Arabia Construction",
-    "location": "Riyadh, SAU",
-    "url": "https://bechtel.dejobs.org/riyadh-sau/2026-student-co-op-training-saudi-arabia-construction/8F74EE20DCA64EE69E58C329EFC2E7E0/job/",
-    "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "Bechtel",
-    "title": "2026 Student Co Op Training Saudi Arabia Contracts",
-    "location": "Riyadh, SAU",
-    "url": "https://bechtel.dejobs.org/riyadh-sau/2026-student-co-op-training-saudi-arabia-contracts/D3CF4324F9E345D59B47BF85100B9661/job/",
     "date_found": "2026-05-17",
     "disciplines": []
   },
@@ -523,9 +515,9 @@
   },
   {
     "company": "Bechtel",
-    "title": "2026 Student Co Op Training Saudi Arabia Engineering Architectural",
+    "title": "2026 Student Co Op Training Saudi Arabia Contracts",
     "location": "Riyadh, SAU",
-    "url": "https://bechtel.dejobs.org/riyadh-sau/2026-student-co-op-training-saudi-arabia-engineering-architectural/826DFB24E7914061870AD14BFE600700/job/",
+    "url": "https://bechtel.dejobs.org/riyadh-sau/2026-student-co-op-training-saudi-arabia-contracts/D3CF4324F9E345D59B47BF85100B9661/job/",
     "date_found": "2026-05-17",
     "disciplines": []
   },
@@ -539,10 +531,26 @@
   },
   {
     "company": "Bechtel",
+    "title": "2026 Student Co Op Training Saudi Arabia Engineering Architectural",
+    "location": "Riyadh, SAU",
+    "url": "https://bechtel.dejobs.org/riyadh-sau/2026-student-co-op-training-saudi-arabia-engineering-architectural/826DFB24E7914061870AD14BFE600700/job/",
+    "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Bechtel",
     "title": "2026 Student Co Op Training Saudi Arabia Engineering Civil",
     "location": "Riyadh, SAU",
     "url": "https://bechtel.dejobs.org/riyadh-sau/2026-student-co-op-training-saudi-arabia-engineering-civil/525EF1D7E7454DFE8BCACA9E418B742C/job/",
     "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Bechtel",
+    "title": "2026 Student Co Op Training Saudi Arabia Engineering Civil",
+    "location": "Riyadh, SAU",
+    "url": "https://bechtel.dejobs.org/riyadh-sau/2026-student-co-op-training-saudi-arabia-engineering-civil/C3AC494B90B54D7A96CF71A87AFE95CD/job/",
+    "date_found": "2026-05-18",
     "disciplines": []
   },
   {
@@ -618,14 +626,6 @@
     "disciplines": []
   },
   {
-    "company": "Bechtel",
-    "title": "Student Internship Finance Accounting 2026",
-    "location": "Lima, PER",
-    "url": "https://bechtel.dejobs.org/lima-per/student-internship-finance-accounting-2026/BAC682A14D294A788D71C5988AE4B3BB/job/",
-    "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
     "company": "Boeing",
     "title": "Data Analytics Internship- Summer 2026",
     "location": "GBR - Bristol, UK",
@@ -695,14 +695,6 @@
     "location": "San Antonio, TX",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Cyber-Intern_R0239666",
     "date_found": "2026-05-08",
-    "disciplines": []
-  },
-  {
-    "company": "Booz Allen Hamilton",
-    "title": "Health Account Intern",
-    "location": "Atlanta, GA",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Health-Account-Intern_R0239312",
-    "date_found": "2026-05-06",
     "disciplines": []
   },
   {
@@ -1857,6 +1849,14 @@
   },
   {
     "company": "Moog",
+    "title": "Intern, Engineering",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Engineering_R-26-16991",
+    "date_found": "2026-05-18",
+    "disciplines": []
+  },
+  {
+    "company": "Moog",
     "title": "Intern, Market Research",
     "location": "Buffalo, NY",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Market-Research_R-26-17877",
@@ -1876,14 +1876,6 @@
     "title": "Intern, Systems Engineering",
     "location": "Salt Lake City, UT",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Salt-Lake-City-UT/Intern--Systems-Engineering_R-26-16547",
-    "date_found": "2026-05-18",
-    "disciplines": []
-  },
-  {
-    "company": "North Wind Systems",
-    "title": "Summer Laborer Internship 04090 NWD",
-    "location": "PADUCAH, KY",
-    "url": "https://north-wind-group.breezy.hr/p/4146e0eb5310-summer-laborer-internship-04090-nwd",
     "date_found": "2026-05-18",
     "disciplines": []
   },
@@ -2342,6 +2334,38 @@
     "title": "Software Engineering Intern",
     "location": "San Diego, CA, United States",
     "url": "https://jobs.saic.com/jobs/17746703-software-engineering-intern",
+    "date_found": "2026-05-18",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Technical Intern",
+    "location": "Santa Ana, CA, United States",
+    "url": "https://jobs.saic.com/jobs/17754542-technical-intern",
+    "date_found": "2026-05-18",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Technical Intern",
+    "location": "Reston, VA, United States",
+    "url": "https://jobs.saic.com/jobs/17754537-technical-intern",
+    "date_found": "2026-05-18",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Technical Intern",
+    "location": "Reston, VA, United States",
+    "url": "https://jobs.saic.com/jobs/17754633-technical-intern",
+    "date_found": "2026-05-18",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Technical Intern",
+    "location": "Reston, VA, United States",
+    "url": "https://jobs.saic.com/jobs/17755017-technical-intern",
     "date_found": "2026-05-18",
     "disciplines": []
   },
