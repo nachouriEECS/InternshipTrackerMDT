@@ -243,5 +243,20 @@
       "wd": "wd5",
       "external_url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site"
     }
+  },
+  {
+    "name": "North Wind Systems",
+    "platform": "breezy",
+    "config": {
+      "subdomain": "north-wind-group"
+    }
+  },
+  {
+    "name": "Howmet Aerospace",
+    "platform": "oracle_orc",
+    "config": {
+      "base_url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com",
+      "site_number": "CX_1"
+    }
   }
 ]

@@ -705,6 +705,102 @@ def fetch_ttcportals(company: str, cfg: dict[str, Any], today: str) -> list[Post
     return postings
 
 
+def fetch_breezy(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
+    """Breezy HR public board (North Wind's
+    ``north-wind-group.breezy.hr``).
+
+    Breezy exposes every published position as JSON at
+    ``https://<subdomain>.breezy.hr/json`` — a flat list with ``name``,
+    ``url``, ``type`` and a ``location`` object. One request, no per-job
+    fetches.
+
+    cfg requires:
+      - subdomain: e.g. "north-wind-group"
+    """
+    sub = cfg["subdomain"]
+    resp = http_get(f"https://{sub}.breezy.hr/json")
+    resp.raise_for_status()
+    postings: list[Posting] = []
+    seen: set[str] = set()
+    for job in resp.json():
+        title = job.get("name", "") or ""
+        if not is_internship(title):
+            continue
+        url = job.get("url") or f"https://{sub}.breezy.hr/p/{job.get('friendly_id','')}"
+        if url in seen:
+            continue
+        seen.add(url)
+        loc = job.get("location") or {}
+        location = loc.get("name", "") if isinstance(loc, dict) else ""
+        postings.append(Posting(company, title, location, url, today))
+    return postings
+
+
+def fetch_oracle_orc(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
+    """Oracle Cloud Recruiting (ORC) "Candidate Experience" site (Howmet's
+    ``fa-exty-saasfaprod1.fa.ocs.oraclecloud.com``).
+
+    The CE SPA is backed by a public REST endpoint,
+    ``/hcmRestApi/resources/latest/recruitingCEJobRequisitions``, that returns
+    a ``requisitionList`` of ``{Id, Title, PrimaryLocation}``. ``keyword`` is a
+    broad full-text match (Oracle returns everything mentioning the term), so
+    the precise filter is still ``is_internship`` on the title. The server
+    caps the page size, so paginate via ``offset`` until ``TotalJobsCount``.
+
+    cfg requires:
+      - base_url:    e.g. "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com"
+      - site_number: e.g. "CX_1"
+    cfg optional:
+      - keyword: full-text seed (default "intern")
+    """
+    base = cfg["base_url"].rstrip("/")
+    site = cfg["site_number"]
+    keyword = cfg.get("keyword", "intern")
+    postings: list[Posting] = []
+    seen: set[str] = set()
+    offset = 0
+    for _ in range(60):  # hard cap on pagination
+        # Oracle ORC ignores top-level ?limit/?offset; they must live INSIDE
+        # the finder expression. The server still caps the page at ~25.
+        finder = (
+            f"findReqs;siteNumber={site},keyword={keyword},"
+            f"sortBy=POSTING_DATES_DESC,limit=200,offset={offset}"
+        )
+        url = (
+            f"{base}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
+            f"?onlyData=true&expand=requisitionList&finder={finder}"
+        )
+        resp = http_get(url)
+        resp.raise_for_status()
+        items = resp.json().get("items", [])
+        if not items:
+            break
+        info = items[0]
+        reqs = info.get("requisitionList", [])
+        if not reqs:
+            break
+        for j in reqs:
+            title = j.get("Title", "") or ""
+            if not is_internship(title):
+                continue
+            jid = j.get("Id", "")
+            job_url = (
+                f"{base}/hcmUI/CandidateExperience/en/sites/{site}/job/{jid}"
+            )
+            if job_url in seen:
+                continue
+            seen.add(job_url)
+            postings.append(
+                Posting(company, title, j.get("PrimaryLocation", ""),
+                        job_url, today)
+            )
+        total = info.get("TotalJobsCount", 0)
+        offset += len(reqs)
+        if offset >= total:
+            break
+    return postings
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
@@ -712,6 +808,8 @@ FETCHERS = {
     "talentbrew": fetch_talentbrew,
     "talemetry": fetch_talemetry,
     "ttcportals": fetch_ttcportals,
+    "breezy": fetch_breezy,
+    "oracle_orc": fetch_oracle_orc,
     "hii": fetch_hii,
     "rss_feed": fetch_rss_feed,
     "clinch_sitemap": fetch_clinch_sitemap,
