@@ -258,5 +258,25 @@
       "base_url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com",
       "site_number": "CX_1"
     }
+  },
+  {
+    "name": "The Aerospace Corporation",
+    "platform": "workday",
+    "config": {
+      "tenant": "aero",
+      "site": "External",
+      "wd": "wd5",
+      "external_url": "https://aero.wd5.myworkdayjobs.com/External"
+    }
+  },
+  {
+    "name": "TTM Technologies",
+    "platform": "workday",
+    "config": {
+      "tenant": "ttmtech",
+      "site": "jobs",
+      "wd": "wd5",
+      "external_url": "https://ttmtech.wd5.myworkdayjobs.com/jobs"
+    }
   }
 ]
