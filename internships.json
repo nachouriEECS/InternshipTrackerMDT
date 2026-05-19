@@ -145,14 +145,6 @@
   },
   {
     "company": "Airbus",
-    "title": "Long-term Internship - Industry Planning",
-    "location": "Columbus, MS",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Columbus-MS/Long-term-Internship---Industry-Planning_JR10406917",
-    "date_found": "2026-05-11",
-    "disciplines": []
-  },
-  {
-    "company": "Airbus",
     "title": "Supply Chain and Quality Intern",
     "location": "Beijing Area",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Supply-Chain-and-Quality-Intern_JR10414197",
@@ -307,6 +299,14 @@
   },
   {
     "company": "BAE Systems",
+    "title": "EE CE RF Engineering Intern Summer 2026",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/120625BR/EE-CE-RF-Engineering-Intern-Summer-2026",
+    "date_found": "2026-05-19",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Electrical Engineer Co Op 2026",
     "location": "Kingsport, Tennessee, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123900BR/Electrical-Engineer-Co-Op-2026",
@@ -319,6 +319,14 @@
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
     "date_found": "2026-05-15",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Facilities Systems Management Intern 2026",
+    "location": "York, Pennsylvania, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/124664BR/Facilities-Systems-Management-Intern-2026",
+    "date_found": "2026-05-19",
     "disciplines": []
   },
   {
@@ -403,10 +411,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern On Site",
-    "location": "Rome, New York, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/121107BR/Software-Engineering-Intern-On-Site",
-    "date_found": "2026-05-17",
+    "title": "Supply Chain Management Intern Summer 2026",
+    "location": "Fort Worth, Texas, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/124267BR/Supply-Chain-Management-Intern-Summer-2026",
+    "date_found": "2026-05-19",
     "disciplines": []
   },
   {
@@ -651,6 +659,22 @@
   },
   {
     "company": "Boeing",
+    "title": "Mandatory Internship - Flight Deck for Boeing Commercial Airplanes (m/f/d)",
+    "location": "DEU - Neu-Isenburg, Germany",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/DEU---Neu-Isenburg-Germany/Mandatory-Internship---Flight-Deck-for-Boeing-Commercial-Airplanes--m-f-d-_JR2026509799-1",
+    "date_found": "2026-05-19",
+    "disciplines": []
+  },
+  {
+    "company": "Boeing",
+    "title": "Mandatory Internship - Future Flight Operations Research m/f/d",
+    "location": "DEU - Neu-Isenburg, Germany",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/DEU---Neu-Isenburg-Germany/Mandatory-Internship---Future-Flight-Operations-Research-m-f-d_JR2026509807-1",
+    "date_found": "2026-05-19",
+    "disciplines": []
+  },
+  {
+    "company": "Boeing",
     "title": "Program Management Intern",
     "location": "SAU - Riyadh, Saudi Arabia",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/SAU---Riyadh-Saudi-Arabia/Program-Management-Intern_JR2026510191",
@@ -711,6 +735,14 @@
     "location": "McLean, VA",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Information-Systems-Intern_R0238499",
     "date_found": "2026-05-02",
+    "disciplines": []
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "Product Engineering Intern",
+    "location": "McLean, VA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Product-Engineering-Intern_R0240660",
+    "date_found": "2026-05-19",
     "disciplines": []
   },
   {
@@ -1047,14 +1079,6 @@
     "location": "Evendale, Ohio, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033640EXTERNALENGLOBAL/US-Communications-Intern-Fall-2026",
     "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "HII",
-    "title": "Engineering Technician Internship (Engineering Technician 1)",
-    "location": "Port Hueneme, CA, California, United States",
-    "url": "https://jobs.hii-tsd.com/job/Port-Hueneme%2C-CA-Engineering-Technician-Internship-%28Engineering-Technician-1%29-Cali/1391721700/",
-    "date_found": "2026-05-18",
     "disciplines": []
   },
   {
@@ -1665,6 +1689,14 @@
   },
   {
     "company": "Leidos",
+    "title": "Data Analytics Summer Intern",
+    "location": "Bethesda, MD",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Data-Analytics-Summer-Intern_R-00181810-1",
+    "date_found": "2026-05-19",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
     "title": "Junior CEMA Software Engineer Intern",
     "location": "5 Locations",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Lawton-OK/Junior-CEMA-Software-Engineer-Intern_R-00182554",
@@ -1693,6 +1725,14 @@
     "location": "Huntsville, AL",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Quantum-Information-Science-Intern_R-00181429",
     "date_found": "2026-05-07",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Software Developer Intern",
+    "location": "Annapolis Junction, MD",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00181646",
+    "date_found": "2026-05-19",
     "disciplines": []
   },
   {
@@ -1729,14 +1769,6 @@
   },
   {
     "company": "MITRE",
-    "title": "Data Science Intern",
-    "location": "Colorado Springs, Colorado, United States of America",
-    "url": "https://careers.mitre.org/us/en/job/R116653/Data-Science-Intern",
-    "date_found": "2026-05-18",
-    "disciplines": []
-  },
-  {
-    "company": "MITRE",
     "title": "Embedded Security Microelectronics Process Intern Albuquerque NM",
     "location": "Albuquerque, New Mexico, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116190/Embedded-Security-Microelectronics-Process-Intern-Albuquerque-NM",
@@ -1765,6 +1797,14 @@
     "location": "Aberdeen, Maryland, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116203/Radio-Frequency-RF-Test-and-Evaluation-Intern-Aberdeen-MD-location",
     "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "MITRE",
+    "title": "Resilient Communications Intern",
+    "location": "Bedford, Massachusetts, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R115945/Resilient-Communications-Intern",
+    "date_found": "2026-05-19",
     "disciplines": []
   },
   {
@@ -2251,14 +2291,6 @@
   },
   {
     "company": "SAIC",
-    "title": "Intern Technical II",
-    "location": "Virginia Beach, VA, United States",
-    "url": "https://jobs.saic.com/jobs/17639546-intern-technical-ii",
-    "date_found": "2026-05-18",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
     "title": "Manufacturing Engineer Intern",
     "location": "Indianapolis, IN, United States",
     "url": "https://jobs.saic.com/jobs/17740209-manufacturing-engineer-intern",
@@ -2284,14 +2316,6 @@
   {
     "company": "SAIC",
     "title": "Technical Intern",
-    "location": "Reston, VA, United States",
-    "url": "https://jobs.saic.com/jobs/17755017-technical-intern",
-    "date_found": "2026-05-18",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Technical Intern",
     "location": "Santa Ana, CA, United States",
     "url": "https://jobs.saic.com/jobs/17754542-technical-intern",
     "date_found": "2026-05-18",
@@ -2302,6 +2326,14 @@
     "title": "Technical Intern",
     "location": "Reston, VA, United States",
     "url": "https://jobs.saic.com/jobs/17754537-technical-intern",
+    "date_found": "2026-05-18",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Technical Intern",
+    "location": "Reston, VA, United States",
+    "url": "https://jobs.saic.com/jobs/17755017-technical-intern",
     "date_found": "2026-05-18",
     "disciplines": []
   },
@@ -2366,14 +2398,6 @@
     "title": "Mechanical Engineering Intern (August-December)",
     "location": "Syracuse-W, NY",
     "url": "https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Syracuse-W-NY/Mechanical-Engineering-Intern--August-December-_R15479",
-    "date_found": "2026-05-18",
-    "disciplines": []
-  },
-  {
-    "company": "TTM Technologies",
-    "title": "OCC Process Engineering Co-Op",
-    "location": "Syracuse-D, NY",
-    "url": "https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Syracuse-D-NY/OCC-Process-Engineering-Co-Op_R16060",
     "date_found": "2026-05-18",
     "disciplines": []
   },
