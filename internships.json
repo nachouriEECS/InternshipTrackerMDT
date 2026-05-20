@@ -49,14 +49,6 @@
   },
   {
     "company": "Airbus",
-    "title": "#Discover II 2026-2027 Supply Chain Quality Internship",
-    "location": "Getafe Area",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-II-2026-2027-Supply-Chain-Quality-Internship_JR10409402",
-    "date_found": "2026-05-12",
-    "disciplines": []
-  },
-  {
-    "company": "Airbus",
     "title": "#Discover II 2026-2027 Supply Management for Raw Material Internship",
     "location": "Sevilla Area",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla-Area/XMLNAME--Discover-II-2026-2027-Supply-Management-for-Raw-Material-Internship_JR10411387",
@@ -157,6 +149,14 @@
     "location": "Beijing Area",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Leadership-University---Talent-Mgmt-Intern_JR10400578",
     "date_found": "2026-05-13",
+    "disciplines": []
+  },
+  {
+    "company": "Airbus",
+    "title": "Short-term Internship - Accounting",
+    "location": "Grand Prairie, TX",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Intern-Accounting_JR10414858",
+    "date_found": "2026-05-20",
     "disciplines": []
   },
   {
@@ -291,10 +291,26 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Business Development Intern Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125206BR/Business-Development-Intern-Hybrid",
+    "date_found": "2026-05-20",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Communications Intern 2026",
     "location": "Sterling Heights, Michigan, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123441BR/Communications-Intern-2026",
     "date_found": "2026-05-15",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "EE CE RF Engineering Intern Summer 2026",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/120625BR/EE-CE-RF-Engineering-Intern-Summer-2026",
+    "date_found": "2026-05-20",
     "disciplines": []
   },
   {
@@ -751,14 +767,6 @@
     "location": "Annapolis Junction, MD",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0237149",
     "date_found": "2026-05-02",
-    "disciplines": []
-  },
-  {
-    "company": "Booz Allen Hamilton",
-    "title": "University - Financial Analyst Intern",
-    "location": "McLean, VA",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---Financial-Analyst-Intern_R0228523",
-    "date_found": "2026-05-20",
     "disciplines": []
   },
   {
@@ -1538,16 +1546,16 @@
   {
     "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Structural Engineer",
-    "location": "Perth, Western Australia",
-    "url": "https://careers.kbr.com/us/en/job/R2123188/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "location": "Adelaide, South Australia",
+    "url": "https://careers.kbr.com/us/en/job/R2123111/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
   {
     "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Structural Engineer",
-    "location": "Adelaide, South Australia",
-    "url": "https://careers.kbr.com/us/en/job/R2123111/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "location": "Perth, Western Australia",
+    "url": "https://careers.kbr.com/us/en/job/R2123188/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
@@ -1669,6 +1677,22 @@
     "location": "Columbia, Maryland",
     "url": "https://careers.kbr.com/us/en/job/R2122608/National-Security-Solutions-NSS-Software-Engineering-Internship",
     "date_found": "2026-05-09",
+    "disciplines": []
+  },
+  {
+    "company": "KBR",
+    "title": "Python Research Intern",
+    "location": "Mountain View, California",
+    "url": "https://careers.kbr.com/us/en/job/R2124032/Python-Research-Intern",
+    "date_found": "2026-05-20",
+    "disciplines": []
+  },
+  {
+    "company": "L3Harris",
+    "title": "Manufacturing Technician B-Engineering Intern",
+    "location": "Waco, TX",
+    "url": "https://careers.l3harris.com/en/job/waco/manufacturing-technician-b-engineering-intern/4832/95345881952",
+    "date_found": "2026-05-20",
     "disciplines": []
   },
   {
@@ -1794,7 +1818,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "Windsor, Maryland, United States of America",
+    "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1818,7 +1842,7 @@
   {
     "company": "MITRE",
     "title": "Software Engineering Graduate Intern",
-    "location": "Bedford, Massachusetts, United States of America",
+    "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116379/Software-Engineering-Graduate-Intern",
     "date_found": "2026-05-17",
     "disciplines": []
