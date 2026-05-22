@@ -105,14 +105,6 @@
   },
   {
     "company": "Airbus",
-    "title": "Discover II 2026-2027 / Communications Airbus Spain Internship",
-    "location": "Getafe Area",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Discover-II-2026-2027---Communications-Airbus-Spain-Internship_JR10414293",
-    "date_found": "2026-05-14",
-    "disciplines": []
-  },
-  {
-    "company": "Airbus",
     "title": "Discover II 2026-2027 HRBP Internship",
     "location": "Getafe Area",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Discover-II-2026-2027-HRBP-Internship_JR10414495",
@@ -337,6 +329,14 @@
   },
   {
     "company": "Amentum",
+    "title": "Summer 2026 Space Hardware Project Engineer Intern Houston",
+    "location": "Texas",
+    "url": "https://www.amentumcareers.com/jobs/summer-2026-space-hardware-project-engineer-intern-houston-texas-united-states",
+    "date_found": "2026-05-22",
+    "disciplines": []
+  },
+  {
+    "company": "Amentum",
     "title": "Summer 2026 Systems Engineering Intern Houston",
     "location": "Texas",
     "url": "https://www.amentumcareers.com/jobs/summer-2026-systems-engineering-intern-houston-texas-united-states-28b031e7-89e7-43dc-8410-eb0e41479b26",
@@ -345,10 +345,34 @@
   },
   {
     "company": "BAE Systems",
+    "title": "AEGIS System Engineering Technical Intern 4 Summer 2026",
+    "location": "Mount Laurel, New Jersey, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/121269BR/AEGIS-System-Engineering-Technical-Intern-4-Summer-2026",
+    "date_found": "2026-05-22",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Business Development Intern Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125206BR/Business-Development-Intern-Hybrid",
+    "date_found": "2026-05-22",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Communications Intern 2026",
     "location": "Sterling Heights, Michigan, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123441BR/Communications-Intern-2026",
     "date_found": "2026-05-15",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "EE CE RF Engineering Intern Summer 2026",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/120625BR/EE-CE-RF-Engineering-Intern-Summer-2026",
+    "date_found": "2026-05-22",
     "disciplines": []
   },
   {
@@ -461,6 +485,14 @@
     "location": "Rome, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/121107BR/Software-Engineering-Intern-On-Site",
     "date_found": "2026-05-20",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Supply Chain Management Intern Summer 2026",
+    "location": "Fort Worth, Texas, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/124267BR/Supply-Chain-Management-Intern-Summer-2026",
+    "date_found": "2026-05-22",
     "disciplines": []
   },
   {
@@ -961,6 +993,14 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Intern",
+    "location": "Bengaluru, Karnātaka, India",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034596EXTERNALENGLOBAL/Intern",
+    "date_found": "2026-05-22",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
     "title": "Intern IME Configurations Hardware LSE",
     "location": "Queretaro, Querétaro, Mexico",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034649EXTERNALENGLOBAL/Intern-IME-Configurations-Hardware-LSE",
@@ -973,6 +1013,14 @@
     "location": "Queretaro, Querétaro, Mexico",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034834EXTERNALENGLOBAL/Intern-for-Lean-Summer-Experience-Mechanical-design",
     "date_found": "2026-05-21",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Internship Lean Manufacturing",
+    "location": "",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034089EXTERNALENGLOBAL/Internship-Lean-Manufacturing",
+    "date_found": "2026-05-22",
     "disciplines": []
   },
   {
@@ -1009,6 +1057,14 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Lynn Carpentry Trainee Co Op",
+    "location": "Lynn, Massachusetts, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034333EXTERNALENGLOBAL/Lynn-Carpentry-Trainee-Co-Op",
+    "date_found": "2026-05-22",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
     "title": "Lynn Welder Trainee Co Op",
     "location": "Lynn, Massachusetts, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034069EXTERNALENGLOBAL/Lynn-Welder-Trainee-Co-Op",
@@ -1029,6 +1085,14 @@
     "location": "Istanbul, Türkiye",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033862EXTERNALENGLOBAL/Mechanical-Analysis-Engineering-Intern-6-Months",
     "date_found": "2026-05-14",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Production Associate High School Co op",
+    "location": "Jacksonville, Florida, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033264EXTERNALENGLOBAL/Production-Associate-High-School-Co-op",
+    "date_found": "2026-05-22",
     "disciplines": []
   },
   {
@@ -1727,17 +1791,17 @@
   },
   {
     "company": "MITRE",
-    "title": "Chemistry Intern",
+    "title": "AI Engineering Intern",
     "location": "McLean, Virginia, United States of America",
-    "url": "https://careers.mitre.org/us/en/job/R115896/Chemistry-Intern",
-    "date_found": "2026-05-17",
+    "url": "https://careers.mitre.org/us/en/job/R116698/AI-Engineering-Intern",
+    "date_found": "2026-05-22",
     "disciplines": []
   },
   {
     "company": "MITRE",
-    "title": "Cybersecurity Information Security Intern",
-    "location": "Bedford, Massachusetts, United States of America",
-    "url": "https://careers.mitre.org/us/en/job/R116648/Cybersecurity-Information-Security-Intern",
+    "title": "Chemistry Intern",
+    "location": "McLean, Virginia, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R115896/Chemistry-Intern",
     "date_found": "2026-05-17",
     "disciplines": []
   },
@@ -1760,7 +1824,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "McLean, Virginia, United States of America",
+    "location": "Windsor, Maryland, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1784,7 +1848,7 @@
   {
     "company": "MITRE",
     "title": "Software Engineering Graduate Intern",
-    "location": "Bedford, Massachusetts, United States of America",
+    "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116379/Software-Engineering-Graduate-Intern",
     "date_found": "2026-05-17",
     "disciplines": []
