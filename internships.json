@@ -9,6 +9,14 @@
   },
   {
     "company": "ATI",
+    "title": "Finance Procurement Intern Summer 2026",
+    "location": "Albany,Oregon,United States",
+    "url": "https://careers.atimaterials.com/us/en/job/26-2683/Finance-Procurement-Intern-Summer-2026",
+    "date_found": "2026-05-23",
+    "disciplines": []
+  },
+  {
+    "company": "ATI",
     "title": "Quality Assurance Internship Summer 2026",
     "location": "Latrobe,Pennsylvania,United States",
     "url": "https://careers.atimaterials.com/us/en/job/25-3104/Quality-Assurance-Internship-Summer-2026",
@@ -345,38 +353,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "AEGIS System Engineering Technical Intern 4 Summer 2026",
-    "location": "Mount Laurel, New Jersey, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/121269BR/AEGIS-System-Engineering-Technical-Intern-4-Summer-2026",
-    "date_found": "2026-05-22",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Business Development Intern Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125206BR/Business-Development-Intern-Hybrid",
-    "date_found": "2026-05-22",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Communications Intern 2026",
-    "location": "Sterling Heights, Michigan, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/123441BR/Communications-Intern-2026",
-    "date_found": "2026-05-15",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "EE CE RF Engineering Intern Summer 2026",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/120625BR/EE-CE-RF-Engineering-Intern-Summer-2026",
-    "date_found": "2026-05-22",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
     "title": "Electrical Engineer Co Op 2026",
     "location": "Kingsport, Tennessee, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123900BR/Electrical-Engineer-Co-Op-2026",
@@ -485,14 +461,6 @@
     "location": "Rome, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/121107BR/Software-Engineering-Intern-On-Site",
     "date_found": "2026-05-20",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Supply Chain Management Intern Summer 2026",
-    "location": "Fort Worth, Texas, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/124267BR/Supply-Chain-Management-Intern-Summer-2026",
-    "date_found": "2026-05-22",
     "disciplines": []
   },
   {
@@ -689,14 +657,6 @@
   },
   {
     "company": "Boeing",
-    "title": "Data Analytics Internship- Summer 2026",
-    "location": "GBR - Bristol, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Data-Analytics-Internship--Summer-2026_JR2026508199",
-    "date_found": "2026-05-08",
-    "disciplines": []
-  },
-  {
-    "company": "Boeing",
     "title": "Intern - Boeing Japan Tokyo Office Intern- Tokyo, Japan",
     "location": "JPN - Tokyo, Japan",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/JPN---Tokyo-Japan/Intern---Boeing-Japan-Tokyo-Office-Intern--Tokyo--Japan_JR2026505802-1",
@@ -796,14 +756,6 @@
     "title": "Systems Administrator Intern",
     "location": "Annapolis Junction, MD",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0237149",
-    "date_found": "2026-05-02",
-    "disciplines": []
-  },
-  {
-    "company": "Booz Allen Hamilton",
-    "title": "University, Applied AI Software Developer Intern",
-    "location": "McLean, VA",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--Applied-AI-Software-Developer_R0236821",
     "date_found": "2026-05-02",
     "disciplines": []
   },
@@ -937,6 +889,22 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Additive Manufacturing Design Engineering Intern 6 Months",
+    "location": "Istanbul, Türkiye",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033956EXTERNALENGLOBAL/Additive-Manufacturing-Design-Engineering-Intern-6-Months",
+    "date_found": "2026-05-23",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Additive Manufacturing Production Engineering Intern 6 Months",
+    "location": "Gebze, Türkiye",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033838EXTERNALENGLOBAL/Additive-Manufacturing-Production-Engineering-Intern-6-Months",
+    "date_found": "2026-05-23",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
     "title": "CNC Programmer Co op Fall 2026",
     "location": "Lynn, Massachusetts, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030459EXTERNALENGLOBAL/CNC-Programmer-Co-op-Fall-2026",
@@ -1017,14 +985,6 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Internship Lean Manufacturing",
-    "location": "",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034089EXTERNALENGLOBAL/Internship-Lean-Manufacturing",
-    "date_found": "2026-05-22",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Internship Lean Manufacturing Engineer",
     "location": "Pomigliano D'Arco, Napoli, Italy",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034907EXTERNALENGLOBAL/Internship-Lean-Manufacturing-Engineer",
@@ -1101,6 +1061,14 @@
     "location": "Queretaro, Querétaro, Mexico",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033583EXTERNALENGLOBAL/Systems-Product-definition-intern",
     "date_found": "2026-05-19",
+    "disciplines": []
+  },
+  {
+    "company": "HII",
+    "title": "Mechanical Engineer Intern (Engineering Intern 3) - 28699",
+    "location": "Alexandria, VA, Maryland, United States",
+    "url": "https://jobs.hii-tsd.com/job/Alexandria%2C-VA-Mechanical-Engineer-Intern-%28Engineering-Intern-3%29-28699-Mary/1393581800/",
+    "date_found": "2026-05-23",
     "disciplines": []
   },
   {
@@ -1512,16 +1480,16 @@
   {
     "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Structural Engineer",
-    "location": "Adelaide, South Australia",
-    "url": "https://careers.kbr.com/us/en/job/R2123111/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "location": "Perth, Western Australia",
+    "url": "https://careers.kbr.com/us/en/job/R2123188/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
   {
     "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Structural Engineer",
-    "location": "Perth, Western Australia",
-    "url": "https://careers.kbr.com/us/en/job/R2123188/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "location": "Adelaide, South Australia",
+    "url": "https://careers.kbr.com/us/en/job/R2123111/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
@@ -1727,6 +1695,14 @@
   },
   {
     "company": "Leidos",
+    "title": "Power Platform Intern",
+    "location": "6314 Remote/Teleworker US",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Power-Platform-Intern_R-00183950",
+    "date_found": "2026-05-23",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
     "title": "Software Developer Intern",
     "location": "2 Locations",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/Software-Developer-Intern_R-00183858",
@@ -1824,7 +1800,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "Windsor, Maryland, United States of America",
+    "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1839,16 +1815,8 @@
   },
   {
     "company": "MITRE",
-    "title": "Resilient Communications Intern",
-    "location": "Bedford, Massachusetts, United States of America",
-    "url": "https://careers.mitre.org/us/en/job/R115945/Resilient-Communications-Intern",
-    "date_found": "2026-05-19",
-    "disciplines": []
-  },
-  {
-    "company": "MITRE",
     "title": "Software Engineering Graduate Intern",
-    "location": "McLean, Virginia, United States of America",
+    "location": "Bedford, Massachusetts, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116379/Software-Engineering-Graduate-Intern",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -2277,14 +2245,6 @@
     "location": "Virginia",
     "url": "https://www.careers.peraton.com/jobs/disaster-recovery-coop-engineer-herndon-virginia-165079-jobs--cyber-security--",
     "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Network Infrastructure Intern",
-    "location": "Scott Afb, IL, United States",
-    "url": "https://jobs.saic.com/jobs/17774706-network-infrastructure-intern",
-    "date_found": "2026-05-22",
     "disciplines": []
   },
   {
