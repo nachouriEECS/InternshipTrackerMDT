@@ -353,14 +353,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Business Development Intern Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125206BR/Business-Development-Intern-Hybrid",
-    "date_found": "2026-05-23",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
     "title": "EE CE RF Engineering Intern Summer 2026",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/120625BR/EE-CE-RF-Engineering-Intern-Summer-2026",
@@ -473,10 +465,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Supply Chain Management Intern Summer 2026",
-    "location": "Fort Worth, Texas, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/124267BR/Supply-Chain-Management-Intern-Summer-2026",
-    "date_found": "2026-05-23",
+    "title": "Software Engineering Intern On Site",
+    "location": "Rome, New York, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/121107BR/Software-Engineering-Intern-On-Site",
+    "date_found": "2026-05-24",
     "disciplines": []
   },
   {
@@ -913,6 +905,14 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Additive Manufacturing Design Engineering Intern 6 Months",
+    "location": "Istanbul, Türkiye",
+    "url": "https://careers.geaerospace.com/global/en/job/R5033956/Additive-Manufacturing-Design-Engineering-Intern-6-Months",
+    "date_found": "2026-05-24",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
     "title": "Additive Manufacturing Production Engineering Intern 6 Months",
     "location": "Gebze, Türkiye",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033838EXTERNALENGLOBAL/Additive-Manufacturing-Production-Engineering-Intern-6-Months",
@@ -923,8 +923,8 @@
     "company": "GE Aerospace",
     "title": "CNC Programmer Co op Fall 2026",
     "location": "Lynn, Massachusetts, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030459EXTERNALENGLOBAL/CNC-Programmer-Co-op-Fall-2026",
-    "date_found": "2026-05-17",
+    "url": "https://careers.geaerospace.com/global/en/job/R5030459/CNC-Programmer-Co-op-Fall-2026",
+    "date_found": "2026-05-24",
     "disciplines": []
   },
   {
@@ -971,8 +971,8 @@
     "company": "GE Aerospace",
     "title": "IT Intern part time",
     "location": "Prague, Praha, Czechia",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5032338EXTERNALENGLOBAL/IT-Intern-part-time",
-    "date_found": "2026-05-17",
+    "url": "https://careers.geaerospace.com/global/en/job/R5032338/IT-Intern-part-time",
+    "date_found": "2026-05-24",
     "disciplines": []
   },
   {
@@ -981,6 +981,14 @@
     "location": "Bengaluru, Karnātaka, India",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034596EXTERNALENGLOBAL/Intern",
     "date_found": "2026-05-23",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Intern",
+    "location": "Bengaluru, Karnātaka, India",
+    "url": "https://careers.geaerospace.com/global/en/job/R5034596/Intern",
+    "date_found": "2026-05-24",
     "disciplines": []
   },
   {
@@ -1033,6 +1041,14 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Lynn Carpentry Trainee Co Op",
+    "location": "Lynn, Massachusetts, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/R5034333/Lynn-Carpentry-Trainee-Co-Op",
+    "date_found": "2026-05-24",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
     "title": "Lynn Welder Trainee Co Op",
     "location": "Lynn, Massachusetts, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034069EXTERNALENGLOBAL/Lynn-Welder-Trainee-Co-Op",
@@ -1043,8 +1059,8 @@
     "company": "GE Aerospace",
     "title": "Material Plan Execution Specialist Intern",
     "location": "Suzhou, Jiangsu, China",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034030EXTERNALENGLOBAL/Material-Plan-Execution-Specialist-Intern",
-    "date_found": "2026-05-17",
+    "url": "https://careers.geaerospace.com/global/en/job/R5034030/Material-Plan-Execution-Specialist-Intern",
+    "date_found": "2026-05-24",
     "disciplines": []
   },
   {
@@ -1061,6 +1077,14 @@
     "location": "Jacksonville, Florida, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033264EXTERNALENGLOBAL/Production-Associate-High-School-Co-op",
     "date_found": "2026-05-23",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Production Associate High School Co op",
+    "location": "Jacksonville, Florida, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/R5033264/Production-Associate-High-School-Co-op",
+    "date_found": "2026-05-24",
     "disciplines": []
   },
   {
@@ -1768,7 +1792,7 @@
   {
     "company": "MITRE",
     "title": "AI Engineering Intern",
-    "location": "McLean, Virginia, United States of America",
+    "location": "Bedford, Massachusetts, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116698/AI-Engineering-Intern",
     "date_found": "2026-05-22",
     "disciplines": []
@@ -1800,7 +1824,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "Windsor, Maryland, United States of America",
+    "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -2237,6 +2261,14 @@
     "location": "Virginia",
     "url": "https://www.careers.peraton.com/jobs/disaster-recovery-coop-engineer-herndon-virginia-165079-jobs--cyber-security--",
     "date_found": "2026-05-09",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Network Infrastructure Intern",
+    "location": "Scott Afb, IL, United States",
+    "url": "https://jobs.saic.com/jobs/17774706-network-infrastructure-intern",
+    "date_found": "2026-05-24",
     "disciplines": []
   },
   {
