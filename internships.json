@@ -18,7 +18,7 @@
   {
     "company": "ATI",
     "title": "Quality Assurance Internship Summer 2026",
-    "location": "Latrobe,Pennsylvania,United States",
+    "location": "",
     "url": "https://careers.atimaterials.com/us/en/job/25-3104/Quality-Assurance-Internship-Summer-2026",
     "date_found": "2026-05-09",
     "disciplines": []
@@ -26,7 +26,7 @@
   {
     "company": "ATI",
     "title": "Summer 2026 Internship Process Controls and Automation",
-    "location": "Vandergrift,Pennsylvania,United States",
+    "location": "",
     "url": "https://careers.atimaterials.com/us/en/job/26-2160/Summer-2026-Internship-Process-Controls-and-Automation",
     "date_found": "2026-05-09",
     "disciplines": []
@@ -349,6 +349,14 @@
     "location": "Texas",
     "url": "https://www.amentumcareers.com/jobs/summer-2026-space-hardware-project-engineer-intern-houston-texas-united-states",
     "date_found": "2026-05-22",
+    "disciplines": []
+  },
+  {
+    "company": "Amentum",
+    "title": "Summer 2026 Spacesuit Project Engineer Intern Houston",
+    "location": "Texas",
+    "url": "https://www.amentumcareers.com/jobs/summer-2026-spacesuit-project-engineer-intern-houston-texas-united-states",
+    "date_found": "2026-05-26",
     "disciplines": []
   },
   {
@@ -1487,6 +1495,14 @@
   },
   {
     "company": "Leidos",
+    "title": "Quantum Information Science Intern",
+    "location": "Huntsville, AL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Quantum-Information-Science-Intern_R-00184033",
+    "date_found": "2026-05-26",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
     "title": "Software Engineer Intern",
     "location": "Chantilly, VA",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707",
@@ -1841,8 +1857,8 @@
   },
   {
     "company": "Parsons",
-    "title": "Aviation Engineering Intern - Summer 2026",
-    "location": "Atlanta, Georgia",
+    "title": "Aviation Engineering Intern Summer 2026 Atlanta",
+    "location": "",
     "url": "https://jobs.parsons.com/jobs/aviation-engineering-intern-summer-2026-atlanta-r-180587-jobs--internship-program--",
     "date_found": "2026-05-15",
     "disciplines": []
@@ -2021,14 +2037,6 @@
     "location": "Virginia",
     "url": "https://www.careers.peraton.com/jobs/disaster-recovery-coop-engineer-herndon-virginia-165079-jobs--cyber-security--",
     "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Network Infrastructure Intern",
-    "location": "Scott Afb, IL, United States",
-    "url": "https://jobs.saic.com/jobs/17774706-network-infrastructure-intern",
-    "date_found": "2026-05-26",
     "disciplines": []
   },
   {
