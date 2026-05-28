@@ -2,7 +2,7 @@
   {
     "company": "ATI",
     "title": "Commercial Sales Intern Summer 2026",
-    "location": "Albany,Oregon,United States",
+    "location": "",
     "url": "https://careers.atimaterials.com/us/en/job/26-2590/Commercial-Sales-Intern-Summer-2026",
     "date_found": "2026-05-09",
     "disciplines": []
@@ -257,14 +257,6 @@
   },
   {
     "company": "Amentum",
-    "title": "Intern Supply Chain Procurement Philadelphia",
-    "location": "Pennsylvania",
-    "url": "https://www.amentumcareers.com/jobs/intern-supply-chain-procurement-philadelphia-pennsylvania-united-states-17218937-71d6-438a-a5c2-ab24ac5d96bb",
-    "date_found": "2026-05-14",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
     "title": "It Cyber Intern Englewood",
     "location": "Colorado",
     "url": "https://www.amentumcareers.com/jobs/it-cyber-intern-englewood-colorado-united-states",
@@ -314,7 +306,7 @@
   {
     "company": "BAE Systems",
     "title": "AI Engineer Intern",
-    "location": "McLean, Virginia, United States",
+    "location": "",
     "url": "https://jobs.baesystems.com/global/en/job/124286BR/AI-Engineer-Intern",
     "date_found": "2026-05-28",
     "disciplines": []
@@ -476,14 +468,6 @@
     "title": "Data Science Intern",
     "location": "CAN - Richmond, Canada",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026510799",
-    "date_found": "2026-05-28",
-    "disciplines": []
-  },
-  {
-    "company": "Boeing",
-    "title": "Engineering Intern",
-    "location": "CAN - Winnipeg, Canada",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Winnipeg-Canada/Engineering-Intern_JR2026509407-1",
     "date_found": "2026-05-28",
     "disciplines": []
   },
@@ -697,18 +681,18 @@
   },
   {
     "company": "Curtiss-Wright",
-    "title": "Quality Engineering Summer Intern – Hatfield, PA",
-    "location": "US-PA-Hatfield (EST)",
-    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Hatfield-EST/Quality-Engineering-Summer-Intern---Hatfield--PA_JR11946",
-    "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "Curtiss-Wright",
     "title": "Software/Electrical Engineering Intern",
     "location": "US-PA-Newtown (TTC)",
     "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Newtown-TTC/Software-Electrical-Engineering-Intern_JR11947-1",
     "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Additive Manufacturing Design Engineering Intern 6 Months",
+    "location": "Istanbul, Türkiye",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033956EXTERNALENGLOBAL/Additive-Manufacturing-Design-Engineering-Intern-6-Months",
+    "date_found": "2026-05-28",
     "disciplines": []
   },
   {
@@ -723,7 +707,7 @@
     "company": "GE Aerospace",
     "title": "CNC Programmer Co op Fall 2026",
     "location": "Lynn, Massachusetts, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/R5030459/CNC-Programmer-Co-op-Fall-2026",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030459EXTERNALENGLOBAL/CNC-Programmer-Co-op-Fall-2026",
     "date_found": "2026-05-28",
     "disciplines": []
   },
@@ -761,6 +745,14 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "EID Intern",
+    "location": "Lafayette, Indiana, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034654EXTERNALENGLOBAL/EID-Intern",
+    "date_found": "2026-05-28",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
     "title": "EID Intern Fleet Model Process",
     "location": "Queretaro, Querétaro, Mexico",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034651EXTERNALENGLOBAL/EID-Intern-Fleet-Model-Process",
@@ -771,7 +763,7 @@
     "company": "GE Aerospace",
     "title": "IT Intern part time",
     "location": "Prague, Praha, Czechia",
-    "url": "https://careers.geaerospace.com/global/en/job/R5032338/IT-Intern-part-time",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5032338EXTERNALENGLOBAL/IT-Intern-part-time",
     "date_found": "2026-05-28",
     "disciplines": []
   },
@@ -787,7 +779,7 @@
     "company": "GE Aerospace",
     "title": "Internship Lean Manufacturing",
     "location": "Brindisi, Brindisi, Italy",
-    "url": "https://careers.geaerospace.com/global/en/job/R5034089/Internship-Lean-Manufacturing",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034089EXTERNALENGLOBAL/Internship-Lean-Manufacturing",
     "date_found": "2026-05-28",
     "disciplines": []
   },
@@ -813,6 +805,14 @@
     "location": "Lynn, Massachusetts, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034331EXTERNALENGLOBAL/Lynn-CNC-Trainee-Co-Op",
     "date_found": "2026-05-14",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Lynn Carpentry Trainee Co Op",
+    "location": "Lynn, Massachusetts, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034333EXTERNALENGLOBAL/Lynn-Carpentry-Trainee-Co-Op",
+    "date_found": "2026-05-28",
     "disciplines": []
   },
   {
@@ -843,7 +843,7 @@
     "company": "GE Aerospace",
     "title": "Material Plan Execution Specialist Intern",
     "location": "Suzhou, Jiangsu, China",
-    "url": "https://careers.geaerospace.com/global/en/job/R5034030/Material-Plan-Execution-Specialist-Intern",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034030EXTERNALENGLOBAL/Material-Plan-Execution-Specialist-Intern",
     "date_found": "2026-05-28",
     "disciplines": []
   },
@@ -853,6 +853,14 @@
     "location": "Istanbul, Türkiye",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033862EXTERNALENGLOBAL/Mechanical-Analysis-Engineering-Intern-6-Months",
     "date_found": "2026-05-14",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Production Associate High School Co op",
+    "location": "Jacksonville, Florida, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033264EXTERNALENGLOBAL/Production-Associate-High-School-Co-op",
+    "date_found": "2026-05-28",
     "disciplines": []
   },
   {
@@ -1232,16 +1240,16 @@
   {
     "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Structural Engineer",
-    "location": "Adelaide, South Australia",
-    "url": "https://careers.kbr.com/us/en/job/R2123111/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "location": "Perth, Western Australia",
+    "url": "https://careers.kbr.com/us/en/job/R2123188/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
   {
     "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Structural Engineer",
-    "location": "Perth, Western Australia",
-    "url": "https://careers.kbr.com/us/en/job/R2123188/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "location": "Adelaide, South Australia",
+    "url": "https://careers.kbr.com/us/en/job/R2123111/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
@@ -1259,14 +1267,6 @@
     "location": "Brisbane, Queensland",
     "url": "https://careers.kbr.com/us/en/job/R2123200/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "KBR",
-    "title": "National Security Solutions NSS Computer Science Intern",
-    "location": "Beavercreek Township, Ohio",
-    "url": "https://careers.kbr.com/us/en/job/R2120307/National-Security-Solutions-NSS-Computer-Science-Intern",
-    "date_found": "2026-05-09",
     "disciplines": []
   },
   {
@@ -1536,7 +1536,7 @@
   {
     "company": "MITRE",
     "title": "Software Engineering Graduate Intern",
-    "location": "Bedford, Massachusetts, United States of America",
+    "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116379/Software-Engineering-Graduate-Intern",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1618,6 +1618,14 @@
     "title": "2026 Data Scientist Intern - Redondo Beach CA",
     "location": "United States-California-Redondo Beach",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2026-Data-Scientist-Intern---Redondo-Beach-CA_R10234366",
+    "date_found": "2026-05-28",
+    "disciplines": []
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2026 Intern Electronics Engineer",
+    "location": "United States-Oklahoma-Oklahoma City",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2026-Intern-Electronics-Engineer_R10234467",
     "date_found": "2026-05-28",
     "disciplines": []
   },
@@ -2005,30 +2013,6 @@
     "location": "Virginia",
     "url": "https://www.careers.peraton.com/jobs/disaster-recovery-coop-engineer-herndon-virginia-165079-jobs--cyber-security--",
     "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Network Infrastructure Intern",
-    "location": "Scott Afb, IL, United States",
-    "url": "https://jobs.saic.com/jobs/17774706-network-infrastructure-intern",
-    "date_found": "2026-05-27",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Site Support Intern",
-    "location": "San Diego, CA, United States",
-    "url": "https://jobs.saic.com/jobs/17788968-site-support-intern",
-    "date_found": "2026-05-28",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Software Engineer Internship",
-    "location": "Colorado Springs, CO, United States",
-    "url": "https://jobs.saic.com/jobs/17782958-software-engineer-internship",
-    "date_found": "2026-05-27",
     "disciplines": []
   },
   {
