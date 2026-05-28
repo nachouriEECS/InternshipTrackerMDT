@@ -1,14 +1,6 @@
 [
   {
     "company": "ATI",
-    "title": "Commercial Sales Intern Summer 2026",
-    "location": "",
-    "url": "https://careers.atimaterials.com/us/en/job/26-2590/Commercial-Sales-Intern-Summer-2026",
-    "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "ATI",
     "title": "Finance Procurement Intern Summer 2026",
     "location": "Albany,Oregon,United States",
     "url": "https://careers.atimaterials.com/us/en/job/26-2683/Finance-Procurement-Intern-Summer-2026",
@@ -113,22 +105,6 @@
   },
   {
     "company": "Airbus",
-    "title": "Finance COOP internship",
-    "location": "Riyadh",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Riyadh/Finance-COOP-internship_JR10415074",
-    "date_found": "2026-05-20",
-    "disciplines": []
-  },
-  {
-    "company": "Airbus",
-    "title": "HR Intern (f/m)",
-    "location": "Lodz",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Lodz/HR-Intern--f-m-_JR10416119-1",
-    "date_found": "2026-05-21",
-    "disciplines": []
-  },
-  {
-    "company": "Airbus",
     "title": "Instructor Competency Intern",
     "location": "Gurugram",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gurugram/Instructor-Competency-Intern_JR10415412",
@@ -189,6 +165,14 @@
     "location": "Immenstaad am Bodensee",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship-in-Systems-Engineering-for-Space-Exploration--d-f-m-_JR10414260",
     "date_found": "2026-05-21",
+    "disciplines": []
+  },
+  {
+    "company": "Airbus",
+    "title": "Internship within AIT (Assembly Integration and Test) for optical Instruments (d/f/m)",
+    "location": "München Area",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Internship--d-f-m--within-AIT--Assembly-Integration-and-Test--for-optical-Instruments---Mechanical_JR10379016",
+    "date_found": "2026-05-28",
     "disciplines": []
   },
   {
@@ -305,9 +289,9 @@
   },
   {
     "company": "BAE Systems",
-    "title": "AI Engineer Intern",
-    "location": "",
-    "url": "https://jobs.baesystems.com/global/en/job/124286BR/AI-Engineer-Intern",
+    "title": "Business Development Intern Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125206BR/Business-Development-Intern-Hybrid",
     "date_found": "2026-05-28",
     "disciplines": []
   },
@@ -425,14 +409,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern On Site",
-    "location": "Rome, New York, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/121107BR/Software-Engineering-Intern-On-Site",
-    "date_found": "2026-05-27",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
     "title": "Supply Chain Management Intern Summer 2026",
     "location": "Fort Worth, Texas, United States",
     "url": "https://jobs.baesystems.com/global/en/job/124267BR/Supply-Chain-Management-Intern-Summer-2026",
@@ -468,6 +444,14 @@
     "title": "Data Science Intern",
     "location": "CAN - Richmond, Canada",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026510799",
+    "date_found": "2026-05-28",
+    "disciplines": []
+  },
+  {
+    "company": "Boeing",
+    "title": "Engineering Intern",
+    "location": "CAN - Winnipeg, Canada",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Winnipeg-Canada/Engineering-Intern_JR2026509407-1",
     "date_found": "2026-05-28",
     "disciplines": []
   },
@@ -1423,38 +1407,6 @@
   },
   {
     "company": "Leidos",
-    "title": "Software Engineer Intern",
-    "location": "Chantilly, VA",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183707",
-    "date_found": "2026-05-21",
-    "disciplines": []
-  },
-  {
-    "company": "Leidos",
-    "title": "Software Engineer Intern",
-    "location": "Chantilly, VA",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183722",
-    "date_found": "2026-05-21",
-    "disciplines": []
-  },
-  {
-    "company": "Leidos",
-    "title": "Software Engineer Intern",
-    "location": "Chantilly, VA",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183714",
-    "date_found": "2026-05-21",
-    "disciplines": []
-  },
-  {
-    "company": "Leidos",
-    "title": "Software Engineer Intern",
-    "location": "Chantilly, VA",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/Software-Engineer-Intern_R-00183721",
-    "date_found": "2026-05-21",
-    "disciplines": []
-  },
-  {
-    "company": "Leidos",
     "title": "Software Intern",
     "location": "San Diego, CA",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Software-Intern_R-00184039",
@@ -1619,94 +1571,6 @@
     "location": "United States-California-Redondo Beach",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2026-Data-Scientist-Intern---Redondo-Beach-CA_R10234366",
     "date_found": "2026-05-28",
-    "disciplines": []
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2026 Intern Electronics Engineer",
-    "location": "United States-Oklahoma-Oklahoma City",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2026-Intern-Electronics-Engineer_R10234467",
-    "date_found": "2026-05-28",
-    "disciplines": []
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Intern - ASI/PSI Engineer",
-    "location": "2 Locations",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Springfield-Central/Intern---ASI-PSI-Engineer_R10232213",
-    "date_found": "2026-05-12",
-    "disciplines": []
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Intern - Avionics Engineer",
-    "location": "Australia-Springfield Central",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Springfield-Central/Intern---Avionics-Engineer_R10231917",
-    "date_found": "2026-05-12",
-    "disciplines": []
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Intern - Contracts",
-    "location": "Australia-Symonston",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Symonston/Intern---Contracts_R10232223",
-    "date_found": "2026-05-12",
-    "disciplines": []
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Intern - EHS",
-    "location": "Australia-Fortitude Valley",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Fortitude-Valley/Intern---EHS_R10232219",
-    "date_found": "2026-05-12",
-    "disciplines": []
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Intern - Engineering",
-    "location": "Australia-Fortitude Valley",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Fortitude-Valley/Intern---Engineering_R10232212",
-    "date_found": "2026-05-12",
-    "disciplines": []
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Intern - Engineering Certification",
-    "location": "Australia-Fortitude Valley",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Fortitude-Valley/Intern---Engineering-Certification_R10232221",
-    "date_found": "2026-05-12",
-    "disciplines": []
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Intern - Finance",
-    "location": "Australia-Fortitude Valley",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Fortitude-Valley/Intern---Finance_R10232206",
-    "date_found": "2026-05-12",
-    "disciplines": []
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Intern - Mechanical Engineer",
-    "location": "Australia-Springfield Central",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Springfield-Central/Intern---Mechanical-Engineer_R10231916",
-    "date_found": "2026-05-12",
-    "disciplines": []
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Intern - Systems Engineering",
-    "location": "Australia-Edinburgh Parks",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Edinburgh-Parks/Intern---Systems-Engineering_R10231915",
-    "date_found": "2026-05-12",
-    "disciplines": []
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Intern - Systems Engineering",
-    "location": "Australia-Edinburgh Parks",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/Australia-Edinburgh-Parks/Intern---Systems-Engineering_R10231914-1",
-    "date_found": "2026-05-12",
     "disciplines": []
   },
   {
