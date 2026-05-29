@@ -385,14 +385,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern On Site",
-    "location": "Rome, New York, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/121107BR/Software-Engineering-Intern-On-Site",
-    "date_found": "2026-05-29",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
     "title": "Supply Chain Management Intern Summer 2026",
     "location": "Fort Worth, Texas, United States",
     "url": "https://jobs.baesystems.com/global/en/job/124267BR/Supply-Chain-Management-Intern-Summer-2026",
@@ -521,14 +513,6 @@
   },
   {
     "company": "Booz Allen Hamilton",
-    "title": "Information Systems Intern",
-    "location": "McLean, VA",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Information-Systems-Intern_R0238499",
-    "date_found": "2026-05-02",
-    "disciplines": []
-  },
-  {
-    "company": "Booz Allen Hamilton",
     "title": "University, Software Developer Intern",
     "location": "Fayetteville, NC",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0239759",
@@ -651,6 +635,14 @@
     "company": "GE Aerospace",
     "title": "Additive Manufacturing Design Engineering Intern 6 Months",
     "location": "Istanbul, Türkiye",
+    "url": "https://careers.geaerospace.com/global/en/job/R5033956/Additive-Manufacturing-Design-Engineering-Intern-6-Months",
+    "date_found": "2026-05-29",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Additive Manufacturing Design Engineering Intern 6 Months",
+    "location": "Istanbul, Türkiye",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033956EXTERNALENGLOBAL/Additive-Manufacturing-Design-Engineering-Intern-6-Months",
     "date_found": "2026-05-28",
     "disciplines": []
@@ -659,8 +651,8 @@
     "company": "GE Aerospace",
     "title": "Additive Manufacturing Production Engineering Intern 6 Months",
     "location": "Gebze, Türkiye",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033838EXTERNALENGLOBAL/Additive-Manufacturing-Production-Engineering-Intern-6-Months",
-    "date_found": "2026-05-23",
+    "url": "https://careers.geaerospace.com/global/en/job/R5033838/Additive-Manufacturing-Production-Engineering-Intern-6-Months",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
@@ -675,32 +667,40 @@
     "company": "GE Aerospace",
     "title": "Colibrium Additive US Engineering Co op Fall 2026",
     "location": "West Chester, Ohio, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033318EXTERNALENGLOBAL/Colibrium-Additive-US-Engineering-Co-op-Fall-2026",
-    "date_found": "2026-05-14",
+    "url": "https://careers.geaerospace.com/global/en/job/R5033318/Colibrium-Additive-US-Engineering-Co-op-Fall-2026",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
     "company": "GE Aerospace",
     "title": "Contract Operation Summer Intern",
     "location": "Shanghai, Shanghai, China",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034665EXTERNALENGLOBAL/Contract-Operation-Summer-Intern",
-    "date_found": "2026-05-19",
+    "url": "https://careers.geaerospace.com/global/en/job/R5034665/Contract-Operation-Summer-Intern",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
     "company": "GE Aerospace",
     "title": "DT Intern",
     "location": "Bengaluru, Karnātaka, India",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034981EXTERNALENGLOBAL/DT-Intern",
-    "date_found": "2026-05-25",
+    "url": "https://careers.geaerospace.com/global/en/job/R5034981/DT-Intern",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
     "company": "GE Aerospace",
     "title": "Durability and Fatigue Engineering Intern 6 Months",
     "location": "Istanbul, Türkiye",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033760EXTERNALENGLOBAL/Durability-and-Fatigue-Engineering-Intern-6-Months",
-    "date_found": "2026-05-22",
+    "url": "https://careers.geaerospace.com/global/en/job/R5033760/Durability-and-Fatigue-Engineering-Intern-6-Months",
+    "date_found": "2026-05-29",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "EID Intern",
+    "location": "Lafayette, Indiana, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/R5034654/EID-Intern",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
@@ -715,8 +715,8 @@
     "company": "GE Aerospace",
     "title": "EID Intern Fleet Model Process",
     "location": "Queretaro, Querétaro, Mexico",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034651EXTERNALENGLOBAL/EID-Intern-Fleet-Model-Process",
-    "date_found": "2026-05-28",
+    "url": "https://careers.geaerospace.com/global/en/job/R5034651/EID-Intern-Fleet-Model-Process",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
@@ -731,8 +731,8 @@
     "company": "GE Aerospace",
     "title": "Intern HR Generalist",
     "location": "Bucharest, Bucureşti, Romania",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035109EXTERNALENGLOBAL/Intern-HR-Generalist",
-    "date_found": "2026-05-27",
+    "url": "https://careers.geaerospace.com/global/en/job/R5035109/Intern-HR-Generalist",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
@@ -747,24 +747,24 @@
     "company": "GE Aerospace",
     "title": "Internship Service Master Scheduler",
     "location": "Brindisi, Brindisi, Italy",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5032972EXTERNALENGLOBAL/Internship-Service-Master-Scheduler",
-    "date_found": "2026-05-15",
+    "url": "https://careers.geaerospace.com/global/en/job/R5032972/Internship-Service-Master-Scheduler",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
     "company": "GE Aerospace",
     "title": "Logistics Operation Summer Intern",
     "location": "Shanghai, Shanghai, China",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034666EXTERNALENGLOBAL/Logistics-Operation-Summer-Intern",
-    "date_found": "2026-05-20",
+    "url": "https://careers.geaerospace.com/global/en/job/R5034666/Logistics-Operation-Summer-Intern",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
     "company": "GE Aerospace",
     "title": "Lynn CNC Trainee Co Op",
     "location": "Lynn, Massachusetts, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034331EXTERNALENGLOBAL/Lynn-CNC-Trainee-Co-Op",
-    "date_found": "2026-05-14",
+    "url": "https://careers.geaerospace.com/global/en/job/R5034331/Lynn-CNC-Trainee-Co-Op",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
@@ -779,24 +779,24 @@
     "company": "GE Aerospace",
     "title": "Lynn Welder Trainee Co Op",
     "location": "Lynn, Massachusetts, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034069EXTERNALENGLOBAL/Lynn-Welder-Trainee-Co-Op",
-    "date_found": "2026-05-14",
+    "url": "https://careers.geaerospace.com/global/en/job/R5034069/Lynn-Welder-Trainee-Co-Op",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
     "company": "GE Aerospace",
     "title": "Maintenance Technician Intern",
     "location": "Suzhou, Jiangsu, China",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035234EXTERNALENGLOBAL/Maintenance-Technician-Intern",
-    "date_found": "2026-05-27",
+    "url": "https://careers.geaerospace.com/global/en/job/R5035234/Maintenance-Technician-Intern",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
     "company": "GE Aerospace",
     "title": "Marketing Intern",
     "location": "Shanghai, Shanghai, China",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035225EXTERNALENGLOBAL/Marketing-Intern",
-    "date_found": "2026-05-27",
+    "url": "https://careers.geaerospace.com/global/en/job/R5035225/Marketing-Intern",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
@@ -811,8 +811,16 @@
     "company": "GE Aerospace",
     "title": "Mechanical Analysis Engineering Intern 6 Months",
     "location": "Istanbul, Türkiye",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033862EXTERNALENGLOBAL/Mechanical-Analysis-Engineering-Intern-6-Months",
-    "date_found": "2026-05-14",
+    "url": "https://careers.geaerospace.com/global/en/job/R5033862/Mechanical-Analysis-Engineering-Intern-6-Months",
+    "date_found": "2026-05-29",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Production Associate High School Co op",
+    "location": "Jacksonville, Florida, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/R5033264/Production-Associate-High-School-Co-op",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
@@ -827,8 +835,8 @@
     "company": "GE Aerospace",
     "title": "Software Develop Summer Intern",
     "location": "Shanghai, Shanghai, China",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5028172EXTERNALENGLOBAL/Software-Develop-Summer-Intern",
-    "date_found": "2026-05-28",
+    "url": "https://careers.geaerospace.com/global/en/job/R5028172/Software-Develop-Summer-Intern",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
@@ -1367,6 +1375,14 @@
   },
   {
     "company": "Leidos",
+    "title": "Material Control Summer Intern",
+    "location": "Huntsville, AL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Material-Control-Summer-Intern_R-00184263",
+    "date_found": "2026-05-29",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
     "title": "Materials Expeditor Intern",
     "location": "Huntsville, AL",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Materials-Expeditor-Intern_R-00183199",
@@ -1448,7 +1464,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "Windsor, Maryland, United States of America",
+    "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1464,7 +1480,7 @@
   {
     "company": "MITRE",
     "title": "Software Engineering Graduate Intern",
-    "location": "McLean, Virginia, United States of America",
+    "location": "Bedford, Massachusetts, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116379/Software-Engineering-Graduate-Intern",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1763,8 +1779,8 @@
   },
   {
     "company": "Parsons",
-    "title": "Civil Engineering Intern - Summer 2026",
-    "location": "Virtual, Virginia",
+    "title": "Civil Engineering Intern Summer 2026 Virtual",
+    "location": "",
     "url": "https://jobs.parsons.com/jobs/civil-engineering-intern-summer-2026-virtual-r-181242-jobs--internship-program--",
     "date_found": "2026-05-22",
     "disciplines": []
