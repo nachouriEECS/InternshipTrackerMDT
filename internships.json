@@ -273,14 +273,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Business Development Intern Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125206BR/Business-Development-Intern-Hybrid",
-    "date_found": "2026-05-28",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
     "title": "Electrical Engineer Co Op 2026",
     "location": "Kingsport, Tennessee, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123900BR/Electrical-Engineer-Co-Op-2026",
@@ -385,10 +377,18 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Supply Chain Management Intern Summer 2026",
-    "location": "Fort Worth, Texas, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/124267BR/Supply-Chain-Management-Intern-Summer-2026",
-    "date_found": "2026-05-25",
+    "title": "Software Engineering Intern II Summer 2026",
+    "location": "Arlington, Virginia, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/124201BR/Software-Engineering-Intern-II-Summer-2026",
+    "date_found": "2026-05-29",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern On Site",
+    "location": "Rome, New York, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/121107BR/Software-Engineering-Intern-On-Site",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
@@ -836,6 +836,14 @@
     "title": "Software Develop Summer Intern",
     "location": "Shanghai, Shanghai, China",
     "url": "https://careers.geaerospace.com/global/en/job/R5028172/Software-Develop-Summer-Intern",
+    "date_found": "2026-05-29",
+    "disciplines": []
+  },
+  {
+    "company": "HII",
+    "title": "Mission Assurance/COOP Support",
+    "location": "Fort Meade, MD, Maryland, United States",
+    "url": "https://jobs.hii-tsd.com/job/Fort-Meade%2C-MD-Mission-AssuranceCOOP-Support-Mary/1395247100/",
     "date_found": "2026-05-29",
     "disciplines": []
   },
@@ -1303,6 +1311,14 @@
   },
   {
     "company": "KBR",
+    "title": "National Security Solutions NSS Software Engineering Internship",
+    "location": "Columbia, Maryland",
+    "url": "https://careers.kbr.com/us/en/job/R2122608/National-Security-Solutions-NSS-Software-Engineering-Internship",
+    "date_found": "2026-05-29",
+    "disciplines": []
+  },
+  {
+    "company": "KBR",
     "title": "Systems Engineering First Year Intern",
     "location": "El Segundo, California",
     "url": "https://careers.kbr.com/us/en/job/R2124179/Systems-Engineering-First-Year-Intern",
@@ -1399,14 +1415,6 @@
   },
   {
     "company": "Leidos",
-    "title": "Software Intern",
-    "location": "San Diego, CA",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Software-Intern_R-00184039",
-    "date_found": "2026-05-26",
-    "disciplines": []
-  },
-  {
-    "company": "Leidos",
     "title": "System Administrator Intern",
     "location": "Indianapolis, IN",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Indianapolis-IN/System-Administrator-Intern_R-00182453",
@@ -1464,7 +1472,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "McLean, Virginia, United States of America",
+    "location": "Windsor, Maryland, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1482,22 +1490,6 @@
     "title": "Software Engineering Graduate Intern",
     "location": "Bedford, Massachusetts, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116379/Software-Engineering-Graduate-Intern",
-    "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "MITRE",
-    "title": "Software Engineering Intern Orlando Fl",
-    "location": "Orlando, Florida, United States of America",
-    "url": "https://careers.mitre.org/us/en/job/R115933/Software-Engineering-Intern-Orlando-Fl",
-    "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "MITRE",
-    "title": "Software Systems Engineering Intern Omaha NE",
-    "location": "Bellevue, Nebraska, United States of America",
-    "url": "https://careers.mitre.org/us/en/job/R115929/Software-Systems-Engineering-Intern-Omaha-NE",
     "date_found": "2026-05-17",
     "disciplines": []
   },
@@ -1579,6 +1571,14 @@
     "location": "United States-California-Redondo Beach",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2026-Data-Scientist-Intern---Redondo-Beach-CA_R10234366",
     "date_found": "2026-05-28",
+    "disciplines": []
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2027 Intern Test & Evaluation - Palmdale CA / Edwards AFB CA / Mojave CA",
+    "location": "3 Locations",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Test---Evaluation---Palmdale-CA---Edwards-AFB-CA---Mojave-CA_R10234633",
+    "date_found": "2026-05-29",
     "disciplines": []
   },
   {
