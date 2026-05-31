@@ -705,14 +705,6 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Internship Lean Manufacturing",
-    "location": "Brindisi, Brindisi, Italy",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034089EXTERNALENGLOBAL/Internship-Lean-Manufacturing",
-    "date_found": "2026-05-28",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Internship Service Master Scheduler",
     "location": "Brindisi, Brindisi, Italy",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5032972EXTERNALENGLOBAL/Internship-Service-Master-Scheduler",
@@ -765,6 +757,14 @@
     "location": "Shanghai, Shanghai, China",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035225EXTERNALENGLOBAL/Marketing-Intern",
     "date_found": "2026-05-30",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Material Plan Execution Specialist Intern",
+    "location": "Suzhou, Jiangsu, China",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034030EXTERNALENGLOBAL/Material-Plan-Execution-Specialist-Intern",
+    "date_found": "2026-05-31",
     "disciplines": []
   },
   {
@@ -1160,16 +1160,16 @@
   {
     "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Structural Engineer",
-    "location": "Adelaide, South Australia",
-    "url": "https://careers.kbr.com/us/en/job/R2123111/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "location": "Perth, Western Australia",
+    "url": "https://careers.kbr.com/us/en/job/R2123188/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
   {
     "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Structural Engineer",
-    "location": "Perth, Western Australia",
-    "url": "https://careers.kbr.com/us/en/job/R2123188/KBR-Summer-Internship-Program-2026-Structural-Engineer",
+    "location": "Adelaide, South Australia",
+    "url": "https://careers.kbr.com/us/en/job/R2123111/KBR-Summer-Internship-Program-2026-Structural-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
@@ -1416,7 +1416,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "Windsor, Maryland, United States of America",
+    "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1499,14 +1499,6 @@
     "location": "Torrance, CA",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Operational-Excellence-Intern_R-25-15222",
     "date_found": "2026-05-25",
-    "disciplines": []
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2026 Data Scientist Intern - Redondo Beach CA",
-    "location": "United States-California-Redondo Beach",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2026-Data-Scientist-Intern---Redondo-Beach-CA_R10234366",
-    "date_found": "2026-05-28",
     "disciplines": []
   },
   {
@@ -1907,6 +1899,14 @@
   },
   {
     "company": "Textron",
+    "title": "2026 Fall Co Op Facility Engineer Williamsport Pa",
+    "location": "Williamsport, PA",
+    "url": "https://careers.textron.com/williamsport-pa/2026-fall-co-op-facility-engineer-williamsport-pa/7B6324F3D96743C8A78E4CADBA639147/job/",
+    "date_found": "2026-05-31",
+    "disciplines": []
+  },
+  {
+    "company": "Textron",
     "title": "2026 Fall Co Op Hr Piney Flats Tn",
     "location": "Piney Flats, TN",
     "url": "https://careers.textron.com/piney-flats-tn/2026-fall-co-op-hr-piney-flats-tn/809922FAB86D420F9CBCBCE6EAD8C699/job/",
@@ -1991,6 +1991,14 @@
     "location": "Mirabel, CAN",
     "url": "https://careers.textron.com/mirabel-can/stage-Ã©tÃ©-2026-santÃ©-sÃ©curitÃ©-et-environnement-2026-summer-internship-health-safety-and-environment-mirabel-qc/E5057B6A518847E285ACD533B00ED3D4/job/",
     "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Textron",
+    "title": "Stage Été 2026 Technologie De Linformation Des Systèmes De Qualité 2026 Summer Internship Quality Systems Information Technology Mirabel Qc",
+    "location": "Mirabel, CAN",
+    "url": "https://careers.textron.com/mirabel-can/stage-Ã©tÃ©-2026-technologie-de-linformation-des-systÃ¨mes-de-qualitÃ©-2026-summer-internship-quality-systems-information-technology-mirabel-qc/E3C1AB83F6DA4EAA8BC7B239C1200A96/job/",
+    "date_found": "2026-05-31",
     "disciplines": []
   }
 ]
