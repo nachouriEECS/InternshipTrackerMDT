@@ -241,6 +241,14 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Corporate Legal Intern Hybrid",
+    "location": "Arlington, Virginia, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125580BR/Corporate-Legal-Intern-Hybrid",
+    "date_found": "2026-06-01",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Electrical Engineering Coop Summer Fall 2026",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
@@ -416,14 +424,6 @@
     "disciplines": []
   },
   {
-    "company": "Boeing",
-    "title": "Structures and Payloads Intern",
-    "location": "TUR - Istanbul, Turkey",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/TUR---Istanbul-Turkey/Intern---Student-Engineer--Intern-Student-Engineer-General-_JR2026505039",
-    "date_found": "2026-06-01",
-    "disciplines": []
-  },
-  {
     "company": "Booz Allen Hamilton",
     "title": "Business & Office Management Intern",
     "location": "Fayetteville, NC",
@@ -585,14 +585,6 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "DT Intern",
-    "location": "Bengaluru, Karnātaka, India",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034981EXTERNALENGLOBAL/DT-Intern",
-    "date_found": "2026-05-30",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Data Engineer Intern",
     "location": "Suzhou, Jiangsu, China",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035226EXTERNALENGLOBAL/Data-Engineer-Intern",
@@ -701,14 +693,6 @@
     "location": "Beijing, China",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035225EXTERNALENGLOBAL/Marketing-Intern",
     "date_found": "2026-05-30",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Material Plan Execution Specialist Intern",
-    "location": "Suzhou, Jiangsu, China",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034030EXTERNALENGLOBAL/Material-Plan-Execution-Specialist-Intern",
-    "date_found": "2026-06-01",
     "disciplines": []
   },
   {
@@ -1294,6 +1278,14 @@
     "disciplines": []
   },
   {
+    "company": "Leidos",
+    "title": "System Engineer Intern",
+    "location": "Reston, VA",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Reston-VA/System-Engineer-Intern_R-00182989",
+    "date_found": "2026-06-01",
+    "disciplines": []
+  },
+  {
     "company": "Lockheed Martin",
     "title": "High School Intern - Lufkin, TX",
     "location": "Lufkin, Texas",
@@ -1352,7 +1344,7 @@
   {
     "company": "MITRE",
     "title": "Radio Frequency RF Test and Evaluation Intern Aberdeen MD location",
-    "location": "Aberdeen, Maryland, United States of America",
+    "location": "",
     "url": "https://careers.mitre.org/us/en/job/R116203/Radio-Frequency-RF-Test-and-Evaluation-Intern-Aberdeen-MD-location",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1360,7 +1352,7 @@
   {
     "company": "MITRE",
     "title": "TECH Futures Intern",
-    "location": "{{location}}",
+    "location": "",
     "url": "https://careers.mitre.org/us/en/job/R115659/TECH-Futures-Intern",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1542,6 +1534,16 @@
   {
     "company": "Palantir",
     "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/e24202f1-fccd-470f-b001-e24d901735a4",
+    "date_found": "2026-06-01",
+    "disciplines": [
+      "Delta"
+    ]
+  },
+  {
+    "company": "Palantir",
+    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
     "location": "New York, NY",
     "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d",
     "date_found": "2026-05-14",
@@ -1567,6 +1569,16 @@
     "date_found": "2026-05-14",
     "disciplines": [
       "Delta"
+    ]
+  },
+  {
+    "company": "Palantir",
+    "title": "Year at Palantir - Software Engineer, Internship",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329",
+    "date_found": "2026-06-01",
+    "disciplines": [
+      "Dev"
     ]
   },
   {
