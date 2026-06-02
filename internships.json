@@ -641,6 +641,14 @@
   },
   {
     "company": "Curtiss-Wright",
+    "title": "Co-op/Intern",
+    "location": "Canada-Newmarket (NPS)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/Canada-Newmarket-NPS/Co-op-Intern_JR12386",
+    "date_found": "2026-06-02",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
     "title": "Hardware/Electrical Engineering Intern",
     "location": "US-PA-Newtown (TTC)",
     "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Newtown-TTC/Hardware-Electrical-Engineering-Intern_JR11998",
@@ -804,6 +812,14 @@
     "title": "Material Plan Execution Specialist Intern",
     "location": "Suzhou, Jiangsu, China",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034030EXTERNALENGLOBAL/Material-Plan-Execution-Specialist-Intern",
+    "date_found": "2026-06-02",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Material Plan Execution Specialist Intern",
+    "location": "Suzhou, Jiangsu, China",
+    "url": "https://careers.geaerospace.com/global/en/job/R5034030/Material-Plan-Execution-Specialist-Intern",
     "date_found": "2026-06-02",
     "disciplines": []
   },
@@ -1079,14 +1095,6 @@
   },
   {
     "company": "KBR",
-    "title": "KBR Summer Internship Program 2026 Electrical Engineer",
-    "location": "",
-    "url": "https://careers.kbr.com/us/en/job/R2123189/KBR-Summer-Internship-Program-2026-Electrical-Engineer",
-    "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Environmental Scientist",
     "location": "Brisbane, Queensland",
     "url": "https://careers.kbr.com/us/en/job/R2123341/KBR-Summer-Internship-Program-2026-Environmental-Scientist",
@@ -1098,14 +1106,6 @@
     "title": "KBR Summer Internship Program 2026 Mechanical Engineer",
     "location": "Melbourne, Victoria",
     "url": "https://careers.kbr.com/us/en/job/R2123345/KBR-Summer-Internship-Program-2026-Mechanical-Engineer",
-    "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "KBR",
-    "title": "KBR Summer Internship Program 2026 Mechanical Engineer",
-    "location": "",
-    "url": "https://careers.kbr.com/us/en/job/R2123191/KBR-Summer-Internship-Program-2026-Mechanical-Engineer",
     "date_found": "2026-05-09",
     "disciplines": []
   },
@@ -1368,7 +1368,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "McLean, Virginia, United States of America",
+    "location": "Windsor, Maryland, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1780,6 +1780,14 @@
     "disciplines": [
       "Internships"
     ]
+  },
+  {
+    "company": "TTM Technologies",
+    "title": "2026 Procurement Co-Op",
+    "location": "Sterling, VA",
+    "url": "https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Sterling-VA/XMLNAME-2026-Procurement-Co-Op_R16324",
+    "date_found": "2026-06-02",
+    "disciplines": []
   },
   {
     "company": "TTM Technologies",
