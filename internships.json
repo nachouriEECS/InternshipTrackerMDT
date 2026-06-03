@@ -2,7 +2,7 @@
   {
     "company": "ATI",
     "title": "Finance Procurement Intern Summer 2026",
-    "location": "Albany,Oregon,United States",
+    "location": "",
     "url": "https://careers.atimaterials.com/us/en/job/26-2683/Finance-Procurement-Intern-Summer-2026",
     "date_found": "2026-05-23",
     "disciplines": []
@@ -221,14 +221,6 @@
     "location": "Arlington, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/125580BR/Corporate-Legal-Intern-Hybrid",
     "date_found": "2026-06-01",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Electrical Engineering Coop Summer Fall 2026",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
-    "date_found": "2026-05-15",
     "disciplines": []
   },
   {
@@ -657,6 +649,14 @@
   },
   {
     "company": "Curtiss-Wright",
+    "title": "Engineer Intern",
+    "location": "US-TX-Grand Prairie (ST-160)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-TX-Grand-Prairie-ST-160/Engineer-Intern_JR11380",
+    "date_found": "2026-06-03",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
     "title": "Hardware/Electrical Engineering Intern",
     "location": "US-PA-Newtown (TTC)",
     "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Newtown-TTC/Hardware-Electrical-Engineering-Intern_JR11998",
@@ -685,6 +685,14 @@
     "location": "US-PA-Aston (ESCO)",
     "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Aston-ESCO/Manufacturing-Intern--3-months-_JR11555-1",
     "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Production Assistant Intern",
+    "location": "US-PA-Hatfield (EST)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Hatfield-EST/Production-Assistant-Intern_JR12411",
+    "date_found": "2026-06-03",
     "disciplines": []
   },
   {
@@ -813,14 +821,6 @@
     "location": "Lynn, Massachusetts, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034331EXTERNALENGLOBAL/Lynn-CNC-Trainee-Co-Op",
     "date_found": "2026-05-30",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Lynn Carpentry Trainee Co Op",
-    "location": "Lynn, Massachusetts, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034333EXTERNALENGLOBAL/Lynn-Carpentry-Trainee-Co-Op",
-    "date_found": "2026-05-28",
     "disciplines": []
   },
   {
@@ -1319,10 +1319,18 @@
   },
   {
     "company": "Leidos",
+    "title": "Personal Computer Support Technician - High School Intern",
+    "location": "Baltimore, MD",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Baltimore-MD/Personal-Computer-Support-Technician---High-School-Intern_R-00184740",
+    "date_found": "2026-06-03",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
     "title": "Software Development Intern",
-    "location": "Orlando, FL",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Orlando-FL/Software-Development-Intern_R-00176074-1",
-    "date_found": "2026-06-02",
+    "location": "2 Locations",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Orlando-FL/Software-Development-Intern_R-00184738",
+    "date_found": "2026-06-03",
     "disciplines": []
   },
   {
@@ -1387,6 +1395,14 @@
     "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Finance & Accounting",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Finance---Accounting_R-26-18092",
+    "date_found": "2026-06-03",
     "disciplines": []
   },
   {
@@ -1739,46 +1755,6 @@
     "location": "Virginia",
     "url": "https://www.careers.peraton.com/jobs/disaster-recovery-coop-engineer-herndon-virginia-165079-jobs--cyber-security--",
     "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Intern I",
-    "location": "Reston, VA, United States",
-    "url": "https://jobs.saic.com/jobs/17804604-intern-i",
-    "date_found": "2026-06-03",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Network Infrastructure Intern",
-    "location": "Scott Afb, IL, United States",
-    "url": "https://jobs.saic.com/jobs/17774706-network-infrastructure-intern",
-    "date_found": "2026-06-03",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Site Support Intern",
-    "location": "San Diego, CA, United States",
-    "url": "https://jobs.saic.com/jobs/17788968-site-support-intern",
-    "date_found": "2026-06-03",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Software Engineer Internship",
-    "location": "Colorado Springs, CO, United States",
-    "url": "https://jobs.saic.com/jobs/17782958-software-engineer-internship",
-    "date_found": "2026-06-03",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Technical Intern",
-    "location": "Anaheim, CA, United States",
-    "url": "https://jobs.saic.com/jobs/17810308-technical-intern",
-    "date_found": "2026-06-03",
     "disciplines": []
   },
   {
