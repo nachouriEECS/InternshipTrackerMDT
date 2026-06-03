@@ -49,22 +49,6 @@
   },
   {
     "company": "Airbus",
-    "title": "ACOLH1 Intern",
-    "location": "Tianjin Area",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLH1-Intern_JR10418584",
-    "date_found": "2026-06-02",
-    "disciplines": []
-  },
-  {
-    "company": "Airbus",
-    "title": "ACOLS1 Flowline Intern",
-    "location": "Tianjin Area",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLS1-Flowline-Intern_JR10418580",
-    "date_found": "2026-06-02",
-    "disciplines": []
-  },
-  {
-    "company": "Airbus",
     "title": "ACOLS12 Intern",
     "location": "Tianjin Area",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/ACOLS12-Intern_JR10417527",
@@ -97,10 +81,10 @@
   },
   {
     "company": "Airbus",
-    "title": "EHS & FM Intern",
-    "location": "Beijing Area",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/EHS---FM-Intern_JR10417080",
-    "date_found": "2026-05-27",
+    "title": "HMC AOS internship",
+    "location": "Harbin",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Harbin/HMC-AOS-internship_JR10414875",
+    "date_found": "2026-06-03",
     "disciplines": []
   },
   {
@@ -117,6 +101,22 @@
     "location": "Immenstaad am Bodensee",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship-Ground-Segment-AI-based-development--d-f-m-_JR10417106",
     "date_found": "2026-05-29",
+    "disciplines": []
+  },
+  {
+    "company": "Airbus",
+    "title": "Internship in A400M MRO & Retrofit",
+    "location": "Manching",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Internship-in-A400M-MRO---Retrofit_JR10413520",
+    "date_found": "2026-06-03",
+    "disciplines": []
+  },
+  {
+    "company": "Airbus",
+    "title": "Internship in Systems Engineering for Space Exploration (d/f/m)",
+    "location": "Immenstaad am Bodensee",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship-in-Systems-Engineering-for-Space-Exploration--d-f-m-_JR10414260",
+    "date_found": "2026-06-03",
     "disciplines": []
   },
   {
@@ -195,14 +195,6 @@
     "company": "Amentum",
     "title": "Summer 2026 Intern Model Based Systems Engineering Digital Systems Engineering Houston",
     "location": "Texas",
-    "url": "https://www.amentumcareers.com/jobs/summer-2026-intern-model-based-systems-engineering-digital-systems-engineering-houston-texas-united-states",
-    "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
-    "title": "Summer 2026 Intern Model Based Systems Engineering Digital Systems Engineering Houston",
-    "location": "Texas",
     "url": "https://www.amentumcareers.com/jobs/summer-2026-intern-model-based-systems-engineering-digital-systems-engineering-houston-texas-united-states-3c4180c6-eaf9-477e-93c3-17cfaf3438e3",
     "date_found": "2026-05-20",
     "disciplines": []
@@ -269,14 +261,6 @@
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/124419BR/Lab-Assistant-Intern-I-Summer-2026",
     "date_found": "2026-06-02",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Logistics Continuous Improvement Intern Re Hire Only",
-    "location": "",
-    "url": "https://jobs.baesystems.com/global/en/job/122782BR/Logistics-Continuous-Improvement-Intern-Re-Hire-Only",
-    "date_found": "2026-05-15",
     "disciplines": []
   },
   {
@@ -576,11 +560,11 @@
     "disciplines": []
   },
   {
-    "company": "Booz Allen Hamilton",
-    "title": "Business & Office Management Intern",
-    "location": "Fayetteville, NC",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Business---Office-Management-Intern_R0239648",
-    "date_found": "2026-05-27",
+    "company": "Boeing",
+    "title": "Software Engineer Intern",
+    "location": "KOR - Seoul, South Korea",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/KOR---Seoul-South-Korea/Software-Engineer-Intern_JR2026512519-2",
+    "date_found": "2026-06-03",
     "disciplines": []
   },
   {
@@ -729,10 +713,34 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Additive Manufacturing Production Engineering Intern 6 Months",
+    "location": "Gebze, Türkiye",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033838EXTERNALENGLOBAL/Additive-Manufacturing-Production-Engineering-Intern-6-Months",
+    "date_found": "2026-06-03",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Business Marketing Intern",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035570EXTERNALENGLOBAL/Business-Marketing-Intern",
+    "date_found": "2026-06-03",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
     "title": "Data Engineer Intern",
     "location": "Suzhou, Jiangsu, China",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035226EXTERNALENGLOBAL/Data-Engineer-Intern",
     "date_found": "2026-06-01",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Defense Systems Intern",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035646EXTERNALENGLOBAL/Defense-Systems-Intern",
+    "date_found": "2026-06-03",
     "disciplines": []
   },
   {
@@ -1047,14 +1055,6 @@
   },
   {
     "company": "Howmet Aerospace",
-    "title": "Finance Summer Internship",
-    "location": "Suzhou, Jiangsu, China",
-    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117585",
-    "date_found": "2026-05-22",
-    "disciplines": []
-  },
-  {
-    "company": "Howmet Aerospace",
     "title": "Intern - Automation Engineer - Whitehall, MI (Summer 2026)",
     "location": "Whitehall, MI, United States",
     "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116700",
@@ -1159,14 +1159,6 @@
   },
   {
     "company": "KBR",
-    "title": "Mechanical Engineering Intern",
-    "location": "Houston, Texas",
-    "url": "https://careers.kbr.com/us/en/job/R2124499/Mechanical-Engineering-Intern",
-    "date_found": "2026-06-02",
-    "disciplines": []
-  },
-  {
-    "company": "KBR",
     "title": "National Security Solutions NSS Electrical Engineering and Computer Engineering Internship",
     "location": "King of Prussia, Pennsylvania",
     "url": "https://careers.kbr.com/us/en/job/R2118392/National-Security-Solutions-NSS-Electrical-Engineering-and-Computer-Engineering-Internship",
@@ -1239,10 +1231,10 @@
   },
   {
     "company": "L3Harris",
-    "title": "Embedded Software Engineering Intern",
-    "location": "Ottawa, Ontario",
-    "url": "https://careers.l3harris.com/en/job/ottawa/embedded-software-engineering-intern/4832/95651243520",
-    "date_found": "2026-05-28",
+    "title": "Business Support Intern D (Remote)",
+    "location": "Remote",
+    "url": "https://careers.l3harris.com/en/job/united-states/business-support-intern-d-remote/4832/93692589616",
+    "date_found": "2026-06-03",
     "disciplines": []
   },
   {
@@ -1335,10 +1327,10 @@
   },
   {
     "company": "Leidos",
-    "title": "System Administrator Intern",
-    "location": "Indianapolis, IN",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Indianapolis-IN/System-Administrator-Intern_R-00182453",
-    "date_found": "2026-05-07",
+    "title": "Software Engineer Intern (DevOps)",
+    "location": "Poulsbo, WA",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Poulsbo-WA/Software-Engineer-Intern--DevOps-_R-00184709",
+    "date_found": "2026-06-03",
     "disciplines": []
   },
   {
@@ -1399,26 +1391,10 @@
   },
   {
     "company": "Moog",
-    "title": "Intern, Operations Excellence",
-    "location": "Torrance, CA",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Operations-Excellence_R-26-18035",
-    "date_found": "2026-05-27",
-    "disciplines": []
-  },
-  {
-    "company": "Moog",
     "title": "Intern, Quality Engineering",
     "location": "Blacksburg, VA",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Blacksburg-VA/Intern--Quality-Engineering_R-26-17943",
     "date_found": "2026-05-29",
-    "disciplines": []
-  },
-  {
-    "company": "Moog",
-    "title": "Intern, Supply Chain Engineering",
-    "location": "Torrance, CA",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Supply-Chain-Engineering_R-25-13954-1",
-    "date_found": "2026-05-27",
     "disciplines": []
   },
   {
@@ -1763,6 +1739,46 @@
     "location": "Virginia",
     "url": "https://www.careers.peraton.com/jobs/disaster-recovery-coop-engineer-herndon-virginia-165079-jobs--cyber-security--",
     "date_found": "2026-05-09",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Intern I",
+    "location": "Reston, VA, United States",
+    "url": "https://jobs.saic.com/jobs/17804604-intern-i",
+    "date_found": "2026-06-03",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Network Infrastructure Intern",
+    "location": "Scott Afb, IL, United States",
+    "url": "https://jobs.saic.com/jobs/17774706-network-infrastructure-intern",
+    "date_found": "2026-06-03",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Site Support Intern",
+    "location": "San Diego, CA, United States",
+    "url": "https://jobs.saic.com/jobs/17788968-site-support-intern",
+    "date_found": "2026-06-03",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Software Engineer Internship",
+    "location": "Colorado Springs, CO, United States",
+    "url": "https://jobs.saic.com/jobs/17782958-software-engineer-internship",
+    "date_found": "2026-06-03",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Technical Intern",
+    "location": "Anaheim, CA, United States",
+    "url": "https://jobs.saic.com/jobs/17810308-technical-intern",
+    "date_found": "2026-06-03",
     "disciplines": []
   },
   {
