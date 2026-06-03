@@ -1,14 +1,6 @@
 [
   {
     "company": "ATI",
-    "title": "Finance Procurement Intern Summer 2026",
-    "location": "",
-    "url": "https://careers.atimaterials.com/us/en/job/26-2683/Finance-Procurement-Intern-Summer-2026",
-    "date_found": "2026-05-23",
-    "disciplines": []
-  },
-  {
-    "company": "ATI",
     "title": "Supply Chain Procurement Intern Summer 2026",
     "location": "Albany,Oregon,United States",
     "url": "https://careers.atimaterials.com/us/en/job/26-2591/Supply-Chain-Procurement-Intern-Summer-2026",
@@ -193,14 +185,6 @@
   },
   {
     "company": "Amentum",
-    "title": "Summer 2026 Intern Model Based Systems Engineering Digital Systems Engineering Houston",
-    "location": "Texas",
-    "url": "https://www.amentumcareers.com/jobs/summer-2026-intern-model-based-systems-engineering-digital-systems-engineering-houston-texas-united-states-3c4180c6-eaf9-477e-93c3-17cfaf3438e3",
-    "date_found": "2026-05-20",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
     "title": "Summer 2026 Ses Simulation Engineer Intern Houston",
     "location": "Texas",
     "url": "https://www.amentumcareers.com/jobs/summer-2026-ses-simulation-engineer-intern-houston-texas-united-states-e9fde8e0-b552-4090-b1d6-7d2e34138156",
@@ -216,11 +200,27 @@
     "disciplines": []
   },
   {
+    "company": "Amentum",
+    "title": "Summer Internship Army Transport Aviation Program Management Pmo Office Huntsville Al Huntsville",
+    "location": "Alabama",
+    "url": "https://www.amentumcareers.com/jobs/summer-internship-army-transport-aviation-program-management-pmo-office-huntsville-al-huntsville-alabama-united-states",
+    "date_found": "2026-06-03",
+    "disciplines": []
+  },
+  {
     "company": "BAE Systems",
     "title": "Corporate Legal Intern Hybrid",
     "location": "Arlington, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/125580BR/Corporate-Legal-Intern-Hybrid",
     "date_found": "2026-06-01",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Electrical Engineering Coop Summer Fall 2026",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
+    "date_found": "2026-06-03",
     "disciplines": []
   },
   {
@@ -237,14 +237,6 @@
     "location": "Plymouth, Massachusetts, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123842BR/Hardware-Intern-Summer-2026",
     "date_found": "2026-05-15",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "High School Technical Intern",
-    "location": "Hudson, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/123568BR/High-School-Technical-Intern",
-    "date_found": "2026-06-02",
     "disciplines": []
   },
   {
@@ -301,14 +293,6 @@
     "location": "Rome, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/121107BR/Software-Engineering-Intern-On-Site",
     "date_found": "2026-05-29",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Supply Chain Management Intern Summer 2026",
-    "location": "Fort Worth, Texas, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/124267BR/Supply-Chain-Management-Intern-Summer-2026",
-    "date_found": "2026-05-30",
     "disciplines": []
   },
   {
@@ -1192,7 +1176,7 @@
   {
     "company": "KBR",
     "title": "National Security Solutions NSS Internship Positioning Navigation and Timing PNT",
-    "location": "Beavercreek Township, Ohio",
+    "location": "",
     "url": "https://careers.kbr.com/us/en/job/R2116882/National-Security-Solutions-NSS-Internship-Positioning-Navigation-and-Timing-PNT",
     "date_found": "2026-05-09",
     "disciplines": []
