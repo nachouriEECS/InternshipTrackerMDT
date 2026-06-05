@@ -999,14 +999,6 @@
   },
   {
     "company": "KBR",
-    "title": "Chemical Engineering Intern",
-    "location": "Houston, Texas",
-    "url": "https://careers.kbr.com/us/en/job/R2124614/Chemical-Engineering-Intern",
-    "date_found": "2026-06-05",
-    "disciplines": []
-  },
-  {
-    "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Civil Engineer Rail Track",
     "location": "Melbourne, Victoria",
     "url": "https://careers.kbr.com/us/en/job/R2123989/KBR-Summer-Internship-Program-2026-Civil-Engineer-Rail-Track",
@@ -1055,18 +1047,18 @@
   },
   {
     "company": "KBR",
-    "title": "National Security Solutions NSS Internship Space Systems Graduate Intern",
-    "location": "",
-    "url": "https://careers.kbr.com/us/en/job/R2119773/National-Security-Solutions-NSS-Internship-Space-Systems-Graduate-Intern",
-    "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "KBR",
     "title": "National Security Solutions NSS Software Engineering Internship",
     "location": "Columbia, Maryland",
     "url": "https://careers.kbr.com/us/en/job/R2122608/National-Security-Solutions-NSS-Software-Engineering-Internship",
     "date_found": "2026-06-01",
+    "disciplines": []
+  },
+  {
+    "company": "KBR",
+    "title": "Structural Support Engineering Administrator Internship",
+    "location": "Greenbelt, Maryland",
+    "url": "https://careers.kbr.com/us/en/job/R2124341/Structural-Support-Engineering-Administrator-Internship",
+    "date_found": "2026-06-05",
     "disciplines": []
   },
   {
@@ -1160,7 +1152,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "Windsor, Maryland, United States of America",
+    "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1171,6 +1163,14 @@
     "location": "Buffalo, NY",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Finance---Accounting_R-26-18092",
     "date_found": "2026-06-03",
+    "disciplines": []
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Operations Engineering",
+    "location": "Cleveland, OH",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Cleveland-OH/Intern--Operations-Engineering_R-26-16825",
+    "date_found": "2026-06-05",
     "disciplines": []
   },
   {
