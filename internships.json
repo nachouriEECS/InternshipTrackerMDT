@@ -665,14 +665,6 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Additive Manufacturing Production Engineering Intern 6 Months",
-    "location": "Gebze, Türkiye",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033838EXTERNALENGLOBAL/Additive-Manufacturing-Production-Engineering-Intern-6-Months",
-    "date_found": "2026-06-03",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Business Marketing Intern",
     "location": "Dubai, United Arab Emirates",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035570EXTERNALENGLOBAL/Business-Marketing-Intern",
@@ -1007,6 +999,14 @@
   },
   {
     "company": "KBR",
+    "title": "Chemical Engineering Intern",
+    "location": "Houston, Texas",
+    "url": "https://careers.kbr.com/us/en/job/R2124614/Chemical-Engineering-Intern",
+    "date_found": "2026-06-05",
+    "disciplines": []
+  },
+  {
+    "company": "KBR",
     "title": "KBR Summer Internship Program 2026 Civil Engineer Rail Track",
     "location": "Melbourne, Victoria",
     "url": "https://careers.kbr.com/us/en/job/R2123989/KBR-Summer-Internship-Program-2026-Civil-Engineer-Rail-Track",
@@ -1056,7 +1056,7 @@
   {
     "company": "KBR",
     "title": "National Security Solutions NSS Internship Space Systems Graduate Intern",
-    "location": "Chantilly, Virginia",
+    "location": "",
     "url": "https://careers.kbr.com/us/en/job/R2119773/National-Security-Solutions-NSS-Internship-Space-Systems-Graduate-Intern",
     "date_found": "2026-05-09",
     "disciplines": []
@@ -1067,14 +1067,6 @@
     "location": "Columbia, Maryland",
     "url": "https://careers.kbr.com/us/en/job/R2122608/National-Security-Solutions-NSS-Software-Engineering-Internship",
     "date_found": "2026-06-01",
-    "disciplines": []
-  },
-  {
-    "company": "KBR",
-    "title": "Systems Engineering First Year Intern",
-    "location": "El Segundo, California",
-    "url": "https://careers.kbr.com/us/en/job/R2124179/Systems-Engineering-First-Year-Intern",
-    "date_found": "2026-05-26",
     "disciplines": []
   },
   {
@@ -1091,14 +1083,6 @@
     "location": "Aberdeen, MD",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Aberdeen-MD/Laboratory-Technician-Intern_R-00183639",
     "date_found": "2026-05-29",
-    "disciplines": []
-  },
-  {
-    "company": "Leidos",
-    "title": "Migration Execution Intern",
-    "location": "6314 Remote/Teleworker US",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Migration-Execution-Intern_R-00184525-1",
-    "date_found": "2026-06-02",
     "disciplines": []
   },
   {
@@ -1176,7 +1160,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "McLean, Virginia, United States of America",
+    "location": "Windsor, Maryland, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1523,54 +1507,6 @@
     "location": "Virginia",
     "url": "https://www.careers.peraton.com/jobs/disaster-recovery-coop-engineer-herndon-virginia-165079-jobs--cyber-security--",
     "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Aviation Missiles & Fires Intern",
-    "location": "Huntsville, AL, United States",
-    "url": "https://jobs.saic.com/jobs/17810304-aviation-missiles-and-fires-intern",
-    "date_found": "2026-06-05",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Business Development Operations Intern",
-    "location": "San Diego, CA, United States",
-    "url": "https://jobs.saic.com/jobs/17823415-business-development-operations-intern",
-    "date_found": "2026-06-05",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Intern I",
-    "location": "Reston, VA, United States",
-    "url": "https://jobs.saic.com/jobs/17804604-intern-i",
-    "date_found": "2026-06-05",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Site Support Intern",
-    "location": "San Diego, CA, United States",
-    "url": "https://jobs.saic.com/jobs/17788968-site-support-intern",
-    "date_found": "2026-06-05",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Software Engineer Internship",
-    "location": "Colorado Springs, CO, United States",
-    "url": "https://jobs.saic.com/jobs/17782958-software-engineer-internship",
-    "date_found": "2026-06-05",
-    "disciplines": []
-  },
-  {
-    "company": "SAIC",
-    "title": "Solutions and Engineering Intern II",
-    "location": "Reston, VA, United States",
-    "url": "https://jobs.saic.com/jobs/17823416-solutions-and-engineering-intern-ii",
-    "date_found": "2026-06-05",
     "disciplines": []
   },
   {
