@@ -225,6 +225,14 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Electrical Engineering Coop Summer Fall 2026",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
+    "date_found": "2026-06-06",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Facilities Systems Management Intern 2026",
     "location": "York, Pennsylvania, United States",
     "url": "https://jobs.baesystems.com/global/en/job/124664BR/Facilities-Systems-Management-Intern-2026",
@@ -1047,6 +1055,14 @@
   },
   {
     "company": "KBR",
+    "title": "National Security Solutions NSS Software Engineering Internship",
+    "location": "Columbia, Maryland",
+    "url": "https://careers.kbr.com/us/en/job/R2122608/National-Security-Solutions-NSS-Software-Engineering-Internship",
+    "date_found": "2026-06-06",
+    "disciplines": []
+  },
+  {
+    "company": "KBR",
     "title": "Structural Support Engineering Administrator Internship",
     "location": "Greenbelt, Maryland",
     "url": "https://careers.kbr.com/us/en/job/R2124341/Structural-Support-Engineering-Administrator-Internship",
@@ -1144,7 +1160,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "Windsor, Maryland, United States of America",
+    "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
