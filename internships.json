@@ -161,18 +161,18 @@
   },
   {
     "company": "Amentum",
-    "title": "Deployment Intern Washington",
-    "location": "District Of Columbia",
-    "url": "https://www.amentumcareers.com/jobs/deployment-intern-washington-district-of-columbia-united-states",
-    "date_found": "2026-06-04",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
     "title": "Hr Projects Intern Summer 2026 Las Vegas",
     "location": "Nevada",
     "url": "https://www.amentumcareers.com/jobs/hr-projects-intern-summer-2026-las-vegas-nevada-united-states",
     "date_found": "2026-05-21",
+    "disciplines": []
+  },
+  {
+    "company": "Amentum",
+    "title": "Intern Aberdeen",
+    "location": "Maryland",
+    "url": "https://www.amentumcareers.com/jobs/intern-aberdeen-maryland-united-states-93823998-2b06-4166-a09b-991df289dc36",
+    "date_found": "2026-06-07",
     "disciplines": []
   },
   {
@@ -225,14 +225,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Electrical Engineering Coop Summer Fall 2026",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
-    "date_found": "2026-06-06",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
     "title": "Facilities Systems Management Intern 2026",
     "location": "York, Pennsylvania, United States",
     "url": "https://jobs.baesystems.com/global/en/job/124664BR/Facilities-Systems-Management-Intern-2026",
@@ -257,6 +249,14 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Lab Assistant Intern I Summer 2026",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/124419BR/Lab-Assistant-Intern-I-Summer-2026",
+    "date_found": "2026-06-07",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Mechanical Engineering Coop Summer Fall 2026",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/120610BR/Mechanical-Engineering-Coop-Summer-Fall-2026",
@@ -269,6 +269,14 @@
     "location": "Endicott, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123726BR/PTECH-Intern-Summer-2026",
     "date_found": "2026-05-15",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Quality Assurance Intern 2026",
+    "location": "Aiken, South Carolina, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/124181BR/Quality-Assurance-Intern-2026",
+    "date_found": "2026-06-07",
     "disciplines": []
   },
   {
@@ -1144,7 +1152,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "McLean, Virginia, United States of America",
+    "location": "Windsor, Maryland, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
