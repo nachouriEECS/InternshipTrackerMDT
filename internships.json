@@ -145,6 +145,14 @@
   },
   {
     "company": "Airbus",
+    "title": "Long-term Internship - Finance Controlling",
+    "location": "Columbus, MS",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Columbus-MS/Long-term-Internship---Finance-Controlling_JR10409218",
+    "date_found": "2026-06-08",
+    "disciplines": []
+  },
+  {
+    "company": "Airbus",
     "title": "Manufacturing Engineer Intern",
     "location": "Tianjin Area",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/Manufacturing-Engineer-Intern_JR10419652",
@@ -281,14 +289,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Lab Assistant Intern I Summer 2026",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/124419BR/Lab-Assistant-Intern-I-Summer-2026",
-    "date_found": "2026-06-07",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
     "title": "Mechanical Engineering Coop Summer Fall 2026",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/120610BR/Mechanical-Engineering-Coop-Summer-Fall-2026",
@@ -306,8 +306,16 @@
   {
     "company": "BAE Systems",
     "title": "Program Management Intern Summer 2026",
-    "location": "Sterling Heights, Michigan, United States",
+    "location": "",
     "url": "https://jobs.baesystems.com/global/en/job/125822BR/Program-Management-Intern-Summer-2026",
+    "date_found": "2026-06-08",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Quality Assurance Intern 2026",
+    "location": "Aiken, South Carolina, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/124181BR/Quality-Assurance-Intern-2026",
     "date_found": "2026-06-08",
     "disciplines": []
   },
@@ -410,16 +418,16 @@
   {
     "company": "Bechtel",
     "title": "2026 Student Co Op Training Saudi Arabia Engineering Architectural",
-    "location": "Riyadh, SAU",
-    "url": "https://bechtel.dejobs.org/riyadh-sau/2026-student-co-op-training-saudi-arabia-engineering-architectural/826DFB24E7914061870AD14BFE600700/job/",
+    "location": "Jubail, SAU",
+    "url": "https://bechtel.dejobs.org/jubail-sau/2026-student-co-op-training-saudi-arabia-engineering-architectural/B6092573F240445B93CE94C705AF0647/job/",
     "date_found": "2026-06-01",
     "disciplines": []
   },
   {
     "company": "Bechtel",
     "title": "2026 Student Co Op Training Saudi Arabia Engineering Architectural",
-    "location": "Jubail, SAU",
-    "url": "https://bechtel.dejobs.org/jubail-sau/2026-student-co-op-training-saudi-arabia-engineering-architectural/B6092573F240445B93CE94C705AF0647/job/",
+    "location": "Riyadh, SAU",
+    "url": "https://bechtel.dejobs.org/riyadh-sau/2026-student-co-op-training-saudi-arabia-engineering-architectural/826DFB24E7914061870AD14BFE600700/job/",
     "date_found": "2026-06-01",
     "disciplines": []
   },
@@ -498,16 +506,16 @@
   {
     "company": "Bechtel",
     "title": "2026 Student Co Op Training Saudi Arabia Quality",
-    "location": "Dhalm, SAU",
-    "url": "https://bechtel.dejobs.org/dhalm-sau/2026-student-co-op-training-saudi-arabia-quality/DA921E15136F4A2A9B8E3EA464405C06/job/",
+    "location": "Riyadh, SAU",
+    "url": "https://bechtel.dejobs.org/riyadh-sau/2026-student-co-op-training-saudi-arabia-quality/DB3080012839459B91050C4A91A0ABA8/job/",
     "date_found": "2026-06-01",
     "disciplines": []
   },
   {
     "company": "Bechtel",
     "title": "2026 Student Co Op Training Saudi Arabia Quality",
-    "location": "Riyadh, SAU",
-    "url": "https://bechtel.dejobs.org/riyadh-sau/2026-student-co-op-training-saudi-arabia-quality/DB3080012839459B91050C4A91A0ABA8/job/",
+    "location": "Dhalm, SAU",
+    "url": "https://bechtel.dejobs.org/dhalm-sau/2026-student-co-op-training-saudi-arabia-quality/DA921E15136F4A2A9B8E3EA464405C06/job/",
     "date_found": "2026-06-01",
     "disciplines": []
   },
@@ -1027,6 +1035,14 @@
     "location": "Greenbelt, Maryland",
     "url": "https://careers.kbr.com/us/en/job/R2124341/Structural-Support-Engineering-Administrator-Internship",
     "date_found": "2026-06-05",
+    "disciplines": []
+  },
+  {
+    "company": "L3Harris",
+    "title": "HR Business Partner Intern (Fall 2026)",
+    "location": "Palm Bay, Brevard, FL",
+    "url": "https://careers.l3harris.com/en/job/palm-bay/hr-business-partner-intern-fall-2026/4832/96179207760",
+    "date_found": "2026-06-08",
     "disciplines": []
   },
   {
