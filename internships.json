@@ -217,14 +217,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Electrical Engineering Coop Summer Fall 2026",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
-    "date_found": "2026-06-08",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
     "title": "Facilities Systems Management Intern 2026",
     "location": "York, Pennsylvania, United States",
     "url": "https://jobs.baesystems.com/global/en/job/124664BR/Facilities-Systems-Management-Intern-2026",
@@ -284,6 +276,14 @@
     "title": "Research and Development Intern 2026",
     "location": "Radford, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123724BR/Research-and-Development-Intern-2026",
+    "date_found": "2026-06-09",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern III Summer 2026",
+    "location": "Reston, Virginia, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125787BR/Software-Engineering-Intern-III-Summer-2026",
     "date_found": "2026-06-09",
     "disciplines": []
   },
@@ -589,14 +589,6 @@
     "location": "US-PA-Aston (ESCO)",
     "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Aston-ESCO/Manufacturing-Intern--3-months-_JR11555-1",
     "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "Curtiss-Wright",
-    "title": "Production Assistant Intern",
-    "location": "US-PA-Hatfield (EST)",
-    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Hatfield-EST/Production-Assistant-Intern_JR12411",
-    "date_found": "2026-06-03",
     "disciplines": []
   },
   {
@@ -982,14 +974,6 @@
     "disciplines": []
   },
   {
-    "company": "KBR",
-    "title": "Structural Support Engineering Administrator Internship",
-    "location": "",
-    "url": "https://careers.kbr.com/us/en/job/R2124341/Structural-Support-Engineering-Administrator-Internship",
-    "date_found": "2026-06-05",
-    "disciplines": []
-  },
-  {
     "company": "L3Harris",
     "title": "HR Business Partner Intern (Fall 2026)",
     "location": "Palm Bay, Brevard, FL",
@@ -1088,7 +1072,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "Windsor, Maryland, United States of America",
+    "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1411,6 +1395,22 @@
     "location": "Virginia",
     "url": "https://www.careers.peraton.com/jobs/disaster-recovery-coop-engineer-herndon-virginia-165079-jobs--cyber-security--",
     "date_found": "2026-05-09",
+    "disciplines": []
+  },
+  {
+    "company": "Peraton",
+    "title": "Generative Ai Engineering Intern Graduate Undefined Undefined",
+    "location": "",
+    "url": "https://www.careers.peraton.com/jobs/generative-ai-engineering-intern-graduate-undefined-undefined-167460-jobs--cms-engineering--",
+    "date_found": "2026-06-09",
+    "disciplines": []
+  },
+  {
+    "company": "Peraton",
+    "title": "Summer 2026 Research Intern Reston",
+    "location": "Virginia",
+    "url": "https://www.careers.peraton.com/jobs/summer-2026-research-intern-reston-virginia-167241-jobs--cms-engineering--",
+    "date_found": "2026-06-09",
     "disciplines": []
   },
   {
