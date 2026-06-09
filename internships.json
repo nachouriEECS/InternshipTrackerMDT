@@ -121,6 +121,14 @@
   },
   {
     "company": "Airbus",
+    "title": "Long-term Internship - Engineering",
+    "location": "Wichita, KS",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term---Engineering_JR10411965",
+    "date_found": "2026-06-09",
+    "disciplines": []
+  },
+  {
+    "company": "Airbus",
     "title": "Long-term Internship - Finance Controlling",
     "location": "Columbus, MS",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Columbus-MS/Long-term-Internship---Finance-Controlling_JR10409218",
@@ -201,14 +209,6 @@
   },
   {
     "company": "Amentum",
-    "title": "Summer 2026 Ses Simulation Engineer Intern Houston",
-    "location": "Texas",
-    "url": "https://www.amentumcareers.com/jobs/summer-2026-ses-simulation-engineer-intern-houston-texas-united-states-e9fde8e0-b552-4090-b1d6-7d2e34138156",
-    "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "Amentum",
     "title": "Summer 2026 Systems Engineering Intern Houston",
     "location": "Texas",
     "url": "https://www.amentumcareers.com/jobs/summer-2026-systems-engineering-intern-houston-texas-united-states-28b031e7-89e7-43dc-8410-eb0e41479b26",
@@ -237,14 +237,6 @@
     "location": "Plymouth, Massachusetts, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123842BR/Hardware-Intern-Summer-2026",
     "date_found": "2026-05-15",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "High School Technical Intern",
-    "location": "",
-    "url": "https://jobs.baesystems.com/global/en/job/123568BR/High-School-Technical-Intern",
-    "date_found": "2026-06-06",
     "disciplines": []
   },
   {
@@ -285,6 +277,14 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/121546BR/RF-Engineering-Intern-Summer-2026",
     "date_found": "2026-05-15",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Research and Development Intern 2026",
+    "location": "Radford, Virginia, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/123724BR/Research-and-Development-Intern-2026",
+    "date_found": "2026-06-09",
     "disciplines": []
   },
   {
@@ -641,14 +641,6 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Durability and Fatigue Engineering Intern 6 Months",
-    "location": "",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033760EXTERNALENGLOBAL/Durability-and-Fatigue-Engineering-Intern-6-Months",
-    "date_found": "2026-05-30",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Embedded Systems Engineer Co op Bohemia NY Spring 2027",
     "location": "Bohemia, New York, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035583EXTERNALENGLOBAL/Embedded-Systems-Engineer-Co-op-Bohemia-NY-Spring-2027",
@@ -724,14 +716,6 @@
     "title": "Lynn Welder Trainee Co Op",
     "location": "Lynn, Massachusetts, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034069EXTERNALENGLOBAL/Lynn-Welder-Trainee-Co-Op",
-    "date_found": "2026-05-30",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Mechanical Analysis Engineering Intern 6 Months",
-    "location": "",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5033862EXTERNALENGLOBAL/Mechanical-Analysis-Engineering-Intern-6-Months",
     "date_found": "2026-05-30",
     "disciplines": []
   },
@@ -975,14 +959,6 @@
   },
   {
     "company": "KBR",
-    "title": "KBR Summer Internship Program 2026 Civil Engineer Rail Track",
-    "location": "",
-    "url": "https://careers.kbr.com/us/en/job/R2123989/KBR-Summer-Internship-Program-2026-Civil-Engineer-Rail-Track",
-    "date_found": "2026-05-20",
-    "disciplines": []
-  },
-  {
-    "company": "KBR",
     "title": "National Security Solutions NSS Internship DevSecOps Intern",
     "location": "Chantilly, Virginia",
     "url": "https://careers.kbr.com/us/en/job/R2118585/National-Security-Solutions-NSS-Internship-DevSecOps-Intern",
@@ -1008,7 +984,7 @@
   {
     "company": "KBR",
     "title": "Structural Support Engineering Administrator Internship",
-    "location": "Greenbelt, Maryland",
+    "location": "",
     "url": "https://careers.kbr.com/us/en/job/R2124341/Structural-Support-Engineering-Administrator-Internship",
     "date_found": "2026-06-05",
     "disciplines": []
