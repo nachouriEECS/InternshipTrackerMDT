@@ -201,14 +201,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Electrical Engineering Coop Summer Fall 2026",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
-    "date_found": "2026-06-10",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
     "title": "Facilities Systems Management Intern 2026",
     "location": "York, Pennsylvania, United States",
     "url": "https://jobs.baesystems.com/global/en/job/124664BR/Facilities-Systems-Management-Intern-2026",
@@ -233,6 +225,14 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Quality Assurance Intern 2026",
+    "location": "Aiken, South Carolina, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/124181BR/Quality-Assurance-Intern-2026",
+    "date_found": "2026-06-10",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Quality Engineering Intern Summer 2026",
     "location": "Manassas, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123487BR/Quality-Engineering-Intern-Summer-2026",
@@ -245,6 +245,14 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/121546BR/RF-Engineering-Intern-Summer-2026",
     "date_found": "2026-05-15",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Research and Development Intern 2026",
+    "location": "Radford, Virginia, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/123724BR/Research-and-Development-Intern-2026",
+    "date_found": "2026-06-10",
     "disciplines": []
   },
   {
@@ -577,26 +585,10 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Business Marketing Intern",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035570EXTERNALENGLOBAL/Business-Marketing-Intern",
-    "date_found": "2026-06-03",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Data Engineer Intern",
     "location": "Suzhou, Jiangsu, China",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035226EXTERNALENGLOBAL/Data-Engineer-Intern",
     "date_found": "2026-06-01",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Defense Systems Intern",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035646EXTERNALENGLOBAL/Defense-Systems-Intern",
-    "date_found": "2026-06-03",
     "disciplines": []
   },
   {
@@ -1048,7 +1040,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "Windsor, Maryland, United States of America",
+    "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
@@ -1167,16 +1159,6 @@
     "location": "Honolulu, HI",
     "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e",
     "date_found": "2026-05-01",
-    "disciplines": [
-      "Delta"
-    ]
-  },
-  {
-    "company": "Palantir",
-    "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
-    "location": "Washington, D.C.",
-    "url": "https://jobs.lever.co/palantir/e24202f1-fccd-470f-b001-e24d901735a4",
-    "date_found": "2026-06-01",
     "disciplines": [
       "Delta"
     ]
