@@ -195,6 +195,26 @@
   },
   {
     "company": "Anduril",
+    "title": "2027 Manufacturing Engineer Intern",
+    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007",
+    "date_found": "2026-06-11",
+    "disciplines": [
+      "Manufacturing : Manufacturing Engineering"
+    ]
+  },
+  {
+    "company": "Anduril",
+    "title": "2027 Mechanical Engineer Intern",
+    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
+    "date_found": "2026-06-11",
+    "disciplines": [
+      "Hardware Engineering : Mechanical Engineering "
+    ]
+  },
+  {
+    "company": "Anduril",
     "title": "2027 Software Engineer Intern",
     "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States",
     "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
@@ -497,14 +517,6 @@
     "location": "Houston, TX",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Houston-TX/Human-Spaceflight-Engineer-Intern_R0241464",
     "date_found": "2026-06-04",
-    "disciplines": []
-  },
-  {
-    "company": "Booz Allen Hamilton",
-    "title": "University, Software Developer Intern",
-    "location": "Fayetteville, NC",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/University--Software-Developer-Intern_R0239759",
-    "date_found": "2026-05-11",
     "disciplines": []
   },
   {
@@ -1103,6 +1115,14 @@
     "location": "United States-Arizona-Gilbert",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Summer_R10234531",
     "date_found": "2026-06-09",
+    "disciplines": []
+  },
+  {
+    "company": "Oshkosh",
+    "title": "Finance Rotation Intern",
+    "location": "Hagerstown, Maryland, United States",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Finance-Rotation-Inten_R45303",
+    "date_found": "2026-06-11",
     "disciplines": []
   },
   {
