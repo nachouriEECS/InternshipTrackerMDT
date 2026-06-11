@@ -105,14 +105,6 @@
   },
   {
     "company": "Airbus",
-    "title": "Logistics intern",
-    "location": "Zhuhai",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Zhuhai/Logistics-intern_JR10419391",
-    "date_found": "2026-06-04",
-    "disciplines": []
-  },
-  {
-    "company": "Airbus",
     "title": "Long-term Internship - Engineering",
     "location": "Wichita, KS",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term---Engineering_JR10411965",
@@ -145,10 +137,10 @@
   },
   {
     "company": "Airbus",
-    "title": "Training admin Intern",
-    "location": "Gurugram",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Gurugram/Training-admin-Intern_JR10417068",
-    "date_found": "2026-06-04",
+    "title": "Stress Engineer Intern (f/m)",
+    "location": "Lodz",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Lodz/Stress-Engineer-Intern--f-m-_JR10412103-1",
+    "date_found": "2026-06-11",
     "disciplines": []
   },
   {
@@ -192,11 +184,39 @@
     "disciplines": []
   },
   {
+    "company": "Anduril",
+    "title": "2027 Electrical Engineer Intern",
+    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007",
+    "date_found": "2026-06-11",
+    "disciplines": [
+      "Hardware Engineering : Electrical Engineering"
+    ]
+  },
+  {
+    "company": "Anduril",
+    "title": "2027 Software Engineer Intern",
+    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+    "date_found": "2026-06-11",
+    "disciplines": [
+      "Software"
+    ]
+  },
+  {
     "company": "BAE Systems",
     "title": "Corporate Legal Intern Hybrid",
     "location": "Arlington, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/125580BR/Corporate-Legal-Intern-Hybrid",
     "date_found": "2026-06-10",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Electrical Engineering Coop Summer Fall 2026",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
+    "date_found": "2026-06-11",
     "disciplines": []
   },
   {
@@ -221,14 +241,6 @@
     "location": "Endicott, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123726BR/PTECH-Intern-Summer-2026",
     "date_found": "2026-05-15",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Quality Assurance Intern 2026",
-    "location": "Aiken, South Carolina, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/124181BR/Quality-Assurance-Intern-2026",
-    "date_found": "2026-06-10",
     "disciplines": []
   },
   {
@@ -593,6 +605,14 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Electrical Electronics Engineering Intern 6 Months",
+    "location": "Istanbul, Türkiye",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036052EXTERNALENGLOBAL/Electrical-Electronics-Engineering-Intern-6-Months",
+    "date_found": "2026-06-11",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
     "title": "Embedded Systems Engineer Co op Bohemia NY Spring 2027",
     "location": "Bohemia, New York, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035583EXTERNALENGLOBAL/Embedded-Systems-Engineer-Co-op-Bohemia-NY-Spring-2027",
@@ -617,10 +637,10 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Internship Combustors Design Engineer",
-    "location": "Pomigliano D'Arco, Napoli, Italy",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035814EXTERNALENGLOBAL/Internship-Combustors-Design-Engineer",
-    "date_found": "2026-06-08",
+    "title": "Intern Materials Laboratory Student",
+    "location": "Queretaro, Querétaro, Mexico",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036099EXTERNALENGLOBAL/Intern-Materials-Laboratory-Student",
+    "date_found": "2026-06-11",
     "disciplines": []
   },
   {
@@ -629,14 +649,6 @@
     "location": "Brindisi, Brindisi, Italy",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5032972EXTERNALENGLOBAL/Internship-Service-Master-Scheduler",
     "date_found": "2026-05-30",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Internship Turbine Design Engineer",
-    "location": "Pomigliano D'Arco, Napoli, Italy",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035816EXTERNALENGLOBAL/Internship-Turbine-Design-Engineer",
-    "date_found": "2026-06-08",
     "disciplines": []
   },
   {
@@ -705,18 +717,18 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Systems Product Definition intern",
+    "title": "Tool Software Eng for Product Definition intern 3",
     "location": "Queretaro, Querétaro, Mexico",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035260EXTERNALENGLOBAL/Systems-Product-Definition-intern",
-    "date_found": "2026-06-04",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5031099EXTERNALENGLOBAL/Tool-Software-Eng-for-Product-Definition-intern-3",
+    "date_found": "2026-06-11",
     "disciplines": []
   },
   {
     "company": "HII",
-    "title": "Engineering Intern 2",
-    "location": "Pocasset, MA, Massachusetts, United States",
-    "url": "https://jobs.hii-tsd.com/job/Pocasset%2C-MA-Engineering-Intern-2-Mass/1398669700/",
-    "date_found": "2026-06-10",
+    "title": "AI/ML Engineering Intern - 28587",
+    "location": "Annapolis Junction, MD, Maryland, United States",
+    "url": "https://jobs.hii-tsd.com/job/Annapolis-Junction%2C-MD-AIML-Engineering-Intern-28587-Mary/1390738000/",
+    "date_found": "2026-06-11",
     "disciplines": []
   },
   {
@@ -982,6 +994,14 @@
     "disciplines": []
   },
   {
+    "company": "Leidos",
+    "title": "Software Developer Intern",
+    "location": "Annapolis Junction, MD",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00185122-1",
+    "date_found": "2026-06-11",
+    "disciplines": []
+  },
+  {
     "company": "Lockheed Martin",
     "title": "High School Intern - Lufkin, TX",
     "location": "Lufkin, Texas",
@@ -1043,6 +1063,14 @@
     "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Government Relations",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Government-Relations_R-26-18316",
+    "date_found": "2026-06-11",
     "disciplines": []
   },
   {
@@ -1269,22 +1297,6 @@
   },
   {
     "company": "Parsons",
-    "title": "Electrical Engineering Intern Miami",
-    "location": "",
-    "url": "https://jobs.parsons.com/jobs/electrical-engineering-intern-miami-r-181528-jobs--internship-program--",
-    "date_found": "2026-06-05",
-    "disciplines": []
-  },
-  {
-    "company": "Parsons",
-    "title": "Electrical Engineering Intern Summer 2026 San Antonio",
-    "location": "",
-    "url": "https://jobs.parsons.com/jobs/electrical-engineering-intern-summer-2026-san-antonio-r-181467-jobs--internship-program--",
-    "date_found": "2026-06-05",
-    "disciplines": []
-  },
-  {
-    "company": "Parsons",
     "title": "Engineering Intern (UAE National)",
     "location": "Abu Dhabi",
     "url": "https://jobs.parsons.com/jobs/engineering-intern-uae-national-r-171286-jobs--internship-program--",
@@ -1297,6 +1309,14 @@
     "location": "Dubai",
     "url": "https://jobs.parsons.com/jobs/engineering-intern-uae-national-r-171287-jobs--internship-program--",
     "date_found": "2026-05-15",
+    "disciplines": []
+  },
+  {
+    "company": "Parsons",
+    "title": "ITS Project Coordinator Intern",
+    "location": "Irvine, California",
+    "url": "https://jobs.parsons.com/jobs/its-project-coordinator-intern-irvine-r-181635-jobs--internship-program--",
+    "date_found": "2026-06-11",
     "disciplines": []
   },
   {
