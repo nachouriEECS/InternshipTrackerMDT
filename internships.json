@@ -113,18 +113,18 @@
   },
   {
     "company": "Airbus",
-    "title": "Long-term Internship - Engineering",
-    "location": "Wichita, KS",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term---Engineering_JR10411965",
-    "date_found": "2026-06-09",
+    "title": "Leadership University & Talent Mgmt Intern",
+    "location": "Beijing Area",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Leadership-University---Talent-Mgmt-Intern_JR10396522",
+    "date_found": "2026-06-12",
     "disciplines": []
   },
   {
     "company": "Airbus",
-    "title": "Long-term Internship - Finance Controlling",
-    "location": "Columbus, MS",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Columbus-MS/Long-term-Internship---Finance-Controlling_JR10409218",
-    "date_found": "2026-06-08",
+    "title": "Long-term Internship - Engineering",
+    "location": "Wichita, KS",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term---Engineering_JR10411965",
+    "date_found": "2026-06-09",
     "disciplines": []
   },
   {
@@ -224,7 +224,7 @@
   {
     "company": "Anduril",
     "title": "2027 Software Engineer Intern",
-    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States",
+    "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
     "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
     "date_found": "2026-06-11",
     "disciplines": [
@@ -293,14 +293,6 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/121546BR/RF-Engineering-Intern-Summer-2026",
     "date_found": "2026-05-15",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Research and Development Intern 2026",
-    "location": "Radford, Virginia, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/123724BR/Research-and-Development-Intern-2026",
-    "date_found": "2026-06-10",
     "disciplines": []
   },
   {
@@ -999,6 +991,22 @@
   },
   {
     "company": "Leidos",
+    "title": "Data Engineer Intern",
+    "location": "Fort Belvoir, VA",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00185350",
+    "date_found": "2026-06-12",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
+    "title": "Data Engineer Intern",
+    "location": "Fort Belvoir, VA",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00185348",
+    "date_found": "2026-06-12",
+    "disciplines": []
+  },
+  {
+    "company": "Leidos",
     "title": "Laboratory Technician Intern",
     "location": "Aberdeen, MD",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Aberdeen-MD/Laboratory-Technician-Intern_R-00183639",
@@ -1019,14 +1027,6 @@
     "location": "Baltimore, MD",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Baltimore-MD/Personal-Computer-Support-Technician---High-School-Intern_R-00184740",
     "date_found": "2026-06-03",
-    "disciplines": []
-  },
-  {
-    "company": "Leidos",
-    "title": "Software Developer Intern",
-    "location": "St. Louis, MO",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/St-Louis-MO/Software-Developer-Intern_R-00184938-1",
-    "date_found": "2026-06-08",
     "disciplines": []
   },
   {
@@ -1072,7 +1072,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "McLean, Virginia, United States of America",
+    "location": "Windsor, Maryland, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
