@@ -185,14 +185,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Electrical Engineering Coop Summer Fall 2026",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
-    "date_found": "2026-06-15",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
     "title": "Facilities Systems Management Intern 2026",
     "location": "York, Pennsylvania, United States",
     "url": "https://jobs.baesystems.com/global/en/job/124664BR/Facilities-Systems-Management-Intern-2026",
@@ -393,14 +385,6 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Digital Technology Intern US Summer 2027 Returning Students",
-    "location": "Evendale, Ohio, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030092EXTERNALENGLOBAL/Digital-Technology-Intern-US-Summer-2027-Returning-Students",
-    "date_found": "2026-06-16",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Electrical Electronics Engineering Intern 6 Months",
     "location": "Istanbul, Türkiye",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036052EXTERNALENGLOBAL/Electrical-Electronics-Engineering-Intern-6-Months",
@@ -469,14 +453,6 @@
     "location": "Evendale, Ohio, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030089EXTERNALENGLOBAL/Environmental-Health-Safety-Facilities-Maintenance-Co-op-US-Fall-2027-Returning-Students",
     "date_found": "2026-06-15",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Environmental Health Safety Facilities Maintenance Co op US Spring 2027 Returning Students",
-    "location": "Evendale, Ohio, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030087EXTERNALENGLOBAL/Environmental-Health-Safety-Facilities-Maintenance-Co-op-US-Spring-2027-Returning-Students",
-    "date_found": "2026-06-16",
     "disciplines": []
   },
   {
@@ -657,14 +633,6 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Supply Chain Operations Intern US Summer 2027 Returning Students",
-    "location": "Evendale, Ohio, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030084EXTERNALENGLOBAL/Supply-Chain-Operations-Intern-US-Summer-2027-Returning-Students",
-    "date_found": "2026-06-16",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Systems Engineering Co op Electrical Engineering Computer Engineering Science Avionics US Fall 2027 Returning Students",
     "location": "Grand Rapids, Michigan, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030180EXTERNALENGLOBAL/Systems-Engineering-Co-op-Electrical-Engineering-Computer-Engineering-Science-Avionics-US-Fall-2027-Returning-Students",
@@ -697,34 +665,10 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Systems Engineering Co op Mechanical Aerospace Engineering Avionics US Fall 2027 Returning Students",
-    "location": "Grand Rapids, Michigan, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030183EXTERNALENGLOBAL/Systems-Engineering-Co-op-Mechanical-Aerospace-Engineering-Avionics-US-Fall-2027-Returning-Students",
-    "date_found": "2026-06-16",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Systems Engineering Co op Mechanical Aerospace Engineering Avionics US Spring 2027 Returning Students",
-    "location": "Grand Rapids, Michigan, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030169EXTERNALENGLOBAL/Systems-Engineering-Co-op-Mechanical-Aerospace-Engineering-Avionics-US-Spring-2027-Returning-Students",
-    "date_found": "2026-06-16",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Systems Engineering Co op Mechanical Aerospace Engineering Electric Power US Fall 2027 Returning Students",
     "location": "Dayton, Ohio, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030184EXTERNALENGLOBAL/Systems-Engineering-Co-op-Mechanical-Aerospace-Engineering-Electric-Power-US-Fall-2027-Returning-Students",
     "date_found": "2026-06-15",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Systems Engineering Co op Mechanical Aerospace Engineering Electric Power US Spring 2027 Returning Students",
-    "location": "Dayton, Ohio, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030171EXTERNALENGLOBAL/Systems-Engineering-Co-op-Mechanical-Aerospace-Engineering-Electric-Power-US-Spring-2027-Returning-Students",
-    "date_found": "2026-06-16",
     "disciplines": []
   },
   {
@@ -919,14 +863,6 @@
   },
   {
     "company": "Howmet Aerospace",
-    "title": "Accounting Intern",
-    "location": "Laval, QC, Canada",
-    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/117594",
-    "date_found": "2026-05-18",
-    "disciplines": []
-  },
-  {
-    "company": "Howmet Aerospace",
     "title": "Engineering Intern",
     "location": "Suzhou, Jiangsu, China",
     "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116600",
@@ -1048,7 +984,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "Windsor, Maryland, United States of America",
+    "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
