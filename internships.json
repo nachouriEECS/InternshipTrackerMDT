@@ -169,6 +169,14 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Electrical Engineering Coop Summer Fall 2026",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
+    "date_found": "2026-06-18",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Facilities Systems Management Intern 2026",
     "location": "York, Pennsylvania, United States",
     "url": "https://jobs.baesystems.com/global/en/job/124664BR/Facilities-Systems-Management-Intern-2026",
@@ -205,14 +213,6 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/121546BR/RF-Engineering-Intern-Summer-2026",
     "date_found": "2026-05-15",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Research and Development Intern 2026",
-    "location": "Radford, Virginia, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/123724BR/Research-and-Development-Intern-2026",
-    "date_found": "2026-06-16",
     "disciplines": []
   },
   {
@@ -333,6 +333,14 @@
     "location": "US-OH-Middleburg Hts. (Nuclear)",
     "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Middleburg-Hts-Nuclear/Purchasing---Supply-Chain-Intern--6-month-assignment-_JR12367-1",
     "date_found": "2026-06-02",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Commercial Field Service Intern",
+    "location": "Jakarta, Jakarta Raya, Indonesia",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036110EXTERNALENGLOBAL/Commercial-Field-Service-Intern",
+    "date_found": "2026-06-18",
     "disciplines": []
   },
   {
@@ -713,14 +721,6 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Systems Engineering Intern Mechanical Aerospace Engineering Electric Power US Summer 2027 Returning Students",
-    "location": "Dayton, Ohio, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030177EXTERNALENGLOBAL/Systems-Engineering-Intern-Mechanical-Aerospace-Engineering-Electric-Power-US-Summer-2027-Returning-Students",
-    "date_found": "2026-06-15",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "TSD Tools Intern",
     "location": "Bengaluru, Karnātaka, India",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036226EXTERNALENGLOBAL/TSD-Tools-Intern",
@@ -999,6 +999,14 @@
   },
   {
     "company": "Lockheed Martin",
+    "title": "Program Planning Intern / Goleta, CA",
+    "location": "Goleta, California",
+    "url": "https://www.lockheedmartinjobs.com/job/goleta/program-planning-intern-goleta-ca/694/96616896784",
+    "date_found": "2026-06-18",
+    "disciplines": []
+  },
+  {
+    "company": "Lockheed Martin",
     "title": "Software Developer- Intern",
     "location": "Annapolis Junction, Maryland",
     "url": "https://www.lockheedmartinjobs.com/job/annapolis-junction/software-developer-intern/694/96174465488",
@@ -1043,6 +1051,14 @@
     "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
+    "disciplines": []
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "Chandler Manufacturing Technician Intern - Summer",
+    "location": "AZCH02",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/AZCH02/Chandler-Manufacturing-Technician-Intern---Summer_R10234122",
+    "date_found": "2026-06-18",
     "disciplines": []
   },
   {
@@ -1383,6 +1399,38 @@
     "location": "Virginia",
     "url": "https://www.careers.peraton.com/jobs/summer-2026-research-intern-reston-virginia-167241-jobs--cms-engineering--",
     "date_found": "2026-06-09",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Business Management Intern",
+    "location": "Remote Work, VA, United States",
+    "url": "https://jobs.saic.com/jobs/17886324-business-management-intern",
+    "date_found": "2026-06-18",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Cyber Engineering Intern",
+    "location": "Remote Work, VA, United States",
+    "url": "https://jobs.saic.com/jobs/17826165-cyber-engineering-intern",
+    "date_found": "2026-06-18",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Site Support Intern",
+    "location": "San Diego, CA, United States",
+    "url": "https://jobs.saic.com/jobs/17788968-site-support-intern",
+    "date_found": "2026-06-18",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Technical Intern",
+    "location": "Reston, VA, United States",
+    "url": "https://jobs.saic.com/jobs/17887708-technical-intern",
+    "date_found": "2026-06-18",
     "disciplines": []
   },
   {
