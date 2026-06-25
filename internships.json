@@ -267,6 +267,22 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Quality Intern 2026",
+    "location": "Sterling Heights, Michigan, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125423BR/Quality-Intern-2026",
+    "date_found": "2026-06-25",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern III Summer 2026",
+    "location": "Reston, Virginia, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125787BR/Software-Engineering-Intern-III-Summer-2026",
+    "date_found": "2026-06-25",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Systems Software Engineering Intern Embedded Systems",
     "location": "Huntsville, Alabama, United States",
     "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
@@ -287,6 +303,14 @@
     "location": "Lima, PER",
     "url": "https://bechtel.dejobs.org/lima-per/talent-acquisition-intern/E6C60F106DA7488DA1AB55E4782B321A/job/",
     "date_found": "2026-06-15",
+    "disciplines": []
+  },
+  {
+    "company": "Boeing",
+    "title": "Front-End Developer Intern",
+    "location": "KOR - Seoul, South Korea",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/KOR---Seoul-South-Korea/Front-End-Developer-Intern_JR2026516052-1",
+    "date_found": "2026-06-25",
     "disciplines": []
   },
   {
@@ -419,6 +443,14 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Digital Transformation Intern",
+    "location": "Singapore, Central Singapore, Singapore",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036385EXTERNALENGLOBAL/Digital-Transformation-Intern",
+    "date_found": "2026-06-25",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
     "title": "Electrical Electronics Engineering Intern 6 Months",
     "location": "Istanbul, Türkiye",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036052EXTERNALENGLOBAL/Electrical-Electronics-Engineering-Intern-6-Months",
@@ -547,6 +579,14 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Internship Combustors Design Engineer",
+    "location": "Pomigliano D'Arco, Napoli, Italy",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035814EXTERNALENGLOBAL/Internship-Combustors-Design-Engineer",
+    "date_found": "2026-06-25",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
     "title": "Internship NPI Management",
     "location": "Rivalta di Torino, Torino, Italy",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035734EXTERNALENGLOBAL/Internship-NPI-Management",
@@ -556,9 +596,17 @@
   {
     "company": "GE Aerospace",
     "title": "Internship Service Master Scheduler",
-    "location": "Brindisi, Brindisi, Italy",
+    "location": "",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5032972EXTERNALENGLOBAL/Internship-Service-Master-Scheduler",
     "date_found": "2026-05-30",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Internship Turbine Design Engineer",
+    "location": "Pomigliano D'Arco, Napoli, Italy",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035816EXTERNALENGLOBAL/Internship-Turbine-Design-Engineer",
+    "date_found": "2026-06-25",
     "disciplines": []
   },
   {
@@ -831,16 +879,6 @@
   },
   {
     "company": "Hermeus",
-    "title": "Mission Systems Platform Intern - Fall 2026",
-    "location": "Atlanta, GA",
-    "url": "https://jobs.lever.co/hermeus/86fd77a9-6498-43df-bfe0-2159aa6933db",
-    "date_found": "2026-05-09",
-    "disciplines": [
-      "Internships"
-    ]
-  },
-  {
-    "company": "Hermeus",
     "title": "Operations and Test Engineering Intern - Fall 2026",
     "location": "Los Angeles, CA",
     "url": "https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b",
@@ -945,14 +983,6 @@
   },
   {
     "company": "KBR",
-    "title": "Legal Intern",
-    "location": "Gurgaon, Haryāna",
-    "url": "https://careers.kbr.com/us/en/job/R2125395/Legal-Intern",
-    "date_found": "2026-06-22",
-    "disciplines": []
-  },
-  {
-    "company": "KBR",
     "title": "National Security Solutions NSS Internship DevSecOps Intern",
     "location": "Chantilly, Virginia",
     "url": "https://careers.kbr.com/us/en/job/R2118585/National-Security-Solutions-NSS-Internship-DevSecOps-Intern",
@@ -1053,14 +1083,6 @@
     "location": "Windsor, Maryland, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
-    "disciplines": []
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "Chandler Manufacturing Technician Intern - Summer",
-    "location": "AZCH02",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/AZCH02/Chandler-Manufacturing-Technician-Intern---Summer_R10234122",
-    "date_found": "2026-06-18",
     "disciplines": []
   },
   {
