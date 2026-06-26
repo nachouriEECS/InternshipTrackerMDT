@@ -129,14 +129,6 @@
   },
   {
     "company": "Airbus",
-    "title": "Intern (d/f/m) in the field of Space Situational Awareness and Intelligence",
-    "location": "Immenstaad am Bodensee",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Intern--d-f-m--in-the-field-of-Space-Situational-Awareness-and-Intelligence_JR10422921",
-    "date_found": "2026-06-22",
-    "disciplines": []
-  },
-  {
-    "company": "Airbus",
     "title": "Intern (d/f/m) in the field of Space-based Intelligence, Surveillance and Reconnaissance",
     "location": "Immenstaad am Bodensee",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Intern--d-f-m--in-the-field-of-Space-based-Intelligence--Surveillance-and-Reconnaissance_JR10420054",
@@ -157,6 +149,14 @@
     "location": "Immenstaad am Bodensee",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Immenstaad-am-Bodensee/Internship--d-f-m--in-AI-for-Functional-Avionics_JR10417809",
     "date_found": "2026-06-24",
+    "disciplines": []
+  },
+  {
+    "company": "Airbus",
+    "title": "Internship for Investigation of AI-based Image Augmentation",
+    "location": "Manching",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Internship-for-Investigation-of-AI-based-Image-Augmentation_JR10377072",
+    "date_found": "2026-06-26",
     "disciplines": []
   },
   {
@@ -411,18 +411,18 @@
   },
   {
     "company": "Curtiss-Wright",
+    "title": "Mechanical Engineering Intern",
+    "location": "US-CA-Brea (Nuclear)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-CA-Brea-Nuclear/Mechanical-Engineering-Intern_JR12660-1",
+    "date_found": "2026-06-26",
+    "disciplines": []
+  },
+  {
+    "company": "Curtiss-Wright",
     "title": "Purchasing & Supply Chain Intern (6-month assignment)",
     "location": "US-OH-Middleburg Hts. (Nuclear)",
     "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Middleburg-Hts-Nuclear/Purchasing---Supply-Chain-Intern--6-month-assignment-_JR12367-1",
     "date_found": "2026-06-02",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Business Marketing Intern",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035570EXTERNALENGLOBAL/Business-Marketing-Intern",
-    "date_found": "2026-06-25",
     "disciplines": []
   },
   {
@@ -555,6 +555,14 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "FLIGHT DECK Intern",
+    "location": "Singapore, Central Singapore, Singapore",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036663EXTERNALENGLOBAL/FLIGHT-DECK-Intern",
+    "date_found": "2026-06-26",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
     "title": "Finance Co op US Fall 2027 Returning Students",
     "location": "Evendale, Ohio, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030323EXTERNALENGLOBAL/Finance-Co-op-US-Fall-2027-Returning-Students",
@@ -595,14 +603,6 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Internship Combustors Design Engineer",
-    "location": "",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035814EXTERNALENGLOBAL/Internship-Combustors-Design-Engineer",
-    "date_found": "2026-06-25",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Internship HR Analytics",
     "location": "Rivalta di Torino, Torino, Italy",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036589EXTERNALENGLOBAL/Internship-HR-Analytics",
@@ -615,14 +615,6 @@
     "location": "Rivalta di Torino, Torino, Italy",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035734EXTERNALENGLOBAL/Internship-NPI-Management",
     "date_found": "2026-06-22",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Internship Turbine Design Engineer",
-    "location": "",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035816EXTERNALENGLOBAL/Internship-Turbine-Design-Engineer",
-    "date_found": "2026-06-25",
     "disciplines": []
   },
   {
@@ -716,7 +708,7 @@
   {
     "company": "GE Aerospace",
     "title": "Supply Chain Operations Co op US Spring 2027 Returning Students",
-    "location": "Evendale, Ohio, United States of America",
+    "location": "",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030083EXTERNALENGLOBAL/Supply-Chain-Operations-Co-op-US-Spring-2027-Returning-Students",
     "date_found": "2026-06-15",
     "disciplines": []
@@ -823,6 +815,14 @@
     "location": "Dayton, Ohio, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030177EXTERNALENGLOBAL/Systems-Engineering-Intern-Mechanical-Aerospace-Engineering-Electric-Power-US-Summer-2027-Returning-Students",
     "date_found": "2026-06-24",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Welding Engineering Intern",
+    "location": "Singapore, Central Singapore, Singapore",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036519EXTERNALENGLOBAL/Welding-Engineering-Intern",
+    "date_found": "2026-06-26",
     "disciplines": []
   },
   {
@@ -1449,6 +1449,22 @@
     "location": "",
     "url": "https://www.careers.peraton.com/jobs/generative-ai-engineering-intern-graduate-undefined-undefined-167460-jobs--cms-engineering--",
     "date_found": "2026-06-09",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Cyber Engineering Intern",
+    "location": "Remote Work, VA, United States",
+    "url": "https://jobs.saic.com/jobs/17826165-cyber-engineering-intern",
+    "date_found": "2026-06-26",
+    "disciplines": []
+  },
+  {
+    "company": "SAIC",
+    "title": "Site Support Intern",
+    "location": "San Diego, CA, United States",
+    "url": "https://jobs.saic.com/jobs/17788968-site-support-intern",
+    "date_found": "2026-06-26",
     "disciplines": []
   },
   {
