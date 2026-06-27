@@ -235,6 +235,22 @@
   },
   {
     "company": "BAE Systems",
+    "title": "2027 Co Op Spring Summer or Summer Fall Electrical Engineer onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite",
+    "date_found": "2026-06-27",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "2027 Spring and Summer Mechanical Engineering Coop",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+    "date_found": "2026-06-27",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Corporate Legal Intern Hybrid",
     "location": "Arlington, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/125580BR/Corporate-Legal-Intern-Hybrid",
@@ -275,26 +291,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Quality Intern 2026",
-    "location": "Sterling Heights, Michigan, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125423BR/Quality-Intern-2026",
-    "date_found": "2026-06-25",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
     "title": "Software Engineering Intern III Summer 2026",
     "location": "Reston, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/125787BR/Software-Engineering-Intern-III-Summer-2026",
     "date_found": "2026-06-25",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Systems Software Engineering Intern Embedded Systems",
-    "location": "Huntsville, Alabama, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
-    "date_found": "2026-06-16",
     "disciplines": []
   },
   {
@@ -795,6 +795,14 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Systems Engineering Intern Mechanical Aerospace Engineering Electric Power US Summer 2027 Returning Students",
+    "location": "Dayton, Ohio, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030177EXTERNALENGLOBAL/Systems-Engineering-Intern-Mechanical-Aerospace-Engineering-Electric-Power-US-Summer-2027-Returning-Students",
+    "date_found": "2026-06-27",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
     "title": "Welding Engineering Intern",
     "location": "Singapore, Central Singapore, Singapore",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036519EXTERNALENGLOBAL/Welding-Engineering-Intern",
@@ -1064,7 +1072,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "McLean, Virginia, United States of America",
+    "location": "Windsor, Maryland, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
