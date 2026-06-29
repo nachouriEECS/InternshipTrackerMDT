@@ -259,10 +259,26 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Quality Intern 2026",
+    "location": "Sterling Heights, Michigan, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125423BR/Quality-Intern-2026",
+    "date_found": "2026-06-29",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Software Engineering Intern III Summer 2026",
     "location": "Reston, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/125787BR/Software-Engineering-Intern-III-Summer-2026",
     "date_found": "2026-06-25",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Software Engineering Intern Embedded Systems",
+    "location": "Huntsville, Alabama, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
+    "date_found": "2026-06-29",
     "disciplines": []
   },
   {
@@ -274,27 +290,11 @@
     "disciplines": []
   },
   {
-    "company": "Bechtel",
-    "title": "Talent Acquisition Intern",
-    "location": "Lima, PER",
-    "url": "https://bechtel.dejobs.org/lima-per/talent-acquisition-intern/E6C60F106DA7488DA1AB55E4782B321A/job/",
-    "date_found": "2026-06-15",
-    "disciplines": []
-  },
-  {
     "company": "Boeing",
     "title": "Front-End Developer Intern",
     "location": "KOR - Seoul, South Korea",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/KOR---Seoul-South-Korea/Front-End-Developer-Intern_JR2026516052-1",
     "date_found": "2026-06-25",
-    "disciplines": []
-  },
-  {
-    "company": "Boeing",
-    "title": "Mandatory Internship - Future Flight Operations Research m/f/d",
-    "location": "DEU - Neu-Isenburg, Germany",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/DEU---Neu-Isenburg-Germany/Mandatory-Internship---Future-Flight-Operations-Research-m-f-d_JR2026509807-1",
-    "date_found": "2026-05-19",
     "disciplines": []
   },
   {
@@ -411,14 +411,6 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Digital Technology Intern US Summer 2027 Returning Students",
-    "location": "Evendale, Ohio, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030092EXTERNALENGLOBAL/Digital-Technology-Intern-US-Summer-2027-Returning-Students",
-    "date_found": "2026-06-26",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Digital Transformation Intern",
     "location": "Singapore, Central Singapore, Singapore",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036385EXTERNALENGLOBAL/Digital-Transformation-Intern",
@@ -495,14 +487,6 @@
     "location": "Evendale, Ohio, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030089EXTERNALENGLOBAL/Environmental-Health-Safety-Facilities-Maintenance-Co-op-US-Fall-2027-Returning-Students",
     "date_found": "2026-06-15",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Environmental Health Safety Facilities Maintenance Co op US Spring 2027 Returning Students",
-    "location": "Evendale, Ohio, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030087EXTERNALENGLOBAL/Environmental-Health-Safety-Facilities-Maintenance-Co-op-US-Spring-2027-Returning-Students",
-    "date_found": "2026-06-26",
     "disciplines": []
   },
   {
@@ -667,14 +651,6 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Supply Chain Operations Intern US Summer 2027 Returning Students",
-    "location": "Evendale, Ohio, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030084EXTERNALENGLOBAL/Supply-Chain-Operations-Intern-US-Summer-2027-Returning-Students",
-    "date_found": "2026-06-26",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Systems Engineering Co op Electrical Engineering Computer Engineering Science Avionics US Fall 2027 Returning Students",
     "location": "Grand Rapids, Michigan, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030180EXTERNALENGLOBAL/Systems-Engineering-Co-op-Electrical-Engineering-Computer-Engineering-Science-Avionics-US-Fall-2027-Returning-Students",
@@ -707,34 +683,10 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Systems Engineering Co op Mechanical Aerospace Engineering Avionics US Fall 2027 Returning Students",
-    "location": "Grand Rapids, Michigan, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030183EXTERNALENGLOBAL/Systems-Engineering-Co-op-Mechanical-Aerospace-Engineering-Avionics-US-Fall-2027-Returning-Students",
-    "date_found": "2026-06-26",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Systems Engineering Co op Mechanical Aerospace Engineering Avionics US Spring 2027 Returning Students",
-    "location": "Grand Rapids, Michigan, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030169EXTERNALENGLOBAL/Systems-Engineering-Co-op-Mechanical-Aerospace-Engineering-Avionics-US-Spring-2027-Returning-Students",
-    "date_found": "2026-06-26",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Systems Engineering Co op Mechanical Aerospace Engineering Electric Power US Fall 2027 Returning Students",
     "location": "Dayton, Ohio, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030184EXTERNALENGLOBAL/Systems-Engineering-Co-op-Mechanical-Aerospace-Engineering-Electric-Power-US-Fall-2027-Returning-Students",
     "date_found": "2026-06-15",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Systems Engineering Co op Mechanical Aerospace Engineering Electric Power US Spring 2027 Returning Students",
-    "location": "Dayton, Ohio, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030171EXTERNALENGLOBAL/Systems-Engineering-Co-op-Mechanical-Aerospace-Engineering-Electric-Power-US-Spring-2027-Returning-Students",
-    "date_found": "2026-06-26",
     "disciplines": []
   },
   {
@@ -1185,6 +1137,16 @@
   },
   {
     "company": "Palantir",
+    "title": "Privacy and Civil Liberties Software Engineer, Internship",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b",
+    "date_found": "2026-06-29",
+    "disciplines": [
+      "Engineering"
+    ]
+  },
+  {
+    "company": "Palantir",
     "title": "Software Engineer, Internship",
     "location": "Denver, CO",
     "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249",
@@ -1258,6 +1220,16 @@
     "title": "Software Engineer, Internship - Infrastructure",
     "location": "New York, NY",
     "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3",
+    "date_found": "2026-06-29",
+    "disciplines": [
+      "Dev"
+    ]
+  },
+  {
+    "company": "Palantir",
+    "title": "Software Engineer, Internship - Infrastructure",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4",
     "date_found": "2026-06-29",
     "disciplines": [
       "Dev"
