@@ -152,6 +152,14 @@
     "disciplines": []
   },
   {
+    "company": "Amentum",
+    "title": "Intern Hls Fall Intern Huntsville",
+    "location": "Alabama",
+    "url": "https://www.amentumcareers.com/jobs/intern-hls-fall-intern-huntsville-alabama-united-states",
+    "date_found": "2026-06-30",
+    "disciplines": []
+  },
+  {
     "company": "Anduril",
     "title": "2027 Electrical Engineer Intern",
     "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
@@ -203,26 +211,34 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Co Op Spring Summer or Summer Fall Electrical Engineer onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite",
-    "date_found": "2026-06-30",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "2027 Spring and Summer Mechanical Engineering Coop",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
-    "date_found": "2026-06-30",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
     "title": "Corporate Legal Intern Hybrid",
     "location": "Arlington, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/125580BR/Corporate-Legal-Intern-Hybrid",
     "date_found": "2026-06-10",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Customer Compliance Intern Summer Fall 2026",
+    "location": "Fort Wayne, Indiana, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126161BR/Customer-Compliance-Intern-Summer-Fall-2026",
+    "date_found": "2026-06-30",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Electrical Engineering Coop Summer Fall 2026",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/123262BR/Electrical-Engineering-Coop-Summer-Fall-2026",
+    "date_found": "2026-06-30",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Industrial Engineering Intern Fall 2026",
+    "location": "York, Pennsylvania, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126122BR/Industrial-Engineering-Intern-Fall-2026",
+    "date_found": "2026-06-30",
     "disciplines": []
   },
   {
@@ -235,34 +251,18 @@
   },
   {
     "company": "BAE Systems",
+    "title": "PTECH Intern Summer 2026",
+    "location": "Endicott, New York, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/123726BR/PTECH-Intern-Summer-2026",
+    "date_found": "2026-06-30",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
     "title": "Quality Engineering Intern Summer 2026",
     "location": "Manassas, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/123487BR/Quality-Engineering-Intern-Summer-2026",
     "date_found": "2026-05-15",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Quality Intern 2026",
-    "location": "Sterling Heights, Michigan, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125423BR/Quality-Intern-2026",
-    "date_found": "2026-06-29",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern III Summer 2026",
-    "location": "Reston, Virginia, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125787BR/Software-Engineering-Intern-III-Summer-2026",
-    "date_found": "2026-06-25",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Systems Software Engineering Intern Embedded Systems",
-    "location": "Huntsville, Alabama, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
-    "date_found": "2026-06-29",
     "disciplines": []
   },
   {
@@ -279,14 +279,6 @@
     "location": "KOR - Seoul, South Korea",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/KOR---Seoul-South-Korea/Front-End-Developer-Intern_JR2026516052-1",
     "date_found": "2026-06-25",
-    "disciplines": []
-  },
-  {
-    "company": "Booz Allen Hamilton",
-    "title": "Cyber Intern",
-    "location": "San Antonio, TX",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Cyber-Intern_R0237150",
-    "date_found": "2026-05-02",
     "disciplines": []
   },
   {
@@ -1002,6 +994,14 @@
     "disciplines": []
   },
   {
+    "company": "MITRE",
+    "title": "TECH Futures Intern",
+    "location": "Bedford, Massachusetts, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R116629/TECH-Futures-Intern",
+    "date_found": "2026-06-30",
+    "disciplines": []
+  },
+  {
     "company": "Moog",
     "title": "Intern, Electronic Engineering",
     "location": "Vilnius, LT",
@@ -1087,6 +1087,16 @@
     "location": "New York, NY",
     "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
     "date_found": "2026-06-29",
+    "disciplines": [
+      "Delta"
+    ]
+  },
+  {
+    "company": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - Commercial",
+    "location": "Chicago, IL",
+    "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2",
+    "date_found": "2026-06-30",
     "disciplines": [
       "Delta"
     ]
@@ -1480,14 +1490,6 @@
     "title": "Contracts Administration Pipeline Intern And Entry Level Reston",
     "location": "Virginia",
     "url": "https://www.careers.peraton.com/jobs/contracts-administration-pipeline-intern-and-entry-level-reston-virginia-164063-jobs--cms-engineering--",
-    "date_found": "2026-05-09",
-    "disciplines": []
-  },
-  {
-    "company": "Peraton",
-    "title": "Disaster Recovery Coop Engineer Herndon",
-    "location": "Virginia",
-    "url": "https://www.careers.peraton.com/jobs/disaster-recovery-coop-engineer-herndon-virginia-165079-jobs--cyber-security--",
     "date_found": "2026-05-09",
     "disciplines": []
   },
