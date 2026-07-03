@@ -322,6 +322,30 @@
     "disciplines": []
   },
   {
+    "company": "BAE Systems",
+    "title": "Quality Intern 2026",
+    "location": "Sterling Heights, Michigan, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125423BR/Quality-Intern-2026",
+    "date_found": "2026-07-03",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern III Summer 2026",
+    "location": "Reston, Virginia, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125787BR/Software-Engineering-Intern-III-Summer-2026",
+    "date_found": "2026-07-03",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Software Engineering Intern Embedded Systems",
+    "location": "Huntsville, Alabama, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
+    "date_found": "2026-07-03",
+    "disciplines": []
+  },
+  {
     "company": "BWX Technologies",
     "title": "Human Resources Intern - One Year Term (Year-Round)",
     "location": "Barberton, OH, US",
@@ -595,14 +619,6 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Internship",
-    "location": "",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036584EXTERNALENGLOBAL/Internship",
-    "date_found": "2026-07-03",
-    "disciplines": []
-  },
-  {
-    "company": "GE Aerospace",
     "title": "Internship HR Analytics",
     "location": "Rivalta di Torino, Torino, Italy",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036589EXTERNALENGLOBAL/Internship-HR-Analytics",
@@ -659,6 +675,14 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Manufacturing Intern",
+    "location": "Singapore, Central Singapore, Singapore",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036733EXTERNALENGLOBAL/Manufacturing-Intern",
+    "date_found": "2026-07-03",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
     "title": "Manufacturing Intern Nozzle",
     "location": "Singapore, Central Singapore, Singapore",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036804EXTERNALENGLOBAL/Manufacturing-Intern-Nozzle",
@@ -692,7 +716,7 @@
   {
     "company": "GE Aerospace",
     "title": "Supply Chain Operations Intern US Summer 2027 Returning Students",
-    "location": "",
+    "location": "Evendale, Ohio, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030084EXTERNALENGLOBAL/Supply-Chain-Operations-Intern-US-Summer-2027-Returning-Students",
     "date_found": "2026-06-30",
     "disciplines": []
@@ -731,6 +755,14 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Systems Engineering Co op Mechanical Aerospace Engineering Avionics US Fall 2027 Returning Students",
+    "location": "Grand Rapids, Michigan, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030183EXTERNALENGLOBAL/Systems-Engineering-Co-op-Mechanical-Aerospace-Engineering-Avionics-US-Fall-2027-Returning-Students",
+    "date_found": "2026-07-03",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
     "title": "Systems Engineering Co op Mechanical Aerospace Engineering Avionics US Spring 2027 Returning Students",
     "location": "Grand Rapids, Michigan, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030169EXTERNALENGLOBAL/Systems-Engineering-Co-op-Mechanical-Aerospace-Engineering-Avionics-US-Spring-2027-Returning-Students",
@@ -743,6 +775,14 @@
     "location": "Dayton, Ohio, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030184EXTERNALENGLOBAL/Systems-Engineering-Co-op-Mechanical-Aerospace-Engineering-Electric-Power-US-Fall-2027-Returning-Students",
     "date_found": "2026-06-15",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Systems Engineering Co op Mechanical Aerospace Engineering Electric Power US Spring 2027 Returning Students",
+    "location": "Dayton, Ohio, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5030171EXTERNALENGLOBAL/Systems-Engineering-Co-op-Mechanical-Aerospace-Engineering-Electric-Power-US-Spring-2027-Returning-Students",
+    "date_found": "2026-07-03",
     "disciplines": []
   },
   {
@@ -1020,7 +1060,7 @@
   {
     "company": "MITRE",
     "title": "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
-    "location": "Windsor, Maryland, United States of America",
+    "location": "McLean, Virginia, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R116220/Job-Title-Health-Policy-Analysis-Graduate-Intern-McLean-or-Baltimore",
     "date_found": "2026-05-17",
     "disciplines": []
