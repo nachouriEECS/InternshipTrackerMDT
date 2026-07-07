@@ -394,21 +394,27 @@ def _parse_slug_location(slug: str) -> tuple[str, str]:
     return slug, location
 
 
-def _fetch_clinch_details(url: str) -> tuple[str, str]:
+def _fetch_clinch_details(url: str) -> tuple[str, str, bool]:
     """Pull the clean title and location from a Clinch/iCIMS job page.
 
     These pages server-render ``var jobTitle``/``addressLocality``/
     ``addressRegion`` string assignments (the JSON-LD block itself is a
     client-side template with unquoted placeholders, so it's not usable).
-    Returns ``("", "")`` when the page is unavailable — some sitemap entries
-    are stale and 404 — so the caller can fall back to slug-derived values.
+    Returns ``(title, location, gone)``. ``gone`` is True when the page
+    404s: these sitemaps keep listing removed jobs, and a 404 on the job
+    page means the requisition is closed — the caller should drop the
+    posting. Transient failures (timeout, 5xx) return ``("", "", False)``
+    so the caller falls back to slug-derived values instead of dropping a
+    live posting on a flaky run.
     """
     try:
         resp = http_get(url, headers={"Accept": "text/html"})
     except requests.RequestException:
-        return "", ""
+        return "", "", False
+    if resp.status_code == 404:
+        return "", "", True
     if not resp.ok:
-        return "", ""
+        return "", "", False
 
     def _var(name: str) -> str:
         m = re.search(rf'var\s+{name}\s*=\s*"([^"]*)"', resp.text)
@@ -419,7 +425,7 @@ def _fetch_clinch_details(url: str) -> tuple[str, str]:
     location = ", ".join(
         p for p in (_var("addressLocality"), _var("addressRegion")) if p
     )
-    return title, location
+    return title, location, False
 
 
 def fetch_clinch_sitemap(company: str, cfg: dict[str, Any], today: str) -> list[Posting]:
@@ -472,7 +478,9 @@ def fetch_clinch_sitemap(company: str, cfg: dict[str, Any], today: str) -> list[
             continue
         seen.add(url)
         if enrich:
-            page_title, page_location = _fetch_clinch_details(url)
+            page_title, page_location, gone = _fetch_clinch_details(url)
+            if gone:
+                continue
             title = page_title or title
             location = page_location or location
         postings.append(Posting(company, title, location, url, today))
