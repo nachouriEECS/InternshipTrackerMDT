@@ -8,7 +8,7 @@ import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 
-from tracker import categorize, is_non_us
+from tracker import categorize, is_internship, is_non_us
 
 
 def test_clearly_foreign_locations_dropped():
@@ -93,6 +93,22 @@ def test_ambiguous_locations_kept():
     ]
     for loc in ambiguous:
         assert not is_non_us(loc), f"ambiguous should be kept: {loc!r}"
+
+
+def test_high_school_roles_excluded():
+    excluded = [
+        "2026 Fall High School Intern Business Management Columbus Ga",
+        "2026 Fall High School Intern Finance Mesa Az",
+        "2026 Fall High School Intern Manufacturing Columbus Ga",
+        "PTECH Intern Summer 2026",
+        "P-TECH Intern",
+        "HighSchool Intern Program",
+    ]
+    for title in excluded:
+        assert not is_internship(title), f"should be excluded: {title!r}"
+    # College-level roles must not be caught
+    assert is_internship("Mechanical Engineering Intern")
+    assert is_internship("Technical Intern Summer 2026")
 
 
 def test_software_wins_over_engineering():

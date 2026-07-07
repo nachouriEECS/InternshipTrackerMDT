@@ -89,6 +89,71 @@ def test_stale_404_posting_dropped_but_transient_failure_kept():
     assert by_url[FLAKY].title.startswith("Bridge Engineering Co Op")
 
 
+PHENOM_LIVE = f"{BASE}/us/en/job/R1/Chemistry-Intern"
+PHENOM_DEAD = f"{BASE}/us/en/job/R2/Data-Intern"
+
+PHENOM_SITEMAP = f"""<?xml version="1.0"?>
+<urlset>
+  <url><loc>{PHENOM_LIVE}</loc></url>
+  <url><loc>{PHENOM_DEAD}</loc></url>
+</urlset>
+"""
+
+
+def fake_phenom_get(url, **kwargs):
+    if url.endswith("phenom-sitemap.xml"):
+        return FakeResp(200, PHENOM_SITEMAP)
+    if url == PHENOM_LIVE:
+        return FakeResp(200, '{"location": "McLean, Virginia"}')
+    if url == PHENOM_DEAD:
+        return FakeResp(410)
+    raise AssertionError(f"unexpected URL {url}")
+
+
+def test_phenom_stale_410_posting_dropped():
+    real = tracker.http_get
+    tracker.http_get = fake_phenom_get
+    try:
+        postings = tracker.fetch_phenom_sitemap(
+            "MITRE", {"sitemap_url": f"{BASE}/phenom-sitemap.xml"}, "2026-07-08"
+        )
+    finally:
+        tracker.http_get = real
+    urls = {p.url for p in postings}
+    assert PHENOM_DEAD not in urls, "410 posting should be dropped"
+    assert PHENOM_LIVE in urls
+    assert postings[0].location == "McLean, Virginia"
+
+
+def test_preserved_entries_with_dead_links_pruned():
+    """Entries kept alive because their company's scrape errored must
+    still be dropped once their URL definitively 404/410s."""
+    merged = [
+        {"company": "MITRE", "url": f"{BASE}/gone", "title": "Old Intern"},
+        {"company": "MITRE", "url": f"{BASE}/alive", "title": "Live Intern"},
+        {"company": "Anduril", "url": f"{BASE}/fresh", "title": "New Intern"},
+    ]
+    current_keys = {f"Anduril::{BASE}/fresh"}  # only Anduril was scraped
+
+    real = tracker.http_get
+    tracker.http_get = lambda url, **kw: FakeResp(410 if url.endswith("/gone") else 200)
+    try:
+        kept, pruned = tracker.prune_dead_links(merged, current_keys)
+    finally:
+        tracker.http_get = real
+
+    assert pruned == 1
+    assert [e["url"] for e in kept] == [f"{BASE}/alive", f"{BASE}/fresh"]
+
+
 if __name__ == "__main__":
-    test_stale_404_posting_dropped_but_transient_failure_kept()
-    print("PASS test_stale_404_posting_dropped_but_transient_failure_kept")
+    failures = 0
+    for name, fn in sorted(list(globals().items())):
+        if name.startswith("test_") and callable(fn):
+            try:
+                fn()
+                print(f"PASS {name}")
+            except AssertionError as e:
+                failures += 1
+                print(f"FAIL {name}: {e}")
+    sys.exit(1 if failures else 0)

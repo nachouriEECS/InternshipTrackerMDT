@@ -87,8 +87,15 @@ internal CXS path.
 
 A posting is kept if its title matches `intern`, `internship`, or `co-op` and
 does **not** also match exclusion terms (`manager`, `senior`, `principal`,
-etc., to avoid e.g. "Internship Program Manager"). Lever's `commitment` field
-is also checked when present.
+`high school`, `PTECH`, etc., to avoid e.g. "Internship Program Manager" and
+high-school-level programs). Lever's `commitment` field is also checked when
+present.
+
+**Dead links:** sitemap-based boards (Parsons, MITRE, …) can list or preserve
+jobs whose pages have been taken down. Job pages returning HTTP 404/410 are
+skipped at scrape time, and entries preserved during a scrape outage are
+link-checked each run (`prune_dead_links`) so a company that errors
+indefinitely can't keep dead postings alive.
 
 **US-only:** postings whose location clearly indicates a non-US country are
 dropped (`is_non_us`). Ambiguous locations ("2 Locations", "Remote", a bare
