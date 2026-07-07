@@ -31,7 +31,7 @@ USER_AGENT = "defense-internship-tracker/1.0 (+https://github.com)"
 INTERN_PATTERN = re.compile(r"\b(intern(ship)?|co[\s\-]?op)\b", re.IGNORECASE)
 NEGATIVE_PATTERN = re.compile(
     r"\b(manager|director|senior|principal|staff|lead|head\s+of"
-    r"|skill[\s\-]?bridge)\b",
+    r"|skill[\s\-]?bridge|high\s*school|p[\s\-]?tech)\b",
     re.IGNORECASE,
 )
 
@@ -411,7 +411,7 @@ def _fetch_clinch_details(url: str) -> tuple[str, str, bool]:
         resp = http_get(url, headers={"Accept": "text/html"})
     except requests.RequestException:
         return "", "", False
-    if resp.status_code == 404:
+    if resp.status_code in (404, 410):
         return "", "", True
     if not resp.ok:
         return "", "", False
@@ -522,6 +522,9 @@ def fetch_phenom_sitemap(company: str, cfg: dict[str, Any], today: str) -> list[
         location = ""
         try:
             page = http_get(url, headers={"Accept": "text/html"})
+            if page.status_code in (404, 410):
+                # Stale sitemap entry — the requisition is closed.
+                continue
             if page.ok:
                 m = re.search(r'"location"\s*:\s*"([^"]+)"', page.text)
                 if m:
@@ -1068,6 +1071,39 @@ def diff_and_merge(
     return merged, added, removed_count
 
 
+def is_gone(url: str) -> bool:
+    """True when a posting URL definitively no longer exists (HTTP
+    404/410). Any other response — including bot challenges and network
+    failures — returns False: better to keep a stale link one more day
+    than drop a live posting over a transient block.
+    """
+    try:
+        resp = http_get(url, headers={"Accept": "text/html"})
+    except requests.RequestException:
+        return False
+    return resp.status_code in (404, 410)
+
+
+def prune_dead_links(
+    merged: list[dict[str, Any]], current_keys: set[str]
+) -> tuple[list[dict[str, Any]], int]:
+    """Validate entries that survived only because their company's scrape
+    errored (i.e. absent from the current scrape). A company that errors
+    on every run — MITRE blocks GitHub's runners, for example — would
+    otherwise preserve dead postings forever.
+    """
+    kept: list[dict[str, Any]] = []
+    pruned = 0
+    for entry in merged:
+        key = f"{entry['company']}::{entry['url']}"
+        if key in current_keys or not is_gone(entry["url"]):
+            kept.append(entry)
+        else:
+            log.info("%s: pruned dead link %s", entry["company"], entry["url"])
+            pruned += 1
+    return kept, pruned
+
+
 def main() -> int:
     companies = load_json(COMPANIES_FILE, default=None)
     if not companies:
@@ -1087,6 +1123,8 @@ def main() -> int:
     current, errored = collect(companies, today)
     current = [p for p in current if not is_non_us(p.location or p.title)]
     merged, added, removed = diff_and_merge(existing, current, errored)
+    merged, pruned = prune_dead_links(merged, {p.key for p in current})
+    removed += pruned
     # Recomputed every run so keyword-rule changes propagate to old entries.
     for entry in merged:
         entry["category"] = categorize(
