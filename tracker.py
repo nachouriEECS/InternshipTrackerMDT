@@ -801,6 +801,152 @@ def fetch_oracle_orc(company: str, cfg: dict[str, Any], today: str) -> list[Post
     return postings
 
 
+# ---------------------------------------------------------------------------
+# Classification: US-only filter and category buckets
+# ---------------------------------------------------------------------------
+
+_US_STATE_ABBREVS = {
+    "al", "ak", "az", "ar", "ca", "co", "ct", "de", "fl", "ga", "hi", "id",
+    "il", "in", "ia", "ks", "ky", "la", "me", "md", "ma", "mi", "mn", "ms",
+    "mo", "mt", "ne", "nv", "nh", "nj", "nm", "ny", "nc", "nd", "oh", "ok",
+    "or", "pa", "ri", "sc", "sd", "tn", "tx", "ut", "vt", "va", "wa", "wv",
+    "wi", "wy", "dc", "pr", "gu", "vi", "as", "mp",
+}
+_US_STATE_NAMES = {s.replace("-", " ") for s in _US_STATES}
+_US_LAST_SEGMENTS = (
+    _US_STATE_NAMES
+    | _US_STATE_ABBREVS
+    | {"us", "usa", "united states", "united states of america",
+       "puerto rico", "guam", "remote"}
+)
+
+_FOREIGN_TERMS = [
+    # Countries / territories
+    "united kingdom", "uk", "england", "scotland", "wales", "ireland",
+    "france", "germany", "deutschland", "italy", "italia", "spain", "españa",
+    "portugal", "netherlands", "belgium", "luxembourg", "switzerland",
+    "austria", "poland", "czechia", "czech republic", "slovakia", "hungary",
+    "romania", "bulgaria", "greece", "denmark", "norway", "sweden", "finland",
+    "estonia", "latvia", "lithuania", "ukraine", "serbia", "croatia",
+    "turkey", "türkiye", "turkiye",
+    "canada", "mexico", "méxico", "brazil", "brasil", "argentina", "chile",
+    "colombia", "peru", "costa rica", "panama",
+    "india", "china", "japan", "south korea", "korea", "taiwan", "hong kong",
+    "singapore", "malaysia", "indonesia", "thailand", "vietnam",
+    "philippines", "pakistan", "bangladesh",
+    "australia", "new zealand",
+    "israel", "saudi arabia", "united arab emirates", "uae", "qatar",
+    "kuwait", "bahrain", "oman", "jordan", "egypt", "morocco",
+    "south africa", "nigeria", "kenya",
+    # Foreign cities / regions that appear on these boards without a country
+    "london", "gloucestershire", "bristol uk",
+    "toulouse", "marseille", "bordeaux",
+    "hamburg", "munich", "münchen", "berlin", "frankfurt", "stuttgart",
+    "bremen", "manching", "stade", "immenstaad", "ottobrunn", "donauwörth",
+    "madrid", "getafe", "sevilla", "seville", "barcelona",
+    "rome", "milan", "turin", "torino", "brindisi",
+    "prague", "praha", "vilnius", "warsaw", "krakow", "bucharest",
+    "budapest", "vienna", "amsterdam", "brussels", "geneva", "zurich",
+    "istanbul", "ankara",
+    "abu dhabi", "dubai", "doha", "riyadh", "jeddah", "dhahran",
+    "tel aviv", "cairo", "casablanca",
+    "beijing", "shanghai", "tianjin", "guangzhou", "shenzhen", "suzhou",
+    "chengdu", "taipei", "seoul", "tokyo", "osaka", "nagoya",
+    "bengaluru", "bangalore", "hyderabad", "mumbai", "new delhi", "chennai",
+    "pune", "noida", "bangkok", "kuala lumpur", "selangor", "subang",
+    "jakarta", "hanoi", "manila",
+    "sydney", "melbourne", "brisbane", "adelaide", "canberra", "queensland",
+    "new south wales", "tasmania",
+    "ontario", "quebec", "québec", "alberta", "manitoba", "saskatchewan",
+    "british columbia", "nova scotia", "new brunswick", "newfoundland",
+    "toronto", "montreal", "montréal", "mississauga", "calgary", "winnipeg",
+    "mirabel",
+]
+_FOREIGN_PATTERN = re.compile(
+    r"\b(" + "|".join(re.escape(t) for t in _FOREIGN_TERMS) + r")\b"
+)
+
+_SOFTWARE_PATTERN = re.compile(
+    r"\b(software|swe|developer|programmer|computer science"
+    r"|information technology|information systems|informatics"
+    r"|cyber\w*|data|artificial intelligence|machine learning"
+    r"|deep learning|ai|ml|devops|cloud|full[ -]?stack|front[ -]?end"
+    r"|back[ -]?end|web|firmware|database|sql|python|java\w*)\b",
+    re.IGNORECASE,
+)
+_ENGINEERING_PATTERN = re.compile(
+    r"\b(engineer\w*|mechanical|electrical|electronic\w*|aerospace"
+    r"|aeronautic\w*|astronautic\w*|avionics|manufacturing|materials"
+    r"|metallurg\w*|weld\w*|machinist|machining|cnc|fabrication"
+    r"|structural|structures|civil|chemical|chemistry|chemist|nuclear"
+    r"|mechatronic\w*|propulsion|thermal|aerodynamic\w*|gnc|hardware"
+    r"|asic|fpga|pcb|rf|radar|antenna|optics|photonics|laser|physics"
+    r"|physicist|scientist|quality|technician|drafter|drafting|cad"
+    r"|ndt|non[ -]?destructive|naval architect\w*)\b",
+    re.IGNORECASE,
+)
+_NON_ENGINEERING_PATTERN = re.compile(
+    r"\b(hr|human resources|finance|financial|account\w*|business"
+    r"|marketing|sales|legal|paralegal|contracts?|administration|admin"
+    r"|communications?|outreach|engagement|compliance|pricing|policy"
+    r"|supply chain|purchasing|procurement|logistics|facilities"
+    r"|maintenance|pilot|strategist|coordinator|management|analyst\w*"
+    r"|analysis|ehs|recruit\w*|talent|payroll|audit\w*|tax|treasury)\b",
+    re.IGNORECASE,
+)
+
+CATEGORY_SOFTWARE = "software"
+CATEGORY_ENGINEERING = "engineering"
+CATEGORY_NON_ENGINEERING = "non-engineering"
+
+
+def is_non_us(location: str) -> bool:
+    """True when *location* clearly indicates a place outside the United
+    States. Ambiguous or empty strings return False (i.e. kept): the tracked
+    companies are US defense contractors, so US is the safe default. US
+    checks run before the foreign-term match so that US towns sharing a name
+    with foreign cities ("Hamburg, NY", "Vienna, VA") survive.
+    """
+    low = re.sub(r"\s+", " ", location).strip().lower()
+    if not low:
+        return False
+    if "united states" in low or re.search(r"\b(usa?|u\.s\.a?\.?)\b", low):
+        return False
+    if low.startswith(("us-", "usa-")):
+        return False
+    segments = [s.strip() for s in re.split(r"[,;]", low) if s.strip()]
+    last = segments[-1].replace(".", "").strip() if segments else ""
+    if last in _US_LAST_SEGMENTS:
+        return False
+    if _FOREIGN_PATTERN.search(low):
+        return True
+    # Trailing 2/3-letter region code that isn't a US state or territory
+    # ("Vilnius, LT", "Mirabel, CAN").
+    if len(segments) > 1 and len(last) in (2, 3) and last.isalpha():
+        return True
+    return False
+
+
+def categorize(title: str, disciplines: Iterable[str] = ()) -> str:
+    """Bucket a posting as software, engineering, or non-engineering from
+    its title (and discipline tags when the board provides them). Software
+    wins over engineering, so "Software Engineering Intern" is software.
+    Titles matching no pattern at all (bare "Intern", "Co-op (Fall Term)")
+    default to engineering — that's what an unlabeled posting at these
+    companies usually is.
+    """
+    text = " ".join([title, *disciplines])
+    # "IT" is matched case-sensitively; a case-insensitive \bit\b would hit
+    # the English word "it".
+    if _SOFTWARE_PATTERN.search(text) or re.search(r"\bIT\b", text):
+        return CATEGORY_SOFTWARE
+    if _ENGINEERING_PATTERN.search(text):
+        return CATEGORY_ENGINEERING
+    if _NON_ENGINEERING_PATTERN.search(text):
+        return CATEGORY_NON_ENGINEERING
+    return CATEGORY_ENGINEERING
+
+
 FETCHERS = {
     "greenhouse": fetch_greenhouse,
     "lever": fetch_lever,
@@ -922,9 +1068,22 @@ def main() -> int:
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     existing = load_json(DATA_FILE, default=[])
+    # When a posting has no location, fall back to its title: sitemap-derived
+    # titles (Parsons/Clinch) embed the location in the slug, so a clearly
+    # foreign title with no location is a foreign posting.
+    existing = [
+        e for e in existing
+        if not is_non_us(e.get("location") or e.get("title", ""))
+    ]
 
     current, errored = collect(companies, today)
+    current = [p for p in current if not is_non_us(p.location or p.title)]
     merged, added, removed = diff_and_merge(existing, current, errored)
+    # Recomputed every run so keyword-rule changes propagate to old entries.
+    for entry in merged:
+        entry["category"] = categorize(
+            entry.get("title", ""), entry.get("disciplines") or ()
+        )
     save_json(DATA_FILE, merged)
     save_json(META_FILE, {"last_scanned": today, "total_postings": len(merged)})
 

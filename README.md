@@ -90,6 +90,24 @@ does **not** also match exclusion terms (`manager`, `senior`, `principal`,
 etc., to avoid e.g. "Internship Program Manager"). Lever's `commitment` field
 is also checked when present.
 
+**US-only:** postings whose location clearly indicates a non-US country are
+dropped (`is_non_us`). Ambiguous locations ("2 Locations", "Remote", a bare
+state, empty) are kept, since the tracked companies are US defense
+contractors. When the location is empty the title is checked instead, because
+sitemap-derived titles embed the location in the slug.
+
+## Categories
+
+Every posting gets a `category` field — `software`, `engineering`, or
+`non-engineering` — assigned by keyword rules over the title (and discipline
+tags when the board provides them). Software wins over engineering, so
+"Software Engineering Intern" is `software`. Titles matching no pattern at
+all (bare "Intern", "Co-op (Fall Term)") default to `engineering`. The
+category is recomputed on every run, so rule changes propagate to existing
+entries. The site shows the categories as tabs. Rules live in
+`_SOFTWARE_PATTERN` / `_ENGINEERING_PATTERN` / `_NON_ENGINEERING_PATTERN`
+in `tracker.py`; tests in `tests/test_classify.py`.
+
 ## How the diff works
 
 Each posting is keyed by `company::url`. On every run:
