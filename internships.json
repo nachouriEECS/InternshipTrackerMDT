@@ -121,14 +121,6 @@
   },
   {
     "company": "Airbus",
-    "title": "Quality Conformance Management Fuselage Equipping Intern",
-    "location": "Tianjin Area",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/Quality-Conformance-Management-Fuselage-Equipping-Intern_JR10425860",
-    "date_found": "2026-07-03",
-    "disciplines": []
-  },
-  {
-    "company": "Airbus",
     "title": "Quality Surveillance team Intern",
     "location": "Tianjin Area",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/Quality-Surveillance-team-Intern_JR10426161",
@@ -141,6 +133,14 @@
     "location": "Beijing Area",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Supply-Chain-and-Quality-Intern_JR10426227",
     "date_found": "2026-07-02",
+    "disciplines": []
+  },
+  {
+    "company": "Airbus",
+    "title": "flowline intern",
+    "location": "Tianjin Area",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Tianjin-Area/flowline-intern_JR10427116",
+    "date_found": "2026-07-07",
     "disciplines": []
   },
   {
@@ -206,7 +206,7 @@
     "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007",
     "date_found": "2026-06-11",
     "disciplines": [
-      "Hardware Engineering : Electrical Engineering"
+      "Hardware Platform : Hardware Engineering Services"
     ]
   },
   {
@@ -226,7 +226,7 @@
     "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007",
     "date_found": "2026-06-11",
     "disciplines": [
-      "Hardware Engineering : Mechanical Engineering "
+      "Hardware Platform : Core Technology Products "
     ]
   },
   {
@@ -248,6 +248,22 @@
     "disciplines": [
       "Maritime & Maneuver Dominance : Heavy Metal - Engineering & Operations"
     ]
+  },
+  {
+    "company": "BAE Systems",
+    "title": "2027 Co Op Spring Summer or Summer Fall Electrical Engineer onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite",
+    "date_found": "2026-07-07",
+    "disciplines": []
+  },
+  {
+    "company": "BAE Systems",
+    "title": "2027 Spring and Summer Mechanical Engineering Coop",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+    "date_found": "2026-07-07",
+    "disciplines": []
   },
   {
     "company": "BAE Systems",
@@ -298,30 +314,6 @@
     "disciplines": []
   },
   {
-    "company": "BAE Systems",
-    "title": "Quality Intern 2026",
-    "location": "Sterling Heights, Michigan, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125423BR/Quality-Intern-2026",
-    "date_found": "2026-07-03",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern III Summer 2026",
-    "location": "Reston, Virginia, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125787BR/Software-Engineering-Intern-III-Summer-2026",
-    "date_found": "2026-07-03",
-    "disciplines": []
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Systems Software Engineering Intern Embedded Systems",
-    "location": "Huntsville, Alabama, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
-    "date_found": "2026-07-03",
-    "disciplines": []
-  },
-  {
     "company": "BWX Technologies",
     "title": "Human Resources Intern - One Year Term (Year-Round)",
     "location": "Barberton, OH, US",
@@ -339,18 +331,18 @@
   },
   {
     "company": "Boeing",
-    "title": "Government Affairs Intern- 12 Months Placement",
-    "location": "GBR - London, UK",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---London-UK/Government-Affairs-Intern--12-Months-Placement_JR2026515888",
-    "date_found": "2026-07-06",
+    "title": "Global Engagement Intern",
+    "location": "2 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/AUS---Brisbane-Australia/Global-Engagement-Intern_JR2026517374-1",
+    "date_found": "2026-07-07",
     "disciplines": []
   },
   {
     "company": "Boeing",
-    "title": "Internship - Business Operations - Program Management",
-    "location": "AUS - Port Melbourne, Australia",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/AUS---Port-Melbourne-Australia/Internship---Business-Operations---Program-Management_JR2026499342-3",
-    "date_found": "2026-07-02",
+    "title": "Government Affairs Intern- 12 Months Placement",
+    "location": "GBR - London, UK",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---London-UK/Government-Affairs-Intern--12-Months-Placement_JR2026515888",
+    "date_found": "2026-07-06",
     "disciplines": []
   },
   {
@@ -476,17 +468,17 @@
   {
     "company": "GE Aerospace",
     "title": "FLIGHT DECK Intern",
-    "location": "Subang, Selangor, Malaysia",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036998EXTERNALENGLOBAL/FLIGHT-DECK-Intern",
-    "date_found": "2026-07-03",
+    "location": "Singapore, Central Singapore, Singapore",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036663EXTERNALENGLOBAL/FLIGHT-DECK-Intern",
+    "date_found": "2026-06-26",
     "disciplines": []
   },
   {
     "company": "GE Aerospace",
     "title": "FLIGHT DECK Intern",
-    "location": "Singapore, Central Singapore, Singapore",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036663EXTERNALENGLOBAL/FLIGHT-DECK-Intern",
-    "date_found": "2026-06-26",
+    "location": "Subang, Selangor, Malaysia",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036998EXTERNALENGLOBAL/FLIGHT-DECK-Intern",
+    "date_found": "2026-07-03",
     "disciplines": []
   },
   {
@@ -503,6 +495,14 @@
     "location": "Dubai, United Arab Emirates",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036584EXTERNALENGLOBAL/Internship",
     "date_found": "2026-07-06",
+    "disciplines": []
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Internship HR Analytics",
+    "location": "Rivalta di Torino, Torino, Italy",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036589EXTERNALENGLOBAL/Internship-HR-Analytics",
+    "date_found": "2026-07-07",
     "disciplines": []
   },
   {
@@ -818,11 +818,11 @@
     "disciplines": []
   },
   {
-    "company": "Moog",
-    "title": "Intern, Supply Chain Engineering",
-    "location": "Torrance, CA",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Supply-Chain-Engineering_R-25-13954-1",
-    "date_found": "2026-06-25",
+    "company": "Northrop Grumman",
+    "title": "2027 Intern Electronics Engineer",
+    "location": "4 Locations",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Electronics-Engineer_R10239120",
+    "date_found": "2026-07-07",
     "disciplines": []
   },
   {
@@ -1357,16 +1357,6 @@
     "date_found": "2026-05-17",
     "disciplines": [
       "Internships"
-    ]
-  },
-  {
-    "company": "SpaceX",
-    "title": "Recruiting Coordinator, Intern Program- Temporary",
-    "location": "Hawthorne, CA",
-    "url": "https://job-boards.greenhouse.io/spacex/jobs/8578759002?gh_jid=8578759002",
-    "date_found": "2026-06-04",
-    "disciplines": [
-      "Recruiting"
     ]
   },
   {
