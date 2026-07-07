@@ -41,11 +41,26 @@
     .meta a { color: var(--accent); text-decoration: none; }
     .meta a:hover { color: var(--accent-hover); text-decoration: underline; }
 
+    .tabs { display: flex; gap: 8px; margin-top: 20px; flex-wrap: wrap; }
+    .tab {
+      background: var(--panel);
+      color: var(--muted);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 7px 14px;
+      font-size: 14px;
+      font-family: inherit;
+      cursor: pointer;
+    }
+    .tab:hover { color: var(--text); }
+    .tab.active { color: var(--text); border-color: var(--accent); }
+    .tab .count { color: var(--accent); margin-left: 6px; font-variant-numeric: tabular-nums; }
+
     .controls {
       display: grid;
       grid-template-columns: 1fr 220px 220px;
       gap: 10px;
-      margin: 20px 0 14px;
+      margin: 12px 0 14px;
     }
     @media (max-width: 720px) { .controls { grid-template-columns: 1fr; } }
 
@@ -122,6 +137,8 @@
       </div>
     </header>
 
+    <div class="tabs" id="tabs"></div>
+
     <div class="controls">
       <input id="search" type="text" placeholder="Search title, company, or location…" autocomplete="off">
       <select id="company"><option value="">All companies</option></select>
@@ -146,7 +163,43 @@
       { key: "date_found", label: "Posted", cls: "date" },
     ];
 
+    const CATEGORIES = [
+      { key: "",                label: "All" },
+      { key: "engineering",     label: "Engineering" },
+      { key: "software",        label: "Software" },
+      { key: "non-engineering", label: "Non-engineering" },
+    ];
+
     let postings = [];
+    let activeCategory = "";
+
+    function categoryOf(p) {
+      return p.category || "non-engineering";
+    }
+
+    function buildTabs() {
+      const counts = {};
+      for (const p of postings) {
+        const c = categoryOf(p);
+        counts[c] = (counts[c] || 0) + 1;
+      }
+      const tabs = document.getElementById("tabs");
+      tabs.innerHTML = "";
+      for (const cat of CATEGORIES) {
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "tab" + (cat.key === activeCategory ? " active" : "");
+        const n = cat.key ? (counts[cat.key] || 0) : postings.length;
+        btn.innerHTML = escapeHtml(cat.label) + '<span class="count">' + n + "</span>";
+        btn.addEventListener("click", () => {
+          activeCategory = cat.key;
+          for (const b of tabs.children) b.classList.remove("active");
+          btn.classList.add("active");
+          render();
+        });
+        tabs.appendChild(btn);
+      }
+    }
 
     async function load() {
       try {
@@ -186,6 +239,7 @@
       }
       if (lastScanned) document.getElementById("last-updated").textContent = "Last updated " + lastScanned;
 
+      buildTabs();
       render();
     }
 
@@ -195,6 +249,7 @@
       const [sortKey, sortDir] = document.getElementById("sort").value.split(":");
 
       let rows = postings;
+      if (activeCategory) rows = rows.filter(p => categoryOf(p) === activeCategory);
       if (company) rows = rows.filter(p => p.company === company);
       if (q) {
         rows = rows.filter(p =>
