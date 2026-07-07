@@ -142,6 +142,12 @@ def test_engineering_titles():
         "Intern, Systems Engineering",
         "Engineering Intern",
         "Fall 2026 Engineering Internship/Co-op",
+        # No keywords at all -> defaults to engineering
+        "Intern",
+        "Internship",
+        "Co-Op (Fall Term)",
+        "Qualified intern",
+        "FLIGHT DECK Intern",
     ]
     for title in engineering:
         assert categorize(title, ()) == "engineering", title
@@ -158,22 +164,26 @@ def test_disciplines_inform_category():
     assert categorize("2027 Intern", ("Software",)) == "software"
 
 
-def test_non_engineering_fallback():
+def test_non_engineering_keywords():
     non_eng = [
         "Business Intern",
         "Finance Intern",
         "HR Admin Intern",
         "2026 Fall Co Op Hr Piney Flats Tn",
+        "2026 Fall Co Op Resource Analyst Piney Flats Tn",
         "Corporate Legal Intern Hybrid",
         "Pricing Analyst Intern",
         "Community Outreach Intern Summer 2026 Newark",
         "Purchasing & Supply Chain Intern (6-month assignment)",
         "EHS Intern",
         "Deployment Strategist, Internship",
-        "Intern",
-        "Internship",
-        "Co-Op (Fall Term)",
         "Facilities Intern",
+        "Maintenance Intern",
+        "Flight Test Operations Pilot Intern - Fall 2026",
+        "Human Resources Intern - One Year Term (Year-Round)",
+        "Contracts Administration Pipeline Intern And Entry Level Reston",
+        "Customer Compliance Intern Summer Fall 2026",
+        "Job Title Health Policy Analysis Graduate Intern McLean or Baltimore",
     ]
     for title in non_eng:
         assert categorize(title, ()) == "non-engineering", title

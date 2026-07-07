@@ -885,6 +885,15 @@ _ENGINEERING_PATTERN = re.compile(
     r"|ndt|non[ -]?destructive|naval architect\w*)\b",
     re.IGNORECASE,
 )
+_NON_ENGINEERING_PATTERN = re.compile(
+    r"\b(hr|human resources|finance|financial|account\w*|business"
+    r"|marketing|sales|legal|paralegal|contracts?|administration|admin"
+    r"|communications?|outreach|engagement|compliance|pricing|policy"
+    r"|supply chain|purchasing|procurement|logistics|facilities"
+    r"|maintenance|pilot|strategist|coordinator|management|analyst\w*"
+    r"|analysis|ehs|recruit\w*|talent|payroll|audit\w*|tax|treasury)\b",
+    re.IGNORECASE,
+)
 
 CATEGORY_SOFTWARE = "software"
 CATEGORY_ENGINEERING = "engineering"
@@ -922,6 +931,9 @@ def categorize(title: str, disciplines: Iterable[str] = ()) -> str:
     """Bucket a posting as software, engineering, or non-engineering from
     its title (and discipline tags when the board provides them). Software
     wins over engineering, so "Software Engineering Intern" is software.
+    Titles matching no pattern at all (bare "Intern", "Co-op (Fall Term)")
+    default to engineering — that's what an unlabeled posting at these
+    companies usually is.
     """
     text = " ".join([title, *disciplines])
     # "IT" is matched case-sensitively; a case-insensitive \bit\b would hit
@@ -930,7 +942,9 @@ def categorize(title: str, disciplines: Iterable[str] = ()) -> str:
         return CATEGORY_SOFTWARE
     if _ENGINEERING_PATTERN.search(text):
         return CATEGORY_ENGINEERING
-    return CATEGORY_NON_ENGINEERING
+    if _NON_ENGINEERING_PATTERN.search(text):
+        return CATEGORY_NON_ENGINEERING
+    return CATEGORY_ENGINEERING
 
 
 FETCHERS = {

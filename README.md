@@ -101,9 +101,11 @@ sitemap-derived titles embed the location in the slug.
 Every posting gets a `category` field — `software`, `engineering`, or
 `non-engineering` — assigned by keyword rules over the title (and discipline
 tags when the board provides them). Software wins over engineering, so
-"Software Engineering Intern" is `software`. The category is recomputed on
-every run, so rule changes propagate to existing entries. The site shows the
-categories as tabs. Rules live in `_SOFTWARE_PATTERN` / `_ENGINEERING_PATTERN`
+"Software Engineering Intern" is `software`. Titles matching no pattern at
+all (bare "Intern", "Co-op (Fall Term)") default to `engineering`. The
+category is recomputed on every run, so rule changes propagate to existing
+entries. The site shows the categories as tabs. Rules live in
+`_SOFTWARE_PATTERN` / `_ENGINEERING_PATTERN` / `_NON_ENGINEERING_PATTERN`
 in `tracker.py`; tests in `tests/test_classify.py`.
 
 ## How the diff works

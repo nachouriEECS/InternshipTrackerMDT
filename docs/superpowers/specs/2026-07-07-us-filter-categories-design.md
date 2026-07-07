@@ -20,8 +20,11 @@ Status: approved
   `software`. The `software` bucket covers software/SWE/developer/IT/
   computer-science/data/cyber/AI-ML roles. `engineering` covers the
   remaining engineer/technical roles (mechanical, electrical, aerospace,
-  systems, manufacturing, materials, …). Everything else (sales, HR,
-  finance, supply chain, …) is `non-engineering`.
+  systems, manufacturing, materials, …). Business-type roles (sales, HR,
+  finance, supply chain, …) are `non-engineering`. Titles matching no
+  keyword at all (bare "Intern", "Co-op (Fall Term)") default to
+  `engineering` (amended 2026-07-08 at user request; originally they fell
+  to `non-engineering`).
 - **UI: tab bar** above the controls — All / Engineering / Software /
   Non-engineering, each with a live posting count. Search, company filter,
   and sort operate within the active tab.
