@@ -19,6 +19,15 @@
   },
   {
     "company": "Airbus",
+    "title": "HSE Intern (f/m)",
+    "location": "Lodz",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Lodz/HSE-Intern--f-m-_JR10427821",
+    "date_found": "2026-07-08",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Airbus",
     "title": "Long-term Internship - Engineering",
     "location": "Wichita, KS",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term---Engineering_JR10411965",
@@ -32,15 +41,6 @@
     "location": "Herndon Area, VA",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Long-term-Internship---Ethics---Compliance_JR10426469",
     "date_found": "2026-07-07",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Airbus",
-    "title": "Long-term Internship - Facilities Maintenance",
-    "location": "Grand Prairie, TX",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Facilities-Maintenance_JR10424575",
-    "date_found": "2026-06-30",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -294,6 +294,24 @@
     "location": "US-TX-Grand Prairie (ST-160)",
     "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-TX-Grand-Prairie-ST-160/Engineer-Intern_JR11380",
     "date_found": "2026-06-03",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Engineer Intern",
+    "location": "US-NC-Charlotte (ST-170)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NC-Charlotte-ST-170/Engineer-Intern_JR12661",
+    "date_found": "2026-07-08",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Inspector Intern",
+    "location": "US-NY-East Farmingdale (TR)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Inspector-Intern_JR12623-2",
+    "date_found": "2026-07-08",
     "disciplines": [],
     "category": "engineering"
   },
@@ -562,6 +580,15 @@
     "date_found": "2026-07-07",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2027 Intern Software Engineer",
+    "location": "United States-Florida-Melbourne",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
+    "date_found": "2026-07-08",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "Oshkosh",
