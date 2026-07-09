@@ -7,7 +7,8 @@
       "site": "Northrop_Grumman_External_Site",
       "wd": "wd1",
       "external_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Boeing",
@@ -17,7 +18,8 @@
       "site": "EXTERNAL_CAREERS",
       "wd": "wd1",
       "external_url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Leidos",
@@ -27,7 +29,8 @@
       "site": "External",
       "wd": "wd5",
       "external_url": "https://leidos.wd5.myworkdayjobs.com/en-US/External"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Booz Allen Hamilton",
@@ -37,35 +40,40 @@
       "site": "BAH_Jobs",
       "wd": "wd1",
       "external_url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Anduril",
     "platform": "greenhouse",
     "config": {
       "board_token": "andurilindustries"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Palantir",
     "platform": "lever",
     "config": {
       "site": "palantir"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Lockheed Martin",
     "platform": "talentbrew",
     "config": {
       "base_url": "https://www.lockheedmartinjobs.com"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "L3Harris",
     "platform": "talentbrew",
     "config": {
       "base_url": "https://careers.l3harris.com"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "General Dynamics IT",
@@ -75,14 +83,16 @@
       "site": "External_Career_Site",
       "wd": "wd5",
       "external_url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "HII",
     "platform": "hii",
     "config": {
       "base_url": "https://jobs.hii-tsd.com"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Amentum",
@@ -90,21 +100,24 @@
     "config": {
       "sitemap_url": "https://www.amentumcareers.com/sitemap.xml",
       "jobs_path_segment": "/jobs/"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "GE Aerospace",
     "platform": "phenom_sitemap",
     "config": {
       "sitemap_url": "https://careers.geaerospace.com/sitemap.xml"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "KBR",
     "platform": "phenom_sitemap",
     "config": {
       "sitemap_url": "https://careers.kbr.com/sitemap.xml"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Airbus",
@@ -114,21 +127,24 @@
       "site": "Airbus",
       "wd": "wd3",
       "external_url": "https://ag.wd3.myworkdayjobs.com/Airbus"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Hermeus",
     "platform": "lever",
     "config": {
       "site": "hermeus"
-    }
+    },
+    "category": "Defense Tech Startups"
   },
   {
     "name": "ATI",
     "platform": "phenom_sitemap",
     "config": {
       "sitemap_url": "https://careers.atimaterials.com/sitemap.xml"
-    }
+    },
+    "category": "Defense Electronics & Components"
   },
   {
     "name": "Peraton",
@@ -136,14 +152,16 @@
     "config": {
       "sitemap_url": "https://www.careers.peraton.com/sitemap.xml",
       "jobs_path_segment": "/jobs/"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "BAE Systems",
     "platform": "phenom_sitemap",
     "config": {
       "sitemap_url": "https://jobs.baesystems.com/sitemap.xml"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Parsons",
@@ -152,21 +170,24 @@
       "sitemap_url": "https://jobs.parsons.com/sitemap.xml",
       "jobs_path_segment": "/jobs/",
       "fetch_details": true
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "SpaceX",
     "platform": "greenhouse",
     "config": {
       "board_token": "spacex"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "SAIC",
     "platform": "talemetry",
     "config": {
       "base_url": "https://jobs.saic.com"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Oshkosh",
@@ -176,21 +197,24 @@
       "site": "Oshkosh",
       "wd": "wd5",
       "external_url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Textron",
     "platform": "dejobs_sitemap",
     "config": {
       "sitemap_url": "https://careers.textron.com/sitemaps/index.xml"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Bechtel",
     "platform": "dejobs_sitemap",
     "config": {
       "sitemap_url": "https://bechtel.dejobs.org/sitemaps/index.xml"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Sierra Nevada Corporation",
@@ -200,14 +224,16 @@
       "site": "SNC_External_Career_Site",
       "wd": "wd1",
       "external_url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "BWX Technologies",
     "platform": "rss_feed",
     "config": {
       "feed_url": "https://careers.bwxt.com/sitemap.xml"
-    }
+    },
+    "category": "Primes & Major Contractors"
   },
   {
     "name": "Parker Hannifin",
@@ -215,7 +241,8 @@
     "config": {
       "base_url": "https://parkercareers.ttcportals.com",
       "impersonate": "chrome124"
-    }
+    },
+    "category": "Defense Electronics & Components"
   },
   {
     "name": "Curtiss-Wright",
@@ -225,14 +252,16 @@
       "site": "CW_External_Career_Site",
       "wd": "wd1",
       "external_url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site"
-    }
+    },
+    "category": "Defense Electronics & Components"
   },
   {
     "name": "MITRE",
     "platform": "phenom_sitemap",
     "config": {
       "sitemap_url": "https://careers.mitre.org/sitemaps/index.xml"
-    }
+    },
+    "category": "FFRDCs, UARCs & Research Institutes"
   },
   {
     "name": "Moog",
@@ -242,14 +271,16 @@
       "site": "MOOG_External_Career_Site",
       "wd": "wd5",
       "external_url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site"
-    }
+    },
+    "category": "Defense Electronics & Components"
   },
   {
     "name": "North Wind Systems",
     "platform": "breezy",
     "config": {
       "subdomain": "north-wind-group"
-    }
+    },
+    "category": "Government Services & IT"
   },
   {
     "name": "Howmet Aerospace",
@@ -257,7 +288,8 @@
     "config": {
       "base_url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com",
       "site_number": "CX_1"
-    }
+    },
+    "category": "Defense Electronics & Components"
   },
   {
     "name": "The Aerospace Corporation",
@@ -267,7 +299,8 @@
       "site": "External",
       "wd": "wd5",
       "external_url": "https://aero.wd5.myworkdayjobs.com/External"
-    }
+    },
+    "category": "FFRDCs, UARCs & Research Institutes"
   },
   {
     "name": "TTM Technologies",
@@ -277,6 +310,1229 @@
       "site": "jobs",
       "wd": "wd5",
       "external_url": "https://ttmtech.wd5.myworkdayjobs.com/jobs"
-    }
+    },
+    "category": "Defense Electronics & Components"
+  },
+  {
+    "name": "RTX",
+    "platform": "workday",
+    "config": {
+      "tenant": "globalhr",
+      "site": "REC_RTX_Ext_Gateway",
+      "wd": "wd5",
+      "external_url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway"
+    },
+    "category": "Primes & Major Contractors"
+  },
+  {
+    "name": "General Dynamics",
+    "platform": "ttcportals",
+    "config": {
+      "base_url": "https://generaldynamics-us-careers.ttcportals.com",
+      "impersonate": "chrome124"
+    },
+    "category": "Primes & Major Contractors"
+  },
+  {
+    "name": "Newport News Shipbuilding (HII)",
+    "platform": "rss_feed",
+    "config": {
+      "feed_url": "https://careers.huntingtoningalls.com/sitemap.xml"
+    },
+    "category": "Primes & Major Contractors"
+  },
+  {
+    "name": "CACI International",
+    "platform": "workday",
+    "config": {
+      "tenant": "caci",
+      "site": "External",
+      "wd": "wd1",
+      "external_url": "https://caci.wd1.myworkdayjobs.com/External"
+    },
+    "category": "Primes & Major Contractors"
+  },
+  {
+    "name": "ManTech",
+    "platform": "workday",
+    "config": {
+      "tenant": "mantech",
+      "site": "External",
+      "wd": "wd1",
+      "external_url": "https://mantech.wd1.myworkdayjobs.com/External"
+    },
+    "category": "Primes & Major Contractors"
+  },
+  {
+    "name": "Honeywell Aerospace",
+    "platform": "oracle_orc",
+    "config": {
+      "base_url": "https://icfcjb.fa.ocs.oraclecloud.com",
+      "site_number": "CX_4001"
+    },
+    "category": "Primes & Major Contractors"
+  },
+  {
+    "name": "Leonardo DRS",
+    "platform": "talentbrew",
+    "config": {
+      "base_url": "https://careers.leonardodrs.com"
+    },
+    "category": "Primes & Major Contractors"
+  },
+  {
+    "name": "AeroVironment",
+    "platform": "workday",
+    "config": {
+      "tenant": "avav",
+      "site": "AVAV",
+      "wd": "wd1",
+      "external_url": "https://avav.wd1.myworkdayjobs.com/AVAV"
+    },
+    "category": "Primes & Major Contractors"
+  },
+  {
+    "name": "Blue Origin",
+    "platform": "workday",
+    "config": {
+      "tenant": "blueorigin",
+      "site": "BlueOrigin",
+      "wd": "wd5",
+      "external_url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin"
+    },
+    "category": "Primes & Major Contractors"
+  },
+  {
+    "name": "Cubic Corporation",
+    "platform": "workday",
+    "config": {
+      "tenant": "cubic",
+      "site": "cubic_global_careers",
+      "wd": "wd1",
+      "external_url": "https://cubic.wd1.myworkdayjobs.com/cubic_global_careers"
+    },
+    "category": "Primes & Major Contractors"
+  },
+  {
+    "name": "Michael Baker International",
+    "platform": "oracle_orc",
+    "config": {
+      "base_url": "https://ebxs.fa.us2.oraclecloud.com",
+      "site_number": "CX_2"
+    },
+    "category": "Primes & Major Contractors"
+  },
+  {
+    "name": "Shield AI",
+    "platform": "lever",
+    "config": {
+      "site": "shieldai"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Epirus",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "epirus"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Chaos Industries",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "chaosindustries"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Saronic Technologies",
+    "platform": "lever",
+    "config": {
+      "site": "saronic"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Vannevar Labs",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "vannevarlabs"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Rebellion Defense",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "rebelliondefense"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Govini",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "air"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Defcon AI",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "defcon"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Two Six Technologies",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "twosixtechnologies"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Dragos",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "dragos"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Shift5",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "shift5"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Scale AI",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "scaleai"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Kodiak Robotics",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "kodiak"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Forterra",
+    "platform": "lever",
+    "config": {
+      "site": "forterra"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Neros Technologies",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "nerostechnologies"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Dedrone by Axon",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "axon"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Zone 5 Technologies",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "zone5technologies"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "SkySafe",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "skysafe"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Primer AI",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "primerai"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Babel Street",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "babelstreet"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Recorded Future",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "recordedfuture"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Dataminr",
+    "platform": "workday",
+    "config": {
+      "tenant": "dataminr",
+      "site": "Dataminr",
+      "wd": "wd12",
+      "external_url": "https://dataminr.wd12.myworkdayjobs.com/Dataminr"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Exiger",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "exiger"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Altana",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "altanaai"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "C3 AI",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "c3ascend"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "IonQ",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "ionq"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Sayari",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "sayari"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Venus Aerospace",
+    "platform": "lever",
+    "config": {
+      "site": "venusaero"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Ursa Major",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "ursamajor"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Stratolaunch",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "stratolaunch"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "JetZero",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "jetzero"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "BETA Technologies",
+    "platform": "lever",
+    "config": {
+      "site": "beta"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Archer Aviation (defense)",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "archer56"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "X-energy",
+    "platform": "workday",
+    "config": {
+      "tenant": "xenergy",
+      "site": "X-energyUS",
+      "wd": "wd5",
+      "external_url": "https://xenergy.wd5.myworkdayjobs.com/X-energyUS"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Rocket Lab",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "rocketlab"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Stoke Space",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "stokespacetechnologies"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Sierra Space",
+    "platform": "workday",
+    "config": {
+      "tenant": "sierraspace",
+      "site": "Sierra_Space_External_Career_Site",
+      "wd": "wd1",
+      "external_url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "True Anomaly",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "trueanomalyinc"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "K2 Space",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "k2spacecorporation"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Muon Space",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "muonspace"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Loft Orbital",
+    "platform": "lever",
+    "config": {
+      "site": "loftorbital"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Astranis",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "astranis"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Capella Space",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "capellaspace"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "BlackSky",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "blacksky"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Planet Labs",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "planetlabs"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Redwire Space",
+    "platform": "clinch_sitemap",
+    "config": {
+      "sitemap_url": "https://careers.rdw.com/sitemap.xml",
+      "jobs_path_segment": "/jobs/"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Slingshot Aerospace",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "slingshotaerospace"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "LeoLabs",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "leolabsinc"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Voyager Technologies",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "voyagertechnologiesinc"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Kayhan Space",
+    "platform": "breezy",
+    "config": {
+      "subdomain": "kayhan"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Teledyne Technologies",
+    "platform": "dejobs_sitemap",
+    "config": {
+      "sitemap_url": "https://teledynecareers.dejobs.org/sitemap.xml"
+    },
+    "category": "Defense Electronics & Components"
+  },
+  {
+    "name": "Teledyne FLIR",
+    "platform": "workday",
+    "config": {
+      "tenant": "flir",
+      "site": "flircareers",
+      "wd": "wd1",
+      "external_url": "https://flir.wd1.myworkdayjobs.com/flircareers"
+    },
+    "category": "Defense Electronics & Components"
+  },
+  {
+    "name": "Hexcel",
+    "platform": "workday",
+    "config": {
+      "tenant": "hexcel",
+      "site": "HexcelCareers",
+      "wd": "wd5",
+      "external_url": "https://hexcel.wd5.myworkdayjobs.com/HexcelCareers"
+    },
+    "category": "Defense Electronics & Components"
+  },
+  {
+    "name": "AMETEK Aerospace & Defense",
+    "platform": "talentbrew",
+    "config": {
+      "base_url": "https://jobs.ametek.com"
+    },
+    "category": "Defense Electronics & Components"
+  },
+  {
+    "name": "Woodward",
+    "platform": "workday",
+    "config": {
+      "tenant": "woodward",
+      "site": "woodward",
+      "wd": "wd5",
+      "external_url": "https://woodward.wd5.myworkdayjobs.com/woodward"
+    },
+    "category": "Defense Electronics & Components"
+  },
+  {
+    "name": "Crane Aerospace & Electronics",
+    "platform": "workday",
+    "config": {
+      "tenant": "cranecompany",
+      "site": "Careers",
+      "wd": "wd5",
+      "external_url": "https://cranecompany.wd5.myworkdayjobs.com/Careers"
+    },
+    "category": "Defense Electronics & Components"
+  },
+  {
+    "name": "Carpenter Technology",
+    "platform": "workday",
+    "config": {
+      "tenant": "cartech",
+      "site": "CTCExternal",
+      "wd": "wd5",
+      "external_url": "https://cartech.wd5.myworkdayjobs.com/CTCExternal"
+    },
+    "category": "Defense Electronics & Components"
+  },
+  {
+    "name": "Arconic",
+    "platform": "oracle_orc",
+    "config": {
+      "base_url": "https://hdnn.fa.us6.oraclecloud.com",
+      "site_number": "CX"
+    },
+    "category": "Defense Electronics & Components"
+  },
+  {
+    "name": "Silvus Technologies",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "silvus"
+    },
+    "category": "Defense Electronics & Components"
+  },
+  {
+    "name": "GlobalFoundries",
+    "platform": "workday",
+    "config": {
+      "tenant": "globalfoundries",
+      "site": "External",
+      "wd": "wd1",
+      "external_url": "https://globalfoundries.wd1.myworkdayjobs.com/External"
+    },
+    "category": "Defense Electronics & Components"
+  },
+  {
+    "name": "Echodyne",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "echodynecorp"
+    },
+    "category": "Defense Electronics & Components"
+  },
+  {
+    "name": "908 Devices",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "908devicesinc"
+    },
+    "category": "Defense Electronics & Components"
+  },
+  {
+    "name": "Austal USA",
+    "platform": "workday",
+    "config": {
+      "tenant": "austalusa",
+      "site": "austal",
+      "wd": "wd1",
+      "external_url": "https://austalusa.wd1.myworkdayjobs.com/austal"
+    },
+    "category": "Shipbuilding & Maritime"
+  },
+  {
+    "name": "Vigor",
+    "platform": "ttcportals",
+    "config": {
+      "base_url": "https://vigorcareers.ttcportals.com/",
+      "impersonate": "chrome124"
+    },
+    "category": "Shipbuilding & Maritime"
+  },
+  {
+    "name": "Guidehouse",
+    "platform": "workday",
+    "config": {
+      "tenant": "guidehouse",
+      "site": "External",
+      "wd": "wd1",
+      "external_url": "https://guidehouse.wd1.myworkdayjobs.com/External"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "ICF",
+    "platform": "workday",
+    "config": {
+      "tenant": "icf",
+      "site": "ICFExternal_Career_Site",
+      "wd": "wd5",
+      "external_url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "Tyto Athene",
+    "platform": "workday",
+    "config": {
+      "tenant": "athene",
+      "site": "athene_careers",
+      "wd": "wd5",
+      "external_url": "https://athene.wd5.myworkdayjobs.com/athene_careers"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "SOSi",
+    "platform": "dejobs_sitemap",
+    "config": {
+      "sitemap_url": "https://sosi.dejobs.org/sitemap.xml"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "Acuity International",
+    "platform": "workday",
+    "config": {
+      "tenant": "acuityinternational",
+      "site": "External",
+      "wd": "wd5",
+      "external_url": "https://acuityinternational.wd5.myworkdayjobs.com/External"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "Research Innovations Inc",
+    "platform": "lever",
+    "config": {
+      "site": "researchinnovations.com"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "Red River",
+    "platform": "workday",
+    "config": {
+      "tenant": "redriver",
+      "site": "redrivercareers",
+      "wd": "wd5",
+      "external_url": "https://redriver.wd5.myworkdayjobs.com/redrivercareers"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "Torch Technologies",
+    "platform": "workday",
+    "config": {
+      "tenant": "starfish",
+      "site": "Careers",
+      "wd": "wd501",
+      "external_url": "https://starfish.wd501.myworkdayjobs.com/Careers"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "Radiance Technologies",
+    "platform": "workday",
+    "config": {
+      "tenant": "radiancetech",
+      "site": "Radiance_External",
+      "wd": "wd12",
+      "external_url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "Intuitive Research and Technology",
+    "platform": "workday",
+    "config": {
+      "tenant": "intuitive",
+      "site": "irtc_careers",
+      "wd": "wd1",
+      "external_url": "https://intuitive.wd1.myworkdayjobs.com/irtc_careers"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "ASRC Federal",
+    "platform": "dejobs_sitemap",
+    "config": {
+      "sitemap_url": "https://asrcfederal.dejobs.org/sitemap.xml"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "Akima",
+    "platform": "dejobs_sitemap",
+    "config": {
+      "sitemap_url": "https://akimamaps.dejobs.org/sitemap.xml"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "Cherokee Federal",
+    "platform": "oracle_orc",
+    "config": {
+      "base_url": "https://ibtcjb.fa.ocs.oraclecloud.com",
+      "site_number": "careers"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "Yulista",
+    "platform": "workday",
+    "config": {
+      "tenant": "calistacorp",
+      "site": "Yulista",
+      "wd": "wd1",
+      "external_url": "https://calistacorp.wd1.myworkdayjobs.com/Yulista"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "ANSER",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "analyticservicesinc"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "Atlas Air",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "atlasair"
+    },
+    "category": "Government Services & IT"
+  },
+  {
+    "name": "RAND Corporation",
+    "platform": "workday",
+    "config": {
+      "tenant": "rand",
+      "site": "External_Career_Site",
+      "wd": "wd5",
+      "external_url": "https://rand.wd5.myworkdayjobs.com/External_Career_Site"
+    },
+    "category": "FFRDCs, UARCs & Research Institutes"
+  },
+  {
+    "name": "CNA",
+    "platform": "workday",
+    "config": {
+      "tenant": "cna",
+      "site": "CNA_Careers",
+      "wd": "wd1",
+      "external_url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers"
+    },
+    "category": "FFRDCs, UARCs & Research Institutes"
+  },
+  {
+    "name": "MIT Lincoln Laboratory",
+    "platform": "rss_feed",
+    "config": {
+      "feed_url": "https://careers.ll.mit.edu/sitemap.xml"
+    },
+    "category": "FFRDCs, UARCs & Research Institutes"
+  },
+  {
+    "name": "Draper",
+    "platform": "workday",
+    "config": {
+      "tenant": "draper",
+      "site": "Draper_Careers",
+      "wd": "wd5",
+      "external_url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers"
+    },
+    "category": "FFRDCs, UARCs & Research Institutes"
+  },
+  {
+    "name": "Battelle",
+    "platform": "phenom_sitemap",
+    "config": {
+      "sitemap_url": "https://jobs.battelle.org/sitemap.xml"
+    },
+    "category": "FFRDCs, UARCs & Research Institutes"
+  },
+  {
+    "name": "Metron",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "metron"
+    },
+    "category": "FFRDCs, UARCs & Research Institutes"
+  },
+  {
+    "name": "Charles River Analytics",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "crageneralapplication"
+    },
+    "category": "FFRDCs, UARCs & Research Institutes"
+  },
+  {
+    "name": "Idaho National Laboratory",
+    "platform": "oracle_orc",
+    "config": {
+      "base_url": "https://elhe.fa.us8.oraclecloud.com",
+      "site_number": "pro"
+    },
+    "category": "FFRDCs, UARCs & Research Institutes"
+  },
+  {
+    "name": "StandardAero",
+    "platform": "workday",
+    "config": {
+      "tenant": "standard",
+      "site": "Search",
+      "wd": "wd1",
+      "external_url": "https://standard.wd1.myworkdayjobs.com/Search"
+    },
+    "category": "Aviation, Training & Logistics Services"
+  },
+  {
+    "name": "AAR Corp",
+    "platform": "dejobs_sitemap",
+    "config": {
+      "sitemap_url": "https://aarcorp.dejobs.org/sitemap.xml"
+    },
+    "category": "Aviation, Training & Logistics Services"
+  },
+  {
+    "name": "AEVEX Aerospace",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "aevexaerospace"
+    },
+    "category": "Aviation, Training & Logistics Services"
+  },
+  {
+    "name": "Roush (Defense)",
+    "platform": "phenom_sitemap",
+    "config": {
+      "sitemap_url": "https://jobs.roush.com/sitemap.xml"
+    },
+    "category": "Aviation, Training & Logistics Services"
+  },
+  {
+    "name": "SambaNova Systems",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "sambanovasystems"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Snorkel AI",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "snorkelai"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "PsiQuantum",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "psiquantum"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "ThoughtSpot",
+    "platform": "workday",
+    "config": {
+      "tenant": "thoughtspot",
+      "site": "careers",
+      "wd": "wd5",
+      "external_url": "https://thoughtspot.wd5.myworkdayjobs.com/careers"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Netskope",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "netskope"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "BigID",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "bigid"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Nozomi Networks",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "nozominetworks"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Armis",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "armissecurity"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Skyryse",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "skyryse"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Allen Control Systems",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "allencontrolsystems"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Corelight",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "corelight"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Exowatt",
+    "platform": "lever",
+    "config": {
+      "site": "exowatt"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Instabase",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "instabase"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Censys",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "censys"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Zipline",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "flyzipline"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Vulcan Elements",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "vulcanelements"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Defense Unicorns",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "defenseunicorns"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Divergent Technologies",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "divergent"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Re:Build Manufacturing",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "rebuildmanufacturing"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Raft",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "raft"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Agility Robotics",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "agilityrobotics"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Aechelon Technology",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "aechelontechnology"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Opaque Systems",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "opaquesystems"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "TurbineOne",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "turbineone"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Virtualitics",
+    "platform": "lever",
+    "config": {
+      "site": "virtualitics"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Tomorrow.io",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "tomorrow"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Grafana Labs",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "grafanalabs"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "DataRobot",
+    "platform": "workday",
+    "config": {
+      "tenant": "datarobot",
+      "site": "DataRobot_External_Careers",
+      "wd": "wd1",
+      "external_url": "https://datarobot.wd1.myworkdayjobs.com/DataRobot_External_Careers"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Automation Anywhere",
+    "platform": "workday",
+    "config": {
+      "tenant": "automationanywhere",
+      "site": "AutomationAnywhereJobs",
+      "wd": "wd5",
+      "external_url": "https://automationanywhere.wd5.myworkdayjobs.com/AutomationAnywhereJobs"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Lyten",
+    "platform": "workday",
+    "config": {
+      "tenant": "lyten",
+      "site": "Lyten_External_Career_Site",
+      "wd": "wd503",
+      "external_url": "https://lyten.wd503.myworkdayjobs.com/Lyten_External_Career_Site"
+    },
+    "category": "Defense Tech Startups"
+  },
+  {
+    "name": "Varda Space Industries",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "vardaspace"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Relativity Space",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "Relativity"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "CesiumAstro",
+    "platform": "lever",
+    "config": {
+      "site": "CesiumAstro"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Zeno Power",
+    "platform": "breezy",
+    "config": {
+      "subdomain": "zeno-power"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Lunar Outpost",
+    "platform": "greenhouse",
+    "config": {
+      "board_token": "outpostspace"
+    },
+    "category": "Space & Launch"
+  },
+  {
+    "name": "Axiom Space",
+    "platform": "workday",
+    "config": {
+      "tenant": "axiomspace",
+      "site": "External_Career_Site",
+      "wd": "wd5",
+      "external_url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site"
+    },
+    "category": "Space & Launch"
   }
 ]
