@@ -28,6 +28,15 @@
   },
   {
     "company": "Airbus",
+    "title": "Logistics intern",
+    "location": "Zhuhai",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Zhuhai/Logistics-intern_JR10428168",
+    "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Airbus",
     "title": "Long-term Internship - Engineering",
     "location": "Wichita, KS",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term---Engineering_JR10411965",
@@ -186,15 +195,6 @@
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/126541BR/Operations-Engineering-Industrial-Mechanical-Electrical-Co-op-Spring-Summer-2027",
     "date_found": "2026-06-25",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Quality Engineering Intern Summer 2026",
-    "location": "Manassas, Virginia, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/123487BR/Quality-Engineering-Intern-Summer-2026",
-    "date_found": "2026-05-15",
     "disciplines": [],
     "category": "engineering"
   },
@@ -951,6 +951,15 @@
     "date_found": "2026-06-09",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "SAIC",
+    "title": "Site Support Intern",
+    "location": "San Diego, CA, United States",
+    "url": "https://jobs.saic.com/jobs/17788968-site-support-intern",
+    "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "SpaceX",
