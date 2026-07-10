@@ -12,15 +12,6 @@
   },
   {
     "company": "ATI",
-    "title": "Chemical Engineering Intern Summer 2026",
-    "location": "Albany,Oregon,United States",
-    "url": "https://careers.atimaterials.com/us/en/job/26-2774/Chemical-Engineering-Intern-Summer-2026",
-    "date_found": "2026-06-10",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "ATI",
     "title": "Finance Intern",
     "location": "Albany,Oregon,United States",
     "url": "https://careers.atimaterials.com/us/en/job/26-2844/Finance-Intern",
@@ -48,15 +39,6 @@
     "disciplines": [
       "RTK - Software"
     ],
-    "category": "software"
-  },
-  {
-    "company": "AeroVironment",
-    "title": "Software Test Engineer Intern",
-    "location": "Albuquerque, NM",
-    "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Albuquerque-NM/Software-Test-Engineer-Intern_8033",
-    "date_found": "2026-07-09",
-    "disciplines": [],
     "category": "software"
   },
   {
@@ -503,10 +485,28 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Quality Intern 2026",
+    "location": "Sterling Heights, Michigan, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125423BR/Quality-Intern-2026",
+    "date_found": "2026-07-10",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Software Engineering Intern III Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Software Engineering Intern Embedded Systems",
+    "location": "Huntsville, Alabama, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
+    "date_found": "2026-07-10",
     "disciplines": [],
     "category": "software"
   },
@@ -980,9 +980,53 @@
     "url": "https://jobs.lever.co/exowatt/2f9e8254-401b-4f77-adcb-c4f01734c8fb",
     "date_found": "2026-07-09",
     "disciplines": [
-      "Brand & Communications"
+      "Internships"
     ],
     "category": "software"
+  },
+  {
+    "company": "Exowatt",
+    "title": "Business Development Intern",
+    "location": "Miami, FL",
+    "url": "https://jobs.lever.co/exowatt/1e0d4de7-2917-45be-8166-6181bd32be2b",
+    "date_found": "2026-07-10",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Exowatt",
+    "title": "Software Engineering Intern — Agent Platform (AI)",
+    "location": "Austin, TX",
+    "url": "https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c",
+    "date_found": "2026-07-10",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "Exowatt",
+    "title": "Software Engineering Intern — Inventory Automation & IoT/Robotics",
+    "location": "Austin, TX",
+    "url": "https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c",
+    "date_found": "2026-07-10",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "Exowatt",
+    "title": "Supply Chain & Manufacturing Intern — Facilities & EHS",
+    "location": "Austin, TX",
+    "url": "https://jobs.lever.co/exowatt/b3882244-901c-4e40-842c-1b0a6ae8ff16",
+    "date_found": "2026-07-10",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "engineering"
   },
   {
     "company": "GE Aerospace",
@@ -2440,8 +2484,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -2451,8 +2495,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
