@@ -440,24 +440,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Co Op Spring Summer or Summer Fall Electrical Engineer onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite",
-    "date_found": "2026-07-07",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "2027 Spring and Summer Mechanical Engineering Coop",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
-    "date_found": "2026-07-07",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Customer Compliance Intern Summer Fall 2026",
     "location": "Fort Wayne, Indiana, United States",
     "url": "https://jobs.baesystems.com/global/en/job/126161BR/Customer-Compliance-Intern-Summer-Fall-2026",
@@ -1766,6 +1748,39 @@
   },
   {
     "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
+    "date_found": "2026-07-11",
+    "disciplines": [
+      "Delta"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
+    "date_found": "2026-07-11",
+    "disciplines": [
+      "Delta"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Palantir",
+    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
+    "date_found": "2026-07-11",
+    "disciplines": [
+      "Delta"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Palantir",
     "title": "Forward Deployed Software Engineer, Internship - Commercial",
     "location": "New York, NY",
     "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6",
@@ -2181,15 +2196,6 @@
   },
   {
     "company": "RTX",
-    "title": "HR Business Partner, Co-op (Fall 2026)(Remote)",
-    "location": "US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/HR-Business-Partner--Co-op--Fall-2026--Remote-_01857867",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "RTX",
     "title": "Intern, Field Svc",
     "location": "CO-DC-BOGOTA-9A26-CUST ~ Cl. 95 #9A 26 ~ CL 95 (External Site)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO-DC-BOGOTA-9A26-CUST--Cl-95-9A-26--CL-95-External-Site/Intern--Field-Svc_01802976",
@@ -2560,6 +2566,15 @@
     "location": "Livonia, MI",
     "url": "https://jobs.roush.com/us/en/job/job_20260702132535_ZPX5FCJTBVRQ8GNO/Mechanical-Engineering-Intern-Fall-2026",
     "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "SAIC",
+    "title": "Site Support Intern",
+    "location": "San Diego, CA, United States",
+    "url": "https://jobs.saic.com/jobs/17788968-site-support-intern",
+    "date_found": "2026-07-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -3039,5 +3054,27 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Accounting Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7776209003",
+    "date_found": "2026-07-11",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Communications Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7772003003",
+    "date_found": "2026-07-11",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "non-engineering"
   }
 ]
