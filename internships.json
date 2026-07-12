@@ -737,15 +737,6 @@
   },
   {
     "company": "Boeing",
-    "title": "Global Engagement Intern",
-    "location": "2 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/AUS---Brisbane-Australia/Global-Engagement-Intern_JR2026517374-1",
-    "date_found": "2026-07-07",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Boeing",
     "title": "Human Resources Generalist Intern- 12 Months Placement",
     "location": "5 Locations",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Human-Resources-Generalist-Intern--12-Months-Placement_JR2026517833-1",
@@ -3077,6 +3068,28 @@
   },
   {
     "company": "Zipline",
+    "title": "Applications Engineer Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7765099003",
+    "date_found": "2026-07-12",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Civil Engineer Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7767203003",
+    "date_found": "2026-07-12",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
     "title": "Communications Intern (Fall 2026)",
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7772003003",
@@ -3085,5 +3098,71 @@
       "2026 Internships"
     ],
     "category": "non-engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Community Engagement Intern (Fall 2026)",
+    "location": "Austin, Texas, USA; Dallas-Fort Worth, Texas, USA; Phoenix, Arizona, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7765288003",
+    "date_found": "2026-07-12",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Construction Management Intern (Fall 2026)",
+    "location": "Dallas-Fort Worth, Texas, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7766317003",
+    "date_found": "2026-07-12",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Electrical Engineer Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7743207003",
+    "date_found": "2026-07-12",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Electrical Project Engineer Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7763835003",
+    "date_found": "2026-07-12",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Embedded Software Engineer Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7765240003",
+    "date_found": "2026-07-12",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "Zipline",
+    "title": "Enterprise Systems Software Engineer Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7767667003",
+    "date_found": "2026-07-12",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "software"
   }
 ]
