@@ -440,24 +440,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Co Op Spring Summer or Summer Fall Electrical Engineer onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite",
-    "date_found": "2026-07-13",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "2027 Spring and Summer Mechanical Engineering Coop",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
-    "date_found": "2026-07-13",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Customer Compliance Intern Summer Fall 2026",
     "location": "Fort Wayne, Indiana, United States",
     "url": "https://jobs.baesystems.com/global/en/job/126161BR/Customer-Compliance-Intern-Summer-Fall-2026",
@@ -485,28 +467,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Quality Intern 2026",
-    "location": "Sterling Heights, Michigan, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125423BR/Quality-Intern-2026",
-    "date_found": "2026-07-13",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Software Engineering Intern III Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Systems Software Engineering Intern Embedded Systems",
-    "location": "Huntsville, Alabama, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
-    "date_found": "2026-07-13",
     "disciplines": [],
     "category": "software"
   },
@@ -896,6 +860,33 @@
     "location": "US-NY-East Farmingdale (TR)",
     "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Inspector-Intern_JR12623-2",
     "date_found": "2026-07-08",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Inspector Intern",
+    "location": "US-NY-East Farmingdale (TR)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Inspector-Intern_JR12819-1",
+    "date_found": "2026-07-13",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Inspector Intern",
+    "location": "US-NY-East Farmingdale (TR)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Inspector-Intern_JR12818-1",
+    "date_found": "2026-07-13",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Inspector Intern",
+    "location": "US-NY-East Farmingdale (TR)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Inspector-Intern_JR12817-1",
+    "date_found": "2026-07-13",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1373,17 +1364,6 @@
   },
   {
     "company": "Hermeus",
-    "title": "Manufacturing Engineering Intern - Fall 2026",
-    "location": "Los Angeles, CA",
-    "url": "https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae",
-    "date_found": "2026-05-09",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Hermeus",
     "title": "Mechanical Engineering Intern  - Fall 2026",
     "location": "Los Angeles, CA",
     "url": "https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98",
@@ -1687,15 +1667,6 @@
     "date_found": "2026-07-10",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Intern Software Engineer",
-    "location": "United States-Florida-Melbourne",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
-    "date_found": "2026-07-08",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "Oshkosh",
@@ -2308,17 +2279,6 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Combustion Devices Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728523003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "2244 Neutron - Propulsion"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
     "title": "Electrical Engineering Intern Fall 2026",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7725243003",
@@ -2391,28 +2351,6 @@
     "date_found": "2026-07-09",
     "disciplines": [
       "4015 USA Space Systems"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "People & Culture Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7736107003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "3350 USA People & Culture"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Propulsion Analyst Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728909003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "2244 Neutron - Propulsion"
     ],
     "category": "engineering"
   },
@@ -2570,17 +2508,6 @@
       "University"
     ],
     "category": "engineering"
-  },
-  {
-    "company": "Shield AI",
-    "title": "Business Development Lead - Finland (R5139)",
-    "location": "Helsinki",
-    "url": "https://jobs.lever.co/shieldai/9e17a507-ce5d-42ff-8d9e-9f85f413af26",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "International Business Development"
-    ],
-    "category": "non-engineering"
   },
   {
     "company": "Shield AI",
@@ -3122,6 +3049,83 @@
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7767667003",
     "date_found": "2026-07-12",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "Zipline",
+    "title": "Field Marketing Intern (Fall 2026)",
+    "location": "Dallas-Fort Worth, Texas, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7767623003",
+    "date_found": "2026-07-13",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Financial Analyst Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7786446003",
+    "date_found": "2026-07-13",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Maintenance Tool Engineering Intern (Fall 2026)",
+    "location": "Esparto, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7775125003",
+    "date_found": "2026-07-13",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Maps Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7787868003",
+    "date_found": "2026-07-13",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Mechatronics Perception Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7763697003",
+    "date_found": "2026-07-13",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Perception Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7761650003",
+    "date_found": "2026-07-13",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Software Engineer Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7787509003",
+    "date_found": "2026-07-13",
     "disciplines": [
       "2026 Internships"
     ],
