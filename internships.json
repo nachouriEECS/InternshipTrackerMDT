@@ -43,6 +43,24 @@
   },
   {
     "company": "Airbus",
+    "title": "Intern SIMA",
+    "location": "Sepang",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sepang/Intern-SIMA_JR10429261",
+    "date_found": "2026-07-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Airbus",
+    "title": "Internship",
+    "location": "Sepang",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sepang/Internship_JR10420633",
+    "date_found": "2026-07-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Airbus",
     "title": "Long-term Internship - Engineering",
     "location": "Wichita, KS",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term---Engineering_JR10411965",
@@ -77,15 +95,6 @@
     "disciplines": [
       "Manufacturing "
     ],
-    "category": "engineering"
-  },
-  {
-    "company": "Amentum",
-    "title": "Intern Hls Fall Intern Huntsville",
-    "location": "Alabama",
-    "url": "https://www.amentumcareers.com/jobs/intern-hls-fall-intern-huntsville-alabama-united-states",
-    "date_found": "2026-06-30",
-    "disciplines": [],
     "category": "engineering"
   },
   {
@@ -182,17 +191,6 @@
     "date_found": "2026-07-09",
     "disciplines": [
       "Avionics Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Astranis",
-    "title": "CAD Engineer/Librarian Intern (Fall 2026)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4681155006",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Mechanical Engineering Internships"
     ],
     "category": "engineering"
   },
@@ -1083,6 +1081,33 @@
     "category": "engineering"
   },
   {
+    "company": "GE Aerospace",
+    "title": "Unison Engineering Intern Fall 2027",
+    "location": "Jacksonville, Florida, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037092EXTERNALENGLOBAL/Unison-Engineering-Intern-Fall-2027",
+    "date_found": "2026-07-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Unison Engineering Intern Spring 2027",
+    "location": "Jacksonville, Florida, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037093EXTERNALENGLOBAL/Unison-Engineering-Intern-Spring-2027",
+    "date_found": "2026-07-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Unison Engineering Intern Summer 2027",
+    "location": "Jacksonville, Florida, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027",
+    "date_found": "2026-07-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "GlobalFoundries",
     "title": "2H University Intern - Clean Tech Engineering Module",
     "location": "SGP - Woodlands",
@@ -1090,15 +1115,6 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "2H University Intern - Data Engineering",
-    "location": "SGP - Woodlands",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-1H-University-Intern---Data-Engineering_JR-2502690",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "GlobalFoundries",
@@ -1198,15 +1214,6 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "2H University Intern, Tapeout Engineering",
-    "location": "SGP - Woodlands",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern--Tapeout-Engineering_JR-2502740",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "GlobalFoundries",
@@ -2119,6 +2126,15 @@
   },
   {
     "company": "Parsons",
+    "title": "Project Controls Co-Op - Fall 2026",
+    "location": "New York, New York",
+    "url": "https://jobs.parsons.com/jobs/project-controls-co-op-fall-2026-new-york-r-182765-jobs--internship-program--",
+    "date_found": "2026-07-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
     "title": "Roadway Engineering Co-Op - Fall 2026",
     "location": "Akron, Ohio",
     "url": "https://jobs.parsons.com/jobs/roadway-engineering-co-op-fall-2026-akron-r-177773-jobs--internship-program--",
@@ -2462,8 +2478,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -2473,8 +2489,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -3152,6 +3168,17 @@
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7786446003",
     "date_found": "2026-07-13",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Holiday Marketing Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7764876003",
+    "date_found": "2026-07-14",
     "disciplines": [
       "2026 Internships"
     ],
