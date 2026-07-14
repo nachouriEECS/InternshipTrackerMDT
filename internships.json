@@ -43,15 +43,6 @@
   },
   {
     "company": "Airbus",
-    "title": "Intern SIMA",
-    "location": "Sepang",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sepang/Intern-SIMA_JR10429261",
-    "date_found": "2026-07-14",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Airbus",
     "title": "Internship",
     "location": "Sepang",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sepang/Internship_JR10420633",
@@ -966,6 +957,15 @@
     "location": "US-OH-Middleburg Hts. (Nuclear)",
     "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Middleburg-Hts-Nuclear/Purchasing---Supply-Chain-Intern--6-month-assignment-_JR12367-1",
     "date_found": "2026-06-02",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Supply Chain Intern",
+    "location": "US-OH-Brecksville (Farris)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Brecksville-Farris/Supply-Chain-Intern_JR12801",
+    "date_found": "2026-07-14",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -2306,15 +2306,6 @@
     "category": "engineering"
   },
   {
-    "company": "Radiance Technologies",
-    "title": "Systems Engineer Intern",
-    "location": "Wright-Patt AFB, OH - NASIC FME",
-    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Wright-Patt-AFB-OH---NASIC-FME/Systems-Engineer-Intern_HR102296",
-    "date_found": "2026-07-10",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Re:Build Manufacturing",
     "title": "Wire Harness Design Engineer Co-Op (Fall 2026)",
     "location": "Rochester, NY",
@@ -2478,8 +2469,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -2489,8 +2480,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -3175,6 +3166,17 @@
   },
   {
     "company": "Zipline",
+    "title": "Flight Test Engineer Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7767622003",
+    "date_found": "2026-07-14",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
     "title": "Holiday Marketing Intern (Fall 2026)",
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7764876003",
@@ -3201,6 +3203,17 @@
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7787868003",
     "date_found": "2026-07-13",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Material Planning Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7772351003",
+    "date_found": "2026-07-14",
     "disciplines": [
       "2026 Internships"
     ],
@@ -3238,6 +3251,17 @@
       "2026 Internships"
     ],
     "category": "software"
+  },
+  {
+    "company": "Zipline",
+    "title": "Supplier Industrialization Engineering Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7766424003",
+    "date_found": "2026-07-14",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "engineering"
   },
   {
     "company": "Zipline",
