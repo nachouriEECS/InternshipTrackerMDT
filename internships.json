@@ -90,6 +90,15 @@
   },
   {
     "company": "Amentum",
+    "title": "Aerospace Intern Cosmos Contract Temporary Internship Houston",
+    "location": "Texas",
+    "url": "https://www.amentumcareers.com/jobs/aerospace-intern-cosmos-contract-temporary-internship-houston-texas-united-states-5df8f4a8-7ce3-4504-ae64-b5b0ff2f0c02",
+    "date_found": "2026-07-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Amentum",
     "title": "Intern Thermal Analysis Fall Intern Huntsville",
     "location": "Alabama",
     "url": "https://www.amentumcareers.com/jobs/intern-thermal-analysis-fall-intern-huntsville-alabama-united-states",
@@ -429,24 +438,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Co Op Spring Summer or Summer Fall Electrical Engineer onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite",
-    "date_found": "2026-07-13",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "2027 Spring and Summer Mechanical Engineering Coop",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
-    "date_found": "2026-07-13",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Accounting Internship",
     "location": "Kingsport, Tennessee, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127135BR/Accounting-Internship",
@@ -483,15 +474,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Quality Intern 2026",
-    "location": "Sterling Heights, Michigan, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125423BR/Quality-Intern-2026",
-    "date_found": "2026-07-13",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Software Engineering Intern I Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
@@ -505,15 +487,6 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Systems Software Engineering Intern Embedded Systems",
-    "location": "Huntsville, Alabama, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
-    "date_found": "2026-07-13",
     "disciplines": [],
     "category": "software"
   },
@@ -1013,18 +986,7 @@
   },
   {
     "company": "Exowatt",
-    "title": "Software Engineering Intern — Agent Platform (AI)",
-    "location": "Austin, TX",
-    "url": "https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c",
-    "date_found": "2026-07-10",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "Exowatt",
-    "title": "Software Engineering Intern — Inventory Automation & IoT/Robotics",
+    "title": "Software Engineering Intern  - Inventory Automation & IoT/Robotics",
     "location": "Austin, TX",
     "url": "https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c",
     "date_found": "2026-07-10",
@@ -1035,10 +997,43 @@
   },
   {
     "company": "Exowatt",
-    "title": "Supply Chain & Manufacturing Intern — Facilities & EHS",
+    "title": "Software Engineering Intern - Agent Platform (AI)",
+    "location": "Miami, FL",
+    "url": "https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c",
+    "date_found": "2026-07-10",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "Exowatt",
+    "title": "Supply Chain & Manufacturing Intern - Contract Manufacturing Vendor",
+    "location": "Austin, TX",
+    "url": "https://jobs.lever.co/exowatt/06c17743-04c7-48ad-94b0-85b6116bc15f",
+    "date_found": "2026-07-14",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Exowatt",
+    "title": "Supply Chain & Manufacturing Intern - Facilities & EHS",
     "location": "Austin, TX",
     "url": "https://jobs.lever.co/exowatt/b3882244-901c-4e40-842c-1b0a6ae8ff16",
     "date_found": "2026-07-10",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Exowatt",
+    "title": "Supply Chain & Manufacturing Intern - Manufacturing",
+    "location": "Austin, TX",
+    "url": "https://jobs.lever.co/exowatt/030247a1-1067-4a59-9018-372962710652",
+    "date_found": "2026-07-14",
     "disciplines": [
       "Internships"
     ],
@@ -1524,15 +1519,6 @@
   },
   {
     "company": "Hexcel",
-    "title": "Engineering Intern",
-    "location": "USA - UT - Salt Lake City Fibers",
-    "url": "https://hexcel.wd5.myworkdayjobs.com/HexcelCareers/job/USA---UT---Salt-Lake-City-Fibers/Engineering-Intern_R019729",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Hexcel",
     "title": "Instructional Design Intern",
     "location": "USA - UT - Salt Lake City Fibers",
     "url": "https://hexcel.wd5.myworkdayjobs.com/HexcelCareers/job/USA---UT---Salt-Lake-City-Fibers/Instructional-Design-Intern_R020035",
@@ -1546,6 +1532,15 @@
     "location": "USA - WA - Kent",
     "url": "https://hexcel.wd5.myworkdayjobs.com/HexcelCareers/job/USA---WA---Kent/Quality-Engineering-Intern_R019626",
     "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Howmet Aerospace",
+    "title": "Engineering Intern",
+    "location": "Brea, CA, United States",
+    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118452",
+    "date_found": "2026-07-14",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1600,6 +1595,15 @@
     "location": "Idaho Falls, ID, United States",
     "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/1014",
     "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "KBR",
+    "title": "National Security Solutions NSS Semiconductor Research Internship Fall 2026",
+    "location": "Beavercreek Township, Ohio",
+    "url": "https://careers.kbr.com/us/en/job/R2126603/National-Security-Solutions-NSS-Semiconductor-Research-Internship-Fall-2026",
+    "date_found": "2026-07-14",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1728,6 +1732,15 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Supply Chain",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Supply-Chain_R-26-18675",
+    "date_found": "2026-07-14",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "Moog",
@@ -2469,8 +2482,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -2480,8 +2493,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -3174,6 +3187,17 @@
       "2026 Internships"
     ],
     "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Global Supply Management Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7772346003",
+    "date_found": "2026-07-14",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "non-engineering"
   },
   {
     "company": "Zipline",
