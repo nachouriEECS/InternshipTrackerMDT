@@ -328,17 +328,6 @@
   },
   {
     "company": "Astranis",
-    "title": "PCB Layout Engineer Intern (Fall 2026)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4597409006",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Avionics Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Astranis",
     "title": "Power Electronics Intern (Fall 2026)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4625923006",
@@ -416,17 +405,6 @@
   },
   {
     "company": "Astranis",
-    "title": "Spectrum Engineering Intern (Summer 2026) ",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4671835006",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Regulatory Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Astranis",
     "title": "Technical Project Management Intern (Fall 2026)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4693670006",
@@ -438,12 +416,21 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Accounting Internship",
-    "location": "Kingsport, Tennessee, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127135BR/Accounting-Internship",
-    "date_found": "2026-07-13",
+    "title": "2027 Co Op Spring Summer or Summer Fall Electrical Engineer onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite",
+    "date_found": "2026-07-15",
     "disciplines": [],
-    "category": "non-engineering"
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "2027 Spring and Summer Mechanical Engineering Coop",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+    "date_found": "2026-07-15",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "BAE Systems",
@@ -504,204 +491,6 @@
     "title": "Reverse Engineer Vulnerability Research Co op Spring 2027",
     "location": "COLUMBUS, Ohio",
     "url": "https://jobs.battelle.org/us/en/job/76343/Reverse-Engineer-Vulnerability-Research-Co-op-Spring-2027",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027  Software Developer Internship - Graduate",
-    "location": "4 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Graduate_R66409",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027  Software Developer Internship - Undergraduate",
-    "location": "3 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Aerospace Systems Engineering Intern - Graduate",
-    "location": "2 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Aerospace-Systems-Engineering-Intern---Graduate_R66202",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Aerospace Systems Engineering Internship -  Undergraduate",
-    "location": "3 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R66207",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Avionics Software Internship - Graduate",
-    "location": "3 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Graduate_R66209",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Avionics Software Internship - Undergraduate",
-    "location": "4 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Electrical Systems Engineering Internship - Graduate",
-    "location": "5 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Electrical-Systems-Engineering-Internship---Graduate_R66224",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Electrical Systems Engineering Internship - Undergraduate",
-    "location": "4 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Electrical-Systems-Engineering-Internship---Undergraduate_R66225",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Fluid Systems Engineering Internship - Graduate",
-    "location": "3 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Fluid-Systems-Engineering-Internship---Graduate_R66285",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Fluid Systems Engineering Internship - Undergraduate",
-    "location": "4 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Fluid-Systems-Engineering-Internship---Undergraduate_R66292",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Guidance, Navigation & Controls Internship - Graduate",
-    "location": "3 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Guidance--Navigation---Controls-Internship---Graduate_R66294",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Guidance, Navigation & Controls Internship - Undergraduate",
-    "location": "Greater Seattle Area",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Guidance--Navigation---Controls-Internship---Undergraduate_R66295",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Manufacturing Engineering Internship - Graduate",
-    "location": "4 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Huntsville-AL/Spring-2027-Manufacturing-Engineering-Internship---Graduate_R66339",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Manufacturing Engineering Internship - Undergraduate",
-    "location": "4 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Spring-2027-Manufacturing-Engineering-Internship---Undergraduate_R66348",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Materials & Processes Internship - Graduate",
-    "location": "3 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Materials---Processes-Internship---Graduate_R66350",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Materials & Processes Internship - Undergraduate",
-    "location": "3 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Materials---Processes-Internship---Undergraduate_R66353",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Return Internship - Graduate",
-    "location": "5 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Return-Internship---Graduate_R66361",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Return Internship - Undergraduate",
-    "location": "4 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Return-Internship---Undergraduate_R66362",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Structural & Mechanical Engineering Internship - Undergraduate",
-    "location": "6 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Structural---Mechanical-Engineering-Internship---Undergraduate_R66356",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Structural & Mechanical Systems Engineering Internship - Graduate",
-    "location": "6 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Structural---Mechanical-Systems-Engineering-Internship---Graduate_R66354",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Test Engineering Internship - Graduate",
-    "location": "5 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Van-Horn-TX/Spring-2027-Test-Engineering-Internship---Graduate_R66358",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027 Test Engineering Internship - Undergraduate",
-    "location": "6 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Test-Engineering-Internship---Undergraduate_R66360",
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
@@ -941,6 +730,15 @@
     "date_found": "2026-07-14",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "DataRobot",
+    "title": "Agentic AI Intern",
+    "location": "4 Locations",
+    "url": "https://datarobot.wd1.myworkdayjobs.com/DataRobot_External_Careers/job/Boston-Massachusetts-US/Agentic-AI-Intern_R-102729",
+    "date_found": "2026-07-15",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "Dragos",
@@ -2139,15 +1937,6 @@
   },
   {
     "company": "Parsons",
-    "title": "Project Controls Co-Op - Fall 2026",
-    "location": "New York, New York",
-    "url": "https://jobs.parsons.com/jobs/project-controls-co-op-fall-2026-new-york-r-182765-jobs--internship-program--",
-    "date_found": "2026-07-14",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Parsons",
     "title": "Roadway Engineering Co-Op - Fall 2026",
     "location": "Akron, Ohio",
     "url": "https://jobs.parsons.com/jobs/roadway-engineering-co-op-fall-2026-akron-r-177773-jobs--internship-program--",
@@ -2242,15 +2031,6 @@
     "title": "Intern, Field Svc",
     "location": "CO-DC-BOGOTA-9A26-CUST ~ Cl. 95 #9A 26 ~ CL 95 (External Site)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO-DC-BOGOTA-9A26-CUST--Cl-95-9A-26--CL-95-External-Site/Intern--Field-Svc_01802976",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
-    "title": "Manufacturing Engineering Co-Op (Fall 2026) (Onsite)",
-    "location": "US-PR-SANTA ISABEL-B2 ~ Felicia Industrial Park - St B2 ~ BLDG 2",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B2--Felicia-Industrial-Park---St-B2--BLDG-2/Manufacturing-Engineering-Co-Op--Fall-2026---Onsite-_01854330",
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
@@ -2360,17 +2140,6 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Additive Manufacturing Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7730636003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "2430 Additive Mfg"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
     "title": "Electrical Engineering Intern Fall 2026",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7725243003",
@@ -2470,17 +2239,6 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Software Intern Fall 2026",
-    "location": "Albuquerque, NM",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7736776003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "LD700 EIS"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
@@ -2545,6 +2303,15 @@
   },
   {
     "company": "Roush (Defense)",
+    "title": "Electrified Powertrain Calibration Internship Fall 2026",
+    "location": "Allen Park, MI",
+    "url": "https://jobs.roush.com/us/en/job/job_20260715140428_SUZZN3S4BU7HQ8HH/Electrified-Powertrain-Calibration-Internship-Fall-2026",
+    "date_found": "2026-07-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Roush (Defense)",
     "title": "Marketing Sales Coordinator Intern Summer 2026",
     "location": "Livonia, MI",
     "url": "https://jobs.roush.com/us/en/job/job_20260520115241_ZNO7OA2HFBQTFO6W/Marketing-Sales-Coordinator-Intern-Summer-2026",
@@ -2558,6 +2325,15 @@
     "location": "Livonia, MI",
     "url": "https://jobs.roush.com/us/en/job/job_20260702132535_ZPX5FCJTBVRQ8GNO/Mechanical-Engineering-Intern-Fall-2026",
     "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Roush (Defense)",
+    "title": "Powertrain Development Engineering Internship Fall 2026",
+    "location": "Allen Park, MI",
+    "url": "https://jobs.roush.com/us/en/job/job_20260715121713_4P26ANOTBMMRTELY/Powertrain-Development-Engineering-Internship-Fall-2026",
+    "date_found": "2026-07-15",
     "disciplines": [],
     "category": "engineering"
   },
