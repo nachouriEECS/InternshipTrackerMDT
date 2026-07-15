@@ -98,15 +98,6 @@
     "category": "engineering"
   },
   {
-    "company": "Amentum",
-    "title": "Intern Thermal Analysis Fall Intern Huntsville",
-    "location": "Alabama",
-    "url": "https://www.amentumcareers.com/jobs/intern-thermal-analysis-fall-intern-huntsville-alabama-united-states",
-    "date_found": "2026-07-01",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Anduril",
     "title": "2027 Electrical Engineer Intern",
     "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
@@ -461,6 +452,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Quality Intern 2026",
+    "location": "Sterling Heights, Michigan, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125423BR/Quality-Intern-2026",
+    "date_found": "2026-07-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Software Engineering Intern I Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
@@ -474,6 +474,15 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Software Engineering Intern Embedded Systems",
+    "location": "Huntsville, Alabama, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
+    "date_found": "2026-07-15",
     "disciplines": [],
     "category": "software"
   },
@@ -753,7 +762,7 @@
   },
   {
     "company": "Draper",
-    "title": "Microsystems Integration Co-Op",
+    "title": "Laboratory Research Co-Op",
     "location": "Cambridge, MA",
     "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002599",
     "date_found": "2026-07-09",
@@ -841,8 +850,8 @@
     "company": "GE Aerospace",
     "title": "Embedded Systems Engineer Co op Bohemia NY Spring 2027",
     "location": "Bohemia, New York, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5035583EXTERNALENGLOBAL/Embedded-Systems-Engineer-Co-op-Bohemia-NY-Spring-2027",
-    "date_found": "2026-06-09",
+    "url": "https://careers.geaerospace.com/global/en/job/R5035583/Embedded-Systems-Engineer-Co-op-Bohemia-NY-Spring-2027",
+    "date_found": "2026-07-15",
     "disciplines": [],
     "category": "engineering"
   },
@@ -850,8 +859,8 @@
     "company": "GE Aerospace",
     "title": "Lynn CNC Trainee Co Op",
     "location": "Lynn, Massachusetts, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034331EXTERNALENGLOBAL/Lynn-CNC-Trainee-Co-Op",
-    "date_found": "2026-05-30",
+    "url": "https://careers.geaerospace.com/global/en/job/R5034331/Lynn-CNC-Trainee-Co-Op",
+    "date_found": "2026-07-15",
     "disciplines": [],
     "category": "engineering"
   },
@@ -859,8 +868,8 @@
     "company": "GE Aerospace",
     "title": "Lynn Carpentry Trainee Co Op",
     "location": "Lynn, Massachusetts, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034333EXTERNALENGLOBAL/Lynn-Carpentry-Trainee-Co-Op",
-    "date_found": "2026-06-15",
+    "url": "https://careers.geaerospace.com/global/en/job/R5034333/Lynn-Carpentry-Trainee-Co-Op",
+    "date_found": "2026-07-15",
     "disciplines": [],
     "category": "engineering"
   },
@@ -868,8 +877,8 @@
     "company": "GE Aerospace",
     "title": "Lynn Welder Trainee Co Op",
     "location": "Lynn, Massachusetts, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034069EXTERNALENGLOBAL/Lynn-Welder-Trainee-Co-Op",
-    "date_found": "2026-05-30",
+    "url": "https://careers.geaerospace.com/global/en/job/R5034069/Lynn-Welder-Trainee-Co-Op",
+    "date_found": "2026-07-15",
     "disciplines": [],
     "category": "engineering"
   },
@@ -877,8 +886,8 @@
     "company": "GE Aerospace",
     "title": "Unison Engineering Intern Fall 2027",
     "location": "Jacksonville, Florida, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037092EXTERNALENGLOBAL/Unison-Engineering-Intern-Fall-2027",
-    "date_found": "2026-07-14",
+    "url": "https://careers.geaerospace.com/global/en/job/R5037092/Unison-Engineering-Intern-Fall-2027",
+    "date_found": "2026-07-15",
     "disciplines": [],
     "category": "engineering"
   },
@@ -886,8 +895,8 @@
     "company": "GE Aerospace",
     "title": "Unison Engineering Intern Spring 2027",
     "location": "Jacksonville, Florida, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037093EXTERNALENGLOBAL/Unison-Engineering-Intern-Spring-2027",
-    "date_found": "2026-07-14",
+    "url": "https://careers.geaerospace.com/global/en/job/R5037093/Unison-Engineering-Intern-Spring-2027",
+    "date_found": "2026-07-15",
     "disciplines": [],
     "category": "engineering"
   },
@@ -895,8 +904,8 @@
     "company": "GE Aerospace",
     "title": "Unison Engineering Intern Summer 2027",
     "location": "Jacksonville, Florida, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027",
-    "date_found": "2026-07-14",
+    "url": "https://careers.geaerospace.com/global/en/job/R5037097/Unison-Engineering-Intern-Summer-2027",
+    "date_found": "2026-07-15",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1127,6 +1136,15 @@
   },
   {
     "company": "GlobalFoundries",
+    "title": "Internship – CMOS Technology Development",
+    "location": "DEU - Saxony - Dresden",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/DEU---Saxony---Dresden/Internship---CMOS-Technology-Development_JR-2602497",
+    "date_found": "2026-07-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
     "title": "Sales Specialist Intern, Japan",
     "location": "JPN - Kanagawa-Ken - Yokohama-shi",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/JPN---Kanagawa-Ken---Yokohama-shi/Internship---Field-Application-Engineer--FAE-_JR-2502664",
@@ -1193,17 +1211,6 @@
       "Internships"
     ],
     "category": "non-engineering"
-  },
-  {
-    "company": "Hermeus",
-    "title": "GNC Engineering Intern (Controls) - Fall 2026",
-    "location": "Atlanta, GA",
-    "url": "https://jobs.lever.co/hermeus/751c9919-5b19-4609-80ff-ca82d6947e07",
-    "date_found": "2026-05-09",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Hermeus",
@@ -1317,15 +1324,6 @@
   },
   {
     "company": "Hexcel",
-    "title": "Instructional Design Intern",
-    "location": "USA - UT - Salt Lake City Fibers",
-    "url": "https://hexcel.wd5.myworkdayjobs.com/HexcelCareers/job/USA---UT---Salt-Lake-City-Fibers/Instructional-Design-Intern_R020035",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Hexcel",
     "title": "Quality Engineering Intern",
     "location": "USA - WA - Kent",
     "url": "https://hexcel.wd5.myworkdayjobs.com/HexcelCareers/job/USA---WA---Kent/Quality-Engineering-Intern_R019626",
@@ -1429,6 +1427,15 @@
     "location": "San Leandro, California",
     "url": "https://lyten.wd503.myworkdayjobs.com/Lyten_External_Career_Site/job/San-Leandro-California/Intern---Industrial-Engineer_JR100630-1",
     "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "MIT Lincoln Laboratory",
+    "title": "CAD Design Specialist CO-OP | Group 07-71 |  June - November 2026",
+    "location": "Lexington, MA, US",
+    "url": "https://careers.ll.mit.edu/job/Lexington-CAD-Design-Specialist-CO-OP-Group-07-71-June-November-2026-MA-02420/1391103300/",
+    "date_found": "2026-07-15",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2099,6 +2106,15 @@
     "category": "engineering"
   },
   {
+    "company": "Radiance Technologies",
+    "title": "Human Resources Intern",
+    "location": "Huntsville, AL",
+    "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Human-Resources-Intern_HR102299",
+    "date_found": "2026-07-15",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
     "company": "Re:Build Manufacturing",
     "title": "Wire Harness Design Engineer Co-Op (Fall 2026)",
     "location": "Rochester, NY",
@@ -2108,15 +2124,6 @@
       "Engineering"
     ],
     "category": "engineering"
-  },
-  {
-    "company": "Redwire Space",
-    "title": "Accounting Intern Jacksonville",
-    "location": "Florida",
-    "url": "https://careers.rdw.com/jobs/accounting-intern-jacksonville-florida-united-states-711893bd-08b3-4bdd-aa6f-1dc0f7338329",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "Redwire Space",
@@ -2240,8 +2247,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -2251,8 +2258,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
