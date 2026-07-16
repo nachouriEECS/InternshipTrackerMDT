@@ -61,15 +61,6 @@
   },
   {
     "company": "Airbus",
-    "title": "Long-term Internship - Ethics & Compliance",
-    "location": "Herndon Area, VA",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Long-term-Internship---Ethics---Compliance_JR10426469",
-    "date_found": "2026-07-07",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Airbus",
     "title": "Long-term Internship - Quality Engineering",
     "location": "Columbus, MS",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Columbus-MS/Long-term-Internship---Quality-Engineering_JR10428131",
@@ -86,6 +77,15 @@
     "disciplines": [
       "Manufacturing "
     ],
+    "category": "engineering"
+  },
+  {
+    "company": "Amentum",
+    "title": "Fall 2026 Spaceflight Hardware Intern Houston",
+    "location": "Texas",
+    "url": "https://www.amentumcareers.com/jobs/fall-2026-spaceflight-hardware-intern-houston-texas-united-states",
+    "date_found": "2026-07-16",
+    "disciplines": [],
     "category": "engineering"
   },
   {
@@ -398,21 +398,30 @@
   },
   {
     "company": "BAE Systems",
+    "title": "2027 Co Op Spring Summer or Summer Fall Electrical Engineer onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite",
+    "date_found": "2026-07-16",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "2027 Spring and Summer Mechanical Engineering Coop",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+    "date_found": "2026-07-16",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Customer Compliance Intern Summer Fall 2026",
     "location": "Fort Wayne, Indiana, United States",
     "url": "https://jobs.baesystems.com/global/en/job/126161BR/Customer-Compliance-Intern-Summer-Fall-2026",
     "date_found": "2026-06-30",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Industrial Engineering Intern Fall 2026",
-    "location": "York, Pennsylvania, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126122BR/Industrial-Engineering-Intern-Fall-2026",
-    "date_found": "2026-06-30",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "BAE Systems",
@@ -449,6 +458,15 @@
     "date_found": "2026-06-25",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "Battelle",
+    "title": "Data Science AI ML Co op Fall 2026",
+    "location": "COLUMBUS, Ohio",
+    "url": "https://jobs.battelle.org/us/en/job/76368/Data-Science-AI-ML-Co-op-Fall-2026",
+    "date_found": "2026-07-16",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "Battelle",
@@ -1467,6 +1485,15 @@
     "category": "software"
   },
   {
+    "company": "MIT Lincoln Laboratory",
+    "title": "Information Services Department CO-OP | Sept - Dec 2026 | Group 11-20",
+    "location": "Lexington, MA, US",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Information-Services-Department-CO-OP-Sept-Dec-2026-Group-11-20-MA-02420/1409546600/",
+    "date_found": "2026-07-16",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Michael Baker International",
     "title": "Civil Intern, Surface Transportation",
     "location": "Columbia, SC, United States",
@@ -1504,6 +1531,15 @@
   },
   {
     "company": "Moog",
+    "title": "Intern, IT Computer Science - Data Analytics",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
+    "date_found": "2026-07-16",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Moog",
     "title": "Intern, Supply Chain",
     "location": "Buffalo, NY",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Supply-Chain_R-26-18675",
@@ -1517,6 +1553,15 @@
     "location": "Buffalo, NY",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Test-Engineering_R-26-18775",
     "date_found": "2026-07-10",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2026 Guidance Navigation and Control Intern Dulles VA",
+    "location": "United States-Virginia-Dulles",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2026-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10240739",
+    "date_found": "2026-07-16",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2211,8 +2256,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -2222,8 +2267,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -2280,15 +2325,6 @@
     "date_found": "2026-07-15",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Roush (Defense)",
-    "title": "Marketing Sales Coordinator Intern Summer 2026",
-    "location": "Livonia, MI",
-    "url": "https://jobs.roush.com/us/en/job/job_20260520115241_ZNO7OA2HFBQTFO6W/Marketing-Sales-Coordinator-Intern-Summer-2026",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "Roush (Defense)",
@@ -2492,6 +2528,15 @@
       "Internship"
     ],
     "category": "software"
+  },
+  {
+    "company": "TTM Technologies",
+    "title": "Fall 2026 Product Engineering Co-Op",
+    "location": "North Jackson, OH",
+    "url": "https://ttmtech.wd5.myworkdayjobs.com/jobs/job/North-Jackson-OH/Fall-2026-Product-Engineering-Co-Op_R16950",
+    "date_found": "2026-07-16",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "TTM Technologies",
@@ -2967,17 +3012,6 @@
       "2026 Internships"
     ],
     "category": "non-engineering"
-  },
-  {
-    "company": "Zipline",
-    "title": "Maintenance Tool Engineering Intern (Fall 2026)",
-    "location": "Esparto, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7775125003",
-    "date_found": "2026-07-13",
-    "disciplines": [
-      "2026 Internships"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Zipline",
