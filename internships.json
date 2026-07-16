@@ -434,6 +434,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Quality Intern 2026",
+    "location": "Sterling Heights, Michigan, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125423BR/Quality-Intern-2026",
+    "date_found": "2026-07-16",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Software Engineering Intern I Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
@@ -447,6 +456,15 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Software Engineering Intern Embedded Systems",
+    "location": "Huntsville, Alabama, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
+    "date_found": "2026-07-16",
     "disciplines": [],
     "category": "software"
   },
@@ -485,17 +503,6 @@
     "date_found": "2026-07-08",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "Charles River Analytics",
-    "title": "2026 New Graduate & Summer Intern Pipeline",
-    "location": "Greater Boston",
-    "url": "https://job-boards.greenhouse.io/crageneralapplication/jobs/7452556",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "General Application"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Crane Aerospace & Electronics",
@@ -1423,27 +1430,9 @@
   },
   {
     "company": "MIT Lincoln Laboratory",
-    "title": "Group 02-25 | IT CO-OP |  Bioanalytics Systems and Technologies | Jul - Dec 2026",
-    "location": "Lexington, MA, US",
-    "url": "https://careers.ll.mit.edu/job/Lexington-Group-02-25-IT-CO-OP-Bioanalytics-Systems-and-Technologies-Jul-Dec-2026-MA-02420/1379522300/",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "MIT Lincoln Laboratory",
     "title": "Group 05-52 | Co-Op | AI Technology and Systems | Fall 2026",
     "location": "Lexington, MA, US",
     "url": "https://careers.ll.mit.edu/job/Lexington-Group-05-52-Co-Op-AI-Technology-and-Systems-Fall-2026-MA-02420/1399059100/",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "MIT Lincoln Laboratory",
-    "title": "Group 05-59 | CO-OP | Cyber System Assessments | July - December 2026",
-    "location": "Lexington, MA, US",
-    "url": "https://careers.ll.mit.edu/job/Lexington-Group-05-59-CO-OP-Cyber-System-Assessments-July-December-2026-MA-02420/1361576300/",
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "software"
@@ -1537,6 +1526,33 @@
     "date_found": "2026-07-16",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Manufacturing & Industrial Engineering",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Manufacturing---Industrial-Engineering_R-26-18644",
+    "date_found": "2026-07-16",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Manufacturing & Industrial Engineering",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Manufacturing---Industrial-Engineering_R-26-18643",
+    "date_found": "2026-07-16",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Operations Transformation",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Operations-Transformation_R-26-17566",
+    "date_found": "2026-07-16",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Moog",
@@ -2577,27 +2593,9 @@
   {
     "company": "Teledyne FLIR",
     "title": "Mechanical Engineering Intern",
-    "location": "US - Rancho Cordova, CA (TDY)",
-    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Rancho-Cordova-CA-TDY/Mechanical-Engineering-Intern_REQ33437",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Teledyne FLIR",
-    "title": "Mechanical Engineering Intern",
     "location": "US - Torrance, CA",
     "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Torrance-CA/Mechanical-Engineering-Intern_REQ35340",
     "date_found": "2026-07-13",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Teledyne FLIR",
-    "title": "Test Engineer (Intern)",
-    "location": "US - Mountain View, CA",
-    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Mountain-View-CA/Test-Engineer--Intern-_REQ35127",
-    "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2730,17 +2728,6 @@
       "Operations"
     ],
     "category": "non-engineering"
-  },
-  {
-    "company": "Varda Space Industries",
-    "title": "Automation and Test Internship - Fall 2026",
-    "location": "El Segundo, California, United States",
-    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7663353003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Internship"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Varda Space Industries",
