@@ -43,15 +43,6 @@
   },
   {
     "company": "Airbus",
-    "title": "Internship",
-    "location": "Sepang",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sepang/Internship_JR10420633",
-    "date_found": "2026-07-14",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Airbus",
     "title": "Long-term Internship - Engineering",
     "location": "Wichita, KS",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term---Engineering_JR10411965",
@@ -398,6 +389,24 @@
   },
   {
     "company": "BAE Systems",
+    "title": "2027 Co Op Spring Summer or Summer Fall Electrical Engineer onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite",
+    "date_found": "2026-07-17",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "2027 Spring and Summer Mechanical Engineering Coop",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+    "date_found": "2026-07-17",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Customer Compliance Intern Summer Fall 2026",
     "location": "Fort Wayne, Indiana, United States",
     "url": "https://jobs.baesystems.com/global/en/job/126161BR/Customer-Compliance-Intern-Summer-Fall-2026",
@@ -416,19 +425,19 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern I Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
-    "date_found": "2026-07-13",
+    "title": "Quality Intern 2026",
+    "location": "Sterling Heights, Michigan, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125423BR/Quality-Intern-2026",
+    "date_found": "2026-07-17",
     "disciplines": [],
-    "category": "software"
+    "category": "engineering"
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern III Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
-    "date_found": "2026-07-09",
+    "title": "Systems Software Engineering Intern Embedded Systems",
+    "location": "Huntsville, Alabama, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
+    "date_found": "2026-07-17",
     "disciplines": [],
     "category": "software"
   },
@@ -494,15 +503,6 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "Crane Aerospace & Electronics",
-    "title": "Manufactering Engineer Co-op",
-    "location": "Spartanburg, South Carolina",
-    "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Spartanburg-South-Carolina/Manufactering-Engineer-Co-op_JR101947",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "Crane Aerospace & Electronics",
@@ -1339,6 +1339,15 @@
     "category": "engineering"
   },
   {
+    "company": "KBR",
+    "title": "Procurement Intern",
+    "location": "Houston, Texas",
+    "url": "https://careers.kbr.com/us/en/job/R2126745/Procurement-Intern",
+    "date_found": "2026-07-17",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
     "company": "L3Harris",
     "title": "HR Business Partner Intern",
     "location": "Wilmington, MA",
@@ -1416,6 +1425,15 @@
     "location": "Lexington, MA, US",
     "url": "https://careers.ll.mit.edu/job/Lexington-Group-11-10-Co-Op-Cyber-Security-Fall-2026-MA-02420/1374211700/",
     "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "MIT Lincoln Laboratory",
+    "title": "Group 2-24 | Co-Op | Biomedical & Physiological Signal Processing & Machine Learning | Jun-Dec 2026",
+    "location": "Lexington, MA, US",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Group-2-24-Co-Op-Biomedical-&-Physiological-Signal-Processing-&-Machine-Learning-Jun-Dec-2026-MA-02420/1380080200/",
+    "date_found": "2026-07-17",
     "disciplines": [],
     "category": "software"
   },
@@ -2138,17 +2156,6 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "HITL Engineering Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7734022003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "2551 HITL"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
     "title": "Indirect Procurement Intern Fall 2026",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7726463003",
@@ -2204,17 +2211,6 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Propulsion Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728487003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "4015 USA Space Systems"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
     "title": "R&D Engineering Intern Fall 2026",
     "location": "Albuquerque, NM",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7736088003",
@@ -2227,8 +2223,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -2238,8 +2234,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
