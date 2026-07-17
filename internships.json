@@ -434,6 +434,24 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Software Engineering Intern I Summer 2027",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
+    "date_found": "2026-07-17",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern III Summer 2027",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
+    "date_found": "2026-07-17",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Systems Software Engineering Intern Embedded Systems",
     "location": "Huntsville, Alabama, United States",
     "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
@@ -2104,17 +2122,6 @@
     "category": "non-engineering"
   },
   {
-    "company": "Re:Build Manufacturing",
-    "title": "Wire Harness Design Engineer Co-Op (Fall 2026)",
-    "location": "Rochester, NY",
-    "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4712484005",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Engineering"
-    ],
-    "category": "engineering"
-  },
-  {
     "company": "Redwire Space",
     "title": "Intern Space Software Engineering National Security Space Chantilly",
     "location": "Virginia",
@@ -2155,17 +2162,6 @@
       "2652 USA Supply Chain"
     ],
     "category": "non-engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Integration & Test Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728086003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "4015 USA Space Systems"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Rocket Lab",
