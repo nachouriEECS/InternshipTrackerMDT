@@ -380,15 +380,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Customer Compliance Intern Summer Fall 2026",
-    "location": "Fort Wayne, Indiana, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126161BR/Customer-Compliance-Intern-Summer-Fall-2026",
-    "date_found": "2026-06-30",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Operations Engineering Industrial Mechanical Electrical Co op Spring Summer 2027",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/126541BR/Operations-Engineering-Industrial-Mechanical-Electrical-Co-op-Spring-Summer-2027",
@@ -461,27 +452,9 @@
   },
   {
     "company": "Crane Aerospace & Electronics",
-    "title": "Design Engineer Co-op",
-    "location": "Spartanburg, South Carolina",
-    "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Spartanburg-South-Carolina/Design-Engineer-Co-op_JR101945",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Crane Aerospace & Electronics",
     "title": "EHS Intern",
     "location": "Cincinnati, Ohio",
     "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/EHS-Intern_JR102020",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Crane Aerospace & Electronics",
-    "title": "Finance Co-op",
-    "location": "Spartanburg, South Carolina",
-    "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Spartanburg-South-Carolina/Finance-Co-op_JR101964",
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "non-engineering"
@@ -1473,15 +1446,6 @@
   },
   {
     "company": "Oshkosh",
-    "title": "Pricing Analyst Intern",
-    "location": "Oshkosh, Wisconsin, United States",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Pricing-Analyst-Intern_R46760",
-    "date_found": "2026-05-18",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Oshkosh",
     "title": "Testing & Development Rotational Intern",
     "location": "New Hudson, Michigan, United States",
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Testing---Development-Rotational-Intern_R46186",
@@ -2098,17 +2062,6 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "122 OS - Supply Chain"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Supply Chain Intern Fall 2026",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
     "date_found": "2026-07-09",
@@ -2119,14 +2072,14 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Systems Engineering Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7725384003",
+    "title": "Supply Chain Intern Fall 2026",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
     "date_found": "2026-07-09",
     "disciplines": [
-      "4015 USA Space Systems"
+      "122 OS - Supply Chain"
     ],
-    "category": "engineering"
+    "category": "non-engineering"
   },
   {
     "company": "Rocket Lab",
@@ -2576,17 +2529,6 @@
       "Internship"
     ],
     "category": "software"
-  },
-  {
-    "company": "Varda Space Industries",
-    "title": "Guidance, Navigation and Controls (GNC) Internship - Fall 2026",
-    "location": "El Segundo, California, United States",
-    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7671170003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Internship"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Varda Space Industries",
