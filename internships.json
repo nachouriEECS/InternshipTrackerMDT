@@ -42,15 +42,6 @@
     "category": "software"
   },
   {
-    "company": "Airbus",
-    "title": "Long-term Internship - Quality Engineering",
-    "location": "Columbus, MS",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Columbus-MS/Long-term-Internship---Quality-Engineering_JR10428131",
-    "date_found": "2026-07-10",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Allen Control Systems",
     "title": "Manufacturing Intern",
     "location": "Austin, TX",
@@ -461,15 +452,6 @@
   },
   {
     "company": "Battelle",
-    "title": "Data Science AI ML Co op Fall 2026",
-    "location": "COLUMBUS, Ohio",
-    "url": "https://jobs.battelle.org/us/en/job/76368/Data-Science-AI-ML-Co-op-Fall-2026",
-    "date_found": "2026-07-16",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Battelle",
     "title": "Reverse Engineer Vulnerability Research Co op Spring 2027",
     "location": "COLUMBUS, Ohio",
     "url": "https://jobs.battelle.org/us/en/job/76343/Reverse-Engineer-Vulnerability-Research-Co-op-Spring-2027",
@@ -485,6 +467,15 @@
     "date_found": "2026-07-08",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "Crane Aerospace & Electronics",
+    "title": "Customer Service Representative  - Intern",
+    "location": "Piqua, Ohio",
+    "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Piqua-Ohio/Customer-Service-Representative----Intern_JR102170",
+    "date_found": "2026-07-21",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Crane Aerospace & Electronics",
@@ -813,33 +804,6 @@
     "title": "Lynn Welder Trainee Co Op",
     "location": "Lynn, Massachusetts, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034069EXTERNALENGLOBAL/Lynn-Welder-Trainee-Co-Op",
-    "date_found": "2026-07-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Unison Engineering Intern Fall 2027",
-    "location": "Jacksonville, Florida, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037092EXTERNALENGLOBAL/Unison-Engineering-Intern-Fall-2027",
-    "date_found": "2026-07-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Unison Engineering Intern Spring 2027",
-    "location": "Jacksonville, Florida, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037093EXTERNALENGLOBAL/Unison-Engineering-Intern-Spring-2027",
-    "date_found": "2026-07-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Unison Engineering Intern Summer 2027",
-    "location": "Jacksonville, Florida, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037097EXTERNALENGLOBAL/Unison-Engineering-Intern-Summer-2027",
     "date_found": "2026-07-15",
     "disciplines": [],
     "category": "engineering"
@@ -1226,17 +1190,6 @@
   },
   {
     "company": "Hermeus",
-    "title": "Structures/Mechanical Engineering Intern - Fall 2026",
-    "location": "Atlanta, GA",
-    "url": "https://jobs.lever.co/hermeus/08a3c5df-559a-49c8-a685-8165cb8388c7",
-    "date_found": "2026-06-29",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Hermeus",
     "title": "Subsystem Test Engineering Intern - Fall 2026",
     "location": "Atlanta, GA",
     "url": "https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e",
@@ -1479,6 +1432,15 @@
     "location": "San Diego, CA, United States",
     "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309078",
     "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Michael Baker International",
+    "title": "Part-Time Intern",
+    "location": "Virginia Beach, VA, United States",
+    "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309592",
+    "date_found": "2026-07-21",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2107,17 +2069,6 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Electrical Engineering Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7725243003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "4015 USA Space Systems"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
     "title": "Indirect Procurement Intern Fall 2026",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7726463003",
@@ -2465,6 +2416,15 @@
   },
   {
     "company": "Teledyne FLIR",
+    "title": "Cost Accounting Intern",
+    "location": "US - Chestnut Ridge, NY",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Cost-Accounting-Intern_REQ35565",
+    "date_found": "2026-07-21",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Teledyne FLIR",
     "title": "IT Technical Specialist Intern",
     "location": "US - Huntsville, AL",
     "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/IT-Technical-Specialist-Intern_REQ35332",
@@ -2502,18 +2462,9 @@
   {
     "company": "Teledyne Technologies",
     "title": "Mechanical Engineering Intern",
-    "location": "Rancho Cordova, CA",
-    "url": "https://teledynecareers.dejobs.org/rancho-cordova-ca/mechanical-engineering-intern/ED8432DE63E3438683541B00A8D88C5D/job/",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Test Engineer Intern",
-    "location": "Mountain View, CA",
-    "url": "https://teledynecareers.dejobs.org/mountain-view-ca/test-engineer-intern/2BA598449471451C813E2B7A0CC645B9/job/",
-    "date_found": "2026-07-09",
+    "location": "Torrance, CA",
+    "url": "https://teledynecareers.dejobs.org/torrance-ca/mechanical-engineering-intern/BB835DD3EE644ECB998A4599162520A9/job/",
+    "date_found": "2026-07-21",
     "disciplines": [],
     "category": "engineering"
   },
