@@ -407,27 +407,18 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Quality Intern 2026",
-    "location": "Sterling Heights, Michigan, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125423BR/Quality-Intern-2026",
-    "date_found": "2026-07-22",
+    "title": "Software Engineering Intern I Summer 2027",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
+    "date_found": "2026-07-23",
     "disciplines": [],
-    "category": "engineering"
+    "category": "software"
   },
   {
     "company": "BAE Systems",
     "title": "Software Engineering Intern III Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
-    "date_found": "2026-07-22",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Systems Software Engineering Intern Embedded Systems",
-    "location": "Huntsville, Alabama, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
     "date_found": "2026-07-22",
     "disciplines": [],
     "category": "software"
@@ -440,6 +431,15 @@
     "date_found": "2026-06-25",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "BWX Technologies",
+    "title": "Quality Engineer Intern/Co-Op",
+    "location": "Euclid, OH, US",
+    "url": "https://careers.bwxt.com/job/Euclid-Quality-Engineer-InternCo-Op-OH/1411869200/",
+    "date_found": "2026-07-23",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Battelle",
@@ -494,15 +494,6 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "Crane Aerospace & Electronics",
-    "title": "Engineering Co-op",
-    "location": "Elyria, Ohio",
-    "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Engineering-Co-op_JR102189",
-    "date_found": "2026-07-22",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "Crane Aerospace & Electronics",
@@ -1894,6 +1885,15 @@
     "category": "engineering"
   },
   {
+    "company": "Parsons",
+    "title": "Roadway/Highway Intern",
+    "location": "Irvine, California",
+    "url": "https://jobs.parsons.com/jobs/roadway-highway-intern-irvine-r-183285-jobs--internship-program--",
+    "date_found": "2026-07-23",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Peraton",
     "title": "Contracts Administration Pipeline Intern And Entry Level Reston",
     "location": "Virginia",
@@ -2116,8 +2116,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -2127,8 +2127,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -2258,6 +2258,17 @@
       "X-BAT Engineering - Avionics"
     ],
     "category": "engineering"
+  },
+  {
+    "company": "Shield AI",
+    "title": "Senior Bid Manager",
+    "location": "Athens",
+    "url": "https://jobs.lever.co/shieldai/9b3d05a1-dfd9-4da3-bf64-fed45e620047",
+    "date_found": "2026-07-23",
+    "disciplines": [
+      "Business Development"
+    ],
+    "category": "non-engineering"
   },
   {
     "company": "Shield AI",
@@ -2667,17 +2678,6 @@
       "2026 Internships"
     ],
     "category": "non-engineering"
-  },
-  {
-    "company": "Zipline",
-    "title": "Applications Engineer Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7765099003",
-    "date_found": "2026-07-12",
-    "disciplines": [
-      "2026 Internships"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Zipline",
