@@ -42,6 +42,15 @@
     "category": "software"
   },
   {
+    "company": "Airbus",
+    "title": "Short-term Internship - Finance Services & Transformation",
+    "location": "Herndon Area, VA",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Short-term-Internship---Finance-Services---Transformation_JR10431700",
+    "date_found": "2026-07-23",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
     "company": "Allen Control Systems",
     "title": "Manufacturing Intern",
     "location": "Austin, TX",
@@ -358,6 +367,17 @@
   },
   {
     "company": "Astranis",
+    "title": "Software Engineer Intern - Enterprise Systems (Fall 2026)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006",
+    "date_found": "2026-07-23",
+    "disciplines": [
+      "Software Internships"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "Astranis",
     "title": "Software Engineer- Backend Intern (Fall 2026)",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4681183006",
@@ -411,15 +431,6 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
     "date_found": "2026-07-23",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern III Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
-    "date_found": "2026-07-22",
     "disciplines": [],
     "category": "software"
   },
@@ -707,28 +718,6 @@
       "Internships"
     ],
     "category": "non-engineering"
-  },
-  {
-    "company": "Exowatt",
-    "title": "Software Engineering Intern  - Inventory Automation & IoT/Robotics",
-    "location": "Austin, TX",
-    "url": "https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c",
-    "date_found": "2026-07-10",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "Exowatt",
-    "title": "Software Engineering Intern - Agent Platform (AI)",
-    "location": "Miami, FL",
-    "url": "https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c",
-    "date_found": "2026-07-10",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "software"
   },
   {
     "company": "Exowatt",
@@ -1202,6 +1191,15 @@
     "category": "engineering"
   },
   {
+    "company": "Hexcel",
+    "title": "Maintenance & Facilities Engineering Intern",
+    "location": "USA - WA - Kent",
+    "url": "https://hexcel.wd5.myworkdayjobs.com/HexcelCareers/job/USA---WA---Kent/Maintenance---Facilities-Engineering-Intern_R020341",
+    "date_found": "2026-07-23",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Howmet Aerospace",
     "title": "Engineering Intern",
     "location": "Brea, CA, United States",
@@ -1418,6 +1416,15 @@
     "category": "engineering"
   },
   {
+    "company": "Michael Baker International",
+    "title": "Highway Engineering Intern",
+    "location": "Moon Township, PA, United States",
+    "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309495",
+    "date_found": "2026-07-23",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Moog",
     "title": "Intern, Advanced Manufacturing",
     "location": "Buffalo, NY",
@@ -1449,15 +1456,6 @@
     "title": "Intern, Manufacturing & Industrial Engineering",
     "location": "Buffalo, NY",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Manufacturing---Industrial-Engineering_R-26-18643",
-    "date_found": "2026-07-16",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Moog",
-    "title": "Intern, Operations Transformation",
-    "location": "Buffalo, NY",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Operations-Transformation_R-26-17566",
     "date_found": "2026-07-16",
     "disciplines": [],
     "category": "engineering"
@@ -2116,8 +2114,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -2127,8 +2125,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -2346,6 +2344,17 @@
       "Internships"
     ],
     "category": "software"
+  },
+  {
+    "company": "SpaceX",
+    "title": "Recruiting Coordinator, Intern Program- Temporary",
+    "location": "Hawthorne, CA",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8647830002?gh_jid=8647830002",
+    "date_found": "2026-07-23",
+    "disciplines": [
+      "Recruiting"
+    ],
+    "category": "non-engineering"
   },
   {
     "company": "Stoke Space",
