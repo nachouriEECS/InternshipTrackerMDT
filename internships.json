@@ -436,6 +436,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Software Engineering Intern I Summer 2027",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
+    "date_found": "2026-07-24",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Software Engineering Intern III Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
@@ -1227,6 +1236,15 @@
     "category": "engineering"
   },
   {
+    "company": "Howmet Aerospace",
+    "title": "Product Engineer Co-Op",
+    "location": "LaPorte, IN, United States",
+    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118645",
+    "date_found": "2026-07-24",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Idaho National Laboratory",
     "title": "Graduate Internship – Operations and Strategy Management",
     "location": "Idaho Falls, ID, United States",
@@ -1524,39 +1542,6 @@
       "Echo"
     ],
     "category": "non-engineering"
-  },
-  {
-    "company": "Palantir",
-    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-    "location": "Washington, D.C.",
-    "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
-    "date_found": "2026-07-11",
-    "disciplines": [
-      "Delta"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Palantir",
-    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-    "location": "Palo Alto, CA",
-    "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69",
-    "date_found": "2026-07-11",
-    "disciplines": [
-      "Delta"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Palantir",
-    "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
-    "location": "New York, NY",
-    "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b",
-    "date_found": "2026-07-11",
-    "disciplines": [
-      "Delta"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Palantir",
@@ -2017,6 +2002,15 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stress Analysis Intern - 1st shift - On site - Aeroestructuras",
+    "location": "MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238, Desarrollo Industrial Colorado",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Stress-Analysis-Intern---1st-shift---On-site---Aeroestructuras_01842627",
+    "date_found": "2026-07-24",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "RTX",
