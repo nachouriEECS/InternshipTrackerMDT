@@ -427,10 +427,19 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern I Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
-    "date_found": "2026-07-23",
+    "title": "Quality Intern 2026",
+    "location": "Sterling Heights, Michigan, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125423BR/Quality-Intern-2026",
+    "date_found": "2026-07-24",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Software Engineering Intern Embedded Systems",
+    "location": "Huntsville, Alabama, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
+    "date_found": "2026-07-24",
     "disciplines": [],
     "category": "software"
   },
@@ -1281,15 +1290,6 @@
     "category": "non-engineering"
   },
   {
-    "company": "Leidos",
-    "title": "Signal Processing Technical Intern",
-    "location": "San Diego, CA",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Signal-Processing-Technical-Intern_R-00187499",
-    "date_found": "2026-07-17",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Lockheed Martin",
     "title": "Program Planning Intern / Goleta, CA",
     "location": "Goleta, California",
@@ -1399,15 +1399,6 @@
   },
   {
     "company": "Michael Baker International",
-    "title": "Co-op, Construction Services",
-    "location": "Philadelphia, PA, United States",
-    "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309556",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Michael Baker International",
     "title": "GIS Intern",
     "location": "KS, United States",
     "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309371",
@@ -1468,6 +1459,15 @@
     "date_found": "2026-07-22",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Test Engineering",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Test-Engineering_R-26-18775",
+    "date_found": "2026-07-24",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Northrop Grumman",
@@ -1890,24 +1890,6 @@
     "date_found": "2026-07-23",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Peraton",
-    "title": "Contracts Administration Pipeline Intern And Entry Level Reston",
-    "location": "Virginia",
-    "url": "https://www.careers.peraton.com/jobs/contracts-administration-pipeline-intern-and-entry-level-reston-virginia-164063-jobs--cms-engineering--",
-    "date_found": "2026-05-09",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Peraton",
-    "title": "Generative Ai Engineering Intern Graduate Undefined Undefined",
-    "location": "",
-    "url": "https://www.careers.peraton.com/jobs/generative-ai-engineering-intern-graduate-undefined-undefined-167460-jobs--cms-engineering--",
-    "date_found": "2026-06-09",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "PsiQuantum",
