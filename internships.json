@@ -427,10 +427,19 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Systems Software Engineering Intern Embedded Systems",
-    "location": "Huntsville, Alabama, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
-    "date_found": "2026-07-24",
+    "title": "Software Engineering Intern I Summer 2027",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
+    "date_found": "2026-07-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern III Summer 2027",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
+    "date_found": "2026-07-26",
     "disciplines": [],
     "category": "software"
   },
@@ -773,7 +782,7 @@
   {
     "company": "GE Aerospace",
     "title": "Lynn Carpentry Trainee Co Op",
-    "location": "Lynn, Massachusetts, United States of America",
+    "location": "",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034333EXTERNALENGLOBAL/Lynn-Carpentry-Trainee-Co-Op",
     "date_found": "2026-07-15",
     "disciplines": [],
@@ -1048,6 +1057,15 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "HII",
+    "title": "Mission Assurance/COOP Support",
+    "location": "Fort Meade, MD, Maryland, United States",
+    "url": "https://jobs.hii-tsd.com/job/Fort-Meade%2C-MD-Mission-AssuranceCOOP-Support-Mary/1395247100/",
+    "date_found": "2026-07-26",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Hermeus",
@@ -1439,15 +1457,6 @@
     "location": "Buffalo, NY",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Test-Engineering_R-26-18775",
     "date_found": "2026-07-24",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Intern – Test & Evaluation Engineer",
-    "location": "9 Locations",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern---Test---Evaluation-Engineer_R10241581",
-    "date_found": "2026-07-22",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2468,8 +2477,71 @@
     "company": "Textron",
     "title": "Gear Cut Grind Machinist Intern Dsc 1St Shift",
     "location": "Fort Worth, TX",
+    "url": "https://careers.textron.com/fort-worth-tx/gear-cut-grind-machinist-intern-dsc-1st-shift/EF6A8CDF29A34AD898D0AEA85887715E/job/",
+    "date_found": "2026-07-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "Gear Cut Grind Machinist Intern Dsc 1St Shift",
+    "location": "Fort Worth, TX",
     "url": "https://careers.textron.com/fort-worth-tx/gear-cut-grind-machinist-intern-dsc-1st-shift/9D7A88C4FDE0480791E3DC2ACD354BEB/job/",
     "date_found": "2026-06-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "Gear Cut Grind Machinist Intern Dsc 1St Shift",
+    "location": "Fort Worth, TX",
+    "url": "https://careers.textron.com/fort-worth-tx/gear-cut-grind-machinist-intern-dsc-1st-shift/ACD6962B52814E0DBB6FBB5F1BDA8050/job/",
+    "date_found": "2026-07-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "Gear Cut Grind Machinist Intern Dsc 3Rd Shift",
+    "location": "Fort Worth, TX",
+    "url": "https://careers.textron.com/fort-worth-tx/gear-cut-grind-machinist-intern-dsc-3rd-shift/4B026F1BEE7E4A4994E1B8653AECE534/job/",
+    "date_found": "2026-07-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "Grinder Production Machinist Intern 1St Shift Dsc",
+    "location": "Fort Worth, TX",
+    "url": "https://careers.textron.com/fort-worth-tx/grinder-production-machinist-intern-1st-shift-dsc/1EEAE7212D03411EA46684E44080C8C9/job/",
+    "date_found": "2026-07-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "Grinder Production Machinist Intern 1St Shift Dsc",
+    "location": "Fort Worth, TX",
+    "url": "https://careers.textron.com/fort-worth-tx/grinder-production-machinist-intern-1st-shift-dsc/66F59BAB59054A319459D74BE4D7FFFA/job/",
+    "date_found": "2026-07-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "Grinder Production Machinist Intern 3Rd Shift Dsc",
+    "location": "Fort Worth, TX",
+    "url": "https://careers.textron.com/fort-worth-tx/grinder-production-machinist-intern-3rd-shift-dsc/11EDD5E5F2524558A903A5E9D097A9D3/job/",
+    "date_found": "2026-07-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "Grinder Production Machinist Intern 3Rd Shift Dsc",
+    "location": "Fort Worth, TX",
+    "url": "https://careers.textron.com/fort-worth-tx/grinder-production-machinist-intern-3rd-shift-dsc/4F9B0E2FD0494D5CA9451522B83D00D3/job/",
+    "date_found": "2026-07-26",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2488,6 +2560,15 @@
     "location": "Muskegon, MI",
     "url": "https://careers.textron.com/muskegon-mi/metallurgy-co-op-muskegon-mi/3484DFB6DAD4443B8AF96D30763486E8/job/",
     "date_found": "2026-05-17",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "Turning Mach Opr Machinist Intern Dsc 1St Shift",
+    "location": "Fort Worth, TX",
+    "url": "https://careers.textron.com/fort-worth-tx/turning-mach-opr-machinist-intern-dsc-1st-shift/046F6F930CCE47369BF1CE4EC2898CEB/job/",
+    "date_found": "2026-07-26",
     "disciplines": [],
     "category": "engineering"
   },
