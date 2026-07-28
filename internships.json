@@ -454,28 +454,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern I Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
-    "date_found": "2026-07-26",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Software Engineering Intern III Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-26",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Systems Software Engineering Intern Embedded Systems",
-    "location": "Huntsville, Alabama, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
-    "date_found": "2026-07-27",
     "disciplines": [],
     "category": "software"
   },
@@ -503,15 +485,6 @@
     "location": "COLUMBUS, Ohio",
     "url": "https://jobs.battelle.org/us/en/job/76343/Reverse-Engineer-Vulnerability-Research-Co-op-Spring-2027",
     "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Manufacturing Engineer I - Intern Conversion",
-    "location": "Space Coast, FL",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Manufacturing-Engineer-I---Intern-Conversion_R68675",
-    "date_found": "2026-07-22",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1437,15 +1410,6 @@
     "location": "KS, United States",
     "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309371",
     "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Michael Baker International",
-    "title": "Highway Engineering Intern",
-    "location": "Moon Township, PA, United States",
-    "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309495",
-    "date_found": "2026-07-23",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2380,15 +2344,6 @@
     "category": "software"
   },
   {
-    "company": "Teledyne FLIR",
-    "title": "Mechanical Engineering Intern",
-    "location": "US - Torrance, CA",
-    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Torrance-CA/Mechanical-Engineering-Intern_REQ35340",
-    "date_found": "2026-07-13",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Teledyne Technologies",
     "title": "Computer Engineering Intern",
     "location": "Lincoln, NE",
@@ -2854,6 +2809,17 @@
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7772351003",
     "date_found": "2026-07-14",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Mechanical Engineer Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7734831003",
+    "date_found": "2026-07-28",
     "disciplines": [
       "2026 Internships"
     ],
