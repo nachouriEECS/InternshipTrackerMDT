@@ -454,10 +454,28 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Software Engineering Intern I Summer 2027",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
+    "date_found": "2026-07-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Software Engineering Intern III Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Software Engineering Intern Embedded Systems",
+    "location": "Huntsville, Alabama, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
+    "date_found": "2026-07-28",
     "disciplines": [],
     "category": "software"
   },
@@ -688,10 +706,10 @@
   },
   {
     "company": "Draper",
-    "title": "Laboratory Research Co-Op",
+    "title": "Electronics & Embedded Systems Intern (Summer 2027)",
     "location": "Cambridge, MA",
-    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002599",
-    "date_found": "2026-07-09",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735",
+    "date_found": "2026-07-28",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2014,8 +2032,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -2025,8 +2043,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
