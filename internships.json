@@ -43,10 +43,19 @@
   },
   {
     "company": "Airbus",
-    "title": "Short-term Internship - Finance Services & Transformation",
-    "location": "Herndon Area, VA",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Short-term-Internship---Finance-Services---Transformation_JR10431700",
-    "date_found": "2026-07-23",
+    "title": "Long-term Internship - Health & Safety",
+    "location": "Grand Prairie, TX",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Health---Safety_JR10432610",
+    "date_found": "2026-07-29",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Airbus",
+    "title": "Long-term Internship - Strategic Procurement",
+    "location": "2 Locations",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Strategic-Procurement_JR10432606",
+    "date_found": "2026-07-29",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -400,6 +409,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "2027 Spring and Summer Mechanical Engineering Coop",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+    "date_found": "2026-07-29",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
@@ -449,6 +467,15 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software or Computer Engineering Co op 2026",
+    "location": "Sterling Heights, Michigan, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127379BR/Software-or-Computer-Engineering-Co-op-2026",
+    "date_found": "2026-07-29",
     "disciplines": [],
     "category": "software"
   },
@@ -737,6 +764,15 @@
     "location": "Lynn, Massachusetts, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034069EXTERNALENGLOBAL/Lynn-Welder-Trainee-Co-Op",
     "date_found": "2026-07-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "General Dynamics IT",
+    "title": "Systems Engineer Intern",
+    "location": "USA NY Albany",
+    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-NY-Albany/Systems-Engineer-Intern_RQ225289-1",
+    "date_found": "2026-07-29",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1211,6 +1247,33 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "KBR",
+    "title": "Intern Distributed Spacecraft Autonomy",
+    "location": "Mountain View, California",
+    "url": "https://careers.kbr.com/us/en/job/R2127411/Intern-Distributed-Spacecraft-Autonomy",
+    "date_found": "2026-07-29",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Leidos",
+    "title": "Application Developer Intern",
+    "location": "Indianapolis, IN",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1",
+    "date_found": "2026-07-29",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Leidos",
+    "title": "Data Science Intern",
+    "location": "San Diego, CA",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Data-Science-Intern_R-00188405",
+    "date_found": "2026-07-29",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "Leidos",
@@ -1847,28 +1910,10 @@
   },
   {
     "company": "RTX",
-    "title": "Stage - Automne - Relations avec les employés et de travail / Internship - Fall - Employee & Labor Relations Internship",
-    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne---Relations-avec-les-employs-et-de-travail---Internship---Fall---Employee---Labor-Relations-Internship_01850129",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
     "title": "Stress Intern - 1st Shift - On site - Aeroestructuras",
     "location": "MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238, Desarrollo Industrial Colorado",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Stress-Intern---1st-Shift---On-site---Aeroestructuras_01842613-1",
     "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
-    "title": "Structural Engineering Co-op",
-    "location": "CA-ON-OAKVILLE-1400 ~ 1400 S Service Rd W ~ 1400 SERVICE",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-ON-OAKVILLE-1400--1400-S-Service-Rd-W--1400-SERVICE/Structural-Engineering-Co-op_01859948",
-    "date_found": "2026-07-29",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1928,8 +1973,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
@@ -1939,8 +1984,8 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7733795003",
     "date_found": "2026-07-09",
     "disciplines": [
       "122 OS - Supply Chain"
