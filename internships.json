@@ -400,15 +400,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Spring and Summer Mechanical Engineering Coop",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
-    "date_found": "2026-07-27",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
@@ -421,15 +412,6 @@
     "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
-    "date_found": "2026-07-28",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Microelectronics Engineering Intern III Summer 2027 Onsite",
-    "location": "Manassas, Virginia, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127857BR/Microelectronics-Engineering-Intern-III-Summer-2027-Onsite",
     "date_found": "2026-07-28",
     "disciplines": [],
     "category": "engineering"
@@ -514,15 +496,6 @@
     "date_found": "2026-07-21",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Boeing",
-    "title": "Human Resources Generalist Intern- 12 Months Placement",
-    "location": "5 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Human-Resources-Generalist-Intern--12-Months-Placement_JR2026517833-1",
-    "date_found": "2026-07-08",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "Crane Aerospace & Electronics",
@@ -729,61 +702,6 @@
     "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002730",
     "date_found": "2026-07-27",
     "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Exowatt",
-    "title": "AI Marketing Intern",
-    "location": "Miami, FL",
-    "url": "https://jobs.lever.co/exowatt/2f9e8254-401b-4f77-adcb-c4f01734c8fb",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "Exowatt",
-    "title": "Business Development Intern",
-    "location": "Miami, FL",
-    "url": "https://jobs.lever.co/exowatt/1e0d4de7-2917-45be-8166-6181bd32be2b",
-    "date_found": "2026-07-10",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Exowatt",
-    "title": "Supply Chain & Manufacturing Intern - Contract Manufacturing Vendor",
-    "location": "Austin, TX",
-    "url": "https://jobs.lever.co/exowatt/06c17743-04c7-48ad-94b0-85b6116bc15f",
-    "date_found": "2026-07-14",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Exowatt",
-    "title": "Supply Chain & Manufacturing Intern - Facilities & EHS",
-    "location": "Austin, TX",
-    "url": "https://jobs.lever.co/exowatt/b3882244-901c-4e40-842c-1b0a6ae8ff16",
-    "date_found": "2026-07-10",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Exowatt",
-    "title": "Supply Chain & Manufacturing Intern - Manufacturing",
-    "location": "Austin, TX",
-    "url": "https://jobs.lever.co/exowatt/030247a1-1067-4a59-9018-372962710652",
-    "date_found": "2026-07-14",
-    "disciplines": [
-      "Internships"
-    ],
     "category": "engineering"
   },
   {
@@ -1067,15 +985,6 @@
   },
   {
     "company": "GlobalFoundries",
-    "title": "Internship – CMOS Technology Development",
-    "location": "DEU - Saxony - Dresden",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/DEU---Saxony---Dresden/Internship---CMOS-Technology-Development_JR-2602497",
-    "date_found": "2026-07-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "GlobalFoundries",
     "title": "Sales Specialist Intern, Japan",
     "location": "JPN - Kanagawa-Ken - Yokohama-shi",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/JPN---Kanagawa-Ken---Yokohama-shi/Internship---Field-Application-Engineer--FAE-_JR-2502664",
@@ -1202,17 +1111,6 @@
   },
   {
     "company": "Hermeus",
-    "title": "Software Engineering Intern (Modeling & Simulation) - Fall 2026",
-    "location": "Los Angeles, CA",
-    "url": "https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d",
-    "date_found": "2026-05-09",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "Hermeus",
     "title": "Subsystem Test Engineering Intern - Fall 2026",
     "location": "Atlanta, GA",
     "url": "https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e",
@@ -1313,6 +1211,24 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "KBR",
+    "title": "Intern Distributed Spacecraft Autonomy",
+    "location": "Mountain View, California",
+    "url": "https://careers.kbr.com/us/en/job/R2127411/Intern-Distributed-Spacecraft-Autonomy",
+    "date_found": "2026-07-29",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Leidos",
+    "title": "Software Developer Intern",
+    "location": "Annapolis Junction, MD",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311",
+    "date_found": "2026-07-29",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "Lockheed Martin",
@@ -1466,15 +1382,6 @@
     "date_found": "2026-07-24",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Moog",
-    "title": "Intern, Software Engineering",
-    "location": "Buffalo, NY",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
-    "date_found": "2026-07-22",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "Moog",
@@ -1984,17 +1891,6 @@
       "Engineering"
     ],
     "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Indirect Procurement Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7726463003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "2652 USA Supply Chain"
-    ],
-    "category": "non-engineering"
   },
   {
     "company": "Rocket Lab",
@@ -2860,6 +2756,17 @@
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7761650003",
     "date_found": "2026-07-13",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Quality & Manufacturing Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7743224003",
+    "date_found": "2026-07-29",
     "disciplines": [
       "2026 Internships"
     ],
