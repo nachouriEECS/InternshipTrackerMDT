@@ -1,16 +1,5 @@
 [
   {
-    "company": "AEVEX Aerospace",
-    "title": "Robotics Engineering Co-op",
-    "location": "Tampa, Florida, United States",
-    "url": "https://job-boards.greenhouse.io/aevexaerospace/jobs/5255526008",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Internships "
-    ],
-    "category": "engineering"
-  },
-  {
     "company": "ATI",
     "title": "Finance Intern",
     "location": "Albany,Oregon,United States",
@@ -409,15 +398,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Spring and Summer Mechanical Engineering Coop",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
-    "date_found": "2026-07-29",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
@@ -496,15 +476,6 @@
     "date_found": "2026-06-25",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "BWX Technologies",
-    "title": "Quality Engineer Intern/Co-Op",
-    "location": "Euclid, OH, US",
-    "url": "https://careers.bwxt.com/job/Euclid-Quality-Engineer-InternCo-Op-OH/1411869200/",
-    "date_found": "2026-07-23",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "Battelle",
@@ -1036,15 +1007,6 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "Talent Acquisition (Campus Recruitment) Intern (July to December 2026)",
-    "location": "SGP - Woodlands",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Internship---Talent-Acquisition_JR-2503170",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "Hermeus",
@@ -1901,6 +1863,15 @@
   },
   {
     "company": "RTX",
+    "title": "Intern, Project Engrg",
+    "location": "NL-UT-HOUTEN-001 ~ 1-3 Elzenkade ~ ELZENKADE",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/NL-UT-HOUTEN-001--1-3-Elzenkade--ELZENKADE/Intern--Project-Engrg_01863200",
+    "date_found": "2026-07-30",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Paid Contracts Internship - Polska",
     "location": "PL-14-WARSZAWA-049 ~ Ul Moktowska 49 ~ MOKTOWSKA",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/PL-14-WARSZAWA-049--Ul-Moktowska-49--MOKTOWSKA/Paid-Contracts-Internship---Polska_01843929",
@@ -2734,17 +2705,6 @@
     "title": "Global Supply Management Intern (Fall 2026)",
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7772346003",
-    "date_found": "2026-07-14",
-    "disciplines": [
-      "2026 Internships"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Zipline",
-    "title": "Holiday Marketing Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7764876003",
     "date_found": "2026-07-14",
     "disciplines": [
       "2026 Internships"
