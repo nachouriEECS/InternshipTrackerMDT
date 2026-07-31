@@ -211,17 +211,6 @@
   },
   {
     "company": "Astranis",
-    "title": "FPGA Intern (Fall 2026)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4677338006",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Payload Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Astranis",
     "title": "Flight Software Intern (Fall 2026)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4619283006",
@@ -470,15 +459,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software or Computer Engineering Co op 2026",
-    "location": "Sterling Heights, Michigan, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127379BR/Software-or-Computer-Engineering-Co-op-2026",
-    "date_found": "2026-07-29",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Systems Software Engineering Intern Embedded Systems",
     "location": "Huntsville, Alabama, United States",
     "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
@@ -681,15 +661,6 @@
     "location": "Cambridge, MA",
     "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Co-op_JR002688",
     "date_found": "2026-07-22",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Draper",
-    "title": "Electronics & Embedded Systems Intern (Summer 2027)",
-    "location": "Cambridge, MA",
-    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735",
-    "date_found": "2026-07-28",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1001,6 +972,15 @@
   },
   {
     "company": "GlobalFoundries",
+    "title": "Robotics and Automation Engineering Intern",
+    "location": "Essex Junction",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Robotics-and-Automation-Engineering-Intern_JR-2603574",
+    "date_found": "2026-07-31",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
     "title": "Sales Specialist Intern, Japan",
     "location": "JPN - Kanagawa-Ken - Yokohama-shi",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/JPN---Kanagawa-Ken---Yokohama-shi/Internship---Field-Application-Engineer--FAE-_JR-2502664",
@@ -1176,45 +1156,9 @@
   },
   {
     "company": "Idaho National Laboratory",
-    "title": "Graduate Internship – Operations and Strategy Management",
-    "location": "Idaho Falls, ID, United States",
-    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/1103",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Idaho National Laboratory",
-    "title": "Graduate Research Assistant Internship – Science and Technology",
-    "location": "Idaho Falls, ID, United States",
-    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/1098",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Idaho National Laboratory",
     "title": "METALLIC Internship Fall/Spring",
     "location": "Idaho Falls, ID, United States",
     "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/1725",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Idaho National Laboratory",
-    "title": "Undergraduate Internship - Operations and Strategy Management",
-    "location": "Idaho Falls, ID, United States",
-    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/1102",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Idaho National Laboratory",
-    "title": "Undergraduate Research Assistant Internship - Science and Technology",
-    "location": "Idaho Falls, ID, United States",
-    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/1014",
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
@@ -1369,6 +1313,15 @@
     "location": "KS, United States",
     "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309371",
     "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Engineering",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Engineering_R-26-16991",
+    "date_found": "2026-07-31",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2291,15 +2244,6 @@
   },
   {
     "company": "Teledyne FLIR",
-    "title": "Cost Accounting Intern",
-    "location": "US - Chestnut Ridge, NY",
-    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Cost-Accounting-Intern_REQ35565",
-    "date_found": "2026-07-21",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Teledyne FLIR",
     "title": "IT Technical Specialist Intern",
     "location": "US - Huntsville, AL",
     "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/IT-Technical-Specialist-Intern_REQ35332",
@@ -2612,17 +2556,6 @@
       "2026 Internships"
     ],
     "category": "non-engineering"
-  },
-  {
-    "company": "Zipline",
-    "title": "Electrical Project Engineer Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7763835003",
-    "date_found": "2026-07-12",
-    "disciplines": [
-      "2026 Internships"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Zipline",
