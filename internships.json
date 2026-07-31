@@ -396,15 +396,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Spring and Summer Mechanical Engineering Coop",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
-    "date_found": "2026-07-30",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
@@ -1273,15 +1264,6 @@
   },
   {
     "company": "MIT Lincoln Laboratory",
-    "title": "Group 11-10 | Co-Op | Cyber Security | Fall 2026",
-    "location": "Lexington, MA, US",
-    "url": "https://careers.ll.mit.edu/job/Lexington-Group-11-10-Co-Op-Cyber-Security-Fall-2026-MA-02420/1374211700/",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "MIT Lincoln Laboratory",
     "title": "Group 2-24 | Co-Op | Biomedical & Physiological Signal Processing & Machine Learning | Jun-Dec 2026",
     "location": "Lexington, MA, US",
     "url": "https://careers.ll.mit.edu/job/Lexington-Group-2-24-Co-Op-Biomedical-&-Physiological-Signal-Processing-&-Machine-Learning-Jun-Dec-2026-MA-02420/1380080200/",
@@ -1526,6 +1508,50 @@
       "Engineering"
     ],
     "category": "software"
+  },
+  {
+    "company": "Palantir",
+    "title": "Product Designer, Internship",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6",
+    "date_found": "2026-07-31",
+    "disciplines": [
+      "Design"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Palantir",
+    "title": "Product Designer, Internship - US Government",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d",
+    "date_found": "2026-07-31",
+    "disciplines": [
+      "Design"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Palantir",
+    "title": "Product Designer, Internship - US Government",
+    "location": "Palo Alto, CA",
+    "url": "https://jobs.lever.co/palantir/9db71277-3a9a-481b-a2a3-25c3125b0e8a",
+    "date_found": "2026-07-31",
+    "disciplines": [
+      "Design"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Palantir",
+    "title": "Product Designer, Internship - US Government",
+    "location": "Washington, D.C.",
+    "url": "https://jobs.lever.co/palantir/fa060d94-f85d-4d02-be58-b81787fe57e5",
+    "date_found": "2026-07-31",
+    "disciplines": [
+      "Design"
+    ],
+    "category": "engineering"
   },
   {
     "company": "Palantir",
