@@ -738,15 +738,6 @@
   },
   {
     "company": "GlobalFoundries",
-    "title": "2H University Intern - Digital Manufacturing (AI & ML)",
-    "location": "SGP - Woodlands",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Digital-Manufacturing--AI---ML-_JR-2502767",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "GlobalFoundries",
     "title": "2H University Intern - Environmental & Sustainability",
     "location": "SGP - Woodlands",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Environmental---Sustainability_JR-2502696",
@@ -900,30 +891,12 @@
   },
   {
     "company": "GlobalFoundries",
-    "title": "HR Business Partner Internship",
-    "location": "SGP - Woodlands",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Internship---HR-Busienss-Partner_JR-2503169",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "GlobalFoundries",
     "title": "Human Resources Intern, Digital & AI (Summer 2026)",
     "location": "USA - Texas - Austin",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Human-Resources-Intern--HR-Shared-Services--Summer-2026-_JR-2503145",
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "Human Resources Intern, Talent Development",
-    "location": "SGP - Woodlands",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Internship---Talent-Development--HR-_JR-2503171",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "GlobalFoundries",
@@ -967,6 +940,15 @@
     "location": "DEU - Saxony - Dresden",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/DEU---Saxony---Dresden/Internship---Cross-Module-Digital-Manufacturing---Process-Optimization_JR-2602499",
     "date_found": "2026-07-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Position 2H University Intern - FR CMOS Device Engineering",
+    "location": "SGP - Woodlands",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Position-2H-University-Intern---FR-CMOS-Device-Engineering_JR-2502725",
+    "date_found": "2026-08-02",
     "disciplines": [],
     "category": "engineering"
   },
