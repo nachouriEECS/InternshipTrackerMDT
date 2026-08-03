@@ -387,10 +387,37 @@
   },
   {
     "company": "BAE Systems",
+    "title": "2027 Spring and Summer Mechanical Engineering Coop",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+    "date_found": "2026-08-03",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
     "date_found": "2026-07-27",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Intellectual Property Legal Intern IV Fall 2026 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127771BR/Intellectual-Property-Legal-Intern-IV-Fall-2026-Hybrid",
+    "date_found": "2026-08-03",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Mechanical Engineering Coop Spring Summer 2027 Onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127776BR/Mechanical-Engineering-Coop-Spring-Summer-2027-Onsite",
+    "date_found": "2026-08-03",
     "disciplines": [],
     "category": "engineering"
   },
@@ -470,7 +497,7 @@
     "company": "Boeing",
     "title": "Boeing Summer 2027 Internship Program (Paid) - Program Management",
     "location": "USA - Arlington, VA",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Program-Management_JR2026519272-1",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Program-Management_JR2026521026-1",
     "date_found": "2026-08-03",
     "disciplines": [],
     "category": "non-engineering"
@@ -679,6 +706,15 @@
     "location": "Cambridge, MA",
     "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002730",
     "date_found": "2026-07-27",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Draper",
+    "title": "Space GNC Co-Op (Fall 2026)",
+    "location": "Houston, TX",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Houston-TX/Space-GNC-Co-Op--Fall-2026-_JR002721",
+    "date_found": "2026-08-03",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1135,15 +1171,6 @@
     "category": "engineering"
   },
   {
-    "company": "Lyten",
-    "title": "Intern - Industrial Engineer",
-    "location": "San Leandro, California",
-    "url": "https://lyten.wd503.myworkdayjobs.com/Lyten_External_Career_Site/job/San-Leandro-California/Intern---Industrial-Engineer_JR100630-1",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "MIT Lincoln Laboratory",
     "title": "Airborne Radar Systems and Techniques Intern (Summer 2027) - Group 105",
     "location": "Lexington, MA, US",
@@ -1241,6 +1268,15 @@
     "date_found": "2026-07-31",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, HR Employee Resource Group",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--HR-Employee-Resource-Group_R-26-19201",
+    "date_found": "2026-08-03",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "Moog",
@@ -1882,17 +1918,6 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Mission Operation Intern Fall 2026",
-    "location": "Littleton, CO",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7735978003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "4015 USA Space Systems"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
     "title": "Supply Chain Intern Fall 2026",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
@@ -2072,50 +2097,6 @@
   },
   {
     "company": "SpaceX",
-    "title": "Fall 2026 Business Operations Internship/Co-op",
-    "location": "Flexible - Any SpaceX Site",
-    "url": "https://job-boards.greenhouse.io/spacex/jobs/8403205002?gh_jid=8403205002",
-    "date_found": "2026-05-17",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "SpaceX",
-    "title": "Fall 2026 Engineering Internship/Co-op",
-    "location": "Flexible - Any SpaceX Site",
-    "url": "https://job-boards.greenhouse.io/spacex/jobs/8403206002?gh_jid=8403206002",
-    "date_found": "2026-05-17",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "SpaceX",
-    "title": "Fall 2026 Graduate Engineer Internship/Co-op",
-    "location": "Flexible - Any SpaceX Site",
-    "url": "https://job-boards.greenhouse.io/spacex/jobs/8403223002?gh_jid=8403223002",
-    "date_found": "2026-05-17",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "SpaceX",
-    "title": "Fall 2026 Software Engineering Internship/Co-op",
-    "location": "Flexible - Any SpaceX Site",
-    "url": "https://job-boards.greenhouse.io/spacex/jobs/8403219002?gh_jid=8403219002",
-    "date_found": "2026-05-17",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "SpaceX",
     "title": "Recruiting Coordinator, Intern Program- Temporary",
     "location": "Hawthorne, CA",
     "url": "https://job-boards.greenhouse.io/spacex/jobs/8647830002?gh_jid=8647830002",
@@ -2124,6 +2105,138 @@
       "Recruiting"
     ],
     "category": "non-engineering"
+  },
+  {
+    "company": "SpaceX",
+    "title": "Spring 2027 Business Operations Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "SpaceX",
+    "title": "Spring 2027 Civil/Structural Engineering Internship",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "SpaceX",
+    "title": "Spring 2027 Engineering Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "SpaceX",
+    "title": "Spring 2027 Graduate Engineer Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "SpaceX",
+    "title": "Spring 2027 Silicon Engineering Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "SpaceX",
+    "title": "Spring 2027 Software Engineering Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "SpaceX",
+    "title": "Summer 2027 Business Operations Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "SpaceX",
+    "title": "Summer 2027 Civil/Structural Engineering Internship",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "SpaceX",
+    "title": "Summer 2027 Engineering Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "SpaceX",
+    "title": "Summer 2027 Graduate Engineer Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8621753002?gh_jid=8621753002",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "SpaceX",
+    "title": "Summer 2027 Silicon Engineering Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "SpaceX",
+    "title": "Summer 2027 Software Engineering Internship/Co-op",
+    "location": "Flexible - Any SpaceX Site",
+    "url": "https://job-boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "software"
   },
   {
     "company": "TTM Technologies",
@@ -2599,6 +2712,28 @@
   },
   {
     "company": "Zipline",
+    "title": "Quality & Manufacturing Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7824311003",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Quality & Manufacturing Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7824316003",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
     "title": "Software Engineer Intern (Fall 2026)",
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7787509003",
@@ -2629,5 +2764,16 @@
       "2026 Internships"
     ],
     "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Talent and Recruiting Intern (Fall 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7824387003",
+    "date_found": "2026-08-03",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "non-engineering"
   }
 ]
