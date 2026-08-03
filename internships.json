@@ -69,15 +69,6 @@
     "category": "engineering"
   },
   {
-    "company": "Amentum",
-    "title": "Intern Digital And Logic Design Engineer Fall Intern Huntsville",
-    "location": "Alabama",
-    "url": "https://www.amentumcareers.com/jobs/intern-digital-and-logic-design-engineer-fall-intern-huntsville-alabama-united-states",
-    "date_found": "2026-07-30",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Anduril",
     "title": "2027 Electrical Engineer Intern",
     "location": "Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States",
@@ -476,6 +467,15 @@
     "category": "engineering"
   },
   {
+    "company": "Boeing",
+    "title": "Boeing Summer 2027 Internship Program (Paid) - Program Management",
+    "location": "USA - Arlington, VA",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Program-Management_JR2026519272-1",
+    "date_found": "2026-08-03",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
     "company": "Crane Aerospace & Electronics",
     "title": "Customer Service Representative  - Intern",
     "location": "Piqua, Ohio",
@@ -492,6 +492,15 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "Crane Aerospace & Electronics",
+    "title": "Manufacturing Intern",
+    "location": "Cincinnati, Ohio",
+    "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Manufacturing-Intern_JR102251",
+    "date_found": "2026-08-03",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Crane Aerospace & Electronics",
@@ -710,15 +719,6 @@
     "category": "engineering"
   },
   {
-    "company": "General Dynamics IT",
-    "title": "Systems Engineer Intern",
-    "location": "USA NY Albany",
-    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-NY-Albany/Systems-Engineer-Intern_RQ225289-1",
-    "date_found": "2026-07-29",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "GlobalFoundries",
     "title": "2H University Intern - Clean Tech Engineering Module",
     "location": "SGP - Woodlands",
@@ -831,15 +831,6 @@
     "title": "Associate Engineering Intern, Tapeout Integration (Diploma)",
     "location": "SGP - Woodlands",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Associate-Engineering-Intern--Tapeout-Integration--Diploma-_JR-2502737",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "Associate Equipment Engineer Intern (Diploma)",
-    "location": "SGP - Woodlands",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Mechatronics-Engineering_JR-2502754",
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
@@ -1049,17 +1040,6 @@
   },
   {
     "company": "Hermeus",
-    "title": "Software Engineering Intern (HIL) - Fall 2026",
-    "location": "Atlanta, GA",
-    "url": "https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf",
-    "date_found": "2026-05-09",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "Hermeus",
     "title": "Software Engineering Intern (HMI) - Fall 2026",
     "location": "Atlanta, GA",
     "url": "https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67",
@@ -1119,15 +1099,6 @@
     "category": "engineering"
   },
   {
-    "company": "Howmet Aerospace",
-    "title": "Product Engineer Co-Op",
-    "location": "LaPorte, IN, United States",
-    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118645",
-    "date_found": "2026-07-24",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Idaho National Laboratory",
     "title": "METALLIC Internship Fall/Spring",
     "location": "Idaho Falls, ID, United States",
@@ -1150,24 +1121,6 @@
     "title": "Application Developer Intern",
     "location": "Indianapolis, IN",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1",
-    "date_found": "2026-07-29",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Leidos",
-    "title": "Data Science Intern",
-    "location": "San Diego, CA",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Data-Science-Intern_R-00188405",
-    "date_found": "2026-07-29",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Leidos",
-    "title": "Software Developer Intern",
-    "location": "Annapolis Junction, MD",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311",
     "date_found": "2026-07-29",
     "disciplines": [],
     "category": "software"
@@ -1300,24 +1253,6 @@
   },
   {
     "company": "Moog",
-    "title": "Intern, Manufacturing & Industrial Engineering",
-    "location": "Buffalo, NY",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Manufacturing---Industrial-Engineering_R-26-18643",
-    "date_found": "2026-07-27",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Moog",
-    "title": "Intern, Manufacturing & Industrial Engineering",
-    "location": "Buffalo, NY",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Manufacturing---Industrial-Engineering_R-26-18644",
-    "date_found": "2026-07-27",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Moog",
     "title": "Intern, Operations Transformation",
     "location": "Buffalo, NY",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Operations-Transformation_R-26-17566",
@@ -1331,6 +1266,15 @@
     "location": "Buffalo, NY",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Test-Engineering_R-26-18775",
     "date_found": "2026-07-24",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2026 Fall Co-op Manufacturing Engineering - Baltimore MD",
+    "location": "United States-Maryland-Linthicum",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2026-Fall-Co-op-Manufacturing-Engineering---Baltimore-MD_R10243390-1",
+    "date_found": "2026-08-03",
     "disciplines": [],
     "category": "engineering"
   },
