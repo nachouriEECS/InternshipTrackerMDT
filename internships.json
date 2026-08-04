@@ -176,17 +176,6 @@
   },
   {
     "company": "Astranis",
-    "title": "Communications/DSP Intern (Fall 2026)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4619726006",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Payload Internships"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Astranis",
     "title": "Electrical Integration Intern - Avionics (Fall 2026)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4679105006",
@@ -239,17 +228,6 @@
       "Orbital Mechanics & Mission Operations Internships"
     ],
     "category": "engineering"
-  },
-  {
-    "company": "Astranis",
-    "title": "Hardware Design Intern, Software Defined Radio Team (Fall 2026)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4691163006",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Payload Internships"
-    ],
-    "category": "software"
   },
   {
     "company": "Astranis",
@@ -394,15 +372,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Spring and Summer Mechanical Engineering Coop",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
-    "date_found": "2026-08-03",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Chemical Engineering Co Op Student Year Round",
     "location": "Kingsport, Tennessee, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127274BR/Chemical-Engineering-Co-Op-Student-Year-Round",
@@ -506,6 +475,15 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern III Summer 2027 Onsite",
+    "location": "San Diego, California, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128233BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
+    "date_found": "2026-08-04",
     "disciplines": [],
     "category": "software"
   },
@@ -951,6 +929,15 @@
     "category": "engineering"
   },
   {
+    "company": "General Dynamics IT",
+    "title": "Summer 2027 Software Developer Internship",
+    "location": "USA MD Annapolis Junction",
+    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
+    "date_found": "2026-08-04",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
     "company": "GlobalFoundries",
     "title": "2H University Intern - Clean Tech Engineering Module",
     "location": "SGP - Woodlands",
@@ -1276,15 +1263,6 @@
     "location": "Brea, CA, United States",
     "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118452",
     "date_found": "2026-07-14",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Howmet Aerospace",
-    "title": "Intern - Automation Engineer - Whitehall, MI (Summer 2026)",
-    "location": "Whitehall, MI, United States",
-    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116700",
-    "date_found": "2026-05-18",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2168,15 +2146,6 @@
   },
   {
     "company": "Roush (Defense)",
-    "title": "Mechanical Engineering Intern Fall 2026",
-    "location": "Livonia, MI",
-    "url": "https://jobs.roush.com/us/en/job/job_20260702132535_ZPX5FCJTBVRQ8GNO/Mechanical-Engineering-Intern-Fall-2026",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Roush (Defense)",
     "title": "Mechanical Engineering Internship Fall 2026",
     "location": "Allen Park, MI",
     "url": "https://jobs.roush.com/us/en/job/job_20260803170228_EP9PX0GOISJHKIWG/Mechanical-Engineering-Internship-Fall-2026",
@@ -2302,6 +2271,17 @@
       "Integration & Test"
     ],
     "category": "software"
+  },
+  {
+    "company": "Shield AI",
+    "title": "UAS Operator & Flight Operations Technician (R5438)",
+    "location": "Lviv",
+    "url": "https://jobs.lever.co/shieldai/70f28ba1-aac2-4911-8253-fe86e1e0242a",
+    "date_found": "2026-08-04",
+    "disciplines": [
+      "Integration & Test"
+    ],
+    "category": "engineering"
   },
   {
     "company": "SpaceX",
