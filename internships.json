@@ -480,21 +480,21 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern III Summer 2027 Onsite",
-    "location": "San Diego, California, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128233BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-08-04",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Software Intern III Summer 2027 Onsite",
     "location": "Totowa, New Jersey, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128043BR/Software-Intern-III-Summer-2027-Onsite",
     "date_found": "2026-08-04",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Supply Chain Intern II Summer 2027 Hybrid",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127992BR/Supply-Chain-Intern-II-Summer-2027-Hybrid",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "BAE Systems",
@@ -839,6 +839,15 @@
     "category": "non-engineering"
   },
   {
+    "company": "Curtiss-Wright",
+    "title": "Supply Chain Intern",
+    "location": "US-NY-East Farmingdale (TR)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Supply-Chain-Intern_JR13112-1",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
     "company": "DataRobot",
     "title": "Agentic AI Intern",
     "location": "4 Locations",
@@ -930,10 +939,28 @@
   },
   {
     "company": "General Dynamics IT",
+    "title": "GDIT 2027 Summer AI / ML Internship",
+    "location": "USA VA Falls Church - 3150 Fairview Park Dr (VAS095)",
+    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "General Dynamics IT",
     "title": "Summer 2027 Software Developer Internship",
     "location": "USA MD Annapolis Junction",
     "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
     "date_found": "2026-08-04",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "General Dynamics IT",
+    "title": "Summer 2027 Software Developer Internship",
+    "location": "USA MD Annapolis Junction",
+    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
+    "date_found": "2026-08-05",
     "disciplines": [],
     "category": "software"
   },
@@ -1451,15 +1478,6 @@
     "title": "Intern, Operations Transformation",
     "location": "Buffalo, NY",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Operations-Transformation_R-26-17566",
-    "date_found": "2026-07-24",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Moog",
-    "title": "Intern, Test Engineering",
-    "location": "Buffalo, NY",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Test-Engineering_R-26-18775",
     "date_found": "2026-07-24",
     "disciplines": [],
     "category": "engineering"
@@ -2035,6 +2053,15 @@
   },
   {
     "company": "RTX",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "location": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "RTX",
     "title": "Stress Intern - 1st Shift - On site - Aeroestructuras",
     "location": "MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238, Desarrollo Industrial Colorado",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Stress-Intern---1st-Shift---On-site---Aeroestructuras_01842613-1",
@@ -2105,17 +2132,6 @@
       "3350 USA People & Culture"
     ],
     "category": "non-engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Turbomachinery Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7736140003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "2244 Neutron - Propulsion"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Roush (Defense)",
@@ -2628,17 +2644,6 @@
     "date_found": "2026-07-22",
     "disciplines": [
       "Avionics & Electrical Engineering"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Two Six Technologies",
-    "title": "China Subject Matter Expert Intern ",
-    "location": "Remote, USA",
-    "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "DA - IO"
     ],
     "category": "engineering"
   },
