@@ -142,6 +142,15 @@
     "category": "engineering"
   },
   {
+    "company": "Arconic",
+    "title": "Associate Engineer - Intern Conversion",
+    "location": "Lancaster, PA, United States",
+    "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114085",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Astranis",
     "title": "Antenna Intern (Fall 2026)",
     "location": "San Francisco",
@@ -275,6 +284,17 @@
   },
   {
     "company": "Astranis",
+    "title": "PCB Layout Engineer Intern (Fall 2026)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4597409006",
+    "date_found": "2026-08-05",
+    "disciplines": [
+      "Avionics Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Astranis",
     "title": "Power Electronics Intern (Fall 2026)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4625923006",
@@ -372,6 +392,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "2027 Spring and Summer Mechanical Engineering Coop",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Chemical Engineering Co Op Student Year Round",
     "location": "Kingsport, Tennessee, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127274BR/Chemical-Engineering-Co-Op-Student-Year-Round",
@@ -403,6 +432,15 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
     "date_found": "2026-07-27",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Industrial Engineering Intern Fall 2026",
+    "location": "York, Pennsylvania, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126122BR/Industrial-Engineering-Intern-Fall-2026",
+    "date_found": "2026-08-05",
     "disciplines": [],
     "category": "engineering"
   },
@@ -444,6 +482,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "New Hampshire Systems Engineering Intern III Summer 2027 Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128227BR/New-Hampshire-Systems-Engineering-Intern-III-Summer-2027-Onsite",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Operations Engineering Industrial Mechanical Electrical Co op Spring Summer 2027",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/126541BR/Operations-Engineering-Industrial-Mechanical-Electrical-Co-op-Spring-Summer-2027",
@@ -480,6 +527,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Software Engineering Intern III Summer 2027 Onsite",
+    "location": "San Diego, California, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128233BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Software Intern III Summer 2027 Onsite",
     "location": "Totowa, New Jersey, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128043BR/Software-Intern-III-Summer-2027-Onsite",
@@ -495,6 +551,24 @@
     "date_found": "2026-08-05",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Engineering Intern II Summer 2027 NH Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128225BR/Systems-Engineering-Intern-II-Summer-2027-NH-Onsite",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Engineering Intern IV Summer 2027 NH Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128224BR/Systems-Engineering-Intern-IV-Summer-2027-NH-Onsite",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "BAE Systems",
@@ -522,15 +596,6 @@
     "date_found": "2026-07-21",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Boeing",
-    "title": "Boeing Business Internship Program (Paid) Summer 2027 - Human Resources",
-    "location": "13 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Business-Internship-Program--Paid--Summer-2027---Human-Resources_JR2026520801-1",
-    "date_found": "2026-08-03",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "Boeing",
@@ -876,6 +941,15 @@
   },
   {
     "company": "Draper",
+    "title": "Mechanical Engineering & System Packaging Intern",
+    "location": "2 Locations",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002767",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Draper",
     "title": "Metrology Co-Op",
     "location": "Cambridge, MA",
     "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Metrology-Co-Op_JR002717",
@@ -900,6 +974,15 @@
     "date_found": "2026-08-03",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Draper",
+    "title": "Threat Management Co-Op (Fall 2026)",
+    "location": "Reston, VA",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Reston-VA/Threat-Management-Co-Op--Fall-2026-_JR002768",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "GE Aerospace",
@@ -1348,6 +1431,15 @@
     "category": "engineering"
   },
   {
+    "company": "L3Harris",
+    "title": "Intern D, Software Engineer",
+    "location": "Chantilly, VA",
+    "url": "https://careers.l3harris.com/en/job/chantilly/intern-d-software-engineer/4832/98679994032",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
     "company": "Lockheed Martin",
     "title": "Program Planning Intern / Goleta, CA",
     "location": "Goleta, California",
@@ -1364,6 +1456,15 @@
     "date_found": "2026-07-20",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "MIT Lincoln Laboratory",
+    "title": "Bioanalytics Systems and Technologies IT CO OP (Aug - Dec 2026) - Group 02-25",
+    "location": "Lexington, MA, US",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Bioanalytics-Systems-and-Technologies-IT-CO-OP-%28Aug-Dec-2026%29-Group-02-25-MA-02420/1416309500/",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "MIT Lincoln Laboratory",
@@ -1443,6 +1544,24 @@
     "location": "KS, United States",
     "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309371",
     "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Michael Baker International",
+    "title": "Traffic Engineering Intern",
+    "location": "Santa Ana, CA, United States",
+    "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309636",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Electrical Engineering",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-18835",
+    "date_found": "2026-08-05",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2099,28 +2218,6 @@
       "2420 USA Manufacturing Engineering"
     ],
     "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Mechanical Engineering Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728969003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "4015 USA Space Systems"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Supply Chain Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "122 OS - Supply Chain"
-    ],
-    "category": "non-engineering"
   },
   {
     "company": "Rocket Lab",
@@ -2814,17 +2911,6 @@
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7787868003",
     "date_found": "2026-07-13",
-    "disciplines": [
-      "2026 Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Zipline",
-    "title": "Material Planning Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7772351003",
-    "date_found": "2026-07-14",
     "disciplines": [
       "2026 Internships"
     ],
