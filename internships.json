@@ -536,6 +536,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Software Engineering Intern IV Summer 2027 Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Software Intern III Summer 2027 Onsite",
     "location": "Totowa, New Jersey, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128043BR/Software-Intern-III-Summer-2027-Onsite",
@@ -596,6 +605,15 @@
     "date_found": "2026-07-21",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Boeing",
+    "title": "Boeing Business Internship Program (Paid) Summer 2027 - Human Resources",
+    "location": "13 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Business-Internship-Program--Paid--Summer-2027---Human-Resources_JR2026520801-1",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "Boeing",
@@ -932,6 +950,15 @@
   },
   {
     "company": "Draper",
+    "title": "Embedded Quality & Fielded Systems Intern",
+    "location": "Cambridge, MA",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Draper",
     "title": "Mechanical Engineering & System Packaging Intern",
     "location": "2 Locations",
     "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763",
@@ -953,15 +980,6 @@
     "title": "Metrology Co-Op",
     "location": "Cambridge, MA",
     "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Metrology-Co-Op_JR002717",
-    "date_found": "2026-07-27",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Draper",
-    "title": "Microsystems Integration Intern",
-    "location": "Cambridge, MA",
-    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002730",
     "date_found": "2026-07-27",
     "disciplines": [],
     "category": "engineering"
@@ -1422,24 +1440,6 @@
     "category": "engineering"
   },
   {
-    "company": "KBR",
-    "title": "Intern Distributed Spacecraft Autonomy",
-    "location": "Mountain View, California",
-    "url": "https://careers.kbr.com/us/en/job/R2127411/Intern-Distributed-Spacecraft-Autonomy",
-    "date_found": "2026-07-29",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "L3Harris",
-    "title": "Intern D, Software Engineer",
-    "location": "Chantilly, VA",
-    "url": "https://careers.l3harris.com/en/job/chantilly/intern-d-software-engineer/4832/98679994032",
-    "date_found": "2026-08-05",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
     "company": "Lockheed Martin",
     "title": "Program Planning Intern / Goleta, CA",
     "location": "Goleta, California",
@@ -1607,6 +1607,15 @@
     "location": "United States-Maryland-Linthicum",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2026-Fall-Co-op-Manufacturing-Engineering---Baltimore-MD_R10243390-1",
     "date_found": "2026-08-03",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2027 Intern Vehicle Engineering",
+    "location": "2 Locations",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Vehicle-Engineering_R10244105",
+    "date_found": "2026-08-05",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2124,6 +2133,15 @@
     "date_found": "2026-07-30",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Fall 2026, Intern/Coop: Machine Learning Researcher",
+    "location": "US-CT-EAST HARTFORD-RTRC K ~ 411 Silver Ln ~ RTRC K",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471",
+    "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "RTX",
