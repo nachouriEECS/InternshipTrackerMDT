@@ -196,6 +196,17 @@
   },
   {
     "company": "Astranis",
+    "title": "Electrical Reliability Intern (Fall 2026)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4681472006",
+    "date_found": "2026-07-09",
+    "disciplines": [
+      "Student Intern and Associate Engineering Program"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Astranis",
     "title": "Embedded Software Developer, Network/Payload Software Intern (Fall 2026)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4601135006",
@@ -328,17 +339,6 @@
   },
   {
     "company": "Astranis",
-    "title": "Reliability Design Intern (Fall 2026)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4681472006",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Power Electronics Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Astranis",
     "title": "Reliability Test Intern (Fall 2026)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4677973006",
@@ -464,15 +464,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Mechanical Engineering Coop Summer Fall 2027 Onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
-    "date_found": "2026-08-03",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
@@ -522,15 +513,6 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-26",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern III Summer 2027 Onsite",
-    "location": "San Diego, California, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128233BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-08-05",
     "disciplines": [],
     "category": "software"
   },
@@ -905,6 +887,15 @@
   },
   {
     "company": "Curtiss-Wright",
+    "title": "Intern, Manufacturing Engineering",
+    "location": "US-OH-Brecksville (Farris)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Brecksville-Farris/Intern--Manufacturing-Engineering_JR13116",
+    "date_found": "2026-08-06",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Curtiss-Wright",
     "title": "Purchasing & Supply Chain Intern (6-month assignment)",
     "location": "US-OH-Middleburg Hts. (Nuclear)",
     "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Middleburg-Hts-Nuclear/Purchasing---Supply-Chain-Intern--6-month-assignment-_JR12367-1",
@@ -1046,6 +1037,33 @@
     "date_found": "2026-08-05",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "General Dynamics IT",
+    "title": "Summer 2027 Jr. Research Analyst Internship   ",
+    "location": "Any Location / Remote",
+    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Summer-2027-Jr-Research-Analyst-Internship---_RQ225883",
+    "date_found": "2026-08-06",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "General Dynamics IT",
+    "title": "Summer 2027 Jr. Research Analyst Internship   ",
+    "location": "Any Location / Remote",
+    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Summer-2027-Jr-Research-Analyst-Internship---_RQ225881",
+    "date_found": "2026-08-06",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "General Dynamics IT",
+    "title": "Summer 2027 Jr. Research Analyst Internship   ",
+    "location": "Any Location / Remote",
+    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Summer-2027-Jr-Research-Analyst-Internship---_RQ225882",
+    "date_found": "2026-08-06",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "General Dynamics IT",
@@ -1202,19 +1220,19 @@
   },
   {
     "company": "GlobalFoundries",
-    "title": "Device Engineering Intern, ULP CMOS (Summer 2026)",
-    "location": "USA - New York - Malta",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Product-Business-Unit-Finance-Intern--Summer-2026-_JR-2502830",
-    "date_found": "2026-07-27",
+    "title": "Equipment Engineering Intern, Metrology (July to December)",
+    "location": "SGP - Woodlands",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Metrology-Equipment-Engineering_JR-2502751",
+    "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "GlobalFoundries",
-    "title": "Equipment Engineering Intern, Metrology (July to December)",
-    "location": "SGP - Woodlands",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Metrology-Equipment-Engineering_JR-2502751",
-    "date_found": "2026-07-09",
+    "title": "Factory Automation Engineering Intern (Fall 2026)",
+    "location": "USA - New York - Malta",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358",
+    "date_found": "2026-08-06",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1226,6 +1244,15 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "IP & Design Engineering Intern (Fall 2026)",
+    "location": "USA - Texas - Richardson",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/XMLNAME-1H-University-Intern---PVD-Equipment_JR-2502699",
+    "date_found": "2026-08-06",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "GlobalFoundries",
@@ -1395,6 +1422,15 @@
     "category": "engineering"
   },
   {
+    "company": "ICF",
+    "title": "Energy Market Intern- Power Team",
+    "location": "2 Locations",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Bangalore-India/Energy-Market-Intern--Power-Team_R2602686",
+    "date_found": "2026-08-06",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Idaho National Laboratory",
     "title": "Graduate Internship – Operations and Strategy Management",
     "location": "Idaho Falls, ID, United States",
@@ -1438,6 +1474,15 @@
     "date_found": "2026-08-04",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "KBR",
+    "title": "Software Intern",
+    "location": "Houston, Texas",
+    "url": "https://careers.kbr.com/us/en/job/R2127863/Software-Intern",
+    "date_found": "2026-08-06",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "Lockheed Martin",
@@ -1567,24 +1612,6 @@
   },
   {
     "company": "Moog",
-    "title": "Intern, Engineering",
-    "location": "Buffalo, NY",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Engineering_R-26-16991",
-    "date_found": "2026-07-31",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Moog",
-    "title": "Intern, HR Employee Resource Group",
-    "location": "Buffalo, NY",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--HR-Employee-Resource-Group_R-26-19201",
-    "date_found": "2026-08-03",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Moog",
     "title": "Intern, IT Computer Science - Data Analytics",
     "location": "Buffalo, NY",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
@@ -1593,22 +1620,22 @@
     "category": "software"
   },
   {
-    "company": "Moog",
-    "title": "Intern, Operations Transformation",
-    "location": "Buffalo, NY",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Operations-Transformation_R-26-17566",
-    "date_found": "2026-07-24",
+    "company": "Northrop Grumman",
+    "title": "2027 Intern Software Engineer",
+    "location": "United States-Florida-Melbourne",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
+    "date_found": "2026-08-06",
     "disciplines": [],
-    "category": "engineering"
+    "category": "software"
   },
   {
     "company": "Northrop Grumman",
-    "title": "2026 Fall Co-op Manufacturing Engineering - Baltimore MD",
-    "location": "United States-Maryland-Linthicum",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2026-Fall-Co-op-Manufacturing-Engineering---Baltimore-MD_R10243390-1",
-    "date_found": "2026-08-03",
+    "title": "2027 Intern Software Engineer",
+    "location": "United States-Florida-Melbourne",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
+    "date_found": "2026-08-06",
     "disciplines": [],
-    "category": "engineering"
+    "category": "software"
   },
   {
     "company": "Northrop Grumman",
@@ -2069,17 +2096,6 @@
     "date_found": "2026-07-30",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "PsiQuantum",
-    "title": "Intern, Optical Packaging Process",
-    "location": "Milpitas, California, United States",
-    "url": "https://www.psiquantum.com/apply?gh_jid=7740496003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Engineering"
-    ],
-    "category": "engineering"
   },
   {
     "company": "PsiQuantum",
@@ -2900,17 +2916,6 @@
       "2026 Internships"
     ],
     "category": "non-engineering"
-  },
-  {
-    "company": "Zipline",
-    "title": "Flight Test Engineer Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7767622003",
-    "date_found": "2026-07-14",
-    "disciplines": [
-      "2026 Internships"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Zipline",
