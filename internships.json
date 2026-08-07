@@ -264,17 +264,6 @@
   },
   {
     "company": "Astranis",
-    "title": "Mission Engineering Intern (Fall 2026)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4628847006",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Orbital Mechanics & Mission Operations Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Astranis",
     "title": "Network Planning Sales Engineer Intern (Fall 2026)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4651856006",
@@ -383,15 +372,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Spring and Summer Mechanical Engineering Coop",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
-    "date_found": "2026-08-05",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Chemical Engineering Co Op Student Year Round",
     "location": "Kingsport, Tennessee, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127274BR/Chemical-Engineering-Co-Op-Student-Year-Round",
@@ -456,7 +436,7 @@
   {
     "company": "BAE Systems",
     "title": "Mechanical Engineering Coop Summer Fall 2027 Onsite",
-    "location": "",
+    "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
     "date_found": "2026-08-07",
     "disciplines": [],
@@ -527,10 +507,28 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Supply Chain Intern II Summer 2027 Hybrid",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127992BR/Supply-Chain-Intern-II-Summer-2027-Hybrid",
+    "date_found": "2026-08-07",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Systems Engineering Intern II Summer 2027 NH Onsite",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128225BR/Systems-Engineering-Intern-II-Summer-2027-NH-Onsite",
     "date_found": "2026-08-05",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Engineering Intern IV Summer 2027 NH Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128224BR/Systems-Engineering-Intern-IV-Summer-2027-NH-Onsite",
+    "date_found": "2026-08-07",
     "disciplines": [],
     "category": "engineering"
   },
@@ -546,7 +544,7 @@
   {
     "company": "Battelle",
     "title": "Reverse Engineer Vulnerability Research Co op Spring 2027",
-    "location": "COLUMBUS, Ohio",
+    "location": "Columbus, OH",
     "url": "https://jobs.battelle.org/us/en/job/76343/Reverse-Engineer-Vulnerability-Research-Co-op-Spring-2027",
     "date_found": "2026-07-09",
     "disciplines": [],
@@ -977,6 +975,15 @@
   },
   {
     "company": "General Dynamics IT",
+    "title": "2026/2027 Financial Analyst Associate (Intern)",
+    "location": "USA VA Chesapeake",
+    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Chesapeake/XMLNAME-2026-2027-Financial-Analyst-Associate--Intern-_RQ225820-2",
+    "date_found": "2026-08-07",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "General Dynamics IT",
     "title": "GDIT 2027 Summer AI / ML Internship",
     "location": "USA VA Falls Church - 3150 Fairview Park Dr (VAS095)",
     "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401",
@@ -1034,15 +1041,6 @@
     "title": "Summer 2027 Software Developer Internship",
     "location": "USA MD Annapolis Junction",
     "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1",
-    "date_found": "2026-08-07",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "General Dynamics IT",
-    "title": "Summer 2027 Summer Health Plan Data Operations Associate Internship ",
-    "location": "Any Location / Remote",
-    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Summer-2027-Summer-Health-Plan-Data-Operations-Associate-Internship-_RQ225959",
     "date_found": "2026-08-07",
     "disciplines": [],
     "category": "software"
@@ -1368,15 +1366,6 @@
     "category": "engineering"
   },
   {
-    "company": "Howmet Aerospace",
-    "title": "Engineering Intern",
-    "location": "Brea, CA, United States",
-    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118452",
-    "date_found": "2026-07-14",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "ICF",
     "title": "Energy Market Intern- Power Team",
     "location": "2 Locations",
@@ -1445,15 +1434,6 @@
     "location": "Houston, Texas",
     "url": "https://careers.kbr.com/us/en/job/R2127863/Software-Intern",
     "date_found": "2026-08-06",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Leidos",
-    "title": "Application Developer Intern",
-    "location": "Indianapolis, IN",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1",
-    "date_found": "2026-08-07",
     "disciplines": [],
     "category": "software"
   },
@@ -1591,6 +1571,15 @@
     "date_found": "2026-07-16",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Industrial Engineering",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319",
+    "date_found": "2026-08-07",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Northrop Grumman",
@@ -2806,6 +2795,61 @@
   },
   {
     "company": "Varda Space Industries",
+    "title": "Applications Engineering Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824822003",
+    "date_found": "2026-08-07",
+    "disciplines": [
+      "Internship"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Varda Space Industries",
+    "title": "Avionics Engineering Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824780003",
+    "date_found": "2026-08-07",
+    "disciplines": [
+      "Internship"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Varda Space Industries",
+    "title": "Biologics Formulation Research Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824834003",
+    "date_found": "2026-08-07",
+    "disciplines": [
+      "Internship"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Varda Space Industries",
+    "title": "Cybersecurity Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824766003",
+    "date_found": "2026-08-07",
+    "disciplines": [
+      "Internship"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "Varda Space Industries",
+    "title": "Environmental Health & Safety (EHS) Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824783003",
+    "date_found": "2026-08-07",
+    "disciplines": [
+      "Internship"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Varda Space Industries",
     "title": "Financial Analyst Internship - Fall 2026",
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7732506003",
@@ -2817,10 +2861,65 @@
   },
   {
     "company": "Varda Space Industries",
+    "title": "Flight Software Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824815003",
+    "date_found": "2026-08-07",
+    "disciplines": [
+      "Internship"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "Varda Space Industries",
+    "title": "Guidance, Navigation & Controls (GNC) Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824781003",
+    "date_found": "2026-08-07",
+    "disciplines": [
+      "Internship"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Varda Space Industries",
+    "title": "Manufacturing Engineering Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824767003",
+    "date_found": "2026-08-07",
+    "disciplines": [
+      "Internship"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Varda Space Industries",
     "title": "Mechanical Engineering Internship - Fall 2026",
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7670782003",
     "date_found": "2026-07-09",
+    "disciplines": [
+      "Internship"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Varda Space Industries",
+    "title": "Mechanisms & Payload Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824821003",
+    "date_found": "2026-08-07",
+    "disciplines": [
+      "Internship"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Varda Space Industries",
+    "title": "Propulsion Engineering Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824765003",
+    "date_found": "2026-08-07",
     "disciplines": [
       "Internship"
     ],
@@ -2836,6 +2935,50 @@
       "Internship"
     ],
     "category": "non-engineering"
+  },
+  {
+    "company": "Varda Space Industries",
+    "title": "Site Reliability Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824814003",
+    "date_found": "2026-08-07",
+    "disciplines": [
+      "Internship"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Varda Space Industries",
+    "title": "Structures Engineering Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824817003",
+    "date_found": "2026-08-07",
+    "disciplines": [
+      "Internship"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Varda Space Industries",
+    "title": "Supply Chain Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824827003",
+    "date_found": "2026-08-07",
+    "disciplines": [
+      "Internship"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Varda Space Industries",
+    "title": "Vehicle Integration & Test Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824772003",
+    "date_found": "2026-08-07",
+    "disciplines": [
+      "Internship"
+    ],
+    "category": "engineering"
   },
   {
     "company": "Yulista",
