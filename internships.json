@@ -456,7 +456,7 @@
   {
     "company": "BAE Systems",
     "title": "Mechanical Engineering Coop Summer Fall 2027 Onsite",
-    "location": "Cedar Rapids, Iowa, United States",
+    "location": "",
     "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
     "date_found": "2026-08-07",
     "disciplines": [],
@@ -518,28 +518,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern III Summer 2027 Onsite",
-    "location": "San Diego, California, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128233BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-08-07",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Software Engineering Intern IV Summer 2027 Onsite",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
     "date_found": "2026-08-05",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Intern III Summer 2027 Onsite",
-    "location": "Totowa, New Jersey, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128043BR/Software-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-08-04",
     "disciplines": [],
     "category": "software"
   },
@@ -2036,10 +2018,37 @@
   },
   {
     "company": "Parsons",
+    "title": "Bridge Engineering Intern - Summer 2027",
+    "location": "New York, New York",
+    "url": "https://jobs.parsons.com/jobs/bridge-engineering-intern-summer-2027-new-york-r-184234-jobs--internship-program--",
+    "date_found": "2026-08-07",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
+    "title": "CNO Development Intern/Co-op",
+    "location": "Baltimore, Maryland",
+    "url": "https://jobs.parsons.com/jobs/cno-development-intern-co-op-baltimore-r-184352-jobs--internship-program--",
+    "date_found": "2026-08-07",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
     "title": "Civil Engineering Co-Op - Fall 2026",
     "location": "Boston, Massachusetts",
     "url": "https://jobs.parsons.com/jobs/civil-engineering-co-op-fall-2026-boston-r-179491-jobs--internship-program--",
     "date_found": "2026-05-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
+    "title": "Civil Engineering Intern",
+    "location": "Pasadena, California",
+    "url": "https://jobs.parsons.com/jobs/civil-engineering-intern-pasadena-r-184307-jobs--internship-program--",
+    "date_found": "2026-08-07",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2549,6 +2558,15 @@
     "category": "software"
   },
   {
+    "company": "StandardAero",
+    "title": "Actuarial Internship",
+    "location": "Portland, OR",
+    "url": "https://standard.wd1.myworkdayjobs.com/Search/job/Portland-OR/Actuarial-Internship_REQ006847",
+    "date_found": "2026-08-07",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "TTM Technologies",
     "title": "Fall 2026 Product Engineering Co-Op",
     "location": "North Jackson, OH",
@@ -2916,17 +2934,6 @@
   },
   {
     "company": "Zipline",
-    "title": "Global Supply Management Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7772346003",
-    "date_found": "2026-07-14",
-    "disciplines": [
-      "2026 Internships"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Zipline",
     "title": "Maps Intern (Fall 2026)",
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7787868003",
@@ -2988,17 +2995,6 @@
     "date_found": "2026-08-03",
     "disciplines": [
       "2027 Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Zipline",
-    "title": "Supplier Industrialization Engineering Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7766424003",
-    "date_found": "2026-07-14",
-    "disciplines": [
-      "2026 Internships"
     ],
     "category": "engineering"
   },
