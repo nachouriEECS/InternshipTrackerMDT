@@ -372,15 +372,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Spring and Summer Mechanical Engineering Coop",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
-    "date_found": "2026-08-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Chemical Engineering Co Op Student Year Round",
     "location": "Kingsport, Tennessee, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127274BR/Chemical-Engineering-Co-Op-Student-Year-Round",
@@ -1082,33 +1073,6 @@
     "category": "non-engineering"
   },
   {
-    "company": "General Dynamics IT",
-    "title": "Summer 2027 Software Developer Internship",
-    "location": "USA MD Annapolis Junction",
-    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
-    "date_found": "2026-08-05",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "General Dynamics IT",
-    "title": "Summer 2027 Software Developer Internship",
-    "location": "USA MD Annapolis Junction",
-    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1",
-    "date_found": "2026-08-07",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "General Dynamics IT",
-    "title": "Summer 2027 Software Developer Internship",
-    "location": "USA MD Annapolis Junction",
-    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1",
-    "date_found": "2026-08-07",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
     "company": "GlobalFoundries",
     "title": "2H University Intern - Clean Tech Engineering Module",
     "location": "SGP - Woodlands",
@@ -1479,6 +1443,15 @@
     "location": "Idaho Falls, ID, United States",
     "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/1014",
     "date_found": "2026-08-04",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "KBR",
+    "title": "Mechanical Engineering Intern",
+    "location": "Las Cruces, New Mexico",
+    "url": "https://careers.kbr.com/us/en/job/R2127930/Mechanical-Engineering-Intern",
+    "date_found": "2026-08-09",
     "disciplines": [],
     "category": "engineering"
   },
