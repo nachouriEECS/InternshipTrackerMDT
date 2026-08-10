@@ -1448,15 +1448,6 @@
   },
   {
     "company": "KBR",
-    "title": "Mechanical Engineering Intern",
-    "location": "Las Cruces, New Mexico",
-    "url": "https://careers.kbr.com/us/en/job/R2127930/Mechanical-Engineering-Intern",
-    "date_found": "2026-08-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "KBR",
     "title": "Software Intern",
     "location": "Houston, Texas",
     "url": "https://careers.kbr.com/us/en/job/R2127863/Software-Intern",
@@ -1610,15 +1601,6 @@
   },
   {
     "company": "Moog",
-    "title": "Intern, IT Computer Science - Data Analytics",
-    "location": "Buffalo, NY",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
-    "date_found": "2026-07-16",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Moog",
     "title": "Intern, Industrial Engineering",
     "location": "Buffalo, NY",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319",
@@ -1634,15 +1616,6 @@
     "date_found": "2026-08-06",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Operations Manufacturing Engineering Intern",
-    "location": "United States-California-Palmdale",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
-    "date_found": "2026-08-07",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "Oshkosh",
@@ -2620,12 +2593,30 @@
   },
   {
     "company": "Teledyne FLIR",
+    "title": "Electrical Engineering Intern",
+    "location": "US - Miamisburg, OH",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Electrical-Engineering-Intern_REQ35563",
+    "date_found": "2026-08-10",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Teledyne FLIR",
     "title": "IT Technical Specialist Intern",
     "location": "US - Huntsville, AL",
     "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/IT-Technical-Specialist-Intern_REQ35332",
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "Teledyne FLIR",
+    "title": "Mechanical Engineering Intern",
+    "location": "US - Miamisburg, OH",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562",
+    "date_found": "2026-08-10",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Teledyne Technologies",
@@ -3021,17 +3012,6 @@
     "title": "Accounting Intern (Fall 2026)",
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7776209003",
-    "date_found": "2026-07-11",
-    "disciplines": [
-      "2026 Internships"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Zipline",
-    "title": "Communications Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7772003003",
     "date_found": "2026-07-11",
     "disciplines": [
       "2026 Internships"
