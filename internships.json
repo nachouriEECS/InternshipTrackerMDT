@@ -1,5 +1,14 @@
 [
   {
+    "company": "AAR Corp",
+    "title": "Marketing Intern",
+    "location": "Wood Dale, IL",
+    "url": "https://aarcorp.dejobs.org/wood-dale-il/marketing-intern/B527405E3F6F4B5F8B8ACB7C6CDBECB2/job/",
+    "date_found": "2026-08-10",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
     "company": "ASRC Federal",
     "title": "Computer Scientist Intern",
     "location": "Oklahoma City, OK",
@@ -431,6 +440,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Mechanical Engineering Coop Summer Fall 2027 Onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
+    "date_found": "2026-08-10",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
@@ -712,10 +730,19 @@
     "company": "Boeing",
     "title": "Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)",
     "location": "30 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026520979-1",
-    "date_found": "2026-08-03",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1",
+    "date_found": "2026-08-10",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "AI RAN Telecommunications Engineer Intern",
+    "location": "McLean, VA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415",
+    "date_found": "2026-08-10",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "Crane Aerospace & Electronics",
@@ -728,28 +755,10 @@
   },
   {
     "company": "Crane Aerospace & Electronics",
-    "title": "EHS Intern",
-    "location": "Cincinnati, Ohio",
-    "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/EHS-Intern_JR102020",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Crane Aerospace & Electronics",
     "title": "Manufacturing Intern",
     "location": "Cincinnati, Ohio",
     "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Manufacturing-Intern_JR102251",
     "date_found": "2026-08-03",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Crane Aerospace & Electronics",
-    "title": "Operations Intern",
-    "location": "Cincinnati, Ohio",
-    "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Operations-Intern_JR102037",
-    "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
   },
@@ -779,15 +788,6 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "Crane Aerospace & Electronics",
-    "title": "Sustaining Engineering Intern",
-    "location": "Cincinnati, Ohio",
-    "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Sustaining-Engineering-Intern_JR102022",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "Crane Aerospace & Electronics",
@@ -1435,15 +1435,6 @@
   },
   {
     "company": "KBR",
-    "title": "Mechanical Engineering Intern",
-    "location": "Las Cruces, New Mexico",
-    "url": "https://careers.kbr.com/us/en/job/R2127930/Mechanical-Engineering-Intern",
-    "date_found": "2026-08-10",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "KBR",
     "title": "Software Intern",
     "location": "Houston, Texas",
     "url": "https://careers.kbr.com/us/en/job/R2127863/Software-Intern",
@@ -1594,6 +1585,15 @@
     "date_found": "2026-08-07",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2027 Business Management Intern",
+    "location": "United States-California-Palmdale",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Business-Management-Intern_R10244870",
+    "date_found": "2026-08-10",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "Northrop Grumman",
@@ -2101,6 +2101,15 @@
   },
   {
     "company": "RTX",
+    "title": "Digital Finance - Co-op (Hybrid)",
+    "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Digital-Finance---Co-op--Hybrid-_01863764",
+    "date_found": "2026-08-10",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Intern, Field Svc",
     "location": "CO-DC-BOGOTA-9A26-CUST ~ Cl. 95 #9A 26 ~ CL 95 (External Site)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO-DC-BOGOTA-9A26-CUST--Cl-95-9A-26--CL-95-External-Site/Intern--Field-Svc_01802976",
@@ -2378,7 +2387,7 @@
   },
   {
     "company": "SpaceX",
-    "title": "Spring 2027 Civil/Structural Engineering Internship",
+    "title": "Spring 2027 Civil Engineering Internship",
     "location": "Flexible - Any SpaceX Site",
     "url": "https://job-boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002",
     "date_found": "2026-08-03",
@@ -2444,7 +2453,7 @@
   },
   {
     "company": "SpaceX",
-    "title": "Summer 2027 Civil/Structural Engineering Internship",
+    "title": "Summer 2027 Civil Engineering Internship",
     "location": "Flexible - Any SpaceX Site",
     "url": "https://job-boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002",
     "date_found": "2026-08-03",
@@ -3087,17 +3096,6 @@
     "date_found": "2026-08-03",
     "disciplines": [
       "2027 Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Zipline",
-    "title": "System Test Automation Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7786445003",
-    "date_found": "2026-07-13",
-    "disciplines": [
-      "2026 Internships"
     ],
     "category": "engineering"
   },
