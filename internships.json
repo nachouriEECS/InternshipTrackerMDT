@@ -58,15 +58,6 @@
     "category": "engineering"
   },
   {
-    "company": "Airbus",
-    "title": "Long-term Internship - Health & Safety",
-    "location": "Grand Prairie, TX",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Health---Safety_JR10432610",
-    "date_found": "2026-07-29",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Allen Control Systems",
     "title": "Manufacturing Intern",
     "location": "Austin, TX",
@@ -92,6 +83,15 @@
     "location": "Alabama",
     "url": "https://www.amentumcareers.com/jobs/intern-gn-c-fall-intern-huntsville-alabama-united-states",
     "date_found": "2026-08-10",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Amentum",
+    "title": "Intern Structural Optimization Design Graduate Intern Huntsville",
+    "location": "Alabama",
+    "url": "https://www.amentumcareers.com/jobs/intern-structural-optimization-design-graduate-intern-huntsville-alabama-united-states",
+    "date_found": "2026-08-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -440,15 +440,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Mechanical Engineering Coop Summer Fall 2027 Onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
-    "date_found": "2026-08-11",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
@@ -570,6 +561,132 @@
     "location": "COLUMBUS, Ohio",
     "url": "https://jobs.battelle.org/us/en/job/76343/Reverse-Engineer-Vulnerability-Research-Co-op-Spring-2027",
     "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Aerospace Software Apps Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Aerospace-Software-Apps-Engineer-I_R70306",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Aerospace Systems Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Aerospace-Systems-Engineer-I_R70266",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Electronics/Electrical Systems Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Electronics-Electrical-Systems-Engineer-I_R70292",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Guidance, Navigation & Control Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Guidance--Navigation---Control-Engineer-I_R70283",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Industrial Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Industrial-Engineer-I_R70310",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Manufacturing Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Manufacturing-Engineer-I_R70265",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Materials and Process Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Materials-and-Process-Engineer-I_R70281",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Mechanical Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Mechanical-Engineer-I_R70288",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Propulsion Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Propulsion-Engineer-I_R70261",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Quality Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Quality-Engineer-I_R70305",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Software Development Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Software-Development-Engineer-I_R70275",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Structural Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Structural-Engineer-I_R70304",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Test Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Test-Engineer-I_R70271",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Thermal Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Thermal-Engineer-I_R70301",
+    "date_found": "2026-08-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -740,6 +857,15 @@
     "title": "AI RAN Telecommunications Engineer Intern",
     "location": "McLean, VA",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "AI RAN Telecommunications Engineer Intern",
+    "location": "McLean, VA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
     "date_found": "2026-08-11",
     "disciplines": [],
     "category": "software"
@@ -2172,6 +2298,15 @@
     "category": "non-engineering"
   },
   {
+    "company": "RTX",
+    "title": "Stagiaire en Hygiene industrielle et Ergonomie / Internship in Industrial Hygiene and Ergonomics",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-en-Hygiene-industrielle-et-Ergonomie---Internship-in-Industrial-Hygiene-and-Ergonomics_01841734",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Redwire Space",
     "title": "Intern Space Software Engineering National Security Space Chantilly",
     "location": "Virginia",
@@ -2861,17 +2996,6 @@
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824767003",
     "date_found": "2026-08-07",
-    "disciplines": [
-      "Internship"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Varda Space Industries",
-    "title": "Mechanical Engineering Internship - Fall 2026",
-    "location": "El Segundo, California, United States",
-    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7670782003",
-    "date_found": "2026-07-09",
     "disciplines": [
       "Internship"
     ],
