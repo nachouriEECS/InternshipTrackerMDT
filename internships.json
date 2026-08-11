@@ -440,6 +440,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Mechanical Engineering Coop Summer Fall 2027 Onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
@@ -725,6 +734,15 @@
     "date_found": "2026-08-10",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "AI RAN Telecommunications Engineer Intern",
+    "location": "McLean, VA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "CACI International",
@@ -1025,7 +1043,7 @@
   },
   {
     "company": "General Dynamics IT",
-    "title": "Summer 2027 AI/Machine Learning Internship -DC Metro Area",
+    "title": "PTOC  AI/Machine Learning Internship -DC Metro Area",
     "location": "USA VA Falls Church",
     "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
     "date_found": "2026-08-07",
@@ -1434,6 +1452,15 @@
     "category": "software"
   },
   {
+    "company": "L3Harris",
+    "title": "Systems Engineering Intern",
+    "location": "Plano, TX",
+    "url": "https://careers.l3harris.com/en/job/plano/systems-engineering-intern/4832/99069057264",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Lockheed Martin",
     "title": "Program Planning Intern / Goleta, CA",
     "location": "Goleta, California",
@@ -1592,6 +1619,15 @@
     "location": "United States-California-Palmdale",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Business-Management-Intern_R10244870",
     "date_found": "2026-08-10",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2027 Intern Global Supply Chain",
+    "location": "United States-California-Palmdale",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Global-Supply-Chain_R10244591",
+    "date_found": "2026-08-11",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -2167,17 +2203,6 @@
     "category": "engineering"
   },
   {
-    "company": "Rocket Lab",
-    "title": "Talent Acquisition Intern Fall 2026",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7808420003",
-    "date_found": "2026-07-22",
-    "disciplines": [
-      "3350 USA People & Culture"
-    ],
-    "category": "non-engineering"
-  },
-  {
     "company": "Roush (Defense)",
     "title": "Automotive Laboratory Technician Co op Fall 2026",
     "location": "Livonia, MI",
@@ -2225,7 +2250,7 @@
   {
     "company": "Scale AI",
     "title": "AI Builder Intern",
-    "location": "San Francisco, CA; New York, NY",
+    "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
     "date_found": "2026-07-09",
     "disciplines": [
@@ -2535,6 +2560,15 @@
   },
   {
     "company": "Teledyne FLIR",
+    "title": "Cost Accounting Intern",
+    "location": "US - Chestnut Ridge, NY",
+    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Cost-Accounting-Intern_REQ35565",
+    "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Teledyne FLIR",
     "title": "Electrical Engineering Intern",
     "location": "US - Miamisburg, OH",
     "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Electrical-Engineering-Intern_REQ35563",
@@ -2801,17 +2835,6 @@
   },
   {
     "company": "Varda Space Industries",
-    "title": "Financial Analyst Internship - Fall 2026",
-    "location": "El Segundo, California, United States",
-    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7732506003",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Internship"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Varda Space Industries",
     "title": "Flight Software Internship - Spring 2027",
     "location": "El Segundo, California, United States",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824815003",
@@ -2951,17 +2974,6 @@
   },
   {
     "company": "Zipline",
-    "title": "Accounting Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7776209003",
-    "date_found": "2026-07-11",
-    "disciplines": [
-      "2026 Internships"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Zipline",
     "title": "Embedded Software Engineer Intern (Fall 2026)",
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7765240003",
@@ -2992,17 +3004,6 @@
       "2026 Internships"
     ],
     "category": "non-engineering"
-  },
-  {
-    "company": "Zipline",
-    "title": "Maps Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7787868003",
-    "date_found": "2026-07-13",
-    "disciplines": [
-      "2026 Internships"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Zipline",
