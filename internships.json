@@ -183,17 +183,6 @@
   },
   {
     "company": "Astranis",
-    "title": "Electrical Integration Intern - Avionics (Fall 2026)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4679105006",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Production & Manufacturing Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Astranis",
     "title": "Electrical Reliability Intern (Fall 2026)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4681472006",
@@ -359,15 +348,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Co Op Spring Summer or Summer Fall Electrical Engineer onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite",
-    "date_found": "2026-07-27",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "2027 Spring and Summer Mechanical Engineering Coop",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
@@ -389,15 +369,6 @@
     "title": "Electrical Engineering Coop Spring Summer 2027 Onsite",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127774BR/Electrical-Engineering-Coop-Spring-Summer-2027-Onsite",
-    "date_found": "2026-08-04",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
     "date_found": "2026-08-04",
     "disciplines": [],
     "category": "engineering"
@@ -440,6 +411,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Mechanical Engineering Coop Summer Fall 2027 Onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
+    "date_found": "2026-08-12",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
@@ -476,15 +456,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern I Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
-    "date_found": "2026-08-01",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Software Engineering Intern II Summer 2027 Onsite",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128054BR/Software-Engineering-Intern-II-Summer-2027-Onsite",
@@ -503,10 +474,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern IV Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
-    "date_found": "2026-08-05",
+    "title": "Software Engineering Intern III Summer 2027 Onsite",
+    "location": "San Diego, California, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128583BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
+    "date_found": "2026-08-12",
     "disciplines": [],
     "category": "software"
   },
@@ -687,15 +658,6 @@
     "location": "9 Locations",
     "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Thermal-Engineer-I_R70301",
     "date_found": "2026-08-11",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Intern Conversion - Engineering",
-    "location": "9 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Intern-Conversion---Engineering_R69865",
-    "date_found": "2026-08-10",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1016,6 +978,15 @@
   },
   {
     "company": "Curtiss-Wright",
+    "title": "Project Engineering Intern",
+    "location": "US-NY-East Farmingdale (TR)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Project-Engineering-Intern_JR13137-1",
+    "date_found": "2026-08-12",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Curtiss-Wright",
     "title": "Purchasing & Supply Chain Intern (6-month assignment)",
     "location": "US-OH-Middleburg Hts. (Nuclear)",
     "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Middleburg-Hts-Nuclear/Purchasing---Supply-Chain-Intern--6-month-assignment-_JR12367-1",
@@ -1072,8 +1043,8 @@
     "company": "Draper",
     "title": "Mechanical Engineering & System Packaging Intern",
     "location": "2 Locations",
-    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002763",
-    "date_found": "2026-08-04",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002767",
+    "date_found": "2026-08-05",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1081,8 +1052,8 @@
     "company": "Draper",
     "title": "Mechanical Engineering & System Packaging Intern",
     "location": "2 Locations",
-    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002767",
-    "date_found": "2026-08-05",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797",
+    "date_found": "2026-08-12",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1169,15 +1140,6 @@
   },
   {
     "company": "General Dynamics IT",
-    "title": "PTOC  AI/Machine Learning Internship -DC Metro Area",
-    "location": "USA VA Falls Church",
-    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
-    "date_found": "2026-08-07",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "General Dynamics IT",
     "title": "Summer 2027 Jr. Research Analyst Internship   ",
     "location": "Any Location / Remote",
     "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Summer-2027-Jr-Research-Analyst-Internship---_RQ225883",
@@ -1202,6 +1164,15 @@
     "date_found": "2026-08-06",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "General Dynamics IT",
+    "title": "Summer 2027 Software Developer Internship",
+    "location": "USA MD Annapolis Junction",
+    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
+    "date_found": "2026-08-12",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "GlobalFoundries",
@@ -1515,15 +1486,6 @@
     "category": "engineering"
   },
   {
-    "company": "ICF",
-    "title": "Energy Market Intern- Power Team",
-    "location": "2 Locations",
-    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Bangalore-India/Energy-Market-Intern--Power-Team_R2602686",
-    "date_found": "2026-08-06",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Idaho National Laboratory",
     "title": "Graduate Internship – Operations and Strategy Management",
     "location": "Idaho Falls, ID, United States",
@@ -1567,15 +1529,6 @@
     "date_found": "2026-08-11",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "KBR",
-    "title": "Software Intern",
-    "location": "Houston, Texas",
-    "url": "https://careers.kbr.com/us/en/job/R2127863/Software-Intern",
-    "date_found": "2026-08-06",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "L3Harris",
@@ -1708,15 +1661,6 @@
     "title": "Traffic Engineering Intern",
     "location": "Santa Ana, CA, United States",
     "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309636",
-    "date_found": "2026-08-05",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Moog",
-    "title": "Intern, Electrical Engineering",
-    "location": "Buffalo, NY",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-18835",
     "date_found": "2026-08-05",
     "disciplines": [],
     "category": "engineering"
@@ -2169,6 +2113,15 @@
     "location": "Boston, Massachusetts",
     "url": "https://jobs.parsons.com/jobs/civil-engineering-co-op-fall-2026-boston-r-179491-jobs--internship-program--",
     "date_found": "2026-05-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
+    "title": "Civil Engineering Intern",
+    "location": "Pasadena, California",
+    "url": "https://jobs.parsons.com/jobs/civil-engineering-intern-pasadena-r-184307-jobs--internship-program--",
+    "date_found": "2026-08-12",
     "disciplines": [],
     "category": "engineering"
   },
@@ -3168,6 +3121,28 @@
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7824316003",
     "date_found": "2026-08-03",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Strategic Engagements & Events Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7857023003",
+    "date_found": "2026-08-12",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Strategic Engagements & Events Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7857074003",
+    "date_found": "2026-08-12",
     "disciplines": [
       "2027 Internships"
     ],
