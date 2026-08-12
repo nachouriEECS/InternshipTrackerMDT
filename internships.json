@@ -384,15 +384,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
-    "date_found": "2026-08-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
@@ -501,12 +492,21 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern IV Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
+    "title": "Software Engineering Intern III Summer 2027 Onsite",
+    "location": "San Diego, California, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128583BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
     "date_found": "2026-08-12",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Supply Chain Intern II Summer 2027 Hybrid",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127992BR/Supply-Chain-Intern-II-Summer-2027-Hybrid",
+    "date_found": "2026-08-12",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "BAE Systems",
@@ -577,6 +577,15 @@
     "location": "9 Locations",
     "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Electronics-Electrical-Systems-Engineer-I_R70292",
     "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Blue Origin",
+    "title": "2026 Intern Conversion - Fluid Systems Engineer I",
+    "location": "9 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Fluid-Systems-Engineer-I_R70376",
+    "date_found": "2026-08-12",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1409,6 +1418,15 @@
     "category": "software"
   },
   {
+    "company": "Guidehouse",
+    "title": "Intern - Life Sciences Advisory, Health Segment - Campus 2027",
+    "location": "4 Locations",
+    "url": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---NY-New-York/Intern---Life-Sciences-Advisory--Health-Segment---Campus-2027_43306",
+    "date_found": "2026-08-12",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Hermeus",
     "title": "Flight Software Engineering Intern - Fall 2026",
     "location": "Atlanta, GA",
@@ -1639,6 +1657,15 @@
     "category": "software"
   },
   {
+    "company": "MITRE",
+    "title": "Political Science Legal Studies Intern",
+    "location": "Honolulu, Hawaii, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R117218/Political-Science-Legal-Studies-Intern",
+    "date_found": "2026-08-12",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
     "company": "Michael Baker International",
     "title": "Civil Intern, Surface Transportation",
     "location": "Columbia, SC, United States",
@@ -1727,6 +1754,15 @@
     "date_found": "2026-08-06",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "Oshkosh",
+    "title": "Design Intern - Fall 2026",
+    "location": "New Hudson, Michigan, United States",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Design-Intern---Fall-2026_R49224",
+    "date_found": "2026-08-12",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Oshkosh",
@@ -3083,17 +3119,6 @@
     "title": "Embedded Software Engineer Intern (Fall 2026)",
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7765240003",
-    "date_found": "2026-07-12",
-    "disciplines": [
-      "2026 Internships"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "Zipline",
-    "title": "Enterprise Systems Software Engineer Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7767667003",
     "date_found": "2026-07-12",
     "disciplines": [
       "2026 Internships"
