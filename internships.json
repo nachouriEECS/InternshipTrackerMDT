@@ -18,15 +18,6 @@
     "category": "engineering"
   },
   {
-    "company": "ATI",
-    "title": "Finance Intern",
-    "location": "Albany,Oregon,United States",
-    "url": "https://careers.atimaterials.com/us/en/job/26-2844/Finance-Intern",
-    "date_found": "2026-06-20",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
     "company": "Aechelon Technology",
     "title": "Junior Software Engineer - Internship",
     "location": "Overland Park, KS",
@@ -357,24 +348,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Spring and Summer Mechanical Engineering Coop",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
-    "date_found": "2026-08-10",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Chemical Engineering Co Op Student Year Round",
-    "location": "Kingsport, Tennessee, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127274BR/Chemical-Engineering-Co-Op-Student-Year-Round",
-    "date_found": "2026-08-11",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Electrical Engineering Coop Spring Summer 2027 Onsite",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127774BR/Electrical-Engineering-Coop-Spring-Summer-2027-Onsite",
@@ -384,10 +357,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
-    "date_found": "2026-07-27",
+    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
+    "date_found": "2026-08-13",
     "disciplines": [],
     "category": "engineering"
   },
@@ -399,15 +372,6 @@
     "date_found": "2026-08-05",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Intellectual Property Legal Intern IV Fall 2026 Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127771BR/Intellectual-Property-Legal-Intern-IV-Fall-2026-Hybrid",
-    "date_found": "2026-08-11",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "BAE Systems",
@@ -424,15 +388,6 @@
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
     "date_found": "2026-08-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
-    "date_found": "2026-07-28",
     "disciplines": [],
     "category": "engineering"
   },
@@ -492,21 +447,12 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern III Summer 2027 Onsite",
-    "location": "San Diego, California, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128583BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-08-12",
+    "title": "Software Engineering Intern IV Summer 2027 Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
+    "date_found": "2026-08-13",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Supply Chain Intern II Summer 2027 Hybrid",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127992BR/Supply-Chain-Intern-II-Summer-2027-Hybrid",
-    "date_found": "2026-08-12",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "BAE Systems",
@@ -525,15 +471,6 @@
     "date_found": "2026-08-09",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Systems Software Engineering Intern Embedded Systems",
-    "location": "Huntsville, Alabama, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
-    "date_found": "2026-07-28",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "BWX Technologies",
@@ -869,6 +806,15 @@
     "category": "non-engineering"
   },
   {
+    "company": "CACI International",
+    "title": "Junior Project Operations Intern - Fall 2026",
+    "location": "2 Locations",
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/Herndon-VA-US/Junior-Project-Operations-Intern---Fall-2026_330577-1",
+    "date_found": "2026-08-13",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Crane Aerospace & Electronics",
     "title": "Customer Service Representative  - Intern",
     "location": "Piqua, Ohio",
@@ -1184,15 +1130,6 @@
     "category": "non-engineering"
   },
   {
-    "company": "General Dynamics IT",
-    "title": "Summer 2027 Software Developer Internship",
-    "location": "USA MD Annapolis Junction",
-    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
-    "date_found": "2026-08-12",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
     "company": "GlobalFoundries",
     "title": "2H University Intern - Clean Tech Engineering Module",
     "location": "SGP - Woodlands",
@@ -1290,6 +1227,24 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Advanced Manufacturing Engineering Intern (Jan-Jun 2027)",
+    "location": "SGP - Woodlands",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Advanced-Manufacturing-Engineering-Intern--Jan-Jun-2027-_JR-2603835",
+    "date_found": "2026-08-13",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Advanced Manufacturing Engineering Intern (Jan-Jun 2027)",
+    "location": "SGP - Woodlands",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Advanced-Manufacturing-Engineering-Intern--Jan-Jun-2027-_JR-2603742",
+    "date_found": "2026-08-13",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "GlobalFoundries",
@@ -1396,15 +1351,6 @@
     "location": "Penang",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Penang/Intern---Fab-Engineering--AE-_JR-2504307",
     "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "Position 2H University Intern - FR CMOS Device Engineering",
-    "location": "SGP - Woodlands",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Position-2H-University-Intern---FR-CMOS-Device-Engineering_JR-2502725",
-    "date_found": "2026-08-02",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1718,15 +1664,6 @@
     "date_found": "2026-08-11",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Business Management Intern",
-    "location": "United States-California-Palmdale",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Business-Management-Intern_R10244870",
-    "date_found": "2026-08-10",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "Northrop Grumman",
@@ -2163,15 +2100,6 @@
   },
   {
     "company": "Parsons",
-    "title": "Civil Engineering Intern",
-    "location": "Pasadena, California",
-    "url": "https://jobs.parsons.com/jobs/civil-engineering-intern-pasadena-r-184307-jobs--internship-program--",
-    "date_found": "2026-08-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Parsons",
     "title": "Roadway Engineering Co-Op - Fall 2026",
     "location": "Akron, Ohio",
     "url": "https://jobs.parsons.com/jobs/roadway-engineering-co-op-fall-2026-akron-r-177773-jobs--internship-program--",
@@ -2297,6 +2225,15 @@
   },
   {
     "company": "RTX",
+    "title": "Quality Intern",
+    "location": "2 Locations",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MY-10-KLANG-009--9-Lengkuk-Keluli-2--9-LENGKUK-KELULI-2-009/Quality-Intern_01866537",
+    "date_found": "2026-08-13",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Software Engineering Intern (Summer 2027)",
     "location": "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
@@ -2356,6 +2293,17 @@
     "category": "engineering"
   },
   {
+    "company": "Rocket Lab",
+    "title": "Supply Chain Intern Fall 2026",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7728092003",
+    "date_found": "2026-08-13",
+    "disciplines": [
+      "122 OS - Supply Chain"
+    ],
+    "category": "non-engineering"
+  },
+  {
     "company": "Roush (Defense)",
     "title": "Automotive Laboratory Technician Co op Fall 2026",
     "location": "Livonia, MI",
@@ -2379,6 +2327,15 @@
     "location": "Allen Park, MI",
     "url": "https://jobs.roush.com/us/en/job/job_20260715140428_SUZZN3S4BU7HQ8HH/Electrified-Powertrain-Calibration-Internship-Fall-2026",
     "date_found": "2026-07-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Roush (Defense)",
+    "title": "Mechanical Engineering Internship Composites Fall 2026",
+    "location": "Livonia, MI",
+    "url": "https://jobs.roush.com/us/en/job/job_20260812174908_1NJWEH7IQXYALHOR/Mechanical-Engineering-Internship-Composites-Fall-2026",
+    "date_found": "2026-08-13",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2432,17 +2389,6 @@
       "International Business Development"
     ],
     "category": "non-engineering"
-  },
-  {
-    "company": "Shield AI",
-    "title": "Customer Success Manager (R5292)",
-    "location": "Athens",
-    "url": "https://jobs.lever.co/shieldai/cff8700d-066e-4175-9b2b-642aa7cbf120",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Customer Operations"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Shield AI",
@@ -2917,6 +2863,17 @@
     "date_found": "2026-07-22",
     "disciplines": [
       "Avionics & Electrical Engineering"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "True Anomaly",
+    "title": "GSE Engineering Intern",
+    "location": "Denver, CO; Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5210059007",
+    "date_found": "2026-08-13",
+    "disciplines": [
+      "Production"
     ],
     "category": "engineering"
   },
