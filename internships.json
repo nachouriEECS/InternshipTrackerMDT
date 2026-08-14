@@ -346,6 +346,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
@@ -386,15 +395,6 @@
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
     "date_found": "2026-08-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
-    "date_found": "2026-08-13",
     "disciplines": [],
     "category": "engineering"
   },
@@ -463,12 +463,21 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern III Summer 2027 Onsite",
-    "location": "San Diego, California, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128583BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-08-13",
+    "title": "Software Engineering Intern IV Summer 2027 Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
+    "date_found": "2026-08-14",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Supply Chain Intern II Summer 2027 Hybrid",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127992BR/Supply-Chain-Intern-II-Summer-2027-Hybrid",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "BAE Systems",
@@ -487,15 +496,6 @@
     "date_found": "2026-08-09",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Systems Software Engineering Intern Embedded Systems",
-    "location": "Huntsville, Alabama, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
-    "date_found": "2026-08-13",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "BWX Technologies",
@@ -808,15 +808,6 @@
     "title": "AI RAN Telecommunications Engineer Intern",
     "location": "McLean, VA",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415",
-    "date_found": "2026-08-11",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Booz Allen Hamilton",
-    "title": "AI RAN Telecommunications Engineer Intern",
-    "location": "McLean, VA",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
     "date_found": "2026-08-11",
     "disciplines": [],
     "category": "software"
@@ -1246,6 +1237,24 @@
   },
   {
     "company": "GlobalFoundries",
+    "title": "Advanced Manufacturing Process Engineering Intern (Summer 2027)",
+    "location": "USA - Vermont - Essex Junction",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Advanced Manufacturing Process Engineering Intern (Summer 2027)",
+    "location": "USA - Vermont - Essex Junction",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
     "title": "Associate Engineering Intern, CVD Equipment (Diploma)",
     "location": "SGP - Woodlands",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Associate-Engineering-Intern--CVD-Equipment--Diploma-_JR-2502738-1",
@@ -1291,9 +1300,9 @@
   },
   {
     "company": "GlobalFoundries",
-    "title": "Device Engineering Intern, ULP CMOS (Summer 2027)",
-    "location": "USA - New York - Malta",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--ULP-CMOS--Summer-2027-_JR-2604359",
+    "title": "Environmental Health & Safety Intern (Summer 2027)",
+    "location": "USA - Vermont - Essex Junction",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Environmental-Health---Safety-Intern--Summer-2027-_JR-2604242",
     "date_found": "2026-08-14",
     "disciplines": [],
     "category": "engineering"
@@ -1402,6 +1411,24 @@
     "title": "Testchip Design & Implementation Intern (Jan-Jun 2027)",
     "location": "SGP - Woodlands",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Testchip-Design---Implementation-Intern--Jan-Jun-2027-_JR-2604352",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027)",
+    "location": "USA - Vermont - Essex Junction",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027)",
+    "location": "USA - Vermont - Essex Junction",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666",
     "date_found": "2026-08-14",
     "disciplines": [],
     "category": "engineering"
@@ -1543,6 +1570,15 @@
     "location": "Las Cruces, New Mexico",
     "url": "https://careers.kbr.com/us/en/job/R2127930/Mechanical-Engineering-Intern",
     "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern, Manufacturing Engineering",
+    "location": "Ashaway, RI",
+    "url": "https://careers.l3harris.com/en/job/ashaway/intern-manufacturing-engineering/4832/99069057008",
+    "date_found": "2026-08-14",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1725,15 +1761,6 @@
     "date_found": "2026-08-06",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "Oshkosh",
-    "title": "Design Intern - Fall 2026",
-    "location": "New Hudson, Michigan, United States",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Design-Intern---Fall-2026_R49224",
-    "date_found": "2026-08-12",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "Oshkosh",
@@ -2492,6 +2519,15 @@
     "disciplines": [
       "Integration & Test"
     ],
+    "category": "engineering"
+  },
+  {
+    "company": "Sierra Space",
+    "title": "Fall 2026 Mechanical Engineering Intern",
+    "location": "Centennial, CO",
+    "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Fall-2026-Mechanical-Engineering-Intern_R26120",
+    "date_found": "2026-08-14",
+    "disciplines": [],
     "category": "engineering"
   },
   {
