@@ -310,15 +310,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Co Op Spring Summer or Summer Fall Electrical Engineer onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite",
-    "date_found": "2026-08-14",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "2027 Spring and Summer Mechanical Engineering Coop",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
@@ -400,6 +391,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Mechanical Engineering Intern IV Summer 2027 Onsite",
     "location": "San Diego, California, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128692BR/Mechanical-Engineering-Intern-IV-Summer-2027-Onsite",
@@ -436,15 +436,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern I Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
-    "date_found": "2026-08-14",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Software Engineering Intern II Summer 2027 Onsite",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128054BR/Software-Engineering-Intern-II-Summer-2027-Onsite",
@@ -458,6 +449,15 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern III Summer 2027 Onsite",
+    "location": "San Diego, California, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128583BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
+    "date_found": "2026-08-14",
     "disciplines": [],
     "category": "software"
   },
@@ -496,6 +496,15 @@
     "date_found": "2026-08-09",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Software Engineering Intern Embedded Systems",
+    "location": "Huntsville, Alabama, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "BWX Technologies",
@@ -647,15 +656,6 @@
     "location": "9 Locations",
     "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Thermal-Engineer-I_R70301",
     "date_found": "2026-08-11",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Spring 2027  Engineering Intern - Undergraduate",
-    "location": "7 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064",
-    "date_found": "2026-07-21",
     "disciplines": [],
     "category": "engineering"
   },
@@ -844,15 +844,6 @@
     "title": "Operations Intern",
     "location": "Cincinnati, Ohio",
     "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Operations-Intern_JR102039",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Crane Aerospace & Electronics",
-    "title": "Quality Intern",
-    "location": "Cincinnati, Ohio",
-    "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Quality-Intern_JR102021",
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
@@ -1443,6 +1434,15 @@
     "category": "engineering"
   },
   {
+    "company": "HII",
+    "title": "Manufacturing Intern 1",
+    "location": "Syracuse, NY, New York, United States",
+    "url": "https://jobs.hii-tsd.com/job/Syracuse%2C-NY-Manufacturing-Intern-1-New/1419774900/",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Hermeus",
     "title": "Flight Software Engineering Intern - Fall 2026",
     "location": "Atlanta, GA",
@@ -1575,28 +1575,10 @@
   },
   {
     "company": "L3Harris",
-    "title": "Intern, Manufacturing Engineering",
-    "location": "Ashaway, RI",
-    "url": "https://careers.l3harris.com/en/job/ashaway/intern-manufacturing-engineering/4832/99069057008",
-    "date_found": "2026-08-14",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "L3Harris",
     "title": "Systems Engineering Intern",
     "location": "Plano, TX",
     "url": "https://careers.l3harris.com/en/job/plano/systems-engineering-intern/4832/99069057264",
     "date_found": "2026-08-11",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Lockheed Martin",
-    "title": "Program Planning Intern / Goleta, CA",
-    "location": "Goleta, California",
-    "url": "https://www.lockheedmartinjobs.com/job/goleta/program-planning-intern-goleta-ca/694/97843317248",
-    "date_found": "2026-07-15",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2735,15 +2717,6 @@
     "date_found": "2026-08-10",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Teledyne FLIR",
-    "title": "IT Technical Specialist Intern",
-    "location": "US - Huntsville, AL",
-    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/IT-Technical-Specialist-Intern_REQ35332",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "Teledyne FLIR",
