@@ -70,24 +70,6 @@
   },
   {
     "company": "Amentum",
-    "title": "Intern Gn C Fall Intern Huntsville",
-    "location": "Alabama",
-    "url": "https://www.amentumcareers.com/jobs/intern-gn-c-fall-intern-huntsville-alabama-united-states",
-    "date_found": "2026-08-10",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Amentum",
-    "title": "Intern Structural Optimization Design Graduate Intern Huntsville",
-    "location": "Alabama",
-    "url": "https://www.amentumcareers.com/jobs/intern-structural-optimization-design-graduate-intern-huntsville-alabama-united-states",
-    "date_found": "2026-08-11",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Amentum",
     "title": "Network Engineer Internship Ires Ssfb Colorado Springs",
     "location": "Colorado",
     "url": "https://www.amentumcareers.com/jobs/network-engineer-internship-ires-ssfb-colorado-springs-colorado-united-states-78eff9c3-ff84-46cf-a492-88610a6bea75",
@@ -328,6 +310,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "2027 Co Op Spring Summer or Summer Fall Electrical Engineer onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "2027 Spring and Summer Mechanical Engineering Coop",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
@@ -445,6 +436,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Software Engineering Intern I Summer 2027",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Software Engineering Intern II Summer 2027 Onsite",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128054BR/Software-Engineering-Intern-II-Summer-2027-Onsite",
@@ -469,15 +469,6 @@
     "date_found": "2026-08-13",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Supply Chain Intern II Summer 2027 Hybrid",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127992BR/Supply-Chain-Intern-II-Summer-2027-Hybrid",
-    "date_found": "2026-08-13",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "BAE Systems",
@@ -1237,15 +1228,6 @@
   },
   {
     "company": "GlobalFoundries",
-    "title": "2H University Intern, Corporate Communications Intern (APAC)",
-    "location": "SGP - Woodlands",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-1H-University-Intern--Corporate-Communications-Intern--APAC-_JR-2502689",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "GlobalFoundries",
     "title": "Advanced Manufacturing Engineering Intern (Jan-Jun 2027)",
     "location": "SGP - Woodlands",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Advanced-Manufacturing-Engineering-Intern--Jan-Jun-2027-_JR-2603835",
@@ -1300,6 +1282,24 @@
   },
   {
     "company": "GlobalFoundries",
+    "title": "Corporate Communications Intern (APAC) (Jan-Jun 2027)",
+    "location": "SGP - Woodlands",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Corporate-Communications-Intern--APAC---Jan-2027-to-Jun-2027-_JR-2604212",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Device Engineering Intern, ULP CMOS (Summer 2027)",
+    "location": "USA - New York - Malta",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--ULP-CMOS--Summer-2027-_JR-2604359",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
     "title": "Equipment Engineering Intern, Metrology (July to December)",
     "location": "SGP - Woodlands",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/XMLNAME-2H-University-Intern---Metrology-Equipment-Engineering_JR-2502751",
@@ -1313,6 +1313,15 @@
     "location": "USA - New York - Malta",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Factory-Automation-Engineering-Intern--Fall-2026-_JR-2503358",
     "date_found": "2026-08-06",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Frame Engineering Intern (Jan-Jun 2027)",
+    "location": "SGP - Woodlands",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Frame-Engineering-Intern--Jan-Jun-2027-_JR-2604922-1",
+    "date_found": "2026-08-14",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1363,6 +1372,15 @@
   },
   {
     "company": "GlobalFoundries",
+    "title": "Industrial Engineering Intern (Jan - Jun 2027)",
+    "location": "SGP - Woodlands",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Industrial-Engineering-Intern--Jan---Jun-2027-_JR-2604515",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
     "title": "Intern - Fab Engineering (AE)",
     "location": "Penang",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Penang/Intern---Fab-Engineering--AE-_JR-2504307",
@@ -1378,6 +1396,15 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Testchip Design & Implementation Intern (Jan-Jun 2027)",
+    "location": "SGP - Woodlands",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Testchip-Design---Implementation-Intern--Jan-Jun-2027-_JR-2604352",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Guidehouse",
@@ -1680,15 +1707,6 @@
     "date_found": "2026-08-11",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Intern Global Supply Chain",
-    "location": "United States-California-Palmdale",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Intern-Global-Supply-Chain_R10244591",
-    "date_found": "2026-08-11",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "Northrop Grumman",
@@ -2187,30 +2205,12 @@
   },
   {
     "company": "RTX",
-    "title": "Co-Op: Aftermarket Engineer",
-    "location": "US-MI-LANSING-PLANT 1 ~ 5640 Enterprise Dr ~ PLANT 1",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MI-LANSING-PLANT-1--5640-Enterprise-Dr--PLANT-1/Co-Op--Aftermarket-Engineer_01865164",
-    "date_found": "2026-08-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
     "title": "Customer Portal Administration Intern- 1st shift- Avionics",
     "location": "MX-BCN-MEXICALI-496 ~ Calzada Manuel Gomez Morin #3200 ~ CALZADA",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-496--Calzada-Manuel-Gomez-Morin-3200--CALZADA/Customer-Portal-Administration-Intern--1st-shift--Avionics_01863435",
     "date_found": "2026-07-30",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "RTX",
-    "title": "Digital Finance - Co-op (Hybrid)",
-    "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Digital-Finance---Co-op--Hybrid-_01863764",
-    "date_found": "2026-08-10",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "RTX",
@@ -2636,6 +2636,15 @@
       "Internships"
     ],
     "category": "software"
+  },
+  {
+    "company": "StandardAero",
+    "title": "Actuarial Internship",
+    "location": "Portland, OR",
+    "url": "https://standard.wd1.myworkdayjobs.com/Search/job/Portland-OR/Actuarial-Internship_REQ006847",
+    "date_found": "2026-08-14",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "TTM Technologies",
@@ -3089,21 +3098,23 @@
   },
   {
     "company": "Yulista",
-    "title": "Instrument Maker Technician Apprentice Intern",
-    "location": "TFOME1 - OH - Glenn Research Center at Lewis Field",
-    "url": "https://calistacorp.wd1.myworkdayjobs.com/Yulista/job/TFOME1---OH---Glenn-Research-Center-at-Lewis-Field/Instrument-Maker-Technician-Apprentice-Intern_JR108998",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Yulista",
     "title": "Technician Apprentice Internship",
     "location": "TFOME1 - OH - Glenn Research Center at Lewis Field",
     "url": "https://calistacorp.wd1.myworkdayjobs.com/Yulista/job/TFOME1---OH---Glenn-Research-Center-at-Lewis-Field/Technician-Apprentice-Internship_JR108996",
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Community Engagement Intern (Spring 2027)",
+    "location": "Austin, Texas, USA; Dallas-Fort Worth, Texas, USA; Los Angeles, California, USA; Phoenix, Arizona, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7867044003",
+    "date_found": "2026-08-14",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "non-engineering"
   },
   {
     "company": "Zipline",
@@ -3115,28 +3126,6 @@
       "2026 Internships"
     ],
     "category": "software"
-  },
-  {
-    "company": "Zipline",
-    "title": "Financial Analyst Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7786446003",
-    "date_found": "2026-07-13",
-    "disciplines": [
-      "2026 Internships"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Zipline",
-    "title": "Mechatronics Perception Intern (Fall 2026)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7763697003",
-    "date_found": "2026-07-13",
-    "disciplines": [
-      "2026 Internships"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Zipline",
