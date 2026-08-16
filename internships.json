@@ -233,17 +233,6 @@
   },
   {
     "company": "Astranis",
-    "title": "Harness Design Engineer Intern (Fall 2026)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4597559006",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Avionics Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Astranis",
     "title": "Mechanical Engineer Intern (Spring 2027)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4704602006",
@@ -414,15 +403,6 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
     "date_found": "2026-08-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Industrial Engineering Intern Fall 2026",
-    "location": "York, Pennsylvania, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126122BR/Industrial-Engineering-Intern-Fall-2026",
-    "date_found": "2026-08-05",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2400,6 +2380,60 @@
       "122 OS - Supply Chain"
     ],
     "category": "non-engineering"
+  },
+  {
+    "company": "Roush (Defense)",
+    "title": "Automotive Laboratory Technician Co op Fall 2026",
+    "location": "Livonia, MI",
+    "url": "https://jobs.roush.com/us/en/job/job_20260804111420_XEPJDKX5OCKMSZOZ/Automotive-Laboratory-Technician-Co-op-Fall-2026",
+    "date_found": "2026-08-16",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Roush (Defense)",
+    "title": "CAE Engineering Intern Fall 2026",
+    "location": "Livonia, MI",
+    "url": "https://jobs.roush.com/us/en/job/job_20260626134014_ENYYEG0VFXLJXDU3/CAE-Engineering-Intern-Fall-2026",
+    "date_found": "2026-08-16",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Roush (Defense)",
+    "title": "Electrified Powertrain Calibration Internship Fall 2026",
+    "location": "Allen Park, MI",
+    "url": "https://jobs.roush.com/us/en/job/job_20260715140428_SUZZN3S4BU7HQ8HH/Electrified-Powertrain-Calibration-Internship-Fall-2026",
+    "date_found": "2026-08-16",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Roush (Defense)",
+    "title": "Mechanical Engineering Internship Composites Fall 2026",
+    "location": "Livonia, MI",
+    "url": "https://jobs.roush.com/us/en/job/job_20260812174908_1NJWEH7IQXYALHOR/Mechanical-Engineering-Internship-Composites-Fall-2026",
+    "date_found": "2026-08-16",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Roush (Defense)",
+    "title": "Mechanical Engineering Internship Fall 2026",
+    "location": "Allen Park, MI",
+    "url": "https://jobs.roush.com/us/en/job/job_20260803170228_EP9PX0GOISJHKIWG/Mechanical-Engineering-Internship-Fall-2026",
+    "date_found": "2026-08-16",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Roush (Defense)",
+    "title": "Powertrain Development Engineering Internship Fall 2026",
+    "location": "Allen Park, MI",
+    "url": "https://jobs.roush.com/us/en/job/job_20260715121713_4P26ANOTBMMRTELY/Powertrain-Development-Engineering-Internship-Fall-2026",
+    "date_found": "2026-08-16",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Scale AI",
