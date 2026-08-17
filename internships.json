@@ -390,15 +390,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
-    "date_found": "2026-08-14",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
@@ -430,6 +421,15 @@
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
     "date_found": "2026-08-12",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
+    "date_found": "2026-08-17",
     "disciplines": [],
     "category": "engineering"
   },
@@ -498,10 +498,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern IV Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
-    "date_found": "2026-08-14",
+    "title": "Software Engineering Intern III Summer 2027 Onsite",
+    "location": "San Diego, California, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128583BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
+    "date_found": "2026-08-17",
     "disciplines": [],
     "category": "software"
   },
@@ -531,6 +531,15 @@
     "date_found": "2026-08-09",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Software Engineering Intern Embedded Systems",
+    "location": "Huntsville, Alabama, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
+    "date_found": "2026-08-17",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "BWX Technologies",
@@ -848,6 +857,33 @@
     "category": "non-engineering"
   },
   {
+    "company": "CACI International",
+    "title": "GMU Scholar Program - Summer 2027 Internship",
+    "location": "Sterling, VA, US",
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/Sterling-VA-US/GMU-Scholar-Program---Summer-2027-Internship_330557",
+    "date_found": "2026-08-17",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "CACI International",
+    "title": "VT Scholar Program - Summer 2027 Internship",
+    "location": "Aberdeen Proving Ground, MD, US",
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/Aberdeen-Proving-Ground-MD-US/VT-Scholar-Program---Summer-2027-Internship_330555",
+    "date_found": "2026-08-17",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "CACI International",
+    "title": "VT Scholar Program - Summer 2027 Internship",
+    "location": "Sterling, VA, US",
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/Sterling-VA-US/VT-Scholar-Program---Summer-2027-Internship_330553",
+    "date_found": "2026-08-17",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Crane Aerospace & Electronics",
     "title": "Manufacturing Intern",
     "location": "Cincinnati, Ohio",
@@ -880,6 +916,24 @@
     "location": "Cincinnati, Ohio",
     "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Cincinnati-Ohio/Sustaining-Engineering-Intern_JR102023",
     "date_found": "2026-07-09",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Co-Op",
+    "location": "US-PA-Bethlehem (EPD)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Bethlehem-EPD/Co-Op_JR13160",
+    "date_found": "2026-08-17",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Curtiss-Wright",
+    "title": "Co-Op",
+    "location": "US-PA-Bethlehem (EPD)",
+    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Bethlehem-EPD/Co-Op_JR13161",
+    "date_found": "2026-08-17",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1886,6 +1940,15 @@
     "category": "non-engineering"
   },
   {
+    "company": "L3Harris",
+    "title": "Software Engineering Intern (Clifton, NJ) 1",
+    "location": "Clifton, NJ",
+    "url": "https://careers.l3harris.com/en/job/clifton/software-engineering-intern-clifton-nj-1/4832/99349376288",
+    "date_found": "2026-08-17",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
     "company": "MIT Lincoln Laboratory",
     "title": "Airborne Radar Systems and Techniques Intern (Summer 2027) - Group 105",
     "location": "Lexington, MA, US",
@@ -2571,12 +2634,12 @@
   },
   {
     "company": "RTX",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "location": "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
-    "date_found": "2026-08-12",
+    "title": "Stage - Automne - Stagiaire Ressources Humaines /Internship - Fall - HR Internship",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne---Stagiaire-Ressources-Humaines--Internship---Fall---HR-Internship_01850296",
+    "date_found": "2026-08-17",
     "disciplines": [],
-    "category": "software"
+    "category": "non-engineering"
   },
   {
     "company": "RTX",
@@ -2584,6 +2647,15 @@
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-en-Hygiene-industrielle-et-Ergonomie---Internship-in-Industrial-Hygiene-and-Ergonomics_01841734",
     "date_found": "2026-08-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stress Intern - 1st Shift - On site - Aeroestructuras",
+    "location": "MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238, Desarrollo Industrial Colorado",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Stress-Intern---1st-Shift---On-site---Aeroestructuras_01842613-1",
+    "date_found": "2026-08-17",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2813,6 +2885,15 @@
     "disciplines": [
       "Integration & Test"
     ],
+    "category": "engineering"
+  },
+  {
+    "company": "Sierra Nevada Corporation",
+    "title": "Mechanical Engineer Co-Op (For SNC Summer 2026 Intern Only)",
+    "location": "Remote",
+    "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Remote/Mechanical-Engineer-Co-Op--For-SNC-Summer-2026-Intern-Only-_R0030555",
+    "date_found": "2026-08-17",
+    "disciplines": [],
     "category": "engineering"
   },
   {
