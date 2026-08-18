@@ -67,6 +67,15 @@
     "category": "non-engineering"
   },
   {
+    "company": "Airbus",
+    "title": "Summer Internship - Quality Assurance",
+    "location": "Mobile Area, AL",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Summer-Internship---Quality-Assurance_JR10434813",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Allen Control Systems",
     "title": "Manufacturing Intern",
     "location": "Austin, TX",
@@ -372,10 +381,19 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Co Op Spring Summer or Summer Fall Electrical Engineer onsite",
+    "title": "2027 Spring and Summer Mechanical Engineering Coop",
     "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite",
-    "date_found": "2026-08-15",
+    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Chemical Engineering Co Op Student Year Round",
+    "location": "Kingsport, Tennessee, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127274BR/Chemical-Engineering-Co-Op-Student-Year-Round",
+    "date_found": "2026-08-18",
     "disciplines": [],
     "category": "engineering"
   },
@@ -399,6 +417,24 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Intellectual Property Legal Intern IV Fall 2026 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127771BR/Intellectual-Property-Legal-Intern-IV-Fall-2026-Hybrid",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Mechanical Engineering Coop Spring Summer 2027 Onsite",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127776BR/Mechanical-Engineering-Coop-Spring-Summer-2027-Onsite",
@@ -412,6 +448,15 @@
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
     "date_found": "2026-08-12",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
+    "date_found": "2026-08-18",
     "disciplines": [],
     "category": "engineering"
   },
@@ -450,15 +495,6 @@
     "date_found": "2026-07-28",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern I Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
-    "date_found": "2026-08-15",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "BAE Systems",
@@ -513,6 +549,15 @@
     "date_found": "2026-08-09",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Software Engineering Intern Embedded Systems",
+    "location": "Huntsville, Alabama, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "BWX Technologies",
@@ -1923,6 +1968,87 @@
   },
   {
     "company": "L3Harris",
+    "title": "Contracts Intern",
+    "location": "Waco, TX",
+    "url": "https://careers.l3harris.com/en/job/waco/contracts-intern/4832/99372977808",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern, Finance",
+    "location": "Greenville, TX",
+    "url": "https://careers.l3harris.com/en/job/greenville/intern-finance/4832/99372978496",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern, Manufacturing Engineer",
+    "location": "Millersville, MD",
+    "url": "https://careers.l3harris.com/en/job/millersville/intern-manufacturing-engineer/4832/99372979488",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern, Maritime Sector Strategy",
+    "location": "Palm Bay, Brevard, FL",
+    "url": "https://careers.l3harris.com/en/job/palm-bay/intern-maritime-sector-strategy/4832/99372978784",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern, Quality Engineer",
+    "location": "Northampton, MA",
+    "url": "https://careers.l3harris.com/en/job/northampton/intern-quality-engineer/4832/99372979792",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern, Software Engineer",
+    "location": "Palm Bay, Brevard, FL",
+    "url": "https://careers.l3harris.com/en/job/palm-bay/intern-software-engineer/4832/99372979856",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern, Supply Cain Program Management",
+    "location": "Camden, NJ",
+    "url": "https://careers.l3harris.com/en/job/camden/intern-supply-cain-program-management/4832/99372979744",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern, Supply Cain Program Management",
+    "location": "Anaheim, CA",
+    "url": "https://careers.l3harris.com/en/job/anaheim/intern-supply-cain-program-management/4832/99372979728",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern, Supply Chain Mgmt",
+    "location": "Greenville, TX",
+    "url": "https://careers.l3harris.com/en/job/greenville/intern-supply-chain-mgmt/4832/99372977744",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "L3Harris",
     "title": "Intern, Supply Chain Program Management",
     "location": "Millersville, MD",
     "url": "https://careers.l3harris.com/en/job/millersville/intern-supply-chain-program-management/4832/99333898784",
@@ -1932,12 +2058,48 @@
   },
   {
     "company": "L3Harris",
-    "title": "Software Engineering Intern (Clifton, NJ) 1",
-    "location": "Clifton, NJ",
-    "url": "https://careers.l3harris.com/en/job/clifton/software-engineering-intern-clifton-nj-1/4832/99349376288",
-    "date_found": "2026-08-17",
+    "title": "Manufacturing Engineering Intern",
+    "location": "Palm Bay, Brevard, FL",
+    "url": "https://careers.l3harris.com/en/job/palm-bay/manufacturing-engineering-intern/4832/99372977088",
+    "date_found": "2026-08-18",
     "disciplines": [],
-    "category": "software"
+    "category": "engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Program Finance Intern",
+    "location": "Plano, TX",
+    "url": "https://careers.l3harris.com/en/job/plano/program-finance-intern/4832/99372977872",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Program Finance Intern",
+    "location": "Palm Bay, Brevard, FL",
+    "url": "https://careers.l3harris.com/en/job/palm-bay/program-finance-intern/4832/99372976992",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Program Finance Intern",
+    "location": "Alpharetta, GA",
+    "url": "https://careers.l3harris.com/en/job/alpharetta/program-finance-intern/4832/99372976352",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Systems Engineer Intern",
+    "location": "Alpharetta, GA",
+    "url": "https://careers.l3harris.com/en/job/alpharetta/systems-engineer-intern/4832/99372976256",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "MIT Lincoln Laboratory",
@@ -2625,6 +2787,15 @@
   },
   {
     "company": "RTX",
+    "title": "Operations Intern – Automation & Analytics",
+    "location": "MY-10-KLANG-009 ~ 9 Lengkuk Keluli 2 ~ 9 LENGKUK KELULI 2-009",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MY-10-KLANG-009--9-Lengkuk-Keluli-2--9-LENGKUK-KELULI-2-009/Operations-Intern---Automation---Analytics_01867868",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Paid Contracts Internship - Polska",
     "location": "PL-14-WARSZAWA-049 ~ Ul Moktowska 49 ~ MOKTOWSKA",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/PL-14-WARSZAWA-049--Ul-Moktowska-49--MOKTOWSKA/Paid-Contracts-Internship---Polska_01843929",
@@ -2647,6 +2818,15 @@
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne---Stagiaire-Ressources-Humaines--Internship---Fall---HR-Internship_01850296",
     "date_found": "2026-08-17",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Administration des contrats et analyse des ventes / Internship Winter 2027 - Contract Administration & Sales Analysis",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Administration-des-contrats-et-analyse-des-ventes---Internship-Winter-2027---Contract-Administration---Sales-Analysis_01863014",
+    "date_found": "2026-08-18",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -3076,15 +3256,6 @@
     "category": "software"
   },
   {
-    "company": "StandardAero",
-    "title": "Actuarial Internship",
-    "location": "Portland, OR",
-    "url": "https://standard.wd1.myworkdayjobs.com/Search/job/Portland-OR/Actuarial-Internship_REQ006847",
-    "date_found": "2026-08-14",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "TTM Technologies",
     "title": "Fall 2026 Product Engineering Co-Op",
     "location": "North Jackson, OH",
@@ -3176,12 +3347,48 @@
   },
   {
     "company": "Teledyne Technologies",
-    "title": "It Technical Specialist Intern",
-    "location": "Huntsville, AL",
-    "url": "https://teledynecareers.dejobs.org/huntsville-al/it-technical-specialist-intern/F0F91C8E160D45E6A4F8A1F6BDE4C2C9/job/",
-    "date_found": "2026-07-13",
+    "title": "Cost Accounting Intern",
+    "location": "Chestnut Ridge, NY",
+    "url": "https://teledynecareers.dejobs.org/chestnut-ridge-ny/cost-accounting-intern/1FCE79E74C114FDEA9315CE1A605CD8B/job/",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Teledyne Technologies",
+    "title": "Electrical Engineering Intern",
+    "location": "Miamisburg, OH",
+    "url": "https://teledynecareers.dejobs.org/miamisburg-oh/electrical-engineering-intern/DBA909A6C9F245B79E576BE53FA8126E/job/",
+    "date_found": "2026-08-18",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Teledyne Technologies",
+    "title": "Mechanical Engineering Intern",
+    "location": "Miamisburg, OH",
+    "url": "https://teledynecareers.dejobs.org/miamisburg-oh/mechanical-engineering-intern/48C058E367C94BE29632C43C7672B321/job/",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Teledyne Technologies",
+    "title": "Nhrc Software Engineering Internship Summer 2027",
+    "location": "Huntsville, AL",
+    "url": "https://teledynecareers.dejobs.org/huntsville-al/nhrc-software-engineering-internship-summer-2027/4E7AAE080AE54401BE4B672324E28463/job/",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Teledyne Technologies",
+    "title": "Nhrc Software Engineering Internship Summer 2027",
+    "location": "Huntsville, AL",
+    "url": "https://teledynecareers.dejobs.org/huntsville-al/nhrc-software-engineering-internship-summer-2027/DCA85751AC384A7B86E47C4756A4917D/job/",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "Textron",
