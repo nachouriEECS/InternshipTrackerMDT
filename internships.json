@@ -88,10 +88,10 @@
   },
   {
     "company": "Amentum",
-    "title": "Fall 2026 Spaceflight Hardware Intern Houston",
-    "location": "Texas",
-    "url": "https://www.amentumcareers.com/jobs/fall-2026-spaceflight-hardware-intern-houston-texas-united-states",
-    "date_found": "2026-07-16",
+    "title": "Fall Intern Hls Guidance Engineer Huntsville",
+    "location": "Alabama",
+    "url": "https://www.amentumcareers.com/jobs/fall-intern-hls-guidance-engineer-huntsville-alabama-united-states",
+    "date_found": "2026-08-18",
     "disciplines": [],
     "category": "engineering"
   },
@@ -408,18 +408,18 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
-    "date_found": "2026-08-17",
+    "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
+    "date_found": "2026-08-18",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "BAE Systems",
-    "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
+    "title": "Hardware Engineering Intern",
+    "location": "Manassas, Virginia, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128769BR/Hardware-Engineering-Intern",
     "date_found": "2026-08-18",
     "disciplines": [],
     "category": "engineering"
@@ -516,15 +516,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern IV Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
-    "date_found": "2026-08-17",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Supply Chain Intern II Summer 2027 Hybrid",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127992BR/Supply-Chain-Intern-II-Summer-2027-Hybrid",
@@ -558,6 +549,15 @@
     "date_found": "2026-08-18",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "BWX Technologies",
+    "title": "Manufacturing Engineer Intern/Co-Op",
+    "location": "Euclid, OH, US",
+    "url": "https://careers.bwxt.com/job/Euclid-Manufacturing-Engineer-InternCo-Op-OH/1420668400/",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "BWX Technologies",
@@ -1107,6 +1107,15 @@
     "date_found": "2026-08-05",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Draper",
+    "title": "Full Stack Web Development Co-Op (Spring 2027)",
+    "location": "Cambridge, MA",
+    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "Draper",
@@ -2058,6 +2067,15 @@
   },
   {
     "company": "L3Harris",
+    "title": "Intern, Systems Engineer",
+    "location": "Waco, TX",
+    "url": "https://careers.l3harris.com/en/job/waco/intern-systems-engineer/4832/99403546960",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "L3Harris",
     "title": "Manufacturing Engineering Intern",
     "location": "Palm Bay, Brevard, FL",
     "url": "https://careers.l3harris.com/en/job/palm-bay/manufacturing-engineering-intern/4832/99372977088",
@@ -2091,15 +2109,6 @@
     "date_found": "2026-08-18",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "L3Harris",
-    "title": "Systems Engineer Intern",
-    "location": "Alpharetta, GA",
-    "url": "https://careers.l3harris.com/en/job/alpharetta/systems-engineer-intern/4832/99372976256",
-    "date_found": "2026-08-18",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "MIT Lincoln Laboratory",
@@ -2264,6 +2273,15 @@
     "category": "engineering"
   },
   {
+    "company": "Moog",
+    "title": "Intern, Quality",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Quality_R-26-19130",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Northrop Grumman",
     "title": "2027 Intern Software Engineer",
     "location": "United States-Florida-Melbourne",
@@ -2369,17 +2387,6 @@
     "location": "Washington, D.C.",
     "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89",
     "date_found": "2026-07-02",
-    "disciplines": [
-      "Delta"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "Palantir",
-    "title": "Forward Deployed Software Engineer, Internship - Poland",
-    "location": "New York, NY",
-    "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9",
-    "date_found": "2026-05-01",
     "disciplines": [
       "Delta"
     ],
@@ -2760,6 +2767,15 @@
   },
   {
     "company": "RTX",
+    "title": "2027 Stage Hiver - Stagiaire en Hygiene industrielle / 2027 Winter Internship - Industrial Hygiene intern",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/XMLNAME-2027-Stage-Hiver---Stagiaire-en-Hygiene-industrielle---2027-Winter-Internship---Industrial-Hygiene-intern_01864096",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Customer Portal Administration Intern- 1st shift- Avionics",
     "location": "MX-BCN-MEXICALI-496 ~ Calzada Manuel Gomez Morin #3200 ~ CALZADA",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-496--Calzada-Manuel-Gomez-Morin-3200--CALZADA/Customer-Portal-Administration-Intern--1st-shift--Avionics_01863435",
@@ -2823,6 +2839,15 @@
   },
   {
     "company": "RTX",
+    "title": "Stage - Hiver - Etudiant en droit / Internship - Winter - Legal student",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver---Etudiant-en-droit---Internship---Winter---Legal-student_01867495",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Stage - Hiver 2027 - Administration des contrats et analyse des ventes / Internship Winter 2027 - Contract Administration & Sales Analysis",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Administration-des-contrats-et-analyse-des-ventes---Internship-Winter-2027---Contract-Administration---Sales-Analysis_01863014",
@@ -2847,6 +2872,51 @@
     "date_found": "2026-08-17",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage Hiver 2027 -  Spécialiste en amélioration continue / Winter 2027 Internship - Continuous Improvement Intern",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027----Spcialiste-en-amlioration-continue---Winter-2027-Internship---Continuous-Improvement-Intern_01865161",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage Hiver 2027 - Analyste de Fabrication Qualite / Internship Winter 2027 Winter - Manufacturing & Quality Analyst",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027---Analyste-de-Fabrication-Qualite---Internship-Winter-2027-Winter---Manufacturing---Quality-Analyst_01864107",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage Hiver 2027 - Enquêteur Technique / Internship Winter 2027 - Technical Investigator",
+    "location": "CA-QC-SAINT HUBERT-H05 ~ 7007 Chemin De La Savane ~ BLDG H05 FACTORY",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage-Hiver-2027---Enquteur-Technique---Internship-Winter-2027---Technical-Investigator_01866082",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stagiaire Hiver 2027 -  Sante-Securite au Travail /  Internship Winter 2027 -  Workplace Health and Safety",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-Hiver-2027----Sante-Securite-au-Travail----Internship-Winter-2027----Workplace-Health-and-Safety_01864238",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stagiaire Hiver 2027 - En environnement - Winter 2027 Intern - Environment",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-Hiver-2027---En-environnement---Winter-2027-Intern---Environment_01864093",
+    "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "RTX",
@@ -2923,8 +2993,8 @@
     "company": "Roush (Defense)",
     "title": "Automotive Laboratory Technician Co op Fall 2026",
     "location": "Livonia, MI",
-    "url": "https://jobs.roush.com/us/en/job/job_20260804111420_XEPJDKX5OCKMSZOZ/Automotive-Laboratory-Technician-Co-op-Fall-2026",
-    "date_found": "2026-08-16",
+    "url": "https://jobs.roush.com/us/en/job/job_20260818113442_PMGSMJJKSFDOAVJK/Automotive-Laboratory-Technician-Co-op-Fall-2026",
+    "date_found": "2026-08-18",
     "disciplines": [],
     "category": "engineering"
   },
@@ -3754,6 +3824,94 @@
   },
   {
     "company": "Zipline",
+    "title": "Global Supply Management Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7891121003",
+    "date_found": "2026-08-18",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Global Supply Management Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7891152003",
+    "date_found": "2026-08-18",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Long Range Platform Embedded Firmware Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7891459003",
+    "date_found": "2026-08-18",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "Zipline",
+    "title": "Long Range Platform Hardware Engineering Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7891460003",
+    "date_found": "2026-08-18",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Material Planning Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7891219003",
+    "date_found": "2026-08-18",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Material Planning Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7891224003",
+    "date_found": "2026-08-18",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Mechanical Engineer Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7865253003",
+    "date_found": "2026-08-18",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Mechanical Engineer Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7866071003",
+    "date_found": "2026-08-18",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
     "title": "Quality & Manufacturing Intern (Fall 2026)",
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7743224003",
@@ -3802,6 +3960,28 @@
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7857074003",
     "date_found": "2026-08-12",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Supplier Industrialization Engineering Intern (Spring 2026)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7891019003",
+    "date_found": "2026-08-18",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Supplier Industrialization Engineering Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7891110003",
+    "date_found": "2026-08-18",
     "disciplines": [
       "2027 Internships"
     ],
