@@ -1,32 +1,5 @@
 [
   {
-    "company": "AAR Corp",
-    "title": "Intern Bd",
-    "location": "Grand Prairie, TX",
-    "url": "https://aarcorp.dejobs.org/grand-prairie-tx/intern-bd/8AFB0CC2651C41FC9D56DCF5347BFB5E/job/",
-    "date_found": "2026-08-17",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "AAR Corp",
-    "title": "Marketing Intern",
-    "location": "Wood Dale, IL",
-    "url": "https://aarcorp.dejobs.org/wood-dale-il/marketing-intern/B527405E3F6F4B5F8B8ACB7C6CDBECB2/job/",
-    "date_found": "2026-08-10",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "ASRC Federal",
-    "title": "Computer Scientist Intern",
-    "location": "Oklahoma City, OK",
-    "url": "https://asrcfederal.dejobs.org/oklahoma-city-ok/computer-scientist-intern/FF5094AC5CB44F1BB128CF8A7BF9C393/job/",
-    "date_found": "2026-08-03",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Aechelon Technology",
     "title": "Junior Software Engineer - Internship",
     "location": "Overland Park, KS",
@@ -370,15 +343,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Co Op Spring Summer or Summer Fall Electrical Engineer onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite",
-    "date_found": "2026-08-18",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "2027 Spring and Summer Mechanical Engineering Coop",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
@@ -406,19 +370,19 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
+    "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
     "date_found": "2026-08-18",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "BAE Systems",
-    "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
-    "date_found": "2026-08-18",
+    "title": "Hardware Engineering Intern",
+    "location": "Manassas, Virginia, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128769BR/Hardware-Engineering-Intern",
+    "date_found": "2026-08-19",
     "disciplines": [],
     "category": "engineering"
   },
@@ -446,6 +410,15 @@
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
     "date_found": "2026-08-12",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
+    "date_found": "2026-08-19",
     "disciplines": [],
     "category": "engineering"
   },
@@ -487,15 +460,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern I Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
-    "date_found": "2026-08-18",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Software Engineering Intern II Summer 2027 Onsite",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128054BR/Software-Engineering-Intern-II-Summer-2027-Onsite",
@@ -509,15 +473,6 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-26",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern IV Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
-    "date_found": "2026-08-18",
     "disciplines": [],
     "category": "software"
   },
@@ -556,6 +511,15 @@
     "date_found": "2026-08-09",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Software Engineering Intern Embedded Systems",
+    "location": "Huntsville, Alabama, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
+    "date_found": "2026-08-19",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "BAE Systems",
@@ -1567,15 +1531,6 @@
   },
   {
     "company": "General Dynamics IT",
-    "title": "2026/2027 Financial Analyst Associate (Intern)",
-    "location": "USA VA Chesapeake",
-    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Chesapeake/XMLNAME-2026-2027-Financial-Analyst-Associate--Intern-_RQ225820-2",
-    "date_found": "2026-08-07",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "General Dynamics IT",
     "title": "Summer 2027 Jr. Research Analyst Internship   ",
     "location": "Any Location / Remote",
     "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/Any-Location--Remote/Summer-2027-Jr-Research-Analyst-Internship---_RQ225881",
@@ -2335,6 +2290,15 @@
   },
   {
     "company": "Michael Baker International",
+    "title": "Federal Planning Internship - Fall 2026",
+    "location": "Moon Township, PA, United States",
+    "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309680",
+    "date_found": "2026-08-19",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Michael Baker International",
     "title": "GIS Intern",
     "location": "KS, United States",
     "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309371",
@@ -2359,6 +2323,15 @@
     "date_found": "2026-08-05",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, IT Computer Science",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378",
+    "date_found": "2026-08-19",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "Moog",
@@ -3035,6 +3008,15 @@
   },
   {
     "company": "RTX",
+    "title": "Stage - Hiver 2027 - Etudiant en droit / Internship - Winter 2027 - Legal student",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Etudiant-en-droit---Internship---Winter-2027---Legal-student_01865040",
+    "date_found": "2026-08-19",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Stage - Hiver 2027 - Gestion de projets et développement d'outils d'analyse en qualité / Internship - Winter 2027 - Quality Project management and data analysis tool development",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-projets-et-dveloppement-d-outils-d-analyse-en-qualit---Internship---Winter-2027---Quality-Project-management-and-data-analysis-tool-development_01863188",
@@ -3341,15 +3323,6 @@
     "category": "engineering"
   },
   {
-    "company": "Sierra Space",
-    "title": "Fall 2026 Mechanical Engineering Intern",
-    "location": "Centennial, CO",
-    "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Fall-2026-Mechanical-Engineering-Intern_R26120",
-    "date_found": "2026-08-14",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Snorkel AI",
     "title": "AI Researcher —  Intern",
     "location": "New York City, NY (Hybrid)",
@@ -3581,60 +3554,6 @@
     "location": "US - Huntsville, AL",
     "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2",
     "date_found": "2026-08-13",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Computer Engineering Intern",
-    "location": "Lincoln, NE",
-    "url": "https://teledynecareers.dejobs.org/lincoln-ne/computer-engineering-intern/085B4F21FF414AEF88D07DA3F960AED5/job/",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Cost Accounting Intern",
-    "location": "Chestnut Ridge, NY",
-    "url": "https://teledynecareers.dejobs.org/chestnut-ridge-ny/cost-accounting-intern/1FCE79E74C114FDEA9315CE1A605CD8B/job/",
-    "date_found": "2026-08-18",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Electrical Engineering Intern",
-    "location": "Miamisburg, OH",
-    "url": "https://teledynecareers.dejobs.org/miamisburg-oh/electrical-engineering-intern/DBA909A6C9F245B79E576BE53FA8126E/job/",
-    "date_found": "2026-08-18",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Mechanical Engineering Intern",
-    "location": "Miamisburg, OH",
-    "url": "https://teledynecareers.dejobs.org/miamisburg-oh/mechanical-engineering-intern/48C058E367C94BE29632C43C7672B321/job/",
-    "date_found": "2026-08-18",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Nhrc Software Engineering Internship Summer 2027",
-    "location": "Huntsville, AL",
-    "url": "https://teledynecareers.dejobs.org/huntsville-al/nhrc-software-engineering-internship-summer-2027/4E7AAE080AE54401BE4B672324E28463/job/",
-    "date_found": "2026-08-18",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Nhrc Software Engineering Internship Summer 2027",
-    "location": "Huntsville, AL",
-    "url": "https://teledynecareers.dejobs.org/huntsville-al/nhrc-software-engineering-internship-summer-2027/DCA85751AC384A7B86E47C4756A4917D/job/",
-    "date_found": "2026-08-18",
     "disciplines": [],
     "category": "software"
   },
@@ -4002,6 +3921,17 @@
   },
   {
     "company": "Zipline",
+    "title": "Aerodynamics Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7904002003",
+    "date_found": "2026-08-19",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
     "title": "Community Engagement Intern (Spring 2027)",
     "location": "Austin, Texas, USA; Dallas-Fort Worth, Texas, USA; Los Angeles, California, USA; Phoenix, Arizona, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7867044003",
@@ -4032,6 +3962,50 @@
       "2027 Internships"
     ],
     "category": "non-engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Controls Engineer Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7903823003",
+    "date_found": "2026-08-19",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Controls Engineer Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7903889003",
+    "date_found": "2026-08-19",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Electrical Engineer Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7903708003",
+    "date_found": "2026-08-19",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Electrical Engineer Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7903711003",
+    "date_found": "2026-08-19",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
   },
   {
     "company": "Zipline",
@@ -4076,6 +4050,28 @@
       "2027 Internships"
     ],
     "category": "non-engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Hardware Test Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7894349003",
+    "date_found": "2026-08-19",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Hardware Test Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7903483003",
+    "date_found": "2026-08-19",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
   },
   {
     "company": "Zipline",
@@ -4274,5 +4270,16 @@
       "2026 Internships"
     ],
     "category": "non-engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Video Production and Social Media Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7896577003",
+    "date_found": "2026-08-19",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
   }
 ]
