@@ -397,15 +397,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
-    "date_found": "2026-08-19",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
@@ -518,15 +509,6 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-26",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern IV Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
-    "date_found": "2026-08-19",
     "disciplines": [],
     "category": "software"
   },
@@ -1584,15 +1566,6 @@
     "category": "engineering"
   },
   {
-    "company": "General Dynamics IT",
-    "title": "Summer 2027 Software Development Internship",
-    "location": "USA VA Falls Church",
-    "url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237-1",
-    "date_found": "2026-08-20",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
     "company": "GlobalFoundries",
     "title": "2H University Intern - Clean Tech Engineering Module",
     "location": "SGP - Woodlands",
@@ -2209,6 +2182,15 @@
   },
   {
     "company": "Leidos",
+    "title": "Robotics Engineer Intern",
+    "location": "Huntsville, AL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Robotics-Engineer-Intern_R-00190159",
+    "date_found": "2026-08-20",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Leidos",
     "title": "Transportation Engineering Lab Intern",
     "location": "McLean, VA",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Transportation-Engineering-Lab-Intern_R-00189519",
@@ -2384,6 +2366,15 @@
     "location": "Carlsbad, CA, United States",
     "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309682",
     "date_found": "2026-08-19",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Michael Baker International",
+    "title": "Planning Intern",
+    "location": "San Diego, CA, United States",
+    "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309688",
+    "date_found": "2026-08-20",
     "disciplines": [],
     "category": "engineering"
   },
@@ -3313,6 +3304,17 @@
   },
   {
     "company": "Shield AI",
+    "title": "Associate Facilities Coordinator (R5534)",
+    "location": "Kyiv",
+    "url": "https://jobs.lever.co/shieldai/ce904fcd-f35e-4f69-8544-26178c18e956",
+    "date_found": "2026-08-20",
+    "disciplines": [
+      "Facilities"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Shield AI",
     "title": "Associate Facilities Coordinator (R5567)",
     "location": "Lviv",
     "url": "https://jobs.lever.co/shieldai/7122f5bf-e6fb-40e1-8fd1-084655a0657b",
@@ -3409,6 +3411,17 @@
       "Integration & Test"
     ],
     "category": "software"
+  },
+  {
+    "company": "Shield AI",
+    "title": "Staff Solutions Engineer (R5632)",
+    "location": "Athens",
+    "url": "https://jobs.lever.co/shieldai/ad1ca43e-93d8-4953-900e-4a0ad8cbcca4",
+    "date_found": "2026-08-20",
+    "disciplines": [
+      "Sales Solutions Engineering"
+    ],
+    "category": "engineering"
   },
   {
     "company": "Shield AI",
@@ -4236,6 +4249,17 @@
   },
   {
     "company": "Zipline",
+    "title": "Maintenance Tool Engineering Intern (Spring 2027)",
+    "location": "Esparto, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7909945003",
+    "date_found": "2026-08-20",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
     "title": "Material Planning Intern (Spring 2027)",
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7891219003",
@@ -4332,6 +4356,17 @@
       "2027 Internships"
     ],
     "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Software Engineer Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7907191003",
+    "date_found": "2026-08-20",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "software"
   },
   {
     "company": "Zipline",
