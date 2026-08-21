@@ -339,17 +339,6 @@
   },
   {
     "company": "Astranis",
-    "title": "Software Engineer- Backend Intern (Fall 2026)",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4681183006",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Software Internships"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "Astranis",
     "title": "Technical Project Management Intern (Fall 2026)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4693670006",
@@ -385,6 +374,24 @@
     "date_found": "2026-08-18",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Competitive Intelligence Intern II Summer 2027 Remote",
+    "location": "Endicott, New York, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128916BR/Competitive-Intelligence-Intern-II-Summer-2027-Remote",
+    "date_found": "2026-08-21",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Corporate Legal Intern IV Fall 2026 Hybrid",
+    "location": "Arlington, Virginia, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128841BR/Corporate-Legal-Intern-IV-Fall-2026-Hybrid",
+    "date_found": "2026-08-21",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "BAE Systems",
@@ -523,15 +530,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Supply Chain Intern II Summer 2027 Hybrid",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127992BR/Supply-Chain-Intern-II-Summer-2027-Hybrid",
-    "date_found": "2026-08-20",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Systems Engineering Intern II Summer 2027 NH Onsite",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128225BR/Systems-Engineering-Intern-II-Summer-2027-NH-Onsite",
@@ -556,15 +554,6 @@
     "date_found": "2026-08-20",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Technical Intern 3 RF Microwave Engineer Summer 2027",
-    "location": "Westminster, Colorado, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128217BR/Technical-Intern-3-RF-Microwave-Engineer-Summer-2027",
-    "date_found": "2026-08-18",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "BWX Technologies",
@@ -1013,15 +1002,6 @@
     "location": "US-PA-Cheswick (EMD)",
     "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-PA-Cheswick-EMD/Co-op--Summer-Term-_JR4041",
     "date_found": "2026-05-17",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Curtiss-Wright",
-    "title": "Co-op/Intern",
-    "location": "US-OH-Cincinnati (Nuclear)",
-    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-OH-Cincinnati-Nuclear/Co-op-Intern_JR13343",
-    "date_found": "2026-08-20",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2389,21 +2369,21 @@
   },
   {
     "company": "Moog",
+    "title": "Intern, Electrical Engineering",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-19569",
+    "date_found": "2026-08-21",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Moog",
     "title": "Intern, IT Computer Science",
     "location": "Buffalo, NY",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378",
     "date_found": "2026-08-19",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "Moog",
-    "title": "Intern, Industrial Engineering",
-    "location": "Buffalo, NY",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319",
-    "date_found": "2026-08-07",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "Moog",
@@ -2972,15 +2952,6 @@
   },
   {
     "company": "RTX",
-    "title": "Co-Op: Aftermarket Engineer",
-    "location": "US-MI-LANSING-PLANT 1 ~ 5640 Enterprise Dr ~ PLANT 1",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MI-LANSING-PLANT-1--5640-Enterprise-Dr--PLANT-1/Co-Op--Aftermarket-Engineer_01865164",
-    "date_found": "2026-08-18",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
     "title": "Customer Portal Administration Intern- 1st shift- Avionics",
     "location": "MX-BCN-MEXICALI-496 ~ Calzada Manuel Gomez Morin #3200 ~ CALZADA",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-496--Calzada-Manuel-Gomez-Morin-3200--CALZADA/Customer-Portal-Administration-Intern--1st-shift--Avionics_01863435",
@@ -3068,6 +3039,15 @@
     "date_found": "2026-08-17",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Analyste financier en ingénierie (Power BI) / Internship - Winter 2027 - Engineering Finance Analyst (Power BI)",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-financier-en-ingnierie--Power-BI----Internship---Winter-2027---Engineering-Finance-Analyst--Power-BI-_01863107",
+    "date_found": "2026-08-21",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "RTX",
@@ -3161,6 +3141,15 @@
   },
   {
     "company": "RTX",
+    "title": "Stage Hiver 2027 - Analyste financier - Trésorerie / Internship Winter 2027 - Finance Analyst - Treasury",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027---Analyste-financier---Trsorerie---Internship-Winter-2027---Finance-Analyst---Treasury_01864403",
+    "date_found": "2026-08-21",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Stage Hiver 2027 - Enquêteur Technique / Internship Winter 2027 - Technical Investigator",
     "location": "CA-QC-SAINT HUBERT-H05 ~ 7007 Chemin De La Savane ~ BLDG H05 FACTORY",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage-Hiver-2027---Enquteur-Technique---Internship-Winter-2027---Technical-Investigator_01866082",
@@ -3193,6 +3182,17 @@
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Stress-Intern---1st-Shift---On-site---Aeroestructuras_01842613-1",
     "date_found": "2026-08-17",
     "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Re:Build Manufacturing",
+    "title": "Mechanical Engineering Intern",
+    "location": "Merrimack, NH",
+    "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4554542005",
+    "date_found": "2026-08-21",
+    "disciplines": [
+      "Engineering"
+    ],
     "category": "engineering"
   },
   {
@@ -3277,6 +3277,15 @@
     "location": "Allen Park, MI",
     "url": "https://jobs.roush.com/us/en/job/job_20260715121713_4P26ANOTBMMRTELY/Powertrain-Development-Engineering-Internship-Fall-2026",
     "date_found": "2026-08-16",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "SAIC",
+    "title": "Site Support Intern",
+    "location": "El Segundo, CA, United States",
+    "url": "https://jobs.saic.com/jobs/18145975-site-support-intern",
+    "date_found": "2026-08-21",
     "disciplines": [],
     "category": "engineering"
   },
@@ -3432,15 +3441,6 @@
     "disciplines": [
       "Integration & Test"
     ],
-    "category": "engineering"
-  },
-  {
-    "company": "Sierra Nevada Corporation",
-    "title": "Mechanical Engineer Co-Op (For SNC Summer 2026 Intern Only)",
-    "location": "Remote",
-    "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Remote/Mechanical-Engineer-Co-Op--For-SNC-Summer-2026-Intern-Only-_R0030555",
-    "date_found": "2026-08-17",
-    "disciplines": [],
     "category": "engineering"
   },
   {
@@ -3610,15 +3610,6 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Teledyne FLIR",
-    "title": "Cost Accounting Intern",
-    "location": "US - Chestnut Ridge, NY",
-    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Cost-Accounting-Intern_REQ35565",
-    "date_found": "2026-08-11",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "Teledyne FLIR",
@@ -3797,15 +3788,6 @@
     "location": "Fort Worth, TX",
     "url": "https://careers.textron.com/fort-worth-tx/turning-mach-opr-machinist-intern-dsc-1st-shift/046F6F930CCE47369BF1CE4EC2898CEB/job/",
     "date_found": "2026-07-26",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "The Aerospace Corporation",
-    "title": "2026 AFRL System Engineer Graduate Intern",
-    "location": "Kirtland AFB, NM",
-    "url": "https://aero.wd5.myworkdayjobs.com/External/job/Kirtland-AFB-NM/XMLNAME-2026-AFRL-System-Engineer-Graduate-Intern_R016128",
-    "date_found": "2026-08-19",
     "disciplines": [],
     "category": "engineering"
   },
@@ -4062,6 +4044,39 @@
   },
   {
     "company": "Zipline",
+    "title": "Applications Engineer Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7909946003",
+    "date_found": "2026-08-21",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Civil and Structural Engineer Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7904457003",
+    "date_found": "2026-08-21",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Civil and Structural Engineer Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7920472003",
+    "date_found": "2026-08-21",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
     "title": "Community Engagement Intern (Spring 2027)",
     "location": "Austin, Texas, USA; Dallas-Fort Worth, Texas, USA; Los Angeles, California, USA; Phoenix, Arizona, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7867044003",
@@ -4260,6 +4275,17 @@
   },
   {
     "company": "Zipline",
+    "title": "Maintenance Tool Engineering Intern (Summer 2027)",
+    "location": "Esparto, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7918888003",
+    "date_found": "2026-08-21",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
     "title": "Material Planning Intern (Spring 2027)",
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7891219003",
@@ -4297,6 +4323,28 @@
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7866071003",
     "date_found": "2026-08-18",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Operations Experience Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7920394003",
+    "date_found": "2026-08-21",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Operations Experience Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7920615003",
+    "date_found": "2026-08-21",
     "disciplines": [
       "2027 Internships"
     ],
