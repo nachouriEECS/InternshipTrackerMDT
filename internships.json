@@ -368,6 +368,24 @@
   },
   {
     "company": "BAE Systems",
+    "title": "2027 Spring and Summer Mechanical Engineering Coop",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+    "date_found": "2026-08-22",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Chemical Engineering Co Op Student Year Round",
+    "location": "Kingsport, Tennessee, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127274BR/Chemical-Engineering-Co-Op-Student-Year-Round",
+    "date_found": "2026-08-22",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Competitive Intelligence Intern II Summer 2027 Remote",
     "location": "Endicott, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128916BR/Competitive-Intelligence-Intern-II-Summer-2027-Remote",
@@ -404,12 +422,30 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
+    "date_found": "2026-08-22",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Hardware Engineering Intern",
     "location": "Manassas, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128769BR/Hardware-Engineering-Intern",
     "date_found": "2026-08-21",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Intellectual Property Legal Intern IV Fall 2026 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127771BR/Intellectual-Property-Legal-Intern-IV-Fall-2026-Hybrid",
+    "date_found": "2026-08-22",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "BAE Systems",
@@ -464,15 +500,6 @@
     "date_found": "2026-07-28",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern I Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
-    "date_found": "2026-08-19",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "BAE Systems",
@@ -1637,6 +1664,15 @@
   },
   {
     "company": "GlobalFoundries",
+    "title": "Advanced Manufacturing Process Engineering Intern (Summer 2027)",
+    "location": "USA - Vermont - Essex Junction",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659",
+    "date_found": "2026-08-22",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
     "title": "Associate Engineering Intern, CVD Equipment (Diploma)",
     "location": "SGP - Woodlands",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Associate-Engineering-Intern--CVD-Equipment--Diploma-_JR-2502738-1",
@@ -1839,15 +1875,6 @@
     "location": "SGP - Woodlands",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Power-Development-Intern--Jan---Jun-2027-_JR-2604404",
     "date_found": "2026-08-17",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "Production Control Engineering Intern",
-    "location": "USA - New York - Malta",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technology-Development-Engineering-Intern--ULP-CMOS_JR-2503682",
-    "date_found": "2026-08-20",
     "disciplines": [],
     "category": "engineering"
   },
@@ -3421,6 +3448,15 @@
     "location": "Allen Park, MI",
     "url": "https://jobs.roush.com/us/en/job/job_20260715121713_4P26ANOTBMMRTELY/Powertrain-Development-Engineering-Internship-Fall-2026",
     "date_found": "2026-08-16",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "SAIC",
+    "title": "Site Support Intern",
+    "location": "El Segundo, CA, United States",
+    "url": "https://jobs.saic.com/jobs/18145975-site-support-intern",
+    "date_found": "2026-08-22",
     "disciplines": [],
     "category": "engineering"
   },
