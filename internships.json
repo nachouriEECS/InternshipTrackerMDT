@@ -368,6 +368,24 @@
   },
   {
     "company": "BAE Systems",
+    "title": "2027 Spring and Summer Mechanical Engineering Coop",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+    "date_found": "2026-08-23",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Chemical Engineering Co Op Student Year Round",
+    "location": "Kingsport, Tennessee, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127274BR/Chemical-Engineering-Co-Op-Student-Year-Round",
+    "date_found": "2026-08-23",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Competitive Intelligence Intern II Summer 2027 Remote",
     "location": "Endicott, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128916BR/Competitive-Intelligence-Intern-II-Summer-2027-Remote",
@@ -395,10 +413,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
-    "date_found": "2026-08-21",
+    "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
+    "date_found": "2026-08-23",
     "disciplines": [],
     "category": "engineering"
   },
@@ -410,6 +428,15 @@
     "date_found": "2026-08-21",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Intellectual Property Legal Intern IV Fall 2026 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127771BR/Intellectual-Property-Legal-Intern-IV-Fall-2026-Hybrid",
+    "date_found": "2026-08-23",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "BAE Systems",
@@ -467,15 +494,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern I Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
-    "date_found": "2026-08-22",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Software Engineering Intern II Summer 2027 Onsite",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128054BR/Software-Engineering-Intern-II-Summer-2027-Onsite",
@@ -494,21 +512,21 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern IV Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
-    "date_found": "2026-08-21",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Software Engineering Intern On Site Winter 2026",
     "location": "Rome, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128887BR/Software-Engineering-Intern-On-Site-Winter-2026",
     "date_found": "2026-08-18",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Supply Chain Intern II Summer 2027 Hybrid",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127992BR/Supply-Chain-Intern-II-Summer-2027-Hybrid",
+    "date_found": "2026-08-23",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "BAE Systems",
@@ -1945,42 +1963,6 @@
     "category": "engineering"
   },
   {
-    "company": "Idaho National Laboratory",
-    "title": "Graduate Internship – Operations and Strategy Management",
-    "location": "Idaho Falls, ID, United States",
-    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/1103",
-    "date_found": "2026-08-04",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Idaho National Laboratory",
-    "title": "Graduate Research Assistant Internship – Science and Technology",
-    "location": "Idaho Falls, ID, United States",
-    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/1098",
-    "date_found": "2026-08-04",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Idaho National Laboratory",
-    "title": "Undergraduate Internship - Operations and Strategy Management",
-    "location": "Idaho Falls, ID, United States",
-    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/1102",
-    "date_found": "2026-08-04",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Idaho National Laboratory",
-    "title": "Undergraduate Research Assistant Internship - Science and Technology",
-    "location": "Idaho Falls, ID, United States",
-    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/1014",
-    "date_found": "2026-08-04",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "L3Harris",
     "title": "Contracts Intern",
     "location": "Waco, TX",
@@ -3407,15 +3389,6 @@
     "category": "engineering"
   },
   {
-    "company": "SAIC",
-    "title": "Site Support Intern",
-    "location": "El Segundo, CA, United States",
-    "url": "https://jobs.saic.com/jobs/18145975-site-support-intern",
-    "date_found": "2026-08-22",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Scale AI",
     "title": "AI Builder Intern",
     "location": "San Francisco, CA",
@@ -3775,6 +3748,15 @@
   },
   {
     "company": "Textron",
+    "title": "2026 Fall Accounting Intern",
+    "location": "Augusta, GA",
+    "url": "https://careers.textron.com/augusta-ga/2026-fall-accounting-intern/A086E5F1414C4D38A4E03CF60659B0AB/job/",
+    "date_found": "2026-08-23",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Textron",
     "title": "2026 Fall Co Op Hr Piney Flats Tn",
     "location": "Piney Flats, TN",
     "url": "https://careers.textron.com/piney-flats-tn/2026-fall-co-op-hr-piney-flats-tn/809922FAB86D420F9CBCBCE6EAD8C699/job/",
@@ -3820,46 +3802,73 @@
   },
   {
     "company": "Textron",
-    "title": "2026 Fall Human Resources Intern",
+    "title": "2026 Fall Human Resources Compliance Intern",
     "location": "Augusta, GA",
-    "url": "https://careers.textron.com/augusta-ga/2026-fall-human-resources-intern/BB74BDD1904C436182CF23826BE61590/job/",
-    "date_found": "2026-08-02",
+    "url": "https://careers.textron.com/augusta-ga/2026-fall-human-resources-compliance-intern/3B86A2CC295F473BAF1BB7CDF8A2CBED/job/",
+    "date_found": "2026-08-23",
     "disciplines": [],
     "category": "non-engineering"
   },
   {
     "company": "Textron",
-    "title": "Gear Cut Grind Machinist Intern Dsc 1St Shift",
-    "location": "Fort Worth, TX",
-    "url": "https://careers.textron.com/fort-worth-tx/gear-cut-grind-machinist-intern-dsc-1st-shift/9D7A88C4FDE0480791E3DC2ACD354BEB/job/",
-    "date_found": "2026-06-14",
+    "title": "Fall Co Op Aes Mechanical Installations Engineer",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/fall-co-op-aes-mechanical-installations-engineer/D4575A5F4D0B4960998BDB573537CDAE/job/",
+    "date_found": "2026-08-23",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "Textron",
-    "title": "Gear Cut Grind Machinist Intern Dsc 1St Shift",
-    "location": "Fort Worth, TX",
-    "url": "https://careers.textron.com/fort-worth-tx/gear-cut-grind-machinist-intern-dsc-1st-shift/ACD6962B52814E0DBB6FBB5F1BDA8050/job/",
-    "date_found": "2026-07-26",
+    "title": "Fall Co Op Aftermarket Modifications Engineer",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/fall-co-op-aftermarket-modifications-engineer/F8D754AD6E9E4E8D874C8A8CEC8AE30D/job/",
+    "date_found": "2026-08-23",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "Textron",
-    "title": "Gear Cut Grind Machinist Intern Dsc 1St Shift",
-    "location": "Fort Worth, TX",
-    "url": "https://careers.textron.com/fort-worth-tx/gear-cut-grind-machinist-intern-dsc-1st-shift/EF6A8CDF29A34AD898D0AEA85887715E/job/",
-    "date_found": "2026-07-26",
+    "title": "Fall Co Op Configuration Analyst",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/fall-co-op-configuration-analyst/445EC1A41A1342B6AE48E8028C39BABF/job/",
+    "date_found": "2026-08-23",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "Fall Co Op Design Engineer Advanced Design",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/fall-co-op-design-engineer-advanced-design/4F9BE716966C4142A4114A0F790E85EF/job/",
+    "date_found": "2026-08-23",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "Textron",
-    "title": "Gear Cut Grind Machinist Intern Dsc 3Rd Shift",
-    "location": "Fort Worth, TX",
-    "url": "https://careers.textron.com/fort-worth-tx/gear-cut-grind-machinist-intern-dsc-3rd-shift/4B026F1BEE7E4A4994E1B8653AECE534/job/",
-    "date_found": "2026-07-26",
+    "title": "Fall Co Op Design Engineer Sustaining",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/fall-co-op-design-engineer-sustaining/0A0DE35E0A54406AB4140DA748F28FB0/job/",
+    "date_found": "2026-08-23",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "Fall Co Op Sustainability Analyst",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/fall-co-op-sustainability-analyst/F198D22665AE484BA3986312AF2AE703/job/",
+    "date_found": "2026-08-23",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "Fall Co Op Technical Publications Engineer Defense Special Missions",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/fall-co-op-technical-publications-engineer-defense-special-missions/1AA0A4974C214F17A74019CB75891018/job/",
+    "date_found": "2026-08-23",
     "disciplines": [],
     "category": "engineering"
   },
@@ -3868,15 +3877,6 @@
     "title": "Grinder Production Machinist Intern 1St Shift Dsc",
     "location": "Fort Worth, TX",
     "url": "https://careers.textron.com/fort-worth-tx/grinder-production-machinist-intern-1st-shift-dsc/1EEAE7212D03411EA46684E44080C8C9/job/",
-    "date_found": "2026-07-26",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Textron",
-    "title": "Grinder Production Machinist Intern 1St Shift Dsc",
-    "location": "Fort Worth, TX",
-    "url": "https://careers.textron.com/fort-worth-tx/grinder-production-machinist-intern-1st-shift-dsc/66F59BAB59054A319459D74BE4D7FFFA/job/",
     "date_found": "2026-07-26",
     "disciplines": [],
     "category": "engineering"
@@ -3896,15 +3896,6 @@
     "location": "Fort Worth, TX",
     "url": "https://careers.textron.com/fort-worth-tx/grinder-production-machinist-intern-3rd-shift-dsc/4F9B0E2FD0494D5CA9451522B83D00D3/job/",
     "date_found": "2026-07-26",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Textron",
-    "title": "Metallurgy Co Op Muskegon Mi",
-    "location": "Muskegon, MI",
-    "url": "https://careers.textron.com/muskegon-mi/metallurgy-co-op-muskegon-mi/3484DFB6DAD4443B8AF96D30763486E8/job/",
-    "date_found": "2026-05-17",
     "disciplines": [],
     "category": "engineering"
   },
