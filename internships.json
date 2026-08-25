@@ -420,15 +420,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Hardware Engineering Intern",
-    "location": "Manassas, Virginia, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128769BR/Hardware-Engineering-Intern",
-    "date_found": "2026-08-21",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Intellectual Property Legal Intern IV Fall 2026 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127771BR/Intellectual-Property-Legal-Intern-IV-Fall-2026-Hybrid",
@@ -451,15 +442,6 @@
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
     "date_found": "2026-08-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
-    "date_found": "2026-08-21",
     "disciplines": [],
     "category": "engineering"
   },
@@ -489,6 +471,15 @@
     "date_found": "2026-07-28",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern I Summer 2027",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "BAE Systems",
@@ -543,15 +534,6 @@
     "date_found": "2026-08-09",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Systems Software Engineering Intern Embedded Systems",
-    "location": "Huntsville, Alabama, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
-    "date_found": "2026-08-21",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "BWX Technologies",
@@ -1877,15 +1859,6 @@
     "category": "engineering"
   },
   {
-    "company": "HII",
-    "title": "Mission Assurance/COOP Support",
-    "location": "Fort Meade, MD, Maryland, United States",
-    "url": "https://jobs.hii-tsd.com/job/Fort-Meade%2C-MD-Mission-AssuranceCOOP-Support-Mary/1395247100/",
-    "date_found": "2026-08-24",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Hermeus",
     "title": "Flight Software Engineering Intern - Fall 2026",
     "location": "Atlanta, GA",
@@ -2259,6 +2232,15 @@
     "category": "non-engineering"
   },
   {
+    "company": "MIT Lincoln Laboratory",
+    "title": "Rapid Prototyping Aero/Mech Co-Op (Fall 2026) - Group 77",
+    "location": "Lexington, MA, US",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Rapid-Prototyping-AeroMech-Co-Op-%28Fall-2026%29-Group-77-MA-02420/1423005300/",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "MITRE",
     "title": "AI ML Intern",
     "location": "Honolulu, Hawaii, United States of America",
@@ -2349,6 +2331,15 @@
     "category": "engineering"
   },
   {
+    "company": "Moog",
+    "title": "Intern, Hardware Engineering",
+    "location": "Mineral Wells, TX",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "North Wind Systems",
     "title": "Structural Engineering Intern 04206 LBYD",
     "location": "HUNTSVILLE, AL",
@@ -2407,6 +2398,15 @@
     "title": "2027 Software Engineering Intern- Huntsville AL",
     "location": "United States-Alabama-Huntsville",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2027 Software Test Engineering Intern- Huntsville AL",
+    "location": "United States-Alabama-Huntsville",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487",
     "date_found": "2026-08-25",
     "disciplines": [],
     "category": "software"
@@ -2996,10 +2996,10 @@
   },
   {
     "company": "RTX",
-    "title": "Stage - Automne - Stagiaire Ressources Humaines /Internship - Fall - HR Internship",
+    "title": "Stage - COOP Superviseur maintenance des bancs d'essais - Hiver 2027 | Internship -   COOP supervisor at Test Facilities Maintenance - Winter 2027",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne---Stagiaire-Ressources-Humaines--Internship---Fall---HR-Internship_01850296",
-    "date_found": "2026-08-17",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---COOP-Superviseur-maintenance-des-bancs-d-essais---Hiver-2027---Internship-----COOP-supervisor-at-Test-Facilities-Maintenance---Winter-2027_01867651",
+    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -3234,6 +3234,15 @@
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Spcialiste-en-amlioration-des-procds--Leasco---Internship---Fall-2026---Process-Improvement-Specialist--Leasco_01847320",
     "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027-Stagiaire Instrumentation/Internship - Winter 2027-Instrumentation",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027-Stagiaire-Instrumentation-Internship---Winter-2027-Instrumentation_01868397",
+    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "engineering"
   },
@@ -3636,17 +3645,6 @@
       "Applications Engineering"
     ],
     "category": "engineering"
-  },
-  {
-    "company": "Shield AI",
-    "title": "Senior Bid Manager",
-    "location": "Athens",
-    "url": "https://jobs.lever.co/shieldai/9b3d05a1-dfd9-4da3-bf64-fed45e620047",
-    "date_found": "2026-07-23",
-    "disciplines": [
-      "Business Development"
-    ],
-    "category": "non-engineering"
   },
   {
     "company": "Shield AI",
