@@ -402,6 +402,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
@@ -483,15 +492,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software Engineering Intern I Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
-    "date_found": "2026-08-24",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Software Engineering Intern II Summer 2027 Onsite",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128054BR/Software-Engineering-Intern-II-Summer-2027-Onsite",
@@ -505,6 +505,15 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern IV Summer 2027 Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
+    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "software"
   },
@@ -858,15 +867,6 @@
     "date_found": "2026-08-10",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Booz Allen Hamilton",
-    "title": "Software Engineer - Intern",
-    "location": "2 Locations",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218",
-    "date_found": "2026-08-24",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "CACI International",
@@ -1626,39 +1626,21 @@
   },
   {
     "company": "GlobalFoundries",
-    "title": "Associate Engineering Intern, CVD Equipment (Diploma)",
-    "location": "SGP - Woodlands",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Associate-Engineering-Intern--CVD-Equipment--Diploma-_JR-2502738-1",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "Associate Engineering Intern, Tapeout Integration (Diploma)",
-    "location": "SGP - Woodlands",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Associate-Engineering-Intern--Tapeout-Integration--Diploma-_JR-2502737",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "Associate Process Engineer Intern, Lithography (Diploma)",
-    "location": "SGP - Woodlands",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Associate-Process-Engineer-Intern--Lithography--Diploma-_JR-2502702",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "GlobalFoundries",
     "title": "Corporate Communications Intern (APAC) (Jan-Jun 2027)",
     "location": "SGP - Woodlands",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Corporate-Communications-Intern--APAC---Jan-2027-to-Jun-2027-_JR-2604212",
     "date_found": "2026-08-14",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Cybersecurity Intern (Summer 2027)",
+    "location": "USA - New York - Malta",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "GlobalFoundries",
@@ -1702,6 +1684,24 @@
     "location": "SGP - Woodlands",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Environmental---Sustainability-Intern_JR-2604232",
     "date_found": "2026-08-19",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Environmental Health & Safety Intern (Summer 2027)",
+    "location": "USA - Vermont - Essex Junction",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Environmental-Health---Safety-Intern--Summer-2027-_JR-2604242",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Environmental Intern (Summer 2027)",
+    "location": "USA - New York - Malta",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Environmental-Intern--Summer-2027-_JR-2604241",
+    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1837,6 +1837,15 @@
     "location": "SGP - Woodlands",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Power-Technology-Development-Integration-Intern--Jan-Jun-2027-_JR-2604405",
     "date_found": "2026-08-24",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Supply Chain Materials Management Intern (Jan-Jun 2027)",
+    "location": "SGP - Woodlands",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Supply-Chain-Materials-Management-Intern--Jan-Jun-2027-_JR-2604470",
+    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2005,6 +2014,17 @@
     "category": "engineering"
   },
   {
+    "company": "Kodiak Robotics",
+    "title": "Winter 2027 Intern, Simulation",
+    "location": "Mountain View, CA",
+    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4378662009",
+    "date_found": "2026-08-25",
+    "disciplines": [
+      "Internships"
+    ],
+    "category": "engineering"
+  },
+  {
     "company": "L3Harris",
     "title": "Contracts Intern",
     "location": "Waco, TX",
@@ -2015,12 +2035,21 @@
   },
   {
     "company": "L3Harris",
-    "title": "Intern D, Network Control",
-    "location": "Melbourne, FL",
-    "url": "https://careers.l3harris.com/en/job/melbourne/intern-d-network-control/4832/99409231872",
-    "date_found": "2026-08-18",
+    "title": "Intern  Program Finance",
+    "location": "Northampton, MA",
+    "url": "https://careers.l3harris.com/en/job/northampton/intern-program-finance/4832/99693730272",
+    "date_found": "2026-08-25",
     "disciplines": [],
-    "category": "engineering"
+    "category": "non-engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern C, Finance",
+    "location": "Herndon, VA",
+    "url": "https://careers.l3harris.com/en/job/herndon/intern-c-finance/4832/99693730224",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "L3Harris",
@@ -2028,6 +2057,15 @@
     "location": "Remote",
     "url": "https://careers.l3harris.com/en/job/united-states/intern-e-communications/4832/99454394832",
     "date_found": "2026-08-19",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern, Configuration Management",
+    "location": "Waco, TX",
+    "url": "https://careers.l3harris.com/en/job/waco/intern-configuration-management/4832/99693730368",
+    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -2042,28 +2080,19 @@
   },
   {
     "company": "L3Harris",
-    "title": "Intern, Info Security Systems Engineer",
-    "location": "Greenville, TX",
-    "url": "https://careers.l3harris.com/en/job/greenville/intern-info-security-systems-engineer/4832/99409232272",
-    "date_found": "2026-08-18",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "L3Harris",
     "title": "Intern, Manufacturing Engineer",
-    "location": "Millersville, MD",
-    "url": "https://careers.l3harris.com/en/job/millersville/intern-manufacturing-engineer/4832/99372979488",
-    "date_found": "2026-08-18",
+    "location": "Salt Lake City, UT",
+    "url": "https://careers.l3harris.com/en/job/salt-lake-city/intern-manufacturing-engineer/4832/99701648432",
+    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "L3Harris",
-    "title": "Intern, Maritime Sector Strategy",
-    "location": "Palm Bay, Brevard, FL",
-    "url": "https://careers.l3harris.com/en/job/palm-bay/intern-maritime-sector-strategy/4832/99372978784",
-    "date_found": "2026-08-18",
+    "title": "Intern, Production Planning",
+    "location": "Northampton, MA",
+    "url": "https://careers.l3harris.com/en/job/northampton/intern-production-planning/4832/99693729936",
+    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2087,24 +2116,6 @@
   },
   {
     "company": "L3Harris",
-    "title": "Intern, Supply Chain Mgmt",
-    "location": "Greenville, TX",
-    "url": "https://careers.l3harris.com/en/job/greenville/intern-supply-chain-mgmt/4832/99372977744",
-    "date_found": "2026-08-18",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "L3Harris",
-    "title": "Intern, Supply Chain Program Management",
-    "location": "Millersville, MD",
-    "url": "https://careers.l3harris.com/en/job/millersville/intern-supply-chain-program-management/4832/99333898784",
-    "date_found": "2026-08-17",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "L3Harris",
     "title": "Intern, Systems Engineer",
     "location": "Waco, TX",
     "url": "https://careers.l3harris.com/en/job/waco/intern-systems-engineer/4832/99403546960",
@@ -2118,6 +2129,15 @@
     "location": "Greenville, TX",
     "url": "https://careers.l3harris.com/en/job/greenville/intern-systems-engineer/4832/99409232256",
     "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern, Systems Engineer",
+    "location": "Palm Bay, Brevard, FL",
+    "url": "https://careers.l3harris.com/en/job/palm-bay/intern-systems-engineer/4832/99693730336",
+    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2138,15 +2158,6 @@
     "date_found": "2026-08-18",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "Leidos",
-    "title": "Transportation Engineering Lab Intern",
-    "location": "McLean, VA",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/McLean-VA/Transportation-Engineering-Lab-Intern_R-00189519",
-    "date_found": "2026-08-20",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "MIT Lincoln Laboratory",
@@ -2338,15 +2349,6 @@
     "category": "engineering"
   },
   {
-    "company": "Moog",
-    "title": "Intern, Quality",
-    "location": "Buffalo, NY",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Quality_R-26-19130",
-    "date_found": "2026-08-18",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "North Wind Systems",
     "title": "Structural Engineering Intern 04206 LBYD",
     "location": "HUNTSVILLE, AL",
@@ -2361,6 +2363,15 @@
     "location": "United States-Virginia-Dulles",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322",
     "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2027 Intern - Systems Engineering",
+    "location": "United States-Florida-Melbourne",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434",
+    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2388,6 +2399,33 @@
     "location": "United States-Florida-Melbourne",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
     "date_found": "2026-08-06",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2027 Software Engineering Intern- Huntsville AL",
+    "location": "United States-Alabama-Huntsville",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2027 Software Test Engineering Intern- Huntsville AL",
+    "location": "United States-Alabama-Huntsville",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247485",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2027 Software Test Engineering Intern- Huntsville AL",
+    "location": "United States-Alabama-Huntsville",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
+    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "software"
   },
@@ -3569,7 +3607,7 @@
   {
     "company": "Shield AI",
     "title": "Electrical Engineering Spring Co-op (January 2027) (R4475)",
-    "location": "Dallas, Texas",
+    "location": "Seattle, Washington",
     "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724",
     "date_found": "2026-07-09",
     "disciplines": [
@@ -4219,6 +4257,15 @@
     "category": "engineering"
   },
   {
+    "company": "Woodward",
+    "title": "Internship- Software Engineer",
+    "location": "2 Locations",
+    "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Centrum-PL/Internship--Software-Engineer_JR112949",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
     "company": "Yulista",
     "title": "Technician Apprentice Internship",
     "location": "TFOME1 - OH - Glenn Research Center at Lewis Field",
@@ -4534,6 +4581,17 @@
       "2027 Internships"
     ],
     "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Marketing Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7968519003",
+    "date_found": "2026-08-25",
+    "disciplines": [
+      "2026 Internships"
+    ],
+    "category": "non-engineering"
   },
   {
     "company": "Zipline",
