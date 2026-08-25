@@ -22,6 +22,24 @@
     "category": "software"
   },
   {
+    "company": "AeroVironment",
+    "title": "Business Development Intern",
+    "location": "Germantown, MD",
+    "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Germantown-MD/Business-Development-Intern_8539",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "AeroVironment",
+    "title": "Mechanical Engineering Intern",
+    "location": "Sunrise, FL",
+    "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Mechanical-Engineering-Intern_8472",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Airbus",
     "title": "2027 Summer Internship - Industrial Engineering - PPE/IE",
     "location": "Mobile Area, AL",
@@ -357,15 +375,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Spring and Summer Mechanical Engineering Coop",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
-    "date_found": "2026-08-24",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Chemical Engineering Co Op Student Year Round",
     "location": "Kingsport, Tennessee, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127274BR/Chemical-Engineering-Co-Op-Student-Year-Round",
@@ -411,21 +420,12 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
-    "date_found": "2026-08-24",
+    "title": "Hardware Engineering Intern",
+    "location": "Manassas, Virginia, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128769BR/Hardware-Engineering-Intern",
+    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Intellectual Property Legal Intern IV Fall 2026 Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127771BR/Intellectual-Property-Legal-Intern-IV-Fall-2026-Hybrid",
-    "date_found": "2026-08-24",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "BAE Systems",
@@ -442,6 +442,15 @@
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
     "date_found": "2026-08-12",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
+    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "engineering"
   },
@@ -510,15 +519,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Supply Chain Intern II Summer 2027 Hybrid",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127992BR/Supply-Chain-Intern-II-Summer-2027-Hybrid",
-    "date_found": "2026-08-24",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Systems Engineering Intern II Summer 2027 NH Onsite",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128225BR/Systems-Engineering-Intern-II-Summer-2027-NH-Onsite",
@@ -536,19 +536,19 @@
     "category": "engineering"
   },
   {
-    "company": "BWX Technologies",
-    "title": "Manufacturing Engineer Intern/Co-Op",
-    "location": "Euclid, OH, US",
-    "url": "https://careers.bwxt.com/job/Euclid-Manufacturing-Engineer-InternCo-Op-OH/1420668400/",
-    "date_found": "2026-08-18",
+    "company": "BAE Systems",
+    "title": "Systems Software Engineering Intern Embedded Systems",
+    "location": "Huntsville, Alabama, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
+    "date_found": "2026-08-25",
     "disciplines": [],
-    "category": "engineering"
+    "category": "software"
   },
   {
     "company": "BWX Technologies",
     "title": "Manufacturing Engineer Intern/Co-Op",
     "location": "Euclid, OH, US",
-    "url": "https://careers.bwxt.com/job/Euclid-Manufacturing-Engineer-InternCo-Op-OH/1420818700/",
+    "url": "https://careers.bwxt.com/job/Euclid-Manufacturing-Engineer-InternCo-Op-OH/1420668400/",
     "date_found": "2026-08-18",
     "disciplines": [],
     "category": "engineering"
@@ -3086,6 +3086,15 @@
   },
   {
     "company": "RTX",
+    "title": "Stage - Hiver 2027 - Analyste en intelligence d’affaires et gouvernance / Internship - Winter 2027 - Business Intelligence and Governance Analyst",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-en-intelligence-d-affaires-et-gouvernance---Internship---Winter-2027---Business-Intelligence-and-Governance-Analyst_01868337",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Stage - Hiver 2027 - Analyste financier en ingénierie (Power BI) / Internship - Winter 2027 - Engineering Finance Analyst (Power BI)",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-financier-en-ingnierie--Power-BI----Internship---Winter-2027---Engineering-Finance-Analyst--Power-BI-_01863107",
@@ -3151,6 +3160,15 @@
     "company": "RTX",
     "title": "Stage - Hiver 2027 - Finance chaîne d'approvisionnement / Internship - Winter 2027 - Supply Chain Finance",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Finance-chane-d-approvisionnement---Internship---Winter-2027---Supply-Chain-Finance_01868444",
+    "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Finance chaîne d'approvisionnement / Internship - Winter 2027 - Supply Chain Finance",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Finance-chane-d-approvisionnement---Internship---Winter-2027---Supply-Chain-Accounting_01866893",
     "date_found": "2026-08-24",
     "disciplines": [],
@@ -3162,6 +3180,15 @@
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-de-Projet---Bureau-de-Transformation-Mondiale---Internship---Winter-2027----Project-Management---Global-Transformation-Office--GTO-_01864641",
     "date_found": "2026-08-20",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Gestion de la Chaîne d’approvisionnement / Internship - Winter 2027 - Supply Chain Management",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/COOP-Student-in-Supply-Chain_01868807",
+    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -4469,6 +4496,17 @@
       "2027 Internships"
     ],
     "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Embedded Software Engineer Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
+    "date_found": "2026-08-25",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "software"
   },
   {
     "company": "Zipline",
