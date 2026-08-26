@@ -456,15 +456,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
-    "date_found": "2026-08-25",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
@@ -577,15 +568,6 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-26",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern IV Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
-    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "software"
   },
@@ -932,6 +914,15 @@
     "category": "engineering"
   },
   {
+    "company": "Booz Allen Hamilton",
+    "title": "AI RAN Telecommunications Engineer Intern",
+    "location": "McLean, VA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
     "company": "CACI International",
     "title": "Finance & Accounting Shared Service Center Intern - Summer 2027",
     "location": "Oklahoma City, OK, US",
@@ -948,6 +939,15 @@
     "date_found": "2026-08-17",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "CACI International",
+    "title": "Software Developer/Data Scientist Intern - Summer 2027",
+    "location": "3 Locations",
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "CACI International",
@@ -2127,15 +2127,6 @@
   },
   {
     "company": "L3Harris",
-    "title": "Intern E, Communications",
-    "location": "Remote",
-    "url": "https://careers.l3harris.com/en/job/united-states/intern-e-communications/4832/99454394832",
-    "date_found": "2026-08-19",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "L3Harris",
     "title": "Intern, Configuration Management",
     "location": "Waco, TX",
     "url": "https://careers.l3harris.com/en/job/waco/intern-configuration-management/4832/99693730368",
@@ -2158,6 +2149,15 @@
     "location": "Salt Lake City, UT",
     "url": "https://careers.l3harris.com/en/job/salt-lake-city/intern-manufacturing-engineer/4832/99701648432",
     "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern, Mechanical Engineer",
+    "location": "Palm Bay, Brevard, FL",
+    "url": "https://careers.l3harris.com/en/job/palm-bay/intern-mechanical-engineer/4832/99756757968",
+    "date_found": "2026-08-26",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2232,6 +2232,132 @@
     "date_found": "2026-08-18",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "Leidos",
+    "title": "Cybersecurity Analyst Intern",
+    "location": "Odenton, MD",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Leidos",
+    "title": "Cybersecurity Analyst Intern",
+    "location": "Alexandria, VA",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Leidos",
+    "title": "Cybersecurity Analyst Intern",
+    "location": "Shiloh, IL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Leidos",
+    "title": "Cybersecurity Analyst Intern",
+    "location": "Pearl Harbor, HI",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Leidos",
+    "title": "Cybersecurity Analyst Intern",
+    "location": "Whitehall, OH",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Leidos",
+    "title": "Cybersecurity Analyst Intern",
+    "location": "Sunset, UT",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Leidos",
+    "title": "Network Engineering & Operations Intern",
+    "location": "Shiloh, IL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00190662-1",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Leidos",
+    "title": "Network Impact Assessment (NIA) Intern",
+    "location": "Shiloh, IL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Shiloh-IL/Network-Impact-Assessment--NIA--Intern_R-00190652-1",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Leidos",
+    "title": "Network Operations Intern",
+    "location": "Shiloh, IL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Shiloh-IL/Network-Operations-Intern_R-00190660",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Leidos",
+    "title": "Network Operations Intern",
+    "location": "Sunset, UT",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Sunset-UT/Network-Operations-Intern_R-00190657",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Leidos",
+    "title": "Network Operations Intern",
+    "location": "Tampa, FL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Tampa-FL/Network-Operations-Intern_R-00190651",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Leidos",
+    "title": "Software Engineering & AI Intern",
+    "location": "3 Locations",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Leidos",
+    "title": "Systems Engineering Intern",
+    "location": "Odenton, MD",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Odenton-MD/Systems-Engineering-Intern_R-00190647",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Leidos",
+    "title": "Transport Network Engineer Intern",
+    "location": "Shiloh, IL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Shiloh-IL/Transport-Network-Engineer-Intern_R-00190655",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "MIT Lincoln Laboratory",
@@ -2972,15 +3098,6 @@
   },
   {
     "company": "Peraton",
-    "title": "Generative Ai Engineering Intern Graduate Undefined Undefined",
-    "location": "",
-    "url": "https://www.careers.peraton.com/jobs/generative-ai-engineering-intern-graduate-undefined-undefined-167460-jobs--cms-engineering--",
-    "date_found": "2026-07-30",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Peraton",
     "title": "Summer 2027 University Internship Pipeline Reston",
     "location": "Virginia",
     "url": "https://www.careers.peraton.com/jobs/summer-2027-university-internship-pipeline-reston-virginia-169643-jobs--cms-engineering--",
@@ -3214,6 +3331,24 @@
   },
   {
     "company": "RTX",
+    "title": "Stage - Hiver 2027 - Analyste gestion des projets / Internship - Winter 2027- Project Management Analyst",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-gestion-des-projets---Internship---Winter-2027--Project-Management-Analyst_01862961",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Analyste mécanique Multi-disciplinaire / Internship - Winter 2027 - Multidisciplinary Mechanical Analyst",
+    "location": "CA-QC-LONGUEUIL-J12 ~ 1000 Blvd Marie-Victorin ~ J12 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J12--1000-Blvd-Marie-Victorin--J12-BLDG/Stage---Hiver-2027---Analyste-mcanique-Multi-disciplinaire---Internship---Winter-2027---Multidisciplinary-Mechanical-Analyst_01863309",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Stage - Hiver 2027 - Approvisionnement Stratégique /Internship - Winter 2027 - Strategic Sourcing",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Approvisionnement-Stratgique--Internship---Winter-2027---Strategic-Sourcing_01867249",
@@ -3236,6 +3371,15 @@
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Centre-Priorit-Clients---Internship---Winter-2027---Customer-First-Centre--Technical-helpdesk_01867386",
     "date_found": "2026-08-24",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Conception pour Ingénierie, centre de produit/Composantes Externes Controle et Nacelle / Internship - Winter 2027 - Design for Product Center Engineering/External Component Control and Nacelle",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Conception-pour-Ingnierie--centre-de-produit-Composantes-Externes-Controle-et-Nacelle---Internship---Winter-2027---Design-for-Product-Center-Engineering-External-Component-Control-and-Nacelle_01869343",
+    "date_found": "2026-08-26",
     "disciplines": [],
     "category": "engineering"
   },
@@ -3313,10 +3457,55 @@
   },
   {
     "company": "RTX",
+    "title": "Stage - Hiver 2027 - Gestion et analyse de données clients / Internship - Winter 2027 - Customer Master Data Analysis and Management",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-analyse-de-donnes-clients---Internship---Winter-2027---Customer-Master-Data-Analysis-and-Management_01865932",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "RTX",
     "title": "Stage - Hiver 2027 - Industrialisation  / Internship - Winter 2027 - Industrialization Production Readiness",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Industrialisation----Internship---Winter-2027---Industrialization-Production-Readiness_01867520",
     "date_found": "2026-08-21",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Ingénierie : outils d'intégrité des produits et amélioration des processus / Internship - Winter 2027 - Engineering Product Integrity tools and process improvements",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie---outils-d-intgrit-des-produits-et-amlioration-des-processus---Internship---Winter-2027---Engineering-Product-Integrity-tools-and-process-improvements_01863379",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Ingénierie de projets - Programmes turbopropulseurs régionaux (LONGUEUIL OU MISSISSAUGA) / Internship - Winter 2027 - Project Engineering - Regional engine programs (LONGUEUIL OR MISSISSAUGA)",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie-de-projets---Programmes-turbopropulseurs-rgionaux--LONGUEUIL-OU-MISSISSAUGA----Internship---Winter-2027---Project-Engineering---Regional-engine-programs--LONGUEUIL-OR-MISSISSAUGA-_01867607",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Ingénierie du Développement – Support a l’assemblage et au processus d’instrumentation - nouveau programme moteur / Internship - Winter 2027 - Development Engineering - Support for assembly and instrumentation process – new engine program",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie-du-Dveloppement---Support-a-l-assemblage-et-au-processus-d-instrumentation---nouveau-programme-moteur---Internship---Winter-2027---Development-Engineering---Support-for-assembly-and-instrumentation-process---new-engine-program_01860683",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Ingénierie du développement des systemes de commande / Internship - Winter 2027 - Development Controls Engineer",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie-du-dveloppement-des-systemes-de-commande---Internship---Winter-2027---Development-Controls-Engineer_01861694",
+    "date_found": "2026-08-26",
     "disciplines": [],
     "category": "engineering"
   },
@@ -3331,10 +3520,46 @@
   },
   {
     "company": "RTX",
+    "title": "Stage - Hiver 2027 - Membre Equipe Seal Team de Transmission / Internship - Winter 2027 - Member of the Seal Team Transmission Team",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Membre-Equipe-Seal-Team-de-Transmission---Internship---Winter-2027---Member-of-the-Seal-Team-Transmission-Team_01864750",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Membre Equipe des Engrenages de Transmission / Internship - Winter 2027 - Member of the Transmission Gear Team",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Membre-Equipe-des-Engrenages-de-Transmission---Internship---Winter-2027---Member-of-the-Transmission-Gear-Team_01864636",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Stage - Hiver 2027 - Optimisation des processus d’outillage / Internship - Winter 2027 -Tooling Process Improvement",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Optimisation-des-processus-d-outillage---Internship---Hiver-2027--Tooling-Process-Improvement_01867213",
     "date_found": "2026-08-21",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Opérabilité / Internship - Winter 2027 - Operability",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Oprabilit---Internship---Winter-2027---Operability_01863206",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Projet Fabrication Additive / Internship - Winter 2027 - Additive manufacturing project",
+    "location": "CA-QC-LONGUEUIL-AY ~ 1000 Blvd Marie-Victorin ~ AY BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-AY--1000-Blvd-Marie-Victorin--AY-BLDG/Stage---Hiver-2027---Projet-Fabrication-Additive---Internship---Winter-2027---Additive-manufacturing-project_01868777",
+    "date_found": "2026-08-26",
     "disciplines": [],
     "category": "engineering"
   },
@@ -3379,6 +3604,33 @@
     "title": "Stage - Hiver 2027 - Spécialiste en ingénierie du support technique aux ateliers MRO / Internship - Winter 2027 - Specialist, MRO Engineering Overhaul Support Services",
     "location": "CA-QC-SAINT HUBERT-H05 ~ 7007 Chemin De La Savane ~ BLDG H05 FACTORY",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage---Hiver-2027---Spcialiste-en-ingnierie-du-support-technique-aux-ateliers-MRO---Internship---Winter-2027---Specialist--MRO-Engineering-Overhaul-Support-Services_01868612",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Stagiaire en développement d'affaires / Internship - Winter 2027 -Business Development Intern",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Stagiaire-en-dveloppement-d-affaires---Internship---Winter-2027--Business-Development-Intern_01864752",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 – Aerodynamique et refroidissement des turbines / Internship - Winter 2027 - Turbine Aerodynamics & Cooling",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Aerodynamique-et-refroidissement-des-turbines---Internship---Winter-2027---Turbine-Aerodynamics---Cooling_01864622",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027- Conception d’Aérostructures et de Systèmes / Internship  - Winter 2027 – Airframe & Systems Design",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027--Conception-d-Arostructures-et-de-Systmes---Internship----Winter-2027---Airframe---Systems-Design_01867519",
     "date_found": "2026-08-26",
     "disciplines": [],
     "category": "engineering"
@@ -3484,6 +3736,15 @@
   },
   {
     "company": "RTX",
+    "title": "Stage Hiver 2027 - Ingénierie de projet PT6A / Internship - Winter 2027 - PT6A Project Engineering",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-Hiver-2027---Ingnierie-de-projet-PT6A---Internship---Winter-2027---PT6A-Project-Engineering_01868596",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Stage en formation technique- hiver 2027 | Internship Technical Training - Winter 2027",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-en-formation-technique--hiver-2027---Internship-Technical-Training---Winter-2027_01863561",
@@ -3511,12 +3772,39 @@
   },
   {
     "company": "RTX",
+    "title": "Stage – Hiver 2027 - Coordination des projets de recherche collaboratifs et amelioration du processus de gestion des technologies / Internship – Winter 2027 - Collaborative Research Projects Coordination & Technology Management Process Improvement",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Coordination-des-projets-de-recherche-collaboratifs-et-amelioration-du-processus-de-gestion-des-technologies---Internship---Winter-2027---Collaborative-Research-Projects-Coordination---Technology-Management-Process-Improvement_01868255",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage – Hiver 2027 - Developpeur Solutions d'Automatisation / Internship - Winter 2027 - Automation solutions Developer",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Developpeur-Solutions-d-Automatisation---Internship---Winter-2027---Automation-solutions-Developer_01866472",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "RTX",
     "title": "Stage – Hiver 2027 – Gestion des coûts du produit | Internship - Winter 2027 - Product cost management",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-des-cots-du-produit---Internship---Winter-2027---Product-cost-management_01863853",
     "date_found": "2026-08-21",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage – Hiver 2027 – Laboratoire des materiaux / Internship – Winter 2027 – Materials laboratory",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Laboratoire-des-materiaux---Internship---Winter-2027---Materials-laboratory_01864441",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "RTX",
@@ -3560,6 +3848,24 @@
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-Hiver-2027---En-environnement---Winter-2027-Intern---Environment_01864093",
     "date_found": "2026-08-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stagiaire Hiver 2027 Performance Moteurs / Internship Winter 2027 Engine Performance",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-Hiver-2027-Performance-Moteurs---Internship-Winter-2027-Engine-Performance_01861168",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stagiaire Hiver 2027 Performance Moteurs / Internship Winter 2027 Engine Performance",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stagiaire-Hiver-2027-Performance-Moteurs---Internship-Winter-2027-Engine-Performance_01862220",
+    "date_found": "2026-08-26",
     "disciplines": [],
     "category": "engineering"
   },
@@ -3636,6 +3942,15 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "Redwire Space",
+    "title": "Systems Test Engineering Intern Goleta",
+    "location": "California",
+    "url": "https://careers.rdw.com/jobs/systems-test-engineering-intern-goleta-california-united-states",
+    "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Research Innovations Inc",
@@ -3721,17 +4036,6 @@
       "Data, Technology & Systems"
     ],
     "category": "software"
-  },
-  {
-    "company": "Scale AI",
-    "title": "Technical Advisor Specialist (Part-Time Internship) ",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4611533005",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "University"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Shield AI",
@@ -3851,6 +4155,17 @@
     "date_found": "2026-07-09",
     "disciplines": [
       "Integration & Test"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "Shield AI",
+    "title": "Senior Engineer, Autonomy Software Integration & Test (R5606)",
+    "location": "Kyiv",
+    "url": "https://jobs.lever.co/shieldai/513eb618-2704-40e0-bbcd-5f946b60d1b2",
+    "date_found": "2026-08-26",
+    "disciplines": [
+      "Flight System Integration"
     ],
     "category": "software"
   },
@@ -4649,6 +4964,17 @@
     "company": "Zipline",
     "title": "Embedded Software Engineer Intern (Spring 2027)",
     "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7974890003",
+    "date_found": "2026-08-26",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "Zipline",
+    "title": "Embedded Software Engineer Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
     "date_found": "2026-08-25",
     "disciplines": [
@@ -4773,7 +5099,7 @@
     "url": "https://www.zipline.com/open-roles?gh_jid=7968519003",
     "date_found": "2026-08-25",
     "disciplines": [
-      "2026 Internships"
+      "2027 Internships"
     ],
     "category": "non-engineering"
   },
