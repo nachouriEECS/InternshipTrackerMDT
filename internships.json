@@ -226,7 +226,7 @@
   },
   {
     "company": "Astranis",
-    "title": "CAD Engineer/Librarian Intern (Spring 2027)",
+    "title": "CAD Engineer Intern (Spring 2027)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4704740006",
     "date_found": "2026-08-15",
@@ -237,7 +237,7 @@
   },
   {
     "company": "Astranis",
-    "title": "CAD Engineer/Librarian Intern (Summer 2027)",
+    "title": "CAD Engineer Intern (Summer 2027)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4704742006",
     "date_found": "2026-08-15",
@@ -248,7 +248,7 @@
   },
   {
     "company": "Astranis",
-    "title": "CAD Engineer/Librarian Intern (Winter 2027)",
+    "title": "CAD Engineer Intern (Winter 2027)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4704748006",
     "date_found": "2026-08-15",
@@ -456,6 +456,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
+    "date_found": "2026-08-27",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
@@ -568,6 +577,15 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-07-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern IV Summer 2027 Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
+    "date_found": "2026-08-27",
     "disciplines": [],
     "category": "software"
   },
@@ -1128,6 +1146,17 @@
     "date_found": "2026-08-05",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "Dedrone by Axon",
+    "title": "2027 US Mechanical Engineering Internship",
+    "location": "Arizona, USA",
+    "url": "https://job-boards.greenhouse.io/axon/jobs/7978840003",
+    "date_found": "2026-08-27",
+    "disciplines": [
+      "Axon EVG_Internships"
+    ],
+    "category": "engineering"
   },
   {
     "company": "Draper",
@@ -2025,10 +2054,46 @@
   },
   {
     "company": "Honeywell Aerospace",
+    "title": "Intern (Bachelor's) - Fall Co-Op",
+    "location": "Phoenix, AZ, United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/121725",
+    "date_found": "2026-08-27",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
     "title": "Skilled Trades Intern (NC03) - Machinist (US Persons)",
     "location": "Rocky Mount, NC, United States",
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/121316",
     "date_found": "2026-08-24",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Idaho National Laboratory",
+    "title": "Graduate Research Assistant Internship – Science and Technology",
+    "location": "Idaho Falls, ID, United States",
+    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/1098",
+    "date_found": "2026-08-27",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Idaho National Laboratory",
+    "title": "Undergraduate Internship - Operations and Strategy Management",
+    "location": "Idaho Falls, ID, United States",
+    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/1102",
+    "date_found": "2026-08-27",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Idaho National Laboratory",
+    "title": "Undergraduate Research Assistant Internship - Science and Technology",
+    "location": "Idaho Falls, ID, United States",
+    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/1014",
+    "date_found": "2026-08-27",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2577,6 +2642,15 @@
   },
   {
     "company": "Northrop Grumman",
+    "title": "2026 Part-Time Mechanical Engineering Intern - Chandler AZ",
+    "location": "United States-Arizona-Chandler",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965",
+    "date_found": "2026-08-27",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Northrop Grumman",
     "title": "2027 Guidance Navigation and Control Intern Dulles VA",
     "location": "United States-Virginia-Dulles",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Guidance-Navigation-and-Control-Intern-Dulles-VA_R10246322",
@@ -2599,15 +2673,6 @@
     "location": "United States-Florida-Melbourne",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
     "date_found": "2026-08-19",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Intern Software Engineer",
-    "location": "United States-Florida-Melbourne",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
-    "date_found": "2026-08-12",
     "disciplines": [],
     "category": "software"
   },
@@ -3173,6 +3238,15 @@
     "location": "MY-10-KLANG-009 ~ 9 Lengkuk Keluli 2 ~ 9 LENGKUK KELULI 2-009",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MY-10-KLANG-009--9-Lengkuk-Keluli-2--9-LENGKUK-KELULI-2-009/Customer-Service-Intern_01868252",
     "date_found": "2026-08-20",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Electrical Engineer Intern Co-Op",
+    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Electrical-Engineer-Intern-Co-Op_01868699",
+    "date_found": "2026-08-27",
     "disciplines": [],
     "category": "engineering"
   },
@@ -4025,17 +4099,6 @@
     "date_found": "2026-08-23",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Scale AI",
-    "title": "AI Builder Intern",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Data, Technology & Systems"
-    ],
-    "category": "software"
   },
   {
     "company": "Shield AI",
@@ -4962,10 +5025,21 @@
   },
   {
     "company": "Zipline",
+    "title": "Embedded Engineering Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7978843003",
+    "date_found": "2026-08-27",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
     "title": "Embedded Software Engineer Intern (Spring 2027)",
     "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7974890003",
-    "date_found": "2026-08-26",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
+    "date_found": "2026-08-25",
     "disciplines": [
       "2027 Internships"
     ],
@@ -4975,8 +5049,8 @@
     "company": "Zipline",
     "title": "Embedded Software Engineer Intern (Spring 2027)",
     "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
-    "date_found": "2026-08-25",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7974890003",
+    "date_found": "2026-08-26",
     "disciplines": [
       "2027 Internships"
     ],
