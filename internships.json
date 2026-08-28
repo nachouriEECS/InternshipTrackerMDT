@@ -77,15 +77,6 @@
   },
   {
     "company": "Airbus",
-    "title": "Long-term Internship - Technical Product Marketing",
-    "location": "Grand Prairie, TX",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Technical-Product-Marketing_JR10435485",
-    "date_found": "2026-08-28",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Airbus",
     "title": "Short-term Internship (Fall 2026) - Industrial and Manufacturing Engineering",
     "location": "Mobile Area, AL",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Short-term-Internship--Fall-2026----Industrial-and-Manufacturing-Engineering_JR10436231",
@@ -391,6 +382,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "2027 Spring and Summer Mechanical Engineering Coop",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Chemical Engineering Co Op Student Year Round",
     "location": "Kingsport, Tennessee, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127274BR/Chemical-Engineering-Co-Op-Student-Year-Round",
@@ -436,6 +436,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Hardware Engineering Intern",
     "location": "Manassas, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128769BR/Hardware-Engineering-Intern",
@@ -472,6 +481,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Mechanical Engineering Intern II Summer 2027 Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129212BR/Mechanical-Engineering-Intern-II-Summer-2027-Onsite",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
@@ -494,6 +512,15 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/129222BR/Metrology-Operations-Intern-II-Summer-2027-Onsite",
     "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "New Hampshire Systems Engineering Intern III Summer 2027 Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128227BR/New-Hampshire-Systems-Engineering-Intern-III-Summer-2027-Onsite",
+    "date_found": "2026-08-28",
     "disciplines": [],
     "category": "engineering"
   },
@@ -751,6 +778,15 @@
   },
   {
     "company": "Boeing",
+    "title": "Boeing Summer 2027 Internship Program (PAID) – Finance (Evergreen)",
+    "location": "14 Locations",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Boeing-Summer-2027-Internship-Program--PAID----Finance--Evergreen-_JR2026519225-1",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Boeing",
     "title": "Boeing Summer 2027 Internship Program (Paid) - Business Operations",
     "location": "USA - Everett, WA",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1",
@@ -895,10 +931,37 @@
   },
   {
     "company": "Booz Allen Hamilton",
+    "title": "AI Software Developer Intern",
+    "location": "San Diego, CA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
     "title": "University - 2027 Summer Games Cyber Security Intern",
     "location": "El Segundo, CA",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
     "date_found": "2026-08-27",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University - 2027 Summer Games Cyber Security Intern - Atlanta, GA",
+    "location": "Atlanta, GA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University - 2027 Summer Games Cyber Security Intern - Charleston, SC",
+    "location": "Charleston, SC",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136",
+    "date_found": "2026-08-28",
     "disciplines": [],
     "category": "software"
   },
@@ -931,6 +994,15 @@
   },
   {
     "company": "Booz Allen Hamilton",
+    "title": "University - 2027 Summer Games Data Scientist Intern",
+    "location": "Charleston, SC",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
     "title": "University - 2027 Summer Games Software Developer Intern",
     "location": "El Segundo, CA",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
@@ -949,10 +1021,55 @@
   },
   {
     "company": "Booz Allen Hamilton",
+    "title": "University - 2027 Summer Games Software Developer Intern",
+    "location": "Charleston, SC",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University - 2027 Summer Games Software Developer Intern - Atlanta, GA",
+    "location": "Atlanta, GA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University – Summer 27, Cybersecurity Analyst Intern",
+    "location": "McLean, VA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
     "title": "University, 2027 Summer Games Cyber Security Intern",
     "location": "San Diego, CA",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043",
     "date_found": "2026-08-27",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University, 2027 Summer Games Cyber Security Intern",
+    "location": "Colorado Springs, CO",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Cybersecurity-Intern_R0248131",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University, 2027 Summer Games Cyber Security Intern",
+    "location": "Rome, NY",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142",
+    "date_found": "2026-08-28",
     "disciplines": [],
     "category": "software"
   },
@@ -967,10 +1084,55 @@
   },
   {
     "company": "Booz Allen Hamilton",
+    "title": "University, 2027 Summer Games Data Scientist Intern",
+    "location": "Rome, NY",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University, 2027 Summer Games Data Scientist Intern",
+    "location": "Colorado Springs, CO",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University, 2027 Summer Games Data Scientist Intern",
+    "location": "Atlanta, GA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
     "title": "University, 2027 Summer Games Software Developer Intern",
     "location": "McLean, VA",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029",
     "date_found": "2026-08-27",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University, 2027 Summer Games Software Developer Intern",
+    "location": "Colorado Springs, CO",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University, 2027 Summer Games Software Developer Intern",
+    "location": "Rome, NY",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141",
+    "date_found": "2026-08-28",
     "disciplines": [],
     "category": "software"
   },
@@ -1027,83 +1189,6 @@
     "date_found": "2026-08-26",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "CesiumAstro",
-    "title": "Spring 2027 - Electrical Engineering Internship, Hardware",
-    "location": "Austin, TX",
-    "url": "https://jobs.lever.co/CesiumAstro/2b685415-8174-468b-8c0d-02f6086b6c58",
-    "date_found": "2026-08-27",
-    "disciplines": [
-      "Internships & Co-Ops"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "CesiumAstro",
-    "title": "Spring 2027 – Test Engineering Internship",
-    "location": "Austin, TX",
-    "url": "https://jobs.lever.co/CesiumAstro/47333595-c85f-4b06-965c-ad4429dde0f0",
-    "date_found": "2026-08-27",
-    "disciplines": [
-      "Internships & Co-Ops"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "CesiumAstro",
-    "title": "Spring 2027 – Test Engineering Internship",
-    "location": "Westminster, CO",
-    "url": "https://jobs.lever.co/CesiumAstro/ab7dd1c4-7196-4cae-8fbd-cddec993b9b8",
-    "date_found": "2026-08-27",
-    "disciplines": [
-      "Internships & Co-Ops"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "CesiumAstro",
-    "title": "Summer 2027 - Embedded Software Engineering Internship",
-    "location": "Austin, TX",
-    "url": "https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7",
-    "date_found": "2026-08-27",
-    "disciplines": [
-      "Internships & Co-Ops"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "CesiumAstro",
-    "title": "Summer 2027 - Mechanical Engineering Internship",
-    "location": "Austin, TX",
-    "url": "https://jobs.lever.co/CesiumAstro/4f42d29f-803a-4bb7-b480-aa22b23afce4",
-    "date_found": "2026-08-27",
-    "disciplines": [
-      "Internships & Co-Ops"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "CesiumAstro",
-    "title": "Summer 2027 - Software Engineering Internship",
-    "location": "Austin, TX",
-    "url": "https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411",
-    "date_found": "2026-08-27",
-    "disciplines": [
-      "Internships & Co-Ops"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "CesiumAstro",
-    "title": "Summer 2027 - Supply Chain Internship",
-    "location": "Austin, TX",
-    "url": "https://jobs.lever.co/CesiumAstro/e66e8ad6-8f92-4d96-b20c-00ee0ae4a0da",
-    "date_found": "2026-08-27",
-    "disciplines": [
-      "Internships & Co-Ops"
-    ],
-    "category": "non-engineering"
   },
   {
     "company": "Crane Aerospace & Electronics",
@@ -1199,15 +1284,6 @@
     "company": "Curtiss-Wright",
     "title": "Inspector Intern",
     "location": "US-NY-East Farmingdale (TR)",
-    "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Inspector-Intern_JR12819-1",
-    "date_found": "2026-07-13",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Curtiss-Wright",
-    "title": "Inspector Intern",
-    "location": "US-NY-East Farmingdale (TR)",
     "url": "https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-NY-East-Farmingdale-TR/Inspector-Intern_JR12817-1",
     "date_found": "2026-07-13",
     "disciplines": [],
@@ -1293,15 +1369,6 @@
     "location": "2 Locations",
     "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002767",
     "date_found": "2026-08-05",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Draper",
-    "title": "Mechanical Engineering & System Packaging Intern",
-    "location": "2 Locations",
-    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797",
-    "date_found": "2026-08-12",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2174,6 +2241,42 @@
   },
   {
     "company": "Honeywell Aerospace",
+    "title": "Electrical Engineering - Summer 2027 Intern",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119813",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Electrical Engineering - Summer 2027 Intern (U.S. Person Required)",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119690",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Embedded Engineering Intern - Summer 2027",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/120770",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Embedded Engineering Intern - Summer 2027 (U.S. Person Required)",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119843",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
     "title": "ISC University Relations Development Program (URDP) - ISC (Supply Chain) - Summer 2027 Intern Phoenix AZ (U.S. Person Required)",
     "location": "Phoenix, AZ, United States",
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119972",
@@ -2201,10 +2304,154 @@
   },
   {
     "company": "Honeywell Aerospace",
+    "title": "Marketing Intern - Summer 2027",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119812",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Marketing Intern - Summer 2027 (U.S. Person Required)",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119738",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Mechanical Engineering Intern - Summer 2027",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119815",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Mechanical Engineering Intern - Summer 2027 (U.S. Person Required)",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119695",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Semiconductor Engineering Intern - Summer 2027",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119888",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Semiconductor Engineering Intern - Summer 2027 (U.S. Person Required)",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119865",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
     "title": "Skilled Trades Intern (NC03) - Machinist (US Persons)",
     "location": "Rocky Mount, NC, United States",
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/121316",
     "date_found": "2026-08-24",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Software AI Intern - Summer 2027",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119899",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Software AI Intern - Summer 2027 (U.S. Person Required)",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119880",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Software Engineering Intern - Summer 2027",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119821",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Software Engineering Intern - Summer 2027 (U.S. Person Required)",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119718",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Supply Chain Internship - Summer 2027",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119833",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Supply Chain Internship - Summer 2027 (U.S. Person Required)",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119731",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Systems Engineering Intern - Summer 2027",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119820",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Systems Engineering Intern - Summer 2027 (U.S. Person Required)",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119701",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Test Engineering Intern - Summer 2027",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119886",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Test Engineering Intern - Summer 2027 (U.S. Person Required)",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119851",
+    "date_found": "2026-08-28",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2519,6 +2766,15 @@
   },
   {
     "company": "Leidos",
+    "title": "Data Science Intern",
+    "location": "San Diego, CA",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Data-Science-Intern_R-00190740",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Leidos",
     "title": "Network Engineering & Operations Intern",
     "location": "Shiloh, IL",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00190662-1",
@@ -2714,15 +2970,6 @@
     "date_found": "2026-08-17",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "MITRE",
-    "title": "Political Science Legal Studies Intern",
-    "location": "Honolulu, Hawaii, United States of America",
-    "url": "https://careers.mitre.org/us/en/job/R117218/Political-Science-Legal-Studies-Intern",
-    "date_found": "2026-08-12",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "Michael Baker International",
@@ -3419,6 +3666,15 @@
   },
   {
     "company": "RTX",
+    "title": "Commercial Engines Intern (Summer 2027)",
+    "location": "US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Commercial-Engines-Intern--Summer-2027-_01870332",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Customer Portal Administration Intern- 1st shift- Avionics",
     "location": "MX-BCN-MEXICALI-496 ~ Calzada Manuel Gomez Morin #3200 ~ CALZADA",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-496--Calzada-Manuel-Gomez-Morin-3200--CALZADA/Customer-Portal-Administration-Intern--1st-shift--Avionics_01863435",
@@ -3477,6 +3733,15 @@
     "location": "DE-BW-HEIDELBERG-036-751 ~ Grenzhofer Weg 36 ~ BLDG 751",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/DE-BW-HEIDELBERG-036-751--Grenzhofer-Weg-36--BLDG-751/Internship-Engineering--m-f-d-_01863601",
     "date_found": "2026-08-01",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Manufacturing Engineering Intern (Summer 2027)",
+    "location": "US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Manufacturing-Engineering-Intern--Summer-2027-_01870591",
+    "date_found": "2026-08-28",
     "disciplines": [],
     "category": "engineering"
   },
@@ -3612,6 +3877,15 @@
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-de-la-chane-d-approvisionnement---Internship---Winter-2027---Supply-Chain-Analyst_01863597",
     "date_found": "2026-08-17",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Analyste de processus d'affaires dans l’équipe Transformation et gouvernance PLM / Internship - Winter 2027 - PLM Businest Analyst Intern",
+    "location": "CA-QC-SAINT HUBERT-H05 ~ 7007 Chemin De La Savane ~ BLDG H05 FACTORY",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage---Hiver-2027---Analyste-de-processus-d-affaires-dans-l-quipe-Transformation-et-gouvernance-PLM---Internship---Winter-2027---PLM-Businest-Analyst-Intern_01865912",
+    "date_found": "2026-08-28",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -4283,20 +4557,22 @@
   },
   {
     "company": "RTX",
-    "title": "Systems Engineering Test Equipment Intern (Summer 2027)",
-    "location": "US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01867450",
-    "date_found": "2026-08-24",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
     "title": " Stage - Hiver 2027 – Ingénieur Qualité | Internship - Winter 2027 - Quality Engineer",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/XMLNAME--Stage---Hiver-2027---Ingnieur-Qualit---Internship---Winter-2027---Quality-Engineer_01864619",
     "date_found": "2026-08-21",
     "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Re:Build Manufacturing",
+    "title": "Process & Mechanical Engineer Co-op/Intern",
+    "location": "Rochester, NY",
+    "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4728423005",
+    "date_found": "2026-08-28",
+    "disciplines": [
+      "Engineering"
+    ],
     "category": "engineering"
   },
   {
@@ -4325,6 +4601,17 @@
     "date_found": "2026-07-09",
     "disciplines": [
       "Engineering"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Research Innovations Inc",
+    "title": "DoW SkillBridge Targeting Operations Internship",
+    "location": "Remote",
+    "url": "https://jobs.lever.co/researchinnovations.com/92093f57-2e31-4655-92d3-23631e4daa8c",
+    "date_found": "2026-08-28",
+    "disciplines": [
+      "Operations"
     ],
     "category": "engineering"
   },
@@ -4388,15 +4675,6 @@
     "location": "El Segundo, CA, United States",
     "url": "https://jobs.saic.com/jobs/18145975-site-support-intern",
     "date_found": "2026-08-23",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "SAIC",
-    "title": "Technical Intern",
-    "location": "Washington, DC, United States",
-    "url": "https://jobs.saic.com/jobs/18178604-technical-intern",
-    "date_found": "2026-08-27",
     "disciplines": [],
     "category": "engineering"
   },
@@ -5316,6 +5594,17 @@
   },
   {
     "company": "Zipline",
+    "title": "Electrical Project Engineer Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7980874003",
+    "date_found": "2026-08-28",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
     "title": "Embedded Engineering Intern (Summer 2027)",
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7978843003",
@@ -5441,6 +5730,28 @@
     "location": "Esparto, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7918888003",
     "date_found": "2026-08-21",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Maps Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7929354003",
+    "date_found": "2026-08-28",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Maps Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7980866003",
+    "date_found": "2026-08-28",
     "disciplines": [
       "2027 Internships"
     ],
