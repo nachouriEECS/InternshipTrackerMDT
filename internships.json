@@ -41,24 +41,6 @@
   },
   {
     "company": "Airbus",
-    "title": "2027 Summer Internship - Industrial Engineering - PPE/IE",
-    "location": "Mobile Area, AL",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140",
-    "date_found": "2026-08-21",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Airbus",
-    "title": "2027 Summer Internship - X-Plant Manufacturing Engineering",
-    "location": "Mobile Area, AL",
-    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---X-Plant-Manufacturing-Engineering_JR10435143",
-    "date_found": "2026-08-21",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Airbus",
     "title": "Long-Term Internship - Engineering",
     "location": "Wichita, KS",
     "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Wichita-KS/Long-Term-Internship---Engineering_JR10429496",
@@ -92,6 +74,15 @@
     "date_found": "2026-08-26",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Airbus",
+    "title": "Long-term Internship - Technical Product Marketing",
+    "location": "Grand Prairie, TX",
+    "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Grand-Prairie-TX/Long-term-Internship---Technical-Product-Marketing_JR10435485",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "Airbus",
@@ -400,9 +391,9 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Spring and Summer Mechanical Engineering Coop",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+    "title": "Chemical Engineering Co Op Student Year Round",
+    "location": "Kingsport, Tennessee, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127274BR/Chemical-Engineering-Co-Op-Student-Year-Round",
     "date_found": "2026-08-28",
     "disciplines": [],
     "category": "engineering"
@@ -445,15 +436,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
-    "date_found": "2026-08-26",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Hardware Engineering Intern",
     "location": "Manassas, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128769BR/Hardware-Engineering-Intern",
@@ -490,15 +472,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Mechanical Engineering Intern II Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129212BR/Mechanical-Engineering-Intern-II-Summer-2027-Onsite",
-    "date_found": "2026-08-28",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
@@ -526,15 +499,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "New Hampshire Systems Engineering Intern III Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128227BR/New-Hampshire-Systems-Engineering-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-08-28",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Operations Engineering Industrial Mechanical Electrical Co op Spring Summer 2027",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/126541BR/Operations-Engineering-Industrial-Mechanical-Electrical-Co-op-Spring-Summer-2027",
@@ -557,6 +521,15 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
     "date_found": "2026-08-25",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern II Summer 2027 Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128054BR/Software-Engineering-Intern-II-Summer-2027-Onsite",
+    "date_found": "2026-08-28",
     "disciplines": [],
     "category": "software"
   },
@@ -1425,7 +1398,7 @@
   {
     "company": "GE Aerospace",
     "title": "Engines Engineering Co op Computer or Software Engineering US Spring 2027",
-    "location": "",
+    "location": "Evendale, Ohio, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5029619EXTERNALENGLOBAL/Engines-Engineering-Co-op-Computer-or-Software-Engineering-US-Spring-2027",
     "date_found": "2026-08-17",
     "disciplines": [],
@@ -2672,15 +2645,6 @@
   },
   {
     "company": "MIT Lincoln Laboratory",
-    "title": "Group 05-52 | Co-Op | AI Technology and Systems | Fall 2026",
-    "location": "Lexington, MA, US",
-    "url": "https://careers.ll.mit.edu/job/Lexington-Group-05-52-Co-Op-AI-Technology-and-Systems-Fall-2026-MA-02420/1399059100/",
-    "date_found": "2026-07-09",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "MIT Lincoln Laboratory",
     "title": "Group 08-35 | Microfab Industrial Eng. Co-Op | Microelectronics Laboratory | Jan- Aug  2027",
     "location": "Lexington, MA, US",
     "url": "https://careers.ll.mit.edu/job/Lexington-Group-08-35-Microfab-Industrial-Eng_-Co-Op-Microelectronics-Laboratory-Jan-Aug-2027-MA-02420/1370647300/",
@@ -2815,24 +2779,6 @@
     "category": "engineering"
   },
   {
-    "company": "Moog",
-    "title": "Intern, Electrical Engineering",
-    "location": "Buffalo, NY",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-19569",
-    "date_found": "2026-08-21",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Moog",
-    "title": "Intern, Hardware Engineering",
-    "location": "Mineral Wells, TX",
-    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417",
-    "date_found": "2026-08-25",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "North Wind Systems",
     "title": "Structural Engineering Intern 04206 LBYD",
     "location": "HUNTSVILLE, AL",
@@ -2870,15 +2816,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "2027 Intern - Systems Engineering",
-    "location": "United States-Florida-Melbourne",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Engineering_R10247434",
-    "date_found": "2026-08-25",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "2027 Intern Software Engineer",
     "location": "United States-Florida-Melbourne",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
@@ -2909,15 +2846,6 @@
     "title": "2027 Software Engineering Intern- Huntsville AL",
     "location": "United States-Alabama-Huntsville",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
-    "date_found": "2026-08-25",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Software Test Engineering Intern- Huntsville AL",
-    "location": "United States-Alabama-Huntsville",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487",
     "date_found": "2026-08-25",
     "disciplines": [],
     "category": "software"
@@ -4343,15 +4271,6 @@
     "date_found": "2026-08-17",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "RTX",
-    "title": "Supply Chain Intern",
-    "location": "MY-10-KLANG-009 ~ 9 Lengkuk Keluli 2 ~ 9 LENGKUK KELULI 2-009",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MY-10-KLANG-009--9-Lengkuk-Keluli-2--9-LENGKUK-KELULI-2-009/Supply-Chain-Intern_01870016",
-    "date_found": "2026-08-26",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "RTX",
