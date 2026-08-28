@@ -400,10 +400,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Chemical Engineering Co Op Student Year Round",
-    "location": "Kingsport, Tennessee, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127274BR/Chemical-Engineering-Co-Op-Student-Year-Round",
-    "date_found": "2026-08-24",
+    "title": "2027 Spring and Summer Mechanical Engineering Coop",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
+    "date_found": "2026-08-28",
     "disciplines": [],
     "category": "engineering"
   },
@@ -490,6 +490,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Mechanical Engineering Intern II Summer 2027 Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129212BR/Mechanical-Engineering-Intern-II-Summer-2027-Onsite",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Mechanical Engineering Intern III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127637BR/Mechanical-Engineering-Intern-III-Summer-2027-Hybrid",
@@ -499,10 +508,28 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Mechanical Engineering Intern III Summer 2027 Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129311BR/Mechanical-Engineering-Intern-III-Summer-2027-Onsite",
+    "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Metrology Operations Intern II Summer 2027 Onsite",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/129222BR/Metrology-Operations-Intern-II-Summer-2027-Onsite",
     "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "New Hampshire Systems Engineering Intern III Summer 2027 Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128227BR/New-Hampshire-Systems-Engineering-Intern-III-Summer-2027-Onsite",
+    "date_found": "2026-08-28",
     "disciplines": [],
     "category": "engineering"
   },
@@ -530,15 +557,6 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
     "date_found": "2026-08-25",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern II Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128054BR/Software-Engineering-Intern-II-Summer-2027-Onsite",
-    "date_found": "2026-08-07",
     "disciplines": [],
     "category": "software"
   },
@@ -1407,7 +1425,7 @@
   {
     "company": "GE Aerospace",
     "title": "Engines Engineering Co op Computer or Software Engineering US Spring 2027",
-    "location": "Evendale, Ohio, United States of America",
+    "location": "",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5029619EXTERNALENGLOBAL/Engines-Engineering-Co-op-Computer-or-Software-Engineering-US-Spring-2027",
     "date_found": "2026-08-17",
     "disciplines": [],
@@ -3545,15 +3563,6 @@
   },
   {
     "company": "RTX",
-    "title": "Quality Intern",
-    "location": "2 Locations",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MY-10-KLANG-009--9-Lengkuk-Keluli-2--9-LENGKUK-KELULI-2-009/Quality-Intern_01866537",
-    "date_found": "2026-08-13",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
     "title": "Software Engineer Intern (Summer 2027)",
     "location": "US-MA-WOBURN-WB1 ~ 235 Presidential Way ~ SPENCER BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890-1",
@@ -5403,17 +5412,6 @@
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7974897003",
     "date_found": "2026-08-25",
-    "disciplines": [
-      "2027 Internships"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "Zipline",
-    "title": "Embedded Software Engineer Intern (Spring 2027)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7974890003",
-    "date_found": "2026-08-26",
     "disciplines": [
       "2027 Internships"
     ],
