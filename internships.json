@@ -454,6 +454,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Chemical Engineering Co Op Student Year Round",
+    "location": "Kingsport, Tennessee, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127274BR/Chemical-Engineering-Co-Op-Student-Year-Round",
+    "date_found": "2026-08-30",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Competitive Intelligence Intern II Summer 2027 Remote",
     "location": "Endicott, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128916BR/Competitive-Intelligence-Intern-II-Summer-2027-Remote",
@@ -595,6 +604,24 @@
     "date_found": "2026-07-28",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern I Summer 2027",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
+    "date_found": "2026-08-30",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern II Summer 2027 Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128054BR/Software-Engineering-Intern-II-Summer-2027-Onsite",
+    "date_found": "2026-08-30",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "BAE Systems",
@@ -2586,28 +2613,28 @@
   },
   {
     "company": "L3Harris",
-    "title": "Intern  Program Finance",
-    "location": "Northampton, MA",
-    "url": "https://careers.l3harris.com/en/job/northampton/intern-program-finance/4832/99693730272",
-    "date_found": "2026-08-25",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "L3Harris",
-    "title": "Intern C, Finance",
-    "location": "Herndon, VA",
-    "url": "https://careers.l3harris.com/en/job/herndon/intern-c-finance/4832/99693730224",
-    "date_found": "2026-08-25",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "L3Harris",
-    "title": "Intern, Configuration Management",
+    "title": "Contracts Intern",
     "location": "Waco, TX",
-    "url": "https://careers.l3harris.com/en/job/waco/intern-configuration-management/4832/99693730368",
-    "date_found": "2026-08-25",
+    "url": "https://careers.l3harris.com/en/job/waco/contracts-intern/4832/99372977808",
+    "date_found": "2026-08-30",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern E, Communications",
+    "location": "Remote",
+    "url": "https://careers.l3harris.com/en/job/united-states/intern-e-communications/4832/99454394832",
+    "date_found": "2026-08-30",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern, Business Development",
+    "location": "Multiple Locations",
+    "url": "https://careers.l3harris.com/en/job/northampton/intern-business-development/4832/99780445488",
+    "date_found": "2026-08-30",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -2658,6 +2685,15 @@
   },
   {
     "company": "L3Harris",
+    "title": "Intern, Production Planning",
+    "location": "Northampton, MA",
+    "url": "https://careers.l3harris.com/en/job/northampton/intern-production-planning/4832/99693729936",
+    "date_found": "2026-08-30",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "L3Harris",
     "title": "Intern, Quality Engineer",
     "location": "Northampton, MA",
     "url": "https://careers.l3harris.com/en/job/northampton/intern-quality-engineer/4832/99372979792",
@@ -2689,15 +2725,6 @@
     "location": "Greenville, TX",
     "url": "https://careers.l3harris.com/en/job/greenville/intern-systems-engineer/4832/99409232256",
     "date_found": "2026-08-18",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "L3Harris",
-    "title": "Intern, Systems Engineer",
-    "location": "Palm Bay, Brevard, FL",
-    "url": "https://careers.l3harris.com/en/job/palm-bay/intern-systems-engineer/4832/99693730336",
-    "date_found": "2026-08-25",
     "disciplines": [],
     "category": "engineering"
   },
@@ -5072,10 +5099,10 @@
   },
   {
     "company": "Textron",
-    "title": "Fall Co Op Aes Mechanical Installations Engineer",
-    "location": "Wichita, KS",
-    "url": "https://careers.textron.com/wichita-ks/fall-co-op-aes-mechanical-installations-engineer/D4575A5F4D0B4960998BDB573537CDAE/job/",
-    "date_found": "2026-08-23",
+    "title": "Cwc Quality Engineering Co Op",
+    "location": "Muskegon, MI",
+    "url": "https://careers.textron.com/muskegon-mi/cwc-quality-engineering-co-op/813905CD78D34FFD8362E8BC492E3F79/job/",
+    "date_found": "2026-08-30",
     "disciplines": [],
     "category": "engineering"
   },
@@ -5114,15 +5141,6 @@
     "date_found": "2026-08-23",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Textron",
-    "title": "Fall Co Op Sustainability Analyst",
-    "location": "Wichita, KS",
-    "url": "https://careers.textron.com/wichita-ks/fall-co-op-sustainability-analyst/F198D22665AE484BA3986312AF2AE703/job/",
-    "date_found": "2026-08-23",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "Textron",
