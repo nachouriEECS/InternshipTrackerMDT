@@ -2579,6 +2579,24 @@
   },
   {
     "company": "Honeywell Aerospace",
+    "title": "Program Management and Support Intern - Summer 2027",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119850",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
+    "title": "Program Management and Support Intern - Summer 2027 (U.S. Person Required)",
+    "location": "United States",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/119835",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Honeywell Aerospace",
     "title": "Puerto Rico - Business and Finance Intern - Summer 2027 (U.S. Citizen Required)",
     "location": "Puerto Rico",
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/121405",
@@ -3440,15 +3458,6 @@
     "title": "Design Intern - Electrical (Year Round)",
     "location": "Appleton, Wisconsin, United States",
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Design-Intern---Electrical--Year-Round-_R49969",
-    "date_found": "2026-08-31",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Oshkosh",
-    "title": "Design Intern - Fall 2026",
-    "location": "New Hudson, Michigan, United States",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Design-Intern---Fall-2026_R49965",
     "date_found": "2026-08-31",
     "disciplines": [],
     "category": "engineering"
@@ -4361,15 +4370,6 @@
     "date_found": "2026-08-31",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "RTX",
-    "title": "Finance Intern – 1st shift – On site - Aeroestructuras",
-    "location": "MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238, Desarrollo Industrial Colorado",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Finance-Intern---1st-shift---On-site---Aeroestructuras_01868100",
-    "date_found": "2026-08-24",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "RTX",
@@ -5342,6 +5342,15 @@
   },
   {
     "company": "SAIC",
+    "title": "Aviation Missiles & Fires Intern",
+    "location": "Huntsville, AL, United States",
+    "url": "https://jobs.saic.com/jobs/18191762-aviation-missiles-and-fires-intern",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "SAIC",
     "title": "Site Support Intern",
     "location": "El Segundo, CA, United States",
     "url": "https://jobs.saic.com/jobs/18145975-site-support-intern",
@@ -6159,6 +6168,17 @@
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles?gh_jid=7920472003",
     "date_found": "2026-08-21",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Commercial Strategy & Operations Intern (Spring 2027)",
+    "location": "Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7982296003",
+    "date_found": "2026-09-01",
     "disciplines": [
       "2027 Internships"
     ],
