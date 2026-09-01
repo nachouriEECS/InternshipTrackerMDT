@@ -435,17 +435,6 @@
   },
   {
     "company": "Astranis",
-    "title": "Reliability Test Intern (Fall 2026)",
-    "location": "San Francisco",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4677973006",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "Production & Manufacturing Internships"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Astranis",
     "title": "Technical Project Management Intern (Fall 2026)",
     "location": "San Francisco",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4693670006",
@@ -751,6 +740,60 @@
     "date_found": "2026-08-31",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "BWX Technologies",
+    "title": "Intern - Supply Chain & Project Management - TN (Summer 2027)",
+    "location": "Oak Ridge, TN, US",
+    "url": "https://careers.bwxt.com/job/Oak-Ridge-Intern-Supply-Chain-&-Project-Management-TN-%28Summer-2027%29-TN/1425659500/",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BWX Technologies",
+    "title": "Intern - Supply Chain, Lynchburg - Advanced Technologies (Summer 2027)",
+    "location": "Lynchburg, VA, US",
+    "url": "https://careers.bwxt.com/job/Lynchburg-Intern-Supply-Chain%2C-Lynchburg-Advanced-Technologies-%28Summer-2027%29-VA-24501/1425663900/",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BWX Technologies",
+    "title": "Intern - Supply Chain, Project Management Office, Lynchburg",
+    "location": "Lynchburg, VA, US",
+    "url": "https://careers.bwxt.com/job/Lynchburg-Intern-Supply-Chain%2C-Project-Management-Office%2C-Lynchburg-VA-24501/1425667200/",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BWX Technologies",
+    "title": "Intern - Supply Management (Summer 2027)",
+    "location": "Barberton, OH, US",
+    "url": "https://careers.bwxt.com/job/Barberton-Intern-Supply-Management-%28Summer-2027%29-OH/1425670100/",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BWX Technologies",
+    "title": "Intern - Supply Management - Lynchburg, VA (Summer 2027)",
+    "location": "Lynchburg, VA, US",
+    "url": "https://careers.bwxt.com/job/Lynchburg-Intern-Supply-Management-Lynchburg%2C-VA-%28Summer-2027%29-VA-24501/1425672800/",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BWX Technologies",
+    "title": "Intern - Supply Management - Mt. Vernon, IN (Summer 2027)",
+    "location": "Mt Vernon, IN, US",
+    "url": "https://careers.bwxt.com/job/Mt-Vernon-Intern-Supply-Management-Mt_-Vernon%2C-IN-%28Summer-2027%29-IN/1425676300/",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "BWX Technologies",
@@ -3907,6 +3950,15 @@
     "category": "engineering"
   },
   {
+    "company": "MITRE",
+    "title": "Modeling Simulation and Analysis Intern",
+    "location": "McLean, Virginia, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R117401/Modeling-Simulation-and-Analysis-Intern",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
     "company": "Metron",
     "title": "Technical Summer Internship",
     "location": "Reston, VA",
@@ -4063,6 +4115,15 @@
   },
   {
     "company": "Northrop Grumman",
+    "title": "2027 Industrial Engineering Intern",
+    "location": "United States-Mississippi-Iuka",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Northrop Grumman",
     "title": "2027 Intern - Electronics (Avionics) Engineering",
     "location": "United States-Oklahoma-Oklahoma City",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern---Electronics--Avionics--Engineering_R10248658-1",
@@ -4107,6 +4168,24 @@
     "category": "engineering"
   },
   {
+    "company": "Northrop Grumman",
+    "title": "Intern Business Management",
+    "location": "United States-Florida-Melbourne",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Intern-Business-Management_R10248690",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "Intern Business Management",
+    "location": "United States-Florida-Melbourne",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Intern-Business-Management_R10248698",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
     "company": "Oshkosh",
     "title": "Accounting Intern (Year Round)",
     "location": "Appleton, Wisconsin, United States",
@@ -4135,30 +4214,12 @@
   },
   {
     "company": "Oshkosh",
-    "title": "Digital Technology Intern - Application Development (Year Round)",
-    "location": "Greenville, Wisconsin, United States",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Digital-Technology-Intern---Application-Development--Year-Round-_R49733",
-    "date_found": "2026-08-31",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Oshkosh",
     "title": "Digital Technology Intern - Systems Analyst (Summer 2027)",
     "location": "Dodge Center, Minnesota, United States",
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Digital-Technology-Intern---Systems-Analyst--Summer-2027-_R49791",
     "date_found": "2026-08-31",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "Oshkosh",
-    "title": "Engineer Intern - Controls (Summer 2027)",
-    "location": "Roy, Utah, United States",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Roy-Utah-United-States/Engineer-Intern---Controls--Summer-2027-_R49914",
-    "date_found": "2026-08-31",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "Oshkosh",
@@ -4193,6 +4254,15 @@
     "location": "Appleton, Wisconsin, United States",
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Environmental--Summer-2027-_R49736",
     "date_found": "2026-08-31",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Oshkosh",
+    "title": "Engineer Intern - Industrial (Summer 2027)",
+    "location": "Murfreesboro, Tennessee, United States",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Murfreesboro-Tennessee-United-States/Engineer-Intern---Industrial_R49877",
+    "date_found": "2026-09-01",
     "disciplines": [],
     "category": "engineering"
   },
@@ -4288,27 +4358,9 @@
   },
   {
     "company": "Oshkosh",
-    "title": "Engineer Intern - Systems (Year Round)",
-    "location": "Clearwater, Florida, United States",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Clearwater-Florida-United-States/Engineer-Intern---Systems--Year-Round-_R49936",
-    "date_found": "2026-08-31",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Oshkosh",
     "title": "Human Resources Intern (Summer 2027)",
     "location": "Appleton, Wisconsin, United States",
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Human-Resources-Intern--Summer-2027-_R49896",
-    "date_found": "2026-08-31",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Oshkosh",
-    "title": "Intelligent Supply Chain Intern (Year Round)",
-    "location": "Greenville, Wisconsin, United States",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Intelligent-Supply-Chain-Intern--Year-Round-_R49907",
     "date_found": "2026-08-31",
     "disciplines": [],
     "category": "non-engineering"
@@ -4334,17 +4386,17 @@
   {
     "company": "Oshkosh",
     "title": "Materials Management Intern (Summer 2027)",
-    "location": "Bradenton, Florida, United States",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bradenton-Florida-United-States/Materials-Management-Intern--Summer-2027-_R49822",
-    "date_found": "2026-08-31",
+    "location": "Murfreesboro, Tennessee, United States",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Murfreesboro-Tennessee-United-States/Materials-Intern_R49881",
+    "date_found": "2026-09-01",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "Oshkosh",
-    "title": "Mechanical Design Intern (Summer 2027)",
+    "title": "Materials Management Intern (Summer 2027)",
     "location": "Bradenton, Florida, United States",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bradenton-Florida-United-States/Mechanical-Design-Intern--Summer-2027-_R49820",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bradenton-Florida-United-States/Materials-Management-Intern--Summer-2027-_R49822",
     "date_found": "2026-08-31",
     "disciplines": [],
     "category": "engineering"
@@ -4357,6 +4409,15 @@
     "date_found": "2026-08-31",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Oshkosh",
+    "title": "Operations Management Intern (Summer 2027)",
+    "location": "Murfreesboro, Tennessee, United States",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Murfreesboro-Tennessee-United-States/Operations-Management-Intern_R49882",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "Oshkosh",
@@ -4429,6 +4490,15 @@
     "date_found": "2026-08-31",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "Oshkosh",
+    "title": "Quality Intern (Summer 2027)",
+    "location": "Murfreesboro, Tennessee, United States",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Murfreesboro-Tennessee-United-States/Quality-Intern_R49883",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Oshkosh",
@@ -5153,6 +5223,15 @@
   {
     "company": "RTX",
     "title": "Software Engineering Intern (Summer 2027)",
+    "location": "US-FL-MELBOURNE-313 ~ 1344 S Babcock St ~ BLDG 313",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Summer-2027-_01871423",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "RTX",
+    "title": "Software Engineering Intern (Summer 2027)",
     "location": "US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007",
     "date_found": "2026-08-27",
@@ -5275,6 +5354,15 @@
     "date_found": "2026-08-27",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Analyse des affaires et strategies de tarification / Internship - Winter 2027 -  Business Analysis & Pricing Strategy",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/XMLNAME-01864059-Stage---Hiver-2027---Analyse-des-affaires-et-strategies-de-tarification---Internship---Winter-2027----Business-Analysis---Pricing-Strategy_01864059",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "RTX",
@@ -6130,15 +6218,6 @@
   },
   {
     "company": "Roush (Defense)",
-    "title": "Mechanical Engineering Internship Composites Fall 2026",
-    "location": "Livonia, MI",
-    "url": "https://jobs.roush.com/us/en/job/job_20260812174908_1NJWEH7IQXYALHOR/Mechanical-Engineering-Internship-Composites-Fall-2026",
-    "date_found": "2026-08-16",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Roush (Defense)",
     "title": "Mechanical Engineering Internship Fall 2026",
     "location": "Allen Park, MI",
     "url": "https://jobs.roush.com/us/en/job/job_20260803170228_EP9PX0GOISJHKIWG/Mechanical-Engineering-Internship-Fall-2026",
@@ -6522,6 +6601,15 @@
     "date_found": "2026-05-18",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "TTM Technologies",
+    "title": "Process Engineering Intern - Summer 2027",
+    "location": "Santa Ana, CA",
+    "url": "https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Santa-Ana-CA/Process-Engineering-Intern---Summer-2027_R17867",
+    "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "TTM Technologies",
