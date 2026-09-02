@@ -440,21 +440,21 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Additive Manufacturing Intern II Summer 2027 Onsite",
-    "location": "Hudson, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129369BR/Additive-Manufacturing-Intern-II-Summer-2027-Onsite",
-    "date_found": "2026-09-02",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Business Analyst Intern III Summer 2027 Remote",
     "location": "Endicott, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/129379BR/Business-Analyst-Intern-III-Summer-2027-Remote",
     "date_found": "2026-09-02",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Chemical Engineering Co Op Student Year Round",
+    "location": "Kingsport, Tennessee, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127274BR/Chemical-Engineering-Co-Op-Student-Year-Round",
+    "date_found": "2026-09-02",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "BAE Systems",
@@ -485,6 +485,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
+    "date_found": "2026-09-02",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
@@ -503,12 +512,30 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Logistics Intern III Summer 2027 Onsite",
-    "location": "Austin, Texas, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129220BR/Logistics-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-08-31",
+    "title": "Intellectual Property Legal Intern IV Fall 2026 Hybrid",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127771BR/Intellectual-Property-Legal-Intern-IV-Fall-2026-Hybrid",
+    "date_found": "2026-09-02",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Logistics Intern III Onsite",
+    "location": "Austin, Texas, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129220BR/Logistics-Intern-III-Onsite",
+    "date_found": "2026-09-02",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Manufacturing Engineering Intern Summer 2027",
+    "location": "Boulder, Colorado, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129452BR/Manufacturing-Engineering-Intern-Summer-2027",
+    "date_found": "2026-09-02",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "BAE Systems",
@@ -620,21 +647,21 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Software Engineering Intern III Summer 2027 Onsite",
+    "location": "San Diego, California, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129576BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
+    "date_found": "2026-09-02",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Software Engineering Intern IV Summer 2027 Onsite",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
     "date_found": "2026-08-27",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Spring and Summer Electrical Engineering Intern IV Hybrid",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129449BR/Spring-and-Summer-Electrical-Engineering-Intern-IV-Hybrid",
-    "date_found": "2026-09-01",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "BAE Systems",
@@ -662,6 +689,15 @@
     "date_found": "2026-08-09",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Systems Software Engineering Intern Embedded Systems",
+    "location": "Huntsville, Alabama, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126218BR/Systems-Software-Engineering-Intern-Embedded-Systems",
+    "date_found": "2026-09-02",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "BAE Systems",
@@ -822,6 +858,51 @@
     "location": "Mt Vernon, IN, US",
     "url": "https://careers.bwxt.com/job/Mt-Vernon-Welding-Engineer-Intern-IN/1417278800/",
     "date_found": "2026-08-08",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Battelle",
+    "title": "Contracts Procurement Intern Summer 2027",
+    "location": "COLUMBUS, Ohio",
+    "url": "https://jobs.battelle.org/us/en/job/76501/Contracts-Procurement-Intern-Summer-2027",
+    "date_found": "2026-09-02",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Battelle",
+    "title": "Data Modeler Engineering Programmer Intern Summer 2027",
+    "location": "COLUMBUS, Ohio",
+    "url": "https://jobs.battelle.org/us/en/job/76472/Data-Modeler-Engineering-Programmer-Intern-Summer-2027",
+    "date_found": "2026-09-02",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Battelle",
+    "title": "Human Centric Design Intern Summer 2027",
+    "location": "COLUMBUS, Ohio",
+    "url": "https://jobs.battelle.org/us/en/job/76497/Human-Centric-Design-Intern-Summer-2027",
+    "date_found": "2026-09-02",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Battelle",
+    "title": "Internal Audit Internship Summer 2027",
+    "location": "COLUMBUS, Ohio",
+    "url": "https://jobs.battelle.org/us/en/job/76506/Internal-Audit-Internship-Summer-2027",
+    "date_found": "2026-09-02",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Battelle",
+    "title": "Public Health Intern Summer 2027",
+    "location": "COLUMBUS, Ohio",
+    "url": "https://jobs.battelle.org/us/en/job/76505/Public-Health-Intern-Summer-2027",
+    "date_found": "2026-09-02",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1793,6 +1874,15 @@
     "category": "engineering"
   },
   {
+    "company": "CNA",
+    "title": "Actuarial Intern – Summer 2027",
+    "location": "Chicago, IL, USA",
+    "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Actuarial-Intern---Summer-2027_R-8026",
+    "date_found": "2026-09-02",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
     "company": "Carpenter Technology",
     "title": "Process Technology Intern",
     "location": "Reading, PA",
@@ -2169,15 +2259,6 @@
     "date_found": "2026-08-17",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "GE Aerospace Intern Asheville",
-    "location": "Asheville, North Carolina, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037767EXTERNALENGLOBAL/GE-Aerospace-Intern-Asheville",
-    "date_found": "2026-08-17",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "GE Aerospace",
@@ -3915,15 +3996,6 @@
   },
   {
     "company": "MITRE",
-    "title": "AI ML Intern",
-    "location": "Honolulu, Hawaii, United States of America",
-    "url": "https://careers.mitre.org/us/en/job/R117093/AI-ML-Intern",
-    "date_found": "2026-08-17",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "MITRE",
     "title": "Cyber Defense Intern",
     "location": "Honolulu, Hawaii, United States of America",
     "url": "https://careers.mitre.org/us/en/job/R117094/Cyber-Defense-Intern",
@@ -3948,15 +4020,6 @@
     "date_found": "2026-09-01",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "MITRE",
-    "title": "Software Developer Intern",
-    "location": "McLean, Virginia, United States of America",
-    "url": "https://careers.mitre.org/us/en/job/R117174/Software-Developer-Intern",
-    "date_found": "2026-09-02",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "MITRE",
@@ -4184,6 +4247,24 @@
     "date_found": "2026-09-02",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2027 Systems Engineer Intern - Gilbert AZ",
+    "location": "United States-Arizona-Gilbert",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Systems-Engineer-Intern---Gilbert-AZ_R10249114-1",
+    "date_found": "2026-09-02",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2027 Systems Engineer Intern - Redondo Beach CA",
+    "location": "United States-California-Redondo Beach",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Systems-Engineer-Intern---Redondo-Beach-CA_R10249113",
+    "date_found": "2026-09-02",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Northrop Grumman",
@@ -5438,6 +5519,15 @@
   },
   {
     "company": "RTX",
+    "title": "Stage - Hiver 2027 -  Ventes globales / Internship - Winter 2027 -  Global Sales",
+    "location": "CA-QC-SAINT HUBERT-H12 ~ 7007 Chemin De La Savane ~ BLDG H12 TRAINING",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-SAINT-HUBERT-H12--7007-Chemin-De-La-Savane--BLDG-H12-TRAINING/Stage---Hiver-2027----Ventes-globales---Internship---Winter-2027----Global-Sales_01869713",
+    "date_found": "2026-09-02",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Stage - Hiver 2027 - Administration des contrats et analyse des ventes / Internship Winter 2027 - Contract Administration & Sales Analysis",
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Administration-des-contrats-et-analyse-des-ventes---Internship-Winter-2027---Contract-Administration---Sales-Analysis_01863014",
@@ -5721,6 +5811,15 @@
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie-de-projets---Programmes-turbopropulseurs-rgionaux--LONGUEUIL-OU-MISSISSAUGA----Internship---Winter-2027---Project-Engineering---Regional-engine-programs--LONGUEUIL-OR-MISSISSAUGA-_01867607",
     "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage - Hiver 2027 - Ingénierie de services / Internship - Winter 2027 - Customer Engineering",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Ingnierie-de-services---Internship---Winter-2027---Customer-Engineering_01868234",
+    "date_found": "2026-09-02",
     "disciplines": [],
     "category": "engineering"
   },
@@ -6368,15 +6467,6 @@
     "location": "Allen Park, MI",
     "url": "https://jobs.roush.com/us/en/job/job_20260803170228_EP9PX0GOISJHKIWG/Mechanical-Engineering-Internship-Fall-2026",
     "date_found": "2026-08-16",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "SAIC",
-    "title": "Site Support Intern",
-    "location": "El Segundo, CA, United States",
-    "url": "https://jobs.saic.com/jobs/18145975-site-support-intern",
-    "date_found": "2026-08-29",
     "disciplines": [],
     "category": "engineering"
   },
@@ -7131,7 +7221,7 @@
   },
   {
     "company": "Voyager Technologies",
-    "title": "Supply Chain Intern",
+    "title": "Supply Chain Intern - Fall Season ",
     "location": "Folsom, CA",
     "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4392099009",
     "date_found": "2026-09-02",
@@ -7313,8 +7403,8 @@
     "company": "Zipline",
     "title": "Commercial Strategy & Operations Intern (Spring 2027)",
     "location": "Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7982296003",
-    "date_found": "2026-09-01",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7980889003",
+    "date_found": "2026-08-31",
     "disciplines": [
       "2027 Internships"
     ],
@@ -7324,8 +7414,8 @@
     "company": "Zipline",
     "title": "Commercial Strategy & Operations Intern (Spring 2027)",
     "location": "Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7980889003",
-    "date_found": "2026-08-31",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7982296003",
+    "date_found": "2026-09-01",
     "disciplines": [
       "2027 Internships"
     ],
