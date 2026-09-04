@@ -584,39 +584,12 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Engineering Intern EE CE RF III Summer 2027 Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127604BR/Engineering-Intern-EE-CE-RF-III-Summer-2027-Hybrid",
-    "date_found": "2026-08-29",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "FAST Labs Electrical Engineering Intern Fall 2026",
-    "location": "Merrimack, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129707BR/FAST-Labs-Electrical-Engineering-Intern-Fall-2026",
-    "date_found": "2026-09-04",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Hardware Engineering Intern",
     "location": "Manassas, Virginia, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128769BR/Hardware-Engineering-Intern",
     "date_found": "2026-09-04",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Intellectual Property Legal Intern IV Fall 2026 Hybrid",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127771BR/Intellectual-Property-Legal-Intern-IV-Fall-2026-Hybrid",
-    "date_found": "2026-09-02",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "BAE Systems",
@@ -687,6 +660,15 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128227BR/New-Hampshire-Systems-Engineering-Intern-III-Summer-2027-Onsite",
     "date_found": "2026-08-29",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Operations Engineering Industrial Mechanical Electrical Co op Spring Summer 2027",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/126541BR/Operations-Engineering-Industrial-Mechanical-Electrical-Co-op-Spring-Summer-2027",
+    "date_found": "2026-09-04",
     "disciplines": [],
     "category": "engineering"
   },
@@ -854,6 +836,15 @@
   },
   {
     "company": "BWX Technologies",
+    "title": "Intern - Communications (Summer 2027)",
+    "location": "Lynchburg, VA, US",
+    "url": "https://careers.bwxt.com/job/Lynchburg-Intern-Communications-%28Summer-2027%29-VA-24501/1427005800/",
+    "date_found": "2026-09-04",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BWX Technologies",
     "title": "Intern - Supply Chain & Project Management - TN (Summer 2027)",
     "location": "Oak Ridge, TN, US",
     "url": "https://careers.bwxt.com/job/Oak-Ridge-Intern-Supply-Chain-&-Project-Management-TN-%28Summer-2027%29-TN/1425659500/",
@@ -881,15 +872,6 @@
   },
   {
     "company": "BWX Technologies",
-    "title": "Intern - Supply Management (Summer 2027)",
-    "location": "Barberton, OH, US",
-    "url": "https://careers.bwxt.com/job/Barberton-Intern-Supply-Management-%28Summer-2027%29-OH/1425670100/",
-    "date_found": "2026-09-01",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BWX Technologies",
     "title": "Intern - Supply Management - Lynchburg, VA (Summer 2027)",
     "location": "Lynchburg, VA, US",
     "url": "https://careers.bwxt.com/job/Lynchburg-Intern-Supply-Management-Lynchburg%2C-VA-%28Summer-2027%29-VA-24501/1425672800/",
@@ -903,6 +885,15 @@
     "location": "Mt Vernon, IN, US",
     "url": "https://careers.bwxt.com/job/Mt-Vernon-Intern-Supply-Management-Mt_-Vernon%2C-IN-%28Summer-2027%29-IN/1425676300/",
     "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BWX Technologies",
+    "title": "Intern - Supply Management, OH (Summer 2027)",
+    "location": "Barberton, OH, US",
+    "url": "https://careers.bwxt.com/job/Barberton-Intern-Supply-Management%2C-OH-%28Summer-2027%29-OH/1425670100/",
+    "date_found": "2026-09-04",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -1511,15 +1502,6 @@
   },
   {
     "company": "Booz Allen Hamilton",
-    "title": "University - 2027 Summer Games Cyber Security Intern - Annapolis Junction, MD",
-    "location": "Annapolis Junction, MD",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414",
-    "date_found": "2026-09-04",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Booz Allen Hamilton",
     "title": "University - 2027 Summer Games Cyber Security Intern - Atlanta, GA",
     "location": "Atlanta, GA",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
@@ -1529,19 +1511,19 @@
   },
   {
     "company": "Booz Allen Hamilton",
-    "title": "University - 2027 Summer Games Cyber Security Intern - El Segundo, CA",
-    "location": "El Segundo, CA",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
-    "date_found": "2026-08-27",
+    "title": "University - 2027 Summer Games Cyber Security Intern - Charleston, SC",
+    "location": "Charleston, SC",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136",
+    "date_found": "2026-09-04",
     "disciplines": [],
     "category": "software"
   },
   {
     "company": "Booz Allen Hamilton",
-    "title": "University - 2027 Summer Games Cyber Security Intern - Ft. Walton Beach, FL",
-    "location": "Fort Walton Beach, FL",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Cyber-Security-Intern---Ft-Walton-Beach--FL_R0248416",
-    "date_found": "2026-09-04",
+    "title": "University - 2027 Summer Games Cyber Security Intern - El Segundo, CA",
+    "location": "El Segundo, CA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
+    "date_found": "2026-08-27",
     "disciplines": [],
     "category": "software"
   },
@@ -1565,6 +1547,15 @@
   },
   {
     "company": "Booz Allen Hamilton",
+    "title": "University - 2027 Summer Games Cyber Security Intern - McLean, VA",
+    "location": "McLean, VA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034",
+    "date_found": "2026-09-04",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
     "title": "University - 2027 Summer Games Data Scientist Intern - Annapolis Junction, MD",
     "location": "Annapolis Junction, MD",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408",
@@ -1574,9 +1565,9 @@
   },
   {
     "company": "Booz Allen Hamilton",
-    "title": "University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL",
-    "location": "Fort Walton Beach, FL",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409",
+    "title": "University - 2027 Summer Games Data Scientist Intern - Charleston, SC",
+    "location": "Charleston, SC",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137",
     "date_found": "2026-09-04",
     "disciplines": [],
     "category": "software"
@@ -1587,6 +1578,15 @@
     "location": "Huntsville, AL",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407",
     "date_found": "2026-09-01",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University - 2027 Summer Games Data Scientist Intern - McLean, VA",
+    "location": "McLean, VA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037",
+    "date_found": "2026-09-04",
     "disciplines": [],
     "category": "software"
   },
@@ -1610,18 +1610,36 @@
   },
   {
     "company": "Booz Allen Hamilton",
-    "title": "University - 2027 Summer Games Software Developer Intern - Ft. Walton Beach, FL",
-    "location": "Fort Walton Beach, FL",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404",
-    "date_found": "2026-09-01",
+    "title": "University - 2027 Summer Games Software Developer Intern - Atlanta, GA",
+    "location": "Atlanta, GA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138",
+    "date_found": "2026-09-04",
     "disciplines": [],
     "category": "software"
   },
   {
     "company": "Booz Allen Hamilton",
-    "title": "University - 2027 Summer Games Software Developer Intern - Honolulu, HI",
-    "location": "Honolulu, HI",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393",
+    "title": "University - 2027 Summer Games Software Developer Intern - Charleston, SC",
+    "location": "Charleston, SC",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134",
+    "date_found": "2026-09-04",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University - 2027 Summer Games Software Developer Intern - El Segundo, CA",
+    "location": "El Segundo, CA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
+    "date_found": "2026-09-04",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University - 2027 Summer Games Software Developer Intern - Ft. Walton Beach, FL",
+    "location": "Fort Walton Beach, FL",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404",
     "date_found": "2026-09-01",
     "disciplines": [],
     "category": "software"
@@ -1655,19 +1673,19 @@
   },
   {
     "company": "Booz Allen Hamilton",
-    "title": "University - 2027 Summer Games Systems Engineer Intern - Colorado Springs, CO",
-    "location": "Colorado Springs, CO",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368",
-    "date_found": "2026-09-01",
+    "title": "University - 2027 Summer Games Systems Engineer Intern - Charleston, SC",
+    "location": "Charleston, SC",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369",
+    "date_found": "2026-09-04",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "Booz Allen Hamilton",
-    "title": "University - 2027 Summer Games Systems Engineer Intern - Ft. Walton Beach, FL",
-    "location": "Fort Walton Beach, FL",
-    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Systems-Engineer-Intern---Ft-Walton-Beach--FL_R0248388",
-    "date_found": "2026-09-01",
+    "title": "University - 2027 Summer Games Systems Engineer Intern - El Segundo, CA",
+    "location": "El Segundo, CA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366",
+    "date_found": "2026-09-04",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1763,10 +1781,28 @@
   },
   {
     "company": "Booz Allen Hamilton",
+    "title": "University, 2027 Summer Games Cyber Security Intern - Rome, NY",
+    "location": "Rome, NY",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142",
+    "date_found": "2026-09-04",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
     "title": "University, 2027 Summer Games Cyber Security Intern - San Diego, CA",
     "location": "San Diego, CA",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043",
     "date_found": "2026-08-27",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University, 2027 Summer Games Data Scientist Intern - Atlanta, GA",
+    "location": "Atlanta, GA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140",
+    "date_found": "2026-09-04",
     "disciplines": [],
     "category": "software"
   },
@@ -1790,10 +1826,37 @@
   },
   {
     "company": "Booz Allen Hamilton",
+    "title": "University, 2027 Summer Games Data Scientist Intern - Rome, NY",
+    "location": "Rome, NY",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143",
+    "date_found": "2026-09-04",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
     "title": "University, 2027 Summer Games Software Developer Intern - Colorado Springs, CO",
     "location": "Colorado Springs, CO",
     "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130",
     "date_found": "2026-08-28",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University, 2027 Summer Games Software Developer Intern - McLean, VA",
+    "location": "McLean, VA",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029",
+    "date_found": "2026-09-04",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "title": "University, 2027 Summer Games Software Developer Intern - Rome, NY",
+    "location": "Rome, NY",
+    "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141",
+    "date_found": "2026-09-04",
     "disciplines": [],
     "category": "software"
   },
@@ -1906,6 +1969,15 @@
     "location": "3 Locations",
     "url": "https://caci.wd1.myworkdayjobs.com/External/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120",
     "date_found": "2026-08-26",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "CACI International",
+    "title": "Software Engineer Intern - Summer 2027",
+    "location": "Ypsilanti, MI, US",
+    "url": "https://caci.wd1.myworkdayjobs.com/External/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648",
+    "date_found": "2026-09-04",
     "disciplines": [],
     "category": "software"
   },
@@ -2747,15 +2819,6 @@
     "date_found": "2026-07-09",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "Finance Intern, Finance & Operations (Summer 2027)",
-    "location": "USA - California - Santa Clara",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Finance-Intern--Finance---Operations--Summer-2027-_JR-2605138",
-    "date_found": "2026-09-04",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "GlobalFoundries",
@@ -5408,6 +5471,15 @@
   },
   {
     "company": "RTX",
+    "title": "Airborne RF Electronics Electrical Engineer Intern (Summer 2027)(Onsite)",
+    "location": "2 Locations",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Airborne-RF-Electronics-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872791",
+    "date_found": "2026-09-04",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Analog and Power Design Electrical Engineering Intern (Summer 2027)",
     "location": "US-MA-MARLBOROUGH-MA3 ~ 1001 Boston Post Rd ~ BLDG 3",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Analog-and-Power-Design-Electrical-Engineering-Intern--Summer-2027-_01871778",
@@ -5529,6 +5601,15 @@
     "location": "US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Intern--Commercial-Engines-Production-Chief-Organization--Summer-2027-_01865852",
     "date_found": "2026-08-31",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Internship - Winter 2027 - Aerospace Manufacturing & Continuous Improvement Projects (Industrial/Mechanical Engineering)",
+    "location": "CA-NS-HALIFAX-PLANT 41 ~ 189 Pratt & Whitney Dr ~ PLANT 41",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship---Winter-2027---Aerospace-Manufacturing---Continuous-Improvement-Projects--Industrial-Mechanical-Engineering-_01871198",
+    "date_found": "2026-09-04",
     "disciplines": [],
     "category": "engineering"
   },
@@ -6575,6 +6656,15 @@
     "date_found": "2026-08-21",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "RTX",
+    "title": "Stage- Hiver 2027- Analyste d'affaires, strategie et developpement des affaires /  Internship - Winter 2027 -Business Analyst, Strategy and Business Development",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage--Hiver-2027--Analyste-d-affaires--strategie-et-developpement-des-affaires----Internship---Winter-2027--Business-Analyst--Strategy-and-Business-Development_01871590",
+    "date_found": "2026-09-04",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "RTX",
@@ -8019,6 +8109,28 @@
       "2027 Internships"
     ],
     "category": "engineering"
+  },
+  {
+    "company": "Zipline",
+    "title": "Aircraft Software Integration Intern (Spring 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003",
+    "date_found": "2026-09-04",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "Zipline",
+    "title": "Aircraft Software Integration Intern (Summer 2027)",
+    "location": "South San Francisco, California, USA",
+    "url": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
+    "date_found": "2026-09-04",
+    "disciplines": [
+      "2027 Internships"
+    ],
+    "category": "software"
   },
   {
     "company": "Zipline",
