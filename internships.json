@@ -296,6 +296,15 @@
   },
   {
     "company": "Arconic",
+    "title": "Electrical Engineer Intern- Davenport Works",
+    "location": "Davenport, IA, United States",
+    "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114162",
+    "date_found": "2026-09-07",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Arconic",
     "title": "Environmental Intern",
     "location": "Davenport, IA, United States",
     "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114155",
@@ -10205,6 +10214,15 @@
   },
   {
     "company": "The Aerospace Corporation",
+    "title": "2027 Digital Systems Engineering Graduate Intern",
+    "location": "2 Locations",
+    "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Systems-Engineering-Graduate-Intern_R016466",
+    "date_found": "2026-09-07",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "The Aerospace Corporation",
     "title": "2027 Remote Sensing Architecture Performance Graduate Intern",
     "location": "3 Locations",
     "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Remote-Sensing-Architecture-Performance-Graduate-Intern_R016443",
@@ -10241,9 +10259,27 @@
   },
   {
     "company": "The Aerospace Corporation",
+    "title": "2027 Systems of Systems/Portfolio Analysis Undergraduate Intern",
+    "location": "3 Locations",
+    "url": "https://aero.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/XMLNAME-2027-Systems-of-Systems-Portfolio-Analysis-Undergraduate-Intern_R016462",
+    "date_found": "2026-09-07",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "The Aerospace Corporation",
     "title": "2027 Vehicle and Ground Concepts Grad Intern",
     "location": "2 Locations",
     "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Vehicle-and-Ground-Concepts-Grad-Intern_R016300",
+    "date_found": "2026-09-07",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "The Aerospace Corporation",
+    "title": "2027 Vehicle and Ground Concepts Undergraduate Intern",
+    "location": "El Segundo, CA",
+    "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Vehicle-and-Ground-Concepts-Undergraduate-Intern_R016433",
     "date_found": "2026-09-07",
     "disciplines": [],
     "category": "engineering"
