@@ -1520,19 +1520,19 @@
   },
   {
     "company": "Blue Origin",
-    "title": "Summer 2027 Manufacturing Engineering Internship - Graduate",
+    "title": "Summer 2027 Manufacturing Engineering Internship - Undergraduate",
     "location": "4 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Huntsville-AL/Summer-2027-Manufacturing-Engineering-Internship---Graduate_R71427",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Summer-2027-Manufacturing-Engineering-Internship---Undergraduate_R71428",
     "date_found": "2026-09-01",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "Blue Origin",
-    "title": "Summer 2027 Manufacturing Engineering Internship - Undergraduate",
-    "location": "4 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Summer-2027-Manufacturing-Engineering-Internship---Undergraduate_R71428",
-    "date_found": "2026-09-01",
+    "title": "Summer 2027 Marine Mechanical & Test Engineering Internship - Undergraduate",
+    "location": "6 Locations",
+    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Marine-Mechanical---Test-Engineering-Internship---Undergraduate_R72238",
+    "date_found": "2026-09-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -1553,24 +1553,6 @@
     "date_found": "2026-09-01",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Summer 2027 Software Developer Internship - Graduate",
-    "location": "4 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Graduate_R71434",
-    "date_found": "2026-09-01",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Summer 2027 Software Developer Internship - Undergraduate",
-    "location": "3 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425",
-    "date_found": "2026-09-01",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "Blue Origin",
@@ -3267,6 +3249,15 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Technical Coop 2 Year Technical Associates Degree programs Spring 2027",
+    "location": "Evendale, Ohio, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5036325EXTERNALENGLOBAL/Technical-Coop-2-Year-Technical-Associates-Degree-programs-Spring-2027",
+    "date_found": "2026-09-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GE Aerospace",
     "title": "Unison Engineering Intern Fall 2027",
     "location": "Jacksonville, Florida, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5037092EXTERNALENGLOBAL/Unison-Engineering-Intern-Fall-2027",
@@ -4760,6 +4751,15 @@
   },
   {
     "company": "Leidos",
+    "title": "AI/ML Intern",
+    "location": "Huntsville, AL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/AI-ML-Intern_R-00192042",
+    "date_found": "2026-09-11",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Leidos",
     "title": "Aerospace M&S Engineer Intern",
     "location": "Huntsville, AL",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Aerospace-M-S-Engineer-Intern_R-00191760",
@@ -5311,10 +5311,28 @@
   },
   {
     "company": "Moog",
+    "title": "Intern, Embedded Design Engineering",
+    "location": "Blacksburg, VA",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053",
+    "date_found": "2026-09-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Moog",
     "title": "Intern, Hardware Design Engineering",
     "location": "Mineral Wells, TX",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887",
     "date_found": "2026-09-09",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Mechanical Manufacturing Engineering",
+    "location": "Blacksburg, VA",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Blacksburg-VA/Intern--Mechanical-Manufacturing-Engineering_R-26-19925",
+    "date_found": "2026-09-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -5396,6 +5414,15 @@
     "location": "United States-California-El Segundo",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/XMLNAME-2027-Fall-Co-Op---Survivability-Engineer_R10250417",
     "date_found": "2026-09-10",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Northrop Grumman",
+    "title": "2027 Fall Mechanical Engineering Co-op - Chandler AZ",
+    "location": "United States-Arizona-Chandler",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Fall-Mechanical-Engineering-Co-op---Chandler-AZ_R10250495",
+    "date_found": "2026-09-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -5581,15 +5608,6 @@
   },
   {
     "company": "Oshkosh",
-    "title": "Engineer Intern - Electrical (Summer 2027)",
-    "location": "Garner, Iowa, United States",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Garner-Iowa-United-States/Engineer-Intern---Electrical--Summer-2027-_R49814",
-    "date_found": "2026-08-31",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Oshkosh",
     "title": "Engineer Intern - Environmental (Summer 2027)",
     "location": "Appleton, Wisconsin, United States",
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Environmental--Summer-2027-_R49736",
@@ -5644,15 +5662,6 @@
   },
   {
     "company": "Oshkosh",
-    "title": "Engineer Intern - Mechanical (Summer 2027)",
-    "location": "Garner, Iowa, United States",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Garner-Iowa-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49815",
-    "date_found": "2026-08-31",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Oshkosh",
     "title": "Engineer Intern - Quality (Summer 2027)",
     "location": "Appleton, Wisconsin, United States",
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Quality--Summer-2027-_R49743",
@@ -5692,6 +5701,15 @@
     "title": "Finance & Accounting Intern",
     "location": "Oshkosh, Wisconsin, United States",
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Finance---Accounting-Intern_R50271",
+    "date_found": "2026-09-11",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Oshkosh",
+    "title": "Global Procurement & Supply Chain Intern",
+    "location": "Oshkosh, Wisconsin, United States",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Global-Procurement---Supply-Chain-Intern_R50270",
     "date_found": "2026-09-11",
     "disciplines": [],
     "category": "non-engineering"
@@ -6607,6 +6625,15 @@
   },
   {
     "company": "RTX",
+    "title": "Hiver - Stage 2027- Analyste Fabrication & Qualite /Internship – Winter 2027 -Manufacturing & Quality Analyst",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Hiver---Stage-2027--Analyste-Fabrication---Qualite--Internship---Winter-2027--Manufacturing---Quality-Analyst_01874408",
+    "date_found": "2026-09-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Human Resources Intern /Leadership Development Program (June 2027) (Hybrid)",
     "location": "US-VA-ARLINGTON-108 ~ 1100 Wilson Blvd ~ ROSSLYN HQ",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Human-Resources-Intern--June-2027---Hybrid-_01867193",
@@ -6865,6 +6892,15 @@
     "date_found": "2026-09-09",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Mission Analyst Intern (Summer 2027)",
+    "location": "US-TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/Mission-Analyst-Intern--Summer-2027-_01874027",
+    "date_found": "2026-09-11",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "RTX",
@@ -12795,28 +12831,6 @@
     "title": "Embedded Software Engineer Intern (Spring 2027)",
     "location": "South San Francisco, California, USA",
     "url": "https://www.zipline.com/open-roles/7974897003?gh_jid=7974897003",
-    "date_found": "2026-09-03",
-    "disciplines": [
-      "2027 Internships"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "Zipline",
-    "title": "Enterprise Systems Software Engineer Intern (Spring 2027)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles/7893926003?gh_jid=7893926003",
-    "date_found": "2026-09-03",
-    "disciplines": [
-      "2027 Internships"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "Zipline",
-    "title": "Enterprise Systems Software Engineer Intern (Summer 2027)",
-    "location": "South San Francisco, California, USA",
-    "url": "https://www.zipline.com/open-roles/7886501003?gh_jid=7886501003",
     "date_found": "2026-09-03",
     "disciplines": [
       "2027 Internships"
