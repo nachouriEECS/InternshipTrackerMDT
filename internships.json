@@ -665,15 +665,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "2027 Spring and Summer Mechanical Engineering Coop",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop",
-    "date_found": "2026-09-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Additive Manufacturing Intern II Summer 2027 Onsite",
     "location": "Hudson, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/129369BR/Additive-Manufacturing-Intern-II-Summer-2027-Onsite",
@@ -689,15 +680,6 @@
     "date_found": "2026-09-04",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Competitive Intelligence Intern II Summer 2027 Remote",
-    "location": "Endicott, New York, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128916BR/Competitive-Intelligence-Intern-II-Summer-2027-Remote",
-    "date_found": "2026-09-12",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "BAE Systems",
@@ -881,33 +863,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Mechanical Engineering Intern III Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129311BR/Mechanical-Engineering-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-09-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Metrology Operations Intern II Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129222BR/Metrology-Operations-Intern-II-Summer-2027-Onsite",
-    "date_found": "2026-09-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "New Hampshire Systems Engineering Intern III Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128227BR/New-Hampshire-Systems-Engineering-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-09-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Operations Engineering Industrial Mechanical Electrical Co op Spring Summer 2027",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/126541BR/Operations-Engineering-Industrial-Mechanical-Electrical-Co-op-Spring-Summer-2027",
@@ -947,24 +902,6 @@
     "title": "Software Engineering Intern I Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127293BR/Software-Engineering-Intern-I-Summer-2027",
-    "date_found": "2026-09-12",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern II Summer 2027 Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128054BR/Software-Engineering-Intern-II-Summer-2027-Onsite",
-    "date_found": "2026-09-12",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern III Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-09-12",
     "disciplines": [],
     "category": "software"
@@ -4611,6 +4548,15 @@
   },
   {
     "company": "KBR",
+    "title": "Data Science Intern",
+    "location": "Moffett Field, California",
+    "url": "https://careers.kbr.com/us/en/job/R2129795/Data-Science-Intern",
+    "date_found": "2026-09-13",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "KBR",
     "title": "Intern Graphic Designer",
     "location": "Houston, Texas",
     "url": "https://careers.kbr.com/us/en/job/R2129793/Intern-Graphic-Designer",
@@ -4847,15 +4793,6 @@
     "date_found": "2026-09-11",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "Leidos",
-    "title": "Aerospace M&S Engineer Intern",
-    "location": "Huntsville, AL",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Aerospace-M-S-Engineer-Intern_R-00191760",
-    "date_found": "2026-09-09",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "Leidos",
@@ -5135,15 +5072,6 @@
     "date_found": "2026-09-03",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "MITRE",
-    "title": "Software Engineer Intern",
-    "location": "McLean, Virginia, United States of America",
-    "url": "https://careers.mitre.org/us/en/job/R117371/Software-Engineer-Intern",
-    "date_found": "2026-09-09",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "MITRE",
@@ -5482,15 +5410,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "2027 Data Analytics Intern - Clearfield UT",
-    "location": "United States-Utah-Roy",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Data-Analytics-Intern---Clearfield-UT_R10250086",
-    "date_found": "2026-09-09",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "2027 Engineering Intern - Huntsville AL",
     "location": "United States-Alabama-Huntsville",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Engineering-Intern---Huntsville-AL_R10250391",
@@ -5522,15 +5441,6 @@
     "location": "United States-Arizona-Chandler",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Fall-Mechanical-Engineering-Co-op---Chandler-AZ_R10250495",
     "date_found": "2026-09-11",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Intern Engineer - Product Support",
-    "location": "United States-Florida-Melbourne",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Engineer---Product-Support_R10250299",
-    "date_found": "2026-09-10",
     "disciplines": [],
     "category": "engineering"
   },
@@ -6571,6 +6481,15 @@
   },
   {
     "company": "RTX",
+    "title": "Commercial Engines Business Intern (Summer 2027)",
+    "location": "US-CT-EAST HARTFORD-OBG ~ 400 Main St ~ BLDG OBG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBG--400-Main-St--BLDG-OBG/Commercial-Engines-Business-Intern--Summer-2027-_01873413",
+    "date_found": "2026-09-13",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Commercial Structures Intern (Summer 2027)(Onsite)",
     "location": "US-CT-EAST HARTFORD-L ~ 400 Main St ~ BLDG L",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-L--400-Main-St--BLDG-L/Commercial-Structures-Intern--Summer-2027--Onsite-_01871999",
@@ -6692,6 +6611,15 @@
     "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Hiver---Stage-2027--Analyste-Fabrication---Qualite--Internship---Winter-2027--Manufacturing---Quality-Analyst_01874408",
     "date_found": "2026-09-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Intern Systems Engineer- (Onsite)",
+    "location": "US-CO-SCHRIEVER-AFB-CUST ~ 720 Irwin Ave ~ SCHRIEVER AFB (External Site)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-SCHRIEVER-AFB-CUST--720-Irwin-Ave--SCHRIEVER-AFB-External-Site/Intern-Systems-Engineer---Onsite-_01867818-1",
+    "date_found": "2026-09-13",
     "disciplines": [],
     "category": "engineering"
   },
@@ -8798,17 +8726,6 @@
   },
   {
     "company": "Shield AI",
-    "title": "Business Development Lead, Baltics (R5227)",
-    "location": "Tallinn",
-    "url": "https://jobs.lever.co/shieldai/d9263358-7d87-48d1-90af-cb455b340df3",
-    "date_found": "2026-07-09",
-    "disciplines": [
-      "International Business Development"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Shield AI",
     "title": "Business Development Lead, Denmark (R5596)",
     "location": "Copenhagen",
     "url": "https://jobs.lever.co/shieldai/2d4d3eb1-3a86-46fc-a52a-23cbd2053fcc",
@@ -9581,15 +9498,6 @@
   },
   {
     "company": "Textron",
-    "title": "2026 Fall Accounting Intern",
-    "location": "Augusta, GA",
-    "url": "https://careers.textron.com/augusta-ga/2026-fall-accounting-intern/A086E5F1414C4D38A4E03CF60659B0AB/job/",
-    "date_found": "2026-08-23",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Textron",
     "title": "2026 Fall Co Op Hr Piney Flats Tn",
     "location": "Piney Flats, TN",
     "url": "https://careers.textron.com/piney-flats-tn/2026-fall-co-op-hr-piney-flats-tn/809922FAB86D420F9CBCBCE6EAD8C699/job/",
@@ -9632,15 +9540,6 @@
     "date_found": "2026-05-17",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "Textron",
-    "title": "2026 Fall Human Resources Compliance Intern",
-    "location": "Augusta, GA",
-    "url": "https://careers.textron.com/augusta-ga/2026-fall-human-resources-compliance-intern/3B86A2CC295F473BAF1BB7CDF8A2CBED/job/",
-    "date_found": "2026-08-23",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "Textron",
@@ -9803,6 +9702,15 @@
     "date_found": "2026-09-06",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Human Resources Compliance Intern",
+    "location": "Augusta, GA",
+    "url": "https://careers.textron.com/augusta-ga/2027-human-resources-compliance-intern/DF20C535079642AAA5D3215273E26A5E/job/",
+    "date_found": "2026-09-13",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "Textron",
@@ -10157,6 +10065,15 @@
   },
   {
     "company": "Textron",
+    "title": "2027 Intern Production Planner Weapons Wilmington Ma",
+    "location": "Wilmington, MA",
+    "url": "https://careers.textron.com/wilmington-ma/2027-intern-production-planner-weapons-wilmington-ma/7BA8E5A766924E2787F11F8D29D29776/job/",
+    "date_found": "2026-09-13",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
     "title": "2027 Intern Project Controls Schedulingevm Hunt Valley Md",
     "location": "Hunt Valley, MD",
     "url": "https://careers.textron.com/hunt-valley-md/2027-intern-project-controls-schedulingevm-hunt-valley-md/6880CD255F174FCC8039744668E2545D/job/",
@@ -10206,6 +10123,15 @@
     "location": "Hunt Valley, MD",
     "url": "https://careers.textron.com/hunt-valley-md/2027-intern-software-engineer-electronic-systems-hunt-valley-md/3B34A4E98D3D4EF490A17870488B3E2E/job/",
     "date_found": "2026-09-06",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Intern Software Engineer Howe Howe Waterboro Me",
+    "location": "Waterboro, ME",
+    "url": "https://careers.textron.com/waterboro-me/2027-intern-software-engineer-howe-howe-waterboro-me/D9D0BDF892CC433E95EE640F3CBF1E13/job/",
+    "date_found": "2026-09-13",
     "disciplines": [],
     "category": "software"
   },
@@ -10391,9 +10317,27 @@
   },
   {
     "company": "Textron",
+    "title": "2027 Internship Customer Service Engineer Structures",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-customer-service-engineer-structures/BF3808C1777D462D818374361A38DB2F/job/",
+    "date_found": "2026-09-13",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
     "title": "2027 Internship Customer Support",
     "location": "Wichita, KS",
     "url": "https://careers.textron.com/wichita-ks/2027-internship-customer-support/F2FE2D99D01D401DBBE23588CC4BC732/job/",
+    "date_found": "2026-09-06",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Internship Customer Support",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-customer-support/FCEBBF0A892A40C8B259BDA19E4467D5/job/",
     "date_found": "2026-09-06",
     "disciplines": [],
     "category": "engineering"
@@ -10409,10 +10353,10 @@
   },
   {
     "company": "Textron",
-    "title": "2027 Internship Customer Support",
+    "title": "2027 Internship Customer Support Customer Service Relations",
     "location": "Wichita, KS",
-    "url": "https://careers.textron.com/wichita-ks/2027-internship-customer-support/FCEBBF0A892A40C8B259BDA19E4467D5/job/",
-    "date_found": "2026-09-06",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-customer-support-customer-service-relations/0206D7D66D1A484EAE9BBB941A442F28/job/",
+    "date_found": "2026-09-13",
     "disciplines": [],
     "category": "engineering"
   },
@@ -10598,10 +10542,10 @@
   },
   {
     "company": "Textron",
-    "title": "2027 Internship Engineer Mccauley",
-    "location": "Wichita, KS",
-    "url": "https://careers.textron.com/wichita-ks/2027-internship-engineer-mccauley/12087D964A974E709BEDD8BC00A658B2/job/",
-    "date_found": "2026-09-06",
+    "title": "2027 Internship Engineer Mccauley Columbus Ga",
+    "location": "Columbus, GA",
+    "url": "https://careers.textron.com/columbus-ga/2027-internship-engineer-mccauley-columbus-ga/11E14F438A9D42B696511E8539306B0F/job/",
+    "date_found": "2026-09-13",
     "disciplines": [],
     "category": "engineering"
   },
@@ -10735,7 +10679,7 @@
     "company": "Textron",
     "title": "2027 Internship Industrial Engineer",
     "location": "Wichita, KS",
-    "url": "https://careers.textron.com/wichita-ks/2027-internship-industrial-engineer/E5D8D93FA8C04D52BFBC7271B30A9C15/job/",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-industrial-engineer/EA3BD3EFB4834F94AE7978E74170A397/job/",
     "date_found": "2026-09-06",
     "disciplines": [],
     "category": "engineering"
@@ -10744,7 +10688,7 @@
     "company": "Textron",
     "title": "2027 Internship Industrial Engineer",
     "location": "Wichita, KS",
-    "url": "https://careers.textron.com/wichita-ks/2027-internship-industrial-engineer/EA3BD3EFB4834F94AE7978E74170A397/job/",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-industrial-engineer/E5D8D93FA8C04D52BFBC7271B30A9C15/job/",
     "date_found": "2026-09-06",
     "disciplines": [],
     "category": "engineering"
@@ -10798,15 +10742,6 @@
     "company": "Textron",
     "title": "2027 Internship Maintenance Engineer",
     "location": "Wichita, KS",
-    "url": "https://careers.textron.com/wichita-ks/2027-internship-maintenance-engineer/D139E2F6EC8C473687C149E6DB099D81/job/",
-    "date_found": "2026-09-06",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Textron",
-    "title": "2027 Internship Maintenance Engineer",
-    "location": "Wichita, KS",
     "url": "https://careers.textron.com/wichita-ks/2027-internship-maintenance-engineer/4BB7CF0C4E684E059ECA9A57975CB022/job/",
     "date_found": "2026-09-06",
     "disciplines": [],
@@ -10817,6 +10752,15 @@
     "title": "2027 Internship Maintenance Engineer",
     "location": "Wichita, KS",
     "url": "https://careers.textron.com/wichita-ks/2027-internship-maintenance-engineer/76BF9AD71C5A49FBAD8AF79E525C02EB/job/",
+    "date_found": "2026-09-06",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Internship Maintenance Engineer",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-maintenance-engineer/D139E2F6EC8C473687C149E6DB099D81/job/",
     "date_found": "2026-09-06",
     "disciplines": [],
     "category": "engineering"
@@ -10865,6 +10809,15 @@
     "date_found": "2026-09-06",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Internship Materials Processing Engineer",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-materials-processing-engineer/B191233600F34DA5B82902A8298E2BD8/job/",
+    "date_found": "2026-09-13",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Textron",
@@ -11012,6 +10965,24 @@
   },
   {
     "company": "Textron",
+    "title": "2027 Internship Program Management",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-program-management/314A7AAA2EC144509735860C2AA07D33/job/",
+    "date_found": "2026-09-13",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Internship Proposal Associate Special Missions",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-proposal-associate-special-missions/10B67316181F469F8F073F85AF0B858A/job/",
+    "date_found": "2026-09-13",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
     "title": "2027 Internship Quality Assurance Engineer",
     "location": "Wichita, KS",
     "url": "https://careers.textron.com/wichita-ks/2027-internship-quality-assurance-engineer/FF68495AFCA0478E940AAEA264E1B665/job/",
@@ -11033,15 +11004,6 @@
     "title": "2027 Internship Quality Assurance Engineer Components Manufacturing Facility",
     "location": "Wichita, KS",
     "url": "https://careers.textron.com/wichita-ks/2027-internship-quality-assurance-engineer-components-manufacturing-facility/A96069370CE14ABABDC6C16F70ED3B49/job/",
-    "date_found": "2026-09-06",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Textron",
-    "title": "2027 Internship Quality Assurance Engineer Customer Quality",
-    "location": "Wichita, KS",
-    "url": "https://careers.textron.com/wichita-ks/2027-internship-quality-assurance-engineer-customer-quality/430B11E736F44A06914A73A2BAEFE0FD/job/",
     "date_found": "2026-09-06",
     "disciplines": [],
     "category": "engineering"
@@ -11246,6 +11208,15 @@
   },
   {
     "company": "Textron",
+    "title": "2027 Internship Structural Test",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-structural-test/B5BF591D274144BA94D4BD3D86AE4A83/job/",
+    "date_found": "2026-09-13",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
     "title": "2027 Internship Supplier Recovery",
     "location": "Wichita, KS",
     "url": "https://careers.textron.com/wichita-ks/2027-internship-supplier-recovery/3C3D2A36462E4B15A1AD28C9B995414B/job/",
@@ -11291,6 +11262,15 @@
   },
   {
     "company": "Textron",
+    "title": "2027 Internship Supply Chain San Antonio Tx",
+    "location": "San Antonio, TX",
+    "url": "https://careers.textron.com/san-antonio-tx/2027-internship-supply-chain-san-antonio-tx/28A81CAD37374D3396E34AEB56A00770/job/",
+    "date_found": "2026-09-13",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Textron",
     "title": "2027 Internship Sustainability Engineer",
     "location": "Wichita, KS",
     "url": "https://careers.textron.com/wichita-ks/2027-internship-sustainability-engineer/9B1E4F4099664F62B593F7928468E207/job/",
@@ -11311,7 +11291,7 @@
     "company": "Textron",
     "title": "2027 Internship Technical Engineering Services",
     "location": "Wichita, KS",
-    "url": "https://careers.textron.com/wichita-ks/2027-internship-technical-engineering-services/AD1C8E26D7A74836A23FAC8AA9033A8D/job/",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-technical-engineering-services/4258987E10E945829E54AFBD37AF413B/job/",
     "date_found": "2026-09-06",
     "disciplines": [],
     "category": "engineering"
@@ -11320,8 +11300,17 @@
     "company": "Textron",
     "title": "2027 Internship Technical Engineering Services",
     "location": "Wichita, KS",
-    "url": "https://careers.textron.com/wichita-ks/2027-internship-technical-engineering-services/4258987E10E945829E54AFBD37AF413B/job/",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-technical-engineering-services/AD1C8E26D7A74836A23FAC8AA9033A8D/job/",
     "date_found": "2026-09-06",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Internship Technical Publications Engineer Commercial",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-technical-publications-engineer-commercial/045FBCE0B4CD46CDB979BD7B44EF7C77/job/",
+    "date_found": "2026-09-13",
     "disciplines": [],
     "category": "engineering"
   },
@@ -11508,8 +11497,8 @@
   {
     "company": "Textron",
     "title": "2027 Production Planner Intern",
-    "location": "Cartersville, GA",
-    "url": "https://careers.textron.com/cartersville-ga/2027-production-planner-intern/E97F0173B2694E78BF0305D2AC419E5A/job/",
+    "location": "Augusta, GA",
+    "url": "https://careers.textron.com/augusta-ga/2027-production-planner-intern/335AB41C30164ADDAA7180A580B8068C/job/",
     "date_found": "2026-09-06",
     "disciplines": [],
     "category": "engineering"
@@ -11517,8 +11506,8 @@
   {
     "company": "Textron",
     "title": "2027 Production Planner Intern",
-    "location": "Augusta, GA",
-    "url": "https://careers.textron.com/augusta-ga/2027-production-planner-intern/335AB41C30164ADDAA7180A580B8068C/job/",
+    "location": "Cartersville, GA",
+    "url": "https://careers.textron.com/cartersville-ga/2027-production-planner-intern/E97F0173B2694E78BF0305D2AC419E5A/job/",
     "date_found": "2026-09-06",
     "disciplines": [],
     "category": "engineering"
@@ -11741,15 +11730,6 @@
   },
   {
     "company": "Textron",
-    "title": "2027 Summer Intern Industrial Engineering Amarillo Tx",
-    "location": "Amarillo, TX",
-    "url": "https://careers.textron.com/amarillo-tx/2027-summer-intern-industrial-engineering-amarillo-tx/CD89F3B5B2134AB38D4A53F5EF881C02/job/",
-    "date_found": "2026-09-06",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Textron",
     "title": "2027 Summer Intern Information Technology Fort Worth Tx",
     "location": "Fort Worth, TX",
     "url": "https://careers.textron.com/fort-worth-tx/2027-summer-intern-information-technology-fort-worth-tx/E7F799E51CF149B09C1EEDA3E22EFD7D/job/",
@@ -11831,6 +11811,15 @@
   },
   {
     "company": "Textron",
+    "title": "2027 Summer Intern Quality Engineering Amarillo Tx",
+    "location": "Amarillo, TX",
+    "url": "https://careers.textron.com/amarillo-tx/2027-summer-intern-quality-engineering-amarillo-tx/C72BA3BE5FCA40D28757E6022CC1DD0F/job/",
+    "date_found": "2026-09-13",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
     "title": "2027 Summer Intern Quality Fort Worth Tx",
     "location": "Fort Worth, TX",
     "url": "https://careers.textron.com/fort-worth-tx/2027-summer-intern-quality-fort-worth-tx/947BB629C656446A9E827710A6915267/job/",
@@ -11876,6 +11865,15 @@
   },
   {
     "company": "Textron",
+    "title": "2027 Summer Intern Supply Chain Analyst Fort Worth Tx",
+    "location": "Fort Worth, TX",
+    "url": "https://careers.textron.com/fort-worth-tx/2027-summer-intern-supply-chain-analyst-fort-worth-tx/EC5ADF9F250441BC834582CF509CCA61/job/",
+    "date_found": "2026-09-13",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Textron",
     "title": "2027 Summer Intern Supply Chain Contracts Fort Worth Tx",
     "location": "Fort Worth, TX",
     "url": "https://careers.textron.com/fort-worth-tx/2027-summer-intern-supply-chain-contracts-fort-worth-tx/58A76A9BDBF941DAA74EE25E4ABD7AAD/job/",
@@ -11903,28 +11901,19 @@
   },
   {
     "company": "Textron",
-    "title": "2027 Textron Leadership Development Internship Program Finance Accounting",
+    "title": "2027 Talent Acquisition Internship",
     "location": "Providence, RI",
-    "url": "https://careers.textron.com/providence-ri/2027-textron-leadership-development-internship-program-finance-accounting/A961EC527561478892967A189D19F3CA/job/",
-    "date_found": "2026-09-06",
+    "url": "https://careers.textron.com/providence-ri/2027-talent-acquisition-internship/EED9C00552FC4995AEF3407D40A5C166/job/",
+    "date_found": "2026-09-13",
     "disciplines": [],
     "category": "non-engineering"
   },
   {
     "company": "Textron",
-    "title": "2027 Textron Leadership Development Internship Program Finance Accounting",
-    "location": "Troy, MI",
-    "url": "https://careers.textron.com/troy-mi/2027-textron-leadership-development-internship-program-finance-accounting/E28943FCA7814D2684090CCE786556D0/job/",
-    "date_found": "2026-09-06",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Textron",
-    "title": "2027 Textron Leadership Development Internship Program Finance Accounting",
-    "location": "Augusta, GA",
-    "url": "https://careers.textron.com/augusta-ga/2027-textron-leadership-development-internship-program-finance-accounting/EC37609138414A109AA9F84D4CE25606/job/",
-    "date_found": "2026-09-06",
+    "title": "2027 Talent Development Internship",
+    "location": "Providence, RI",
+    "url": "https://careers.textron.com/providence-ri/2027-talent-development-internship/848860DEAA95428189FF120E6BCA1D3C/job/",
+    "date_found": "2026-09-13",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -11975,39 +11964,30 @@
   },
   {
     "company": "Textron",
-    "title": "2027 Textron Leadership Development Internship Program Information Technology",
+    "title": "2027 Textron Leadership Development Internship Program Finance Accounting",
     "location": "Providence, RI",
-    "url": "https://careers.textron.com/providence-ri/2027-textron-leadership-development-internship-program-information-technology/9655B100181F4C009DCACB655FCF1A5D/job/",
+    "url": "https://careers.textron.com/providence-ri/2027-textron-leadership-development-internship-program-finance-accounting/A961EC527561478892967A189D19F3CA/job/",
     "date_found": "2026-09-06",
     "disciplines": [],
-    "category": "software"
+    "category": "non-engineering"
   },
   {
     "company": "Textron",
-    "title": "2027 Textron Leadership Development Internship Program Information Technology",
+    "title": "2027 Textron Leadership Development Internship Program Finance Accounting",
+    "location": "Troy, MI",
+    "url": "https://careers.textron.com/troy-mi/2027-textron-leadership-development-internship-program-finance-accounting/E28943FCA7814D2684090CCE786556D0/job/",
+    "date_found": "2026-09-06",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Textron Leadership Development Internship Program Finance Accounting",
     "location": "Augusta, GA",
-    "url": "https://careers.textron.com/augusta-ga/2027-textron-leadership-development-internship-program-information-technology/9ADA32179FC742598E3B598B9248E995/job/",
+    "url": "https://careers.textron.com/augusta-ga/2027-textron-leadership-development-internship-program-finance-accounting/EC37609138414A109AA9F84D4CE25606/job/",
     "date_found": "2026-09-06",
     "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Textron",
-    "title": "2027 Textron Leadership Development Internship Program Information Technology",
-    "location": "Detroit, MI",
-    "url": "https://careers.textron.com/detroit-mi/2027-textron-leadership-development-internship-program-information-technology/CEEBA62840F74F70A30646788CE261B0/job/",
-    "date_found": "2026-09-06",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Textron",
-    "title": "2027 Textron Leadership Development Internship Program Information Technology",
-    "location": "Hunt Valley, MD",
-    "url": "https://careers.textron.com/hunt-valley-md/2027-textron-leadership-development-internship-program-information-technology/F1A5EC4E0C1545C3A4C773EAFC2150E3/job/",
-    "date_found": "2026-09-06",
-    "disciplines": [],
-    "category": "software"
+    "category": "non-engineering"
   },
   {
     "company": "Textron",
@@ -12047,6 +12027,42 @@
   },
   {
     "company": "Textron",
+    "title": "2027 Textron Leadership Development Internship Program Information Technology",
+    "location": "Providence, RI",
+    "url": "https://careers.textron.com/providence-ri/2027-textron-leadership-development-internship-program-information-technology/9655B100181F4C009DCACB655FCF1A5D/job/",
+    "date_found": "2026-09-06",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Textron Leadership Development Internship Program Information Technology",
+    "location": "Augusta, GA",
+    "url": "https://careers.textron.com/augusta-ga/2027-textron-leadership-development-internship-program-information-technology/9ADA32179FC742598E3B598B9248E995/job/",
+    "date_found": "2026-09-06",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Textron Leadership Development Internship Program Information Technology",
+    "location": "Detroit, MI",
+    "url": "https://careers.textron.com/detroit-mi/2027-textron-leadership-development-internship-program-information-technology/CEEBA62840F74F70A30646788CE261B0/job/",
+    "date_found": "2026-09-06",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Textron Leadership Development Internship Program Information Technology",
+    "location": "Hunt Valley, MD",
+    "url": "https://careers.textron.com/hunt-valley-md/2027-textron-leadership-development-internship-program-information-technology/F1A5EC4E0C1545C3A4C773EAFC2150E3/job/",
+    "date_found": "2026-09-06",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Textron",
     "title": "2027 Trade Compliance Intern",
     "location": "Augusta, GA",
     "url": "https://careers.textron.com/augusta-ga/2027-trade-compliance-intern/E5321A14BCE147D7A74A82A783BD2AF5/job/",
@@ -12074,15 +12090,6 @@
   },
   {
     "company": "Textron",
-    "title": "Fall Co Op Design Engineer Sustaining",
-    "location": "Wichita, KS",
-    "url": "https://careers.textron.com/wichita-ks/fall-co-op-design-engineer-sustaining/0A0DE35E0A54406AB4140DA748F28FB0/job/",
-    "date_found": "2026-08-23",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Textron",
     "title": "Fall Co Op Technical Publications Engineer Defense Special Missions",
     "location": "Wichita, KS",
     "url": "https://careers.textron.com/wichita-ks/fall-co-op-technical-publications-engineer-defense-special-missions/1AA0A4974C214F17A74019CB75891018/job/",
@@ -12092,18 +12099,27 @@
   },
   {
     "company": "Textron",
-    "title": "Grinder Production Machinist Intern 1St Shift Dsc",
+    "title": "Fssc Co Op",
     "location": "Fort Worth, TX",
-    "url": "https://careers.textron.com/fort-worth-tx/grinder-production-machinist-intern-1st-shift-dsc/1EEAE7212D03411EA46684E44080C8C9/job/",
-    "date_found": "2026-07-26",
+    "url": "https://careers.textron.com/fort-worth-tx/fssc-co-op/8236F83B2C5443A2A25FA7AFBA163C81/job/",
+    "date_found": "2026-09-13",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "Textron",
-    "title": "Grinder Production Machinist Intern 3Rd Shift Dsc",
+    "title": "Gear Cut Grind Machinist Intern Dsc 1St Shift",
     "location": "Fort Worth, TX",
-    "url": "https://careers.textron.com/fort-worth-tx/grinder-production-machinist-intern-3rd-shift-dsc/11EDD5E5F2524558A903A5E9D097A9D3/job/",
+    "url": "https://careers.textron.com/fort-worth-tx/gear-cut-grind-machinist-intern-dsc-1st-shift/2E344B578C7140FE87267EC03EE30F59/job/",
+    "date_found": "2026-09-13",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "Grinder Production Machinist Intern 1St Shift Dsc",
+    "location": "Fort Worth, TX",
+    "url": "https://careers.textron.com/fort-worth-tx/grinder-production-machinist-intern-1st-shift-dsc/1EEAE7212D03411EA46684E44080C8C9/job/",
     "date_found": "2026-07-26",
     "disciplines": [],
     "category": "engineering"
