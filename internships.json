@@ -856,15 +856,6 @@
   },
   {
     "company": "Arconic",
-    "title": "Electrical Engineering Intern",
-    "location": "Lancaster, PA, United States",
-    "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114135",
-    "date_found": "2026-09-08",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Arconic",
     "title": "Environmental Intern",
     "location": "Davenport, IA, United States",
     "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114155",
@@ -976,15 +967,6 @@
     "title": "Mechanical Engineer Intern- Davenport Works",
     "location": "Davenport, IA, United States",
     "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114164",
-    "date_found": "2026-09-08",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Arconic",
-    "title": "Mechanical Engineering Intern",
-    "location": "Lancaster, PA, United States",
-    "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114136",
     "date_found": "2026-09-08",
     "disciplines": [],
     "category": "engineering"
@@ -1818,39 +1800,12 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Facilities Project Management Intern Onsite Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129504BR/Facilities-Project-Management-Intern-Onsite-Summer-2027",
-    "date_found": "2026-10-10",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Financial Planning Analysis Independent Cost Evaluation Intern Summer 2027",
     "location": "Broomfield, Colorado, United States",
     "url": "https://jobs.baesystems.com/global/en/job/130316BR/Financial-Planning-Analysis-Independent-Cost-Evaluation-Intern-Summer-2027",
     "date_found": "2026-10-07",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Hardware Engineering Intern III Summer 2027 Onsite",
-    "location": "San Diego, California, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129896BR/Hardware-Engineering-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-10-10",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Industrial Engineering Intern Summer 2027",
-    "location": "Westminster, Colorado, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/130824BR/Industrial-Engineering-Intern-Summer-2027",
-    "date_found": "2026-10-10",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "BAE Systems",
@@ -1926,15 +1881,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Mechanical Engineering Intern Summer 2027",
-    "location": "Maple Grove, Minnesota, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128065BR/Mechanical-Engineering-Intern-Summer-2027",
-    "date_found": "2026-10-10",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Mechanical Engineering Intern Summer 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/129934BR/Mechanical-Engineering-Intern-Summer-2027-Hybrid",
@@ -1975,15 +1921,6 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128227BR/New-Hampshire-Systems-Engineering-Intern-III-Summer-2027-Onsite",
     "date_found": "2026-09-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Operations Engineering Industrial Mechanical Electrical Co op Spring Summer 2027",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/126541BR/Operations-Engineering-Industrial-Mechanical-Electrical-Co-op-Spring-Summer-2027",
-    "date_found": "2026-10-10",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2044,15 +1981,6 @@
   {
     "company": "BAE Systems",
     "title": "Software Engineering Intern III Summer 2027 Onsite",
-    "location": "San Diego, California, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129576BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-10-10",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern III Summer 2027 Onsite",
     "location": "Fort Wayne, Indiana, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131092BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
     "date_found": "2026-10-07",
@@ -2076,24 +2004,6 @@
     "date_found": "2026-09-03",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Supply Chain Intern III Summer 2027 Onsite",
-    "location": "Fort Wayne, Indiana, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/130711BR/Supply-Chain-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-10-10",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Systems Engineering Intern II Summer 2027 NH Onsite",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/128225BR/Systems-Engineering-Intern-II-Summer-2027-NH-Onsite",
-    "date_found": "2026-10-10",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "BAE Systems",
