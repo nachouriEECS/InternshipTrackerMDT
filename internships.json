@@ -94,8 +94,8 @@
   {
     "company": "ATI",
     "title": "Summer 2027 Intern Process Controls and Automation",
-    "location": "Vandergrift,Pennsylvania,United States",
-    "url": "https://careers.atimaterials.com/us/en/job/26-3437/Summer-2027-Intern-Process-Controls-and-Automation",
+    "location": "Monaca,Pennsylvania,United States",
+    "url": "https://careers.atimaterials.com/us/en/job/26-3436/Summer-2027-Intern-Process-Controls-and-Automation",
     "date_found": "2026-10-17",
     "disciplines": [],
     "category": "engineering"
@@ -103,8 +103,8 @@
   {
     "company": "ATI",
     "title": "Summer 2027 Intern Process Controls and Automation",
-    "location": "Monaca,Pennsylvania,United States",
-    "url": "https://careers.atimaterials.com/us/en/job/26-3436/Summer-2027-Intern-Process-Controls-and-Automation",
+    "location": "Vandergrift,Pennsylvania,United States",
+    "url": "https://careers.atimaterials.com/us/en/job/26-3437/Summer-2027-Intern-Process-Controls-and-Automation",
     "date_found": "2026-10-17",
     "disciplines": [],
     "category": "engineering"
@@ -1910,6 +1910,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "C4ISR Software Engineering Intern Summer 2027 Onsite",
+    "location": "Wayne, New Jersey, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/131375BR/C4ISR-Software-Engineering-Intern-Summer-2027-Onsite",
+    "date_found": "2026-10-17",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Chemical Engineering Co Op May 2027 April 2028",
     "location": "Kingsport, Tennessee, United States",
     "url": "https://jobs.baesystems.com/global/en/job/130929BR/Chemical-Engineering-Co-Op-May-2027-April-2028",
@@ -2006,15 +2015,6 @@
     "date_found": "2026-09-15",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Embedded Software Engineering Co Op II Summer Fall 2027 Navigation and Sensor Systems",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129771BR/Embedded-Software-Engineering-Co-Op-II-Summer-Fall-2027-Navigation-and-Sensor-Systems",
-    "date_found": "2026-10-12",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "BAE Systems",
@@ -2155,7 +2155,7 @@
     "company": "BAE Systems",
     "title": "Mechanical Design Engineering Intern Summer 2027",
     "location": "Boulder, Colorado, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/131558BR/Mechanical-Design-Engineering-Intern-Summer-2027",
+    "url": "https://jobs.baesystems.com/global/en/job/131029BR/Mechanical-Design-Engineering-Intern-Summer-2027",
     "date_found": "2026-10-17",
     "disciplines": [],
     "category": "engineering"
@@ -2164,17 +2164,8 @@
     "company": "BAE Systems",
     "title": "Mechanical Design Engineering Intern Summer 2027",
     "location": "Boulder, Colorado, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/131029BR/Mechanical-Design-Engineering-Intern-Summer-2027",
+    "url": "https://jobs.baesystems.com/global/en/job/131558BR/Mechanical-Design-Engineering-Intern-Summer-2027",
     "date_found": "2026-10-17",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Mechanical Engineering Coop Spring Summer 2027 Onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127776BR/Mechanical-Engineering-Coop-Spring-Summer-2027-Onsite",
-    "date_found": "2026-10-12",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2222,15 +2213,6 @@
     "date_found": "2026-10-12",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Operations Program Management Intern III Summer 2027 Onsite",
-    "location": "Greenlawn, New York, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129685BR/Operations-Program-Management-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-10-12",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "BAE Systems",
@@ -2337,15 +2319,6 @@
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127992BR/Supply-Chain-Intern-II-Summer-2027-Hybrid",
     "date_found": "2026-09-03",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Supply Chain Intern III Summer 2027 Onsite",
-    "location": "Fort Wayne, Indiana, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/130711BR/Supply-Chain-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-10-17",
     "disciplines": [],
     "category": "non-engineering"
   },
