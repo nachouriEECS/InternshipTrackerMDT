@@ -2001,18 +2001,18 @@
   {
     "company": "BAE Systems",
     "title": "Electronic Systems Finance Intern III Summer 2027 Hybrid",
-    "location": "Fort Wayne, Indiana, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/130393BR/Electronic-Systems-Finance-Intern-III-Summer-2027-Hybrid",
-    "date_found": "2026-09-22",
+    "location": "Endicott, New York, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129132BR/Electronic-Systems-Finance-Intern-III-Summer-2027-Hybrid",
+    "date_found": "2026-09-15",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "BAE Systems",
     "title": "Electronic Systems Finance Intern III Summer 2027 Hybrid",
-    "location": "Endicott, New York, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129132BR/Electronic-Systems-Finance-Intern-III-Summer-2027-Hybrid",
-    "date_found": "2026-09-15",
+    "location": "Fort Wayne, Indiana, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/130393BR/Electronic-Systems-Finance-Intern-III-Summer-2027-Hybrid",
+    "date_found": "2026-09-22",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2297,6 +2297,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Software Engineering Intern III Summer 2027 Onsite",
+    "location": "Fort Wayne, Indiana, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/131092BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
+    "date_found": "2026-10-17",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Space Vehicle Simulators Engineering Intern Summer 2027",
     "location": "Boulder, Colorado, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131292BR/Space-Vehicle-Simulators-Engineering-Intern-Summer-2027",
@@ -2319,6 +2328,15 @@
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127992BR/Supply-Chain-Intern-II-Summer-2027-Hybrid",
     "date_found": "2026-09-03",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Supply Chain Intern III Summer 2027 Onsite",
+    "location": "Fort Wayne, Indiana, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/130711BR/Supply-Chain-Intern-III-Summer-2027-Onsite",
+    "date_found": "2026-10-17",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -12847,8 +12865,8 @@
   {
     "company": "Rocket Lab",
     "title": "Government Operations Intern Spring 2027",
-    "location": "Washington, DC",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992752003",
+    "location": "Littleton, CO",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003",
     "date_found": "2026-10-02",
     "disciplines": [
       "1550 Government Operations"
@@ -12858,8 +12876,8 @@
   {
     "company": "Rocket Lab",
     "title": "Government Operations Intern Spring 2027",
-    "location": "Littleton, CO",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992752003",
     "date_found": "2026-10-02",
     "disciplines": [
       "1550 Government Operations"
@@ -12957,17 +12975,6 @@
   {
     "company": "Rocket Lab",
     "title": "Manufacturing Engineering Intern Spring 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003",
-    "date_found": "2026-09-16",
-    "disciplines": [
-      "2256 Neutron - SSC"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Manufacturing Engineering Intern Spring 2027",
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996617003",
     "date_found": "2026-09-17",
@@ -12989,12 +12996,12 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Manufacturing Engineering Intern Summer 2027",
+    "title": "Manufacturing Engineering Intern Spring 2027",
     "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003",
     "date_found": "2026-09-16",
     "disciplines": [
-      "2261 SSC Manufacturing Engineering"
+      "2256 Neutron - SSC"
     ],
     "category": "engineering"
   },
@@ -13012,6 +13019,17 @@
   {
     "company": "Rocket Lab",
     "title": "Manufacturing Engineering Intern Summer 2027",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003",
+    "date_found": "2026-09-16",
+    "disciplines": [
+      "2261 SSC Manufacturing Engineering"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Rocket Lab",
+    "title": "Manufacturing Engineering Intern Summer 2027",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
     "date_found": "2026-09-16",
@@ -13023,22 +13041,22 @@
   {
     "company": "Rocket Lab",
     "title": "Mechanical Engineering Intern Spring 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985634003",
-    "date_found": "2026-09-14",
+    "location": "Silver Spring, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989995003",
+    "date_found": "2026-09-16",
     "disciplines": [
-      "4015 USA Space Systems"
+      "5250 PRODUCTION"
     ],
     "category": "engineering"
   },
   {
     "company": "Rocket Lab",
     "title": "Mechanical Engineering Intern Spring 2027",
-    "location": "Silver Spring, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989995003",
-    "date_found": "2026-09-16",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985634003",
+    "date_found": "2026-09-14",
     "disciplines": [
-      "5250 PRODUCTION"
+      "4015 USA Space Systems"
     ],
     "category": "engineering"
   },
@@ -13188,8 +13206,8 @@
   {
     "company": "Rocket Lab",
     "title": "Security Analyst Intern Spring 2027",
-    "location": "Albuquerque, NM",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986965003",
     "date_found": "2026-09-16",
     "disciplines": [
       "3635 USA Security"
@@ -13199,8 +13217,8 @@
   {
     "company": "Rocket Lab",
     "title": "Security Analyst Intern Spring 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
+    "location": "Albuquerque, NM",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003",
     "date_found": "2026-09-16",
     "disciplines": [
       "3635 USA Security"
@@ -13221,8 +13239,19 @@
   {
     "company": "Rocket Lab",
     "title": "Security Analyst Intern Spring 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986965003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
+    "date_found": "2026-09-16",
+    "disciplines": [
+      "3635 USA Security"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Rocket Lab",
+    "title": "Security Analyst Intern Summer 2027",
+    "location": "Albuquerque, NM",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
     "date_found": "2026-09-16",
     "disciplines": [
       "3635 USA Security"
@@ -13264,17 +13293,6 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Security Analyst Intern Summer 2027",
-    "location": "Albuquerque, NM",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
-    "date_found": "2026-09-16",
-    "disciplines": [
-      "3635 USA Security"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Rocket Lab",
     "title": "Structural Analysis Intern Summer 2027",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986690003",
@@ -13290,6 +13308,17 @@
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984786003",
     "date_found": "2026-10-06",
+    "disciplines": [
+      "2652 USA Supply Chain"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Rocket Lab",
+    "title": "Supply Chain Intern Spring 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985032003",
+    "date_found": "2026-09-17",
     "disciplines": [
       "2652 USA Supply Chain"
     ],
@@ -13320,17 +13349,6 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Spring 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985032003",
-    "date_found": "2026-09-17",
-    "disciplines": [
-      "2652 USA Supply Chain"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Supply Chain Intern Spring 2027",
     "location": "Tucson, AZ",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990378003",
     "date_found": "2026-09-17",
@@ -13342,11 +13360,11 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Summer 2027",
-    "location": "Silver Spring, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7999237003",
-    "date_found": "2026-10-17",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990063003",
+    "date_found": "2026-09-17",
     "disciplines": [
-      "122 OS - Supply Chain"
+      "2652 USA Supply Chain"
     ],
     "category": "non-engineering"
   },
@@ -13364,11 +13382,11 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Summer 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990063003",
-    "date_found": "2026-09-17",
+    "location": "Silver Spring, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7999237003",
+    "date_found": "2026-10-17",
     "disciplines": [
-      "2652 USA Supply Chain"
+      "122 OS - Supply Chain"
     ],
     "category": "non-engineering"
   },
@@ -13408,8 +13426,8 @@
   {
     "company": "Rocket Lab",
     "title": "Systems Engineering Intern Summer 2027",
-    "location": "Chantilly, VA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
+    "location": "Tucson, AZ",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003",
     "date_found": "2026-09-17",
     "disciplines": [
       "106 OS - Design Engineering"
@@ -13419,8 +13437,8 @@
   {
     "company": "Rocket Lab",
     "title": "Systems Engineering Intern Summer 2027",
-    "location": "Tucson, AZ",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003",
+    "location": "Chantilly, VA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
     "date_found": "2026-09-17",
     "disciplines": [
       "106 OS - Design Engineering"
@@ -13463,22 +13481,22 @@
   {
     "company": "Rocket Lab",
     "title": "Test Engineering Intern Spring 2027",
-    "location": "Wallops Island, VA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
-    "date_found": "2026-09-24",
+    "location": "Stennis Space Center, MS",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990352003",
+    "date_found": "2026-09-17",
     "disciplines": [
-      "2245 Neutron - LC3"
+      "2246 Neutron - Stennis"
     ],
     "category": "engineering"
   },
   {
     "company": "Rocket Lab",
     "title": "Test Engineering Intern Spring 2027",
-    "location": "Stennis Space Center, MS",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990352003",
-    "date_found": "2026-09-17",
+    "location": "Wallops Island, VA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
+    "date_found": "2026-09-24",
     "disciplines": [
-      "2246 Neutron - Stennis"
+      "2245 Neutron - LC3"
     ],
     "category": "engineering"
   },
