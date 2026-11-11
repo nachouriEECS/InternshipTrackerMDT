@@ -502,10 +502,10 @@
   },
   {
     "company": "AeroVironment",
-    "title": "Graduate Student Research Assistant- Computational Modeling of Polymer Solution Behavior Intern",
-    "location": "WPAFB",
-    "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/WPAFB/Graduate-Student-Research-Assistant--Computational-Modeling-of-Polymer-Solution-Behavior-Intern_9339",
-    "date_found": "2026-11-06",
+    "title": "GNC / Autonomy Engineering Intern",
+    "location": "Lawrence, KS",
+    "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Lawrence-KS/GNC---Autonomy-Engineering-Intern_9363",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -668,6 +668,15 @@
     "location": "San Diego, CA",
     "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/San-Diego-CA/Software-Engineering-Intern_8828",
     "date_found": "2026-10-21",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "AeroVironment",
+    "title": "Software Engineering Intern",
+    "location": "Lawrence, KS",
+    "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Lawrence-KS/Software-Engineering-Intern_9360",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "software"
   },
@@ -1269,6 +1278,15 @@
   },
   {
     "company": "Arconic",
+    "title": "Electrical Engineer Intern - MTE",
+    "location": "Alcoa, TN, United States",
+    "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114186",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Arconic",
     "title": "Electrical Engineer- Co-op",
     "location": "Davenport, IA, United States",
     "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113826",
@@ -1508,6 +1526,17 @@
       "Electronics & Electrical Engineering Internships"
     ],
     "category": "engineering"
+  },
+  {
+    "company": "Astranis",
+    "title": "Embedded Software Developer, Network/Payload Intern (Summer 2027)",
+    "location": "San Francisco",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4704569006",
+    "date_found": "2026-11-11",
+    "disciplines": [
+      "Software Internships"
+    ],
+    "category": "software"
   },
   {
     "company": "Astranis",
@@ -1896,6 +1925,15 @@
   },
   {
     "company": "Austal USA",
+    "title": "Cybersecurity Intern",
+    "location": "Mobile, AL",
+    "url": "https://austalusa.wd1.myworkdayjobs.com/austal/job/Mobile-AL/Cybersecurity-Intern_R0012221",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Austal USA",
     "title": "Electrical Engineering Intern",
     "location": "Mobile, AL",
     "url": "https://austalusa.wd1.myworkdayjobs.com/austal/job/Mobile-AL/Electrical-Engineering-Intern_R0012154",
@@ -1938,15 +1976,6 @@
     "date_found": "2026-10-31",
     "disciplines": [],
     "category": "non-engineering"
-  },
-  {
-    "company": "Austal USA",
-    "title": "Welding Engineer Intern - AAT",
-    "location": "Danville, VA",
-    "url": "https://austalusa.wd1.myworkdayjobs.com/austal/job/Danville-VA/Welding-Engineer-Intern---AAT_R0012169",
-    "date_found": "2026-11-03",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "Axiom Space",
@@ -2076,6 +2105,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Additive Manufacturing Intern II Summer 2027 Onsite",
+    "location": "Hudson, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129369BR/Additive-Manufacturing-Intern-II-Summer-2027-Onsite",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Business Analyst Intern III Summer 2027 Remote",
     "location": "Endicott, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/129379BR/Business-Analyst-Intern-III-Summer-2027-Remote",
@@ -2100,6 +2138,15 @@
     "date_found": "2026-10-25",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Civil Structural Engineering Co Op 2027",
+    "location": "Kingsport, Tennessee, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/132336BR/Civil-Structural-Engineering-Co-Op-2027",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "BAE Systems",
@@ -2166,6 +2213,24 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Contracts Intern Summer 2027 Wayne NJ",
+    "location": "Wayne, New Jersey, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/131580BR/Contracts-Intern-Summer-2027-Wayne-NJ",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Cyber Systems Engineering Intern II Spring 2007",
+    "location": "Hudson, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/132276BR/Cyber-Systems-Engineering-Intern-II-Spring-2007",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
     "title": "ECAD Designer Internship Winter Spring 2027",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/132343BR/ECAD-Designer-Internship-Winter-Spring-2027",
@@ -2193,6 +2258,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Electrical Engineering Electronics Technology Test Intern Co op 2027 Part Time",
+    "location": "Greenlawn, New York, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/132147BR/Electrical-Engineering-Electronics-Technology-Test-Intern-Co-op-2027-Part-Time",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Electrical Engineering Internship Summer 2027",
     "location": "Wayne, New Jersey, United States",
     "url": "https://jobs.baesystems.com/global/en/job/132094BR/Electrical-Engineering-Internship-Summer-2027",
@@ -2211,28 +2285,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Electronic Combat Solutions Operations Mechanical Engineering Intern III Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129311BR/Electronic-Combat-Solutions-Operations-Mechanical-Engineering-Intern-III-Summer-2027",
-    "date_found": "2026-11-08",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Electronic Systems Finance Intern III Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/129972BR/Electronic-Systems-Finance-Intern-III-Summer-2027",
     "date_found": "2026-11-07",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Electronic Systems Finance Intern III Summer 2027 Hybrid",
-    "location": "Endicott, New York, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129132BR/Electronic-Systems-Finance-Intern-III-Summer-2027-Hybrid",
-    "date_found": "2026-11-10",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2244,6 +2300,15 @@
     "date_found": "2026-09-22",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Embedded Software Engineering Co Op II Summer Fall 2027 Navigation and Sensor Systems",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129771BR/Embedded-Software-Engineering-Co-Op-II-Summer-Fall-2027-Navigation-and-Sensor-Systems",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "BAE Systems",
@@ -2292,10 +2357,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Finance Accounting Internship Summer 2027",
-    "location": "York, Pennsylvania, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/131684BR/Finance-Accounting-Internship-Summer-2027",
-    "date_found": "2026-11-07",
+    "title": "Finance Internship Summer 2027",
+    "location": "Maple Grove, Minnesota, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/132219BR/Finance-Internship-Summer-2027",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -2349,6 +2414,15 @@
     "title": "Industrial Engineering Intern III Summer 2027 Greenlawn NY",
     "location": "Greenlawn, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131950BR/Industrial-Engineering-Intern-III-Summer-2027-Greenlawn-NY",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Industrial Engineering Intern Winter 2027",
+    "location": "York, Pennsylvania, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/131217BR/Industrial-Engineering-Intern-Winter-2027",
     "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
@@ -2418,10 +2492,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Mechanical Engineering Coop Spring Summer 2027 Onsite",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/127776BR/Mechanical-Engineering-Coop-Spring-Summer-2027-Onsite",
-    "date_found": "2026-11-10",
+    "title": "Mechanical Engineer Intern Summer 2027",
+    "location": "Kingsport, Tennessee, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/132333BR/Mechanical-Engineer-Intern-Summer-2027",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2517,15 +2591,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Research Engineering Intern IV Summer 2027 Onsite",
-    "location": "Merrimack, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/131390BR/Research-Engineering-Intern-IV-Summer-2027-Onsite",
-    "date_found": "2026-11-01",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Software Developer Intern III Summer 2027 Onsite",
     "location": "Rome, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/129774BR/Software-Developer-Intern-III-Summer-2027-Onsite",
@@ -2589,21 +2654,12 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Space Systems Mission Engineering Intern Summer 2027",
-    "location": "Broomfield, Colorado, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/132328BR/Space-Systems-Mission-Engineering-Intern-Summer-2027",
-    "date_found": "2026-11-05",
+    "title": "Supply Chain Intern II Summer 2027",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/131676BR/Supply-Chain-Intern-II-Summer-2027",
+    "date_found": "2026-11-11",
     "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Space Systems Model Based Systems Engineering Intern Summer 2027",
-    "location": "Broomfield, Colorado, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/132378BR/Space-Systems-Model-Based-Systems-Engineering-Intern-Summer-2027",
-    "date_found": "2026-11-05",
-    "disciplines": [],
-    "category": "engineering"
+    "category": "non-engineering"
   },
   {
     "company": "BAE Systems",
@@ -2692,15 +2748,6 @@
     "location": "Erwin, TN, US",
     "url": "https://careers.bwxt.com/job/Erwin-Intern-Analytical-Services-%28Year-Round%29-TN/1434278200/",
     "date_found": "2026-09-28",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BWX Technologies",
-    "title": "Intern - Applications Development",
-    "location": "Lynchburg, VA, US",
-    "url": "https://careers.bwxt.com/job/Lynchburg-Intern-Applications-Development-VA-24501/1449051300/",
-    "date_found": "2026-11-10",
     "disciplines": [],
     "category": "engineering"
   },
@@ -3016,15 +3063,6 @@
     "location": "Space Coast, FL",
     "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Space-Coast-FL/Summer-2027-Non-Destructive-Test-Inspector---Internship_R75183",
     "date_found": "2026-10-31",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Blue Origin",
-    "title": "Summer 2027 Return Internship - Graduate",
-    "location": "5 Locations",
-    "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Return-Internship---Graduate_R71399",
-    "date_found": "2026-10-17",
     "disciplines": [],
     "category": "engineering"
   },
@@ -4204,6 +4242,15 @@
   },
   {
     "company": "Crane Aerospace & Electronics",
+    "title": "CNC Machinist Intern",
+    "location": "Auburn, California",
+    "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Auburn-California/CNC-Machinist-Intern_JR102829",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Crane Aerospace & Electronics",
     "title": "Design Engineer Co-op",
     "location": "Spartanburg, South Carolina",
     "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Spartanburg-South-Carolina/Design-Engineer-Co-op_JR102425",
@@ -4571,19 +4618,10 @@
   },
   {
     "company": "GE Aerospace",
-    "title": "Digital Systems Intern Bohemia NY Summer 2027",
+    "title": "Design Engineering Intern Bohemia NY Summer 2027",
     "location": "Bohemia, New York, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5042864EXTERNALENGLOBAL/Digital-Systems-Intern-Bohemia-NY-Summer-2027",
-    "date_found": "2026-11-10",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "Engines Engineering MBSE Intern Summer 2027",
-    "location": "Evendale, Ohio, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5034811EXTERNALENGLOBAL/Engines-Engineering-MBSE-Intern-Summer-2027",
-    "date_found": "2026-09-23",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5042864EXTERNALENGLOBAL/Design-Engineering-Intern-Bohemia-NY-Summer-2027",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -4823,24 +4861,6 @@
   },
   {
     "company": "GlobalFoundries",
-    "title": "Commercial Excellence Intern, Partner Excellence (Summer 2027)",
-    "location": "2 Locations",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Commercial-Excellence-Intern--Partner-Excellence--Summer-2027-_JR-2604228",
-    "date_found": "2026-11-11",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "Controls Engineering Intern (Summer 2027)",
-    "location": "USA - Vermont - Essex Junction",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Controls-Engineering-Intern--Summer-2027-_JR-2604647",
-    "date_found": "2026-11-11",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "GlobalFoundries",
     "title": "Corporate Communications Intern (APAC) (Jan-Jun 2027)",
     "location": "SGP - Woodlands",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Woodlands/Corporate-Communications-Intern--APAC---Jan-2027-to-Jun-2027-_JR-2604212",
@@ -5075,15 +5095,6 @@
   },
   {
     "company": "GlobalFoundries",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "location": "2 Locations",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039",
-    "date_found": "2026-10-09",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "GlobalFoundries",
     "title": "Systems Engineering Intern (Summer 2027)",
     "location": "USA - Texas - Richardson",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045",
@@ -5151,6 +5162,15 @@
     "location": "SGP - Science Park",
     "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/SGP---Science-Park/Technology-Development-Engineer-Intern--Silicon-Photonics---Jan-Jun-2027-_JR-2604278",
     "date_found": "2026-10-23",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027)",
+    "location": "USA - Vermont - Essex Junction",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -6019,6 +6039,15 @@
   },
   {
     "company": "ICF",
+    "title": "2027 Summer Intern, AI Engineer (Master's Degree, Reston, VA)",
+    "location": "Reston, VA",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "ICF",
     "title": "2027 Summer Intern, Cloud Engineer (AWS/Azure) (Reston, VA)",
     "location": "Reston, VA",
     "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Cloud-Engineer--AWS-Azure---Reston--VA-_R2603554",
@@ -6043,6 +6072,15 @@
     "date_found": "2026-09-15",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "ICF",
+    "title": "2027 Summer Intern, Data Analytics (Reston, VA or Remote)",
+    "location": "Reston, VA",
+    "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "ICF",
@@ -6316,10 +6354,10 @@
   },
   {
     "company": "Idaho National Laboratory",
-    "title": "Wireless simulation Intern - Summer 2027",
+    "title": "Vibroacoustic Monitoring Intern - Summer 2027",
     "location": "Idaho Falls, ID, United States",
-    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/2052",
-    "date_found": "2026-09-08",
+    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/2319",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -6468,15 +6506,6 @@
   },
   {
     "company": "L3Harris",
-    "title": "Electrical Engineering Intern",
-    "location": "Salt Lake City, UT",
-    "url": "https://careers.l3harris.com/en/job/salt-lake-city/electrical-engineering-intern/4832/100436666368",
-    "date_found": "2026-10-21",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "L3Harris",
     "title": "Intern, Central Sales",
     "location": "Rochester, NY",
     "url": "https://careers.l3harris.com/en/job/rochester/intern-central-sales/4832/100436665152",
@@ -6501,6 +6530,15 @@
     "date_found": "2026-11-05",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "L3Harris",
+    "title": "Intern, Loistics (Camden, AR)",
+    "location": "Camden, AR",
+    "url": "https://careers.l3harris.com/en/job/camden/intern-loistics-camden-ar/4832/103139921616",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "L3Harris",
@@ -7216,8 +7254,8 @@
     "company": "MIT Lincoln Laboratory",
     "title": "Summer Research Program Intern 2027, Energy Systems (Group 04-47)",
     "location": "Lexington, MA, US",
-    "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Energy-Systems-%28Group-04-47%29-MA-02420/1441840900/",
-    "date_found": "2026-10-21",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Energy-Systems-%28Group-04-47%29-MA-02420/1437696200/",
+    "date_found": "2026-10-08",
     "disciplines": [],
     "category": "engineering"
   },
@@ -7225,8 +7263,8 @@
     "company": "MIT Lincoln Laboratory",
     "title": "Summer Research Program Intern 2027, Energy Systems (Group 04-47)",
     "location": "Lexington, MA, US",
-    "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Energy-Systems-%28Group-04-47%29-MA-02420/1437696200/",
-    "date_found": "2026-10-08",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Energy-Systems-%28Group-04-47%29-MA-02420/1441840900/",
+    "date_found": "2026-10-21",
     "disciplines": [],
     "category": "engineering"
   },
@@ -7808,15 +7846,6 @@
   },
   {
     "company": "Michael Baker International",
-    "title": "Civil Engineering Intern, Land Development - Summer 2027",
-    "location": "Moon Township, PA, United States",
-    "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310057",
-    "date_found": "2026-10-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Michael Baker International",
     "title": "Civil Engineering Intern, Rotational Program - Summer 2027",
     "location": "Harrisburg, PA, United States",
     "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310189",
@@ -7848,6 +7877,15 @@
     "location": "Indianapolis, IN, United States",
     "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309785",
     "date_found": "2026-08-31",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Michael Baker International",
+    "title": "Construction Intern, Summer 2027",
+    "location": "Harrisburg, PA, United States",
+    "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310191",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -7916,15 +7954,6 @@
   },
   {
     "company": "Michael Baker International",
-    "title": "Highway Design Intern, Summer 2027",
-    "location": "Moon Township, PA, United States",
-    "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309933",
-    "date_found": "2026-09-24",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Michael Baker International",
     "title": "Highway Intern, Summer 2027",
     "location": "Philadelphia, PA, United States",
     "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310093",
@@ -7958,15 +7987,6 @@
     "date_found": "2026-10-17",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "Michael Baker International",
-    "title": "Intern - Bridge Inspection",
-    "location": "Rocky Hill, CT, United States",
-    "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310020",
-    "date_found": "2026-10-17",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "Michael Baker International",
@@ -8141,6 +8161,69 @@
   },
   {
     "company": "Moog",
+    "title": "AOS Intern, Facilities",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/AOS-Intern--Facilities_R-26-21234",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "AOS Intern, Facilities",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/AOS-Intern--Facilities_R-26-21231",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "AOS Intern, Facilities",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/AOS-Intern--Facilities_R-26-21229",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "AOS Intern, Facilities",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/AOS-Intern--Facilities_R-26-21236",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "AOS Intern, Facilities",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/AOS-Intern--Facilities_R-26-21235",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "AOS Intern, Facilities",
+    "location": "Buffalo, NY",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/AOS-Intern--Facilities_R-26-21223",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "Intern Engineering, Product Engineering",
+    "location": "Blacksburg, VA",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Blacksburg-VA/Intern-Engineering--Product-Engineering_R-26-21312",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Moog",
     "title": "Intern, Business",
     "location": "Blacksburg, VA",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Blacksburg-VA/Intern--Business_R-26-21049",
@@ -8172,6 +8255,15 @@
     "location": "Torrance, CA",
     "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--CNC-Machining-Engineer_R-26-21143",
     "date_found": "2026-11-06",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Design Engineering",
+    "location": "Blacksburg, VA",
+    "url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Blacksburg-VA/Intern--Design-Engineering_R-26-21242",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -8594,24 +8686,6 @@
   },
   {
     "company": "Oshkosh",
-    "title": "Digital Technology Intern",
-    "location": "Oshkosh, Wisconsin, United States",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Digital-Technology-Intern_R50268",
-    "date_found": "2026-11-11",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Oshkosh",
-    "title": "Electrical Engineering Intern",
-    "location": "Oshkosh, Wisconsin, United States",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Electrical-Engineering-Intern_R50272",
-    "date_found": "2026-11-06",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Oshkosh",
     "title": "Electrification Engineer Intern",
     "location": "Oshkosh, Wisconsin, United States",
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Electrification-Engineer-Intern_R50654-1",
@@ -8657,12 +8731,12 @@
   },
   {
     "company": "Oshkosh",
-    "title": "Fluid Power Engineer Intern",
+    "title": "Global Procurement & Supply Chain Intern",
     "location": "Oshkosh, Wisconsin, United States",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Fluid-Power-Engineer-Intern_R51242",
-    "date_found": "2026-10-20",
+    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Global-Procurement---Supply-Chain-Intern_R50270",
+    "date_found": "2026-11-11",
     "disciplines": [],
-    "category": "engineering"
+    "category": "non-engineering"
   },
   {
     "company": "Oshkosh",
@@ -8823,17 +8897,6 @@
     "location": "Honolulu, HI",
     "url": "https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e",
     "date_found": "2026-05-01",
-    "disciplines": [
-      "Echo"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Palantir",
-    "title": "Deployment Strategist, Internship - Warp Speed",
-    "location": "New York, NY",
-    "url": "https://jobs.lever.co/palantir/69ab7e24-8f5d-426e-84f7-6d3b2d4a7efd",
-    "date_found": "2026-10-23",
     "disciplines": [
       "Echo"
     ],
@@ -9378,15 +9441,6 @@
   },
   {
     "company": "Parsons",
-    "title": "Digital Engineering Intern Summer 2027",
-    "location": "Centreville, Virginia",
-    "url": "https://jobs.parsons.com/jobs/digital-engineering-intern-summer-2027-centreville-r-188195-jobs--internship-program--",
-    "date_found": "2026-11-10",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Parsons",
     "title": "Drainage Engineering Intern - Spring/Summer 2027",
     "location": "Sandy Springs, Georgia",
     "url": "https://jobs.parsons.com/jobs/drainage-engineering-intern-spring-summer-2027-sandy-springs-r-185609-jobs--internship-program--",
@@ -9877,15 +9931,6 @@
   },
   {
     "company": "RTX",
-    "title": "2027 Spring/Summer Co-Op - Systems Engineer - AVI MIL FMS (Onsite)",
-    "location": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems-Engineer---AVI-MIL-FMS--Onsite-_01872234",
-    "date_found": "2026-09-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
     "title": "2027 Spring/Summer Sys Integration Engineering Co-op - Onsite",
     "location": "US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/XMLNAME-2027-Spring-Summer-Sys-Integration-Engineering-Co-op---Onsite_01873169",
@@ -10016,6 +10061,15 @@
     "location": "US-CT-MIDDLETOWN-220A ~ Aircraft Rd ~ BLDG 220A",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Advanced-Measurements-Research-and-Development-Intern--Summer-2027---Onsite-_01864777-1",
     "date_found": "2026-09-16",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Aftermarket & Sustainment Engineering Methods Engineering Intern (Summer 2027)(Onsite)",
+    "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01887864",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -10192,15 +10246,6 @@
   },
   {
     "company": "RTX",
-    "title": "Digital Technology Intern (Summer 2027)",
-    "location": "US-MA-ANDOVER-AR2 ~ 362 Lowell St ~ AR2 PLYMOUTH BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AR2--362-Lowell-St--AR2-PLYMOUTH-BLDG/Digital-Technology-Intern--Summer-2027-_01871051",
-    "date_found": "2026-11-06",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
     "title": "Display Systems Engineering Co-Op (Summer/Fall 2027) - Onsite",
     "location": "US-IA-CEDAR RAPIDS-106 ~ 400 Collins Rd NE ~ BLDG 106",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-106--400-Collins-Rd-NE--BLDG-106/Display-Systems-Engineering-Co-Op--Summer-Fall-2027----Onsite_01868917",
@@ -10210,10 +10255,28 @@
   },
   {
     "company": "RTX",
-    "title": "Electrical Components Engineer Intern (Summer 2027)(Onsite)",
+    "title": "Electrical (FCS Hardware) Engineering Intern (Summer 2027)(Onsite)",
+    "location": "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical--FCS-Hardware--Engineering-Intern--Summer-2027--Onsite-_01888815",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Electrical (Firmware) Engineering Intern (Summer 2027)(Onsite)",
+    "location": "US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "RTX",
+    "title": "Electrical Components Engineer Intern (Summer 2027) (Onsite)",
     "location": "US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027--Onsite-_01879761",
-    "date_found": "2026-11-05",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027---Onsite-_01888885",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -10223,6 +10286,15 @@
     "location": "US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electrical-Engineering-Intern--Summer-2027-_01883292",
     "date_found": "2026-10-29",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Electrical Engineering Intern - Test Solutions",
+    "location": "US-MA-TEWKSBURY-TB2 ~ 50 Apple Hill Dr ~ SUDBURY BLDG, Tewksbury Tb2 200 Sudbury",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Electrical-Engineering-Intern---Test-Solutions_01887669",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -10282,15 +10354,6 @@
   },
   {
     "company": "RTX",
-    "title": "Finance Intern (Summer 2027)",
-    "location": "US-MA-TEWKSBURY-TB4 ~ 836 North St ~ INNOVATION BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/Finance-Intern--Summer-2027-_01888472",
-    "date_found": "2026-11-10",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "RTX",
     "title": "Flight Controls Systems Intern (Summer 2027) - Onsite",
     "location": "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Intern--Summer-2027----Onsite_01871125",
@@ -10309,28 +10372,10 @@
   },
   {
     "company": "RTX",
-    "title": "Hardware Electrical Engineering Intern (Summer 2027)",
-    "location": "US-MA-CAMBRIDGE-BBN01 ~ 10 & 50 Moulton St ~ MOULTON B2",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Intern--Summer-2027-_01883831",
-    "date_found": "2026-10-29",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
     "title": "Head-up Guidance Systems Engineering Co-op (Summer/Fall 2027) - Onsite",
     "location": "US-OR-WILSONVILLE-596 ~ 27500 SW Parkway Ave ~ BLDG 596",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Head-up-Guidance-Systems-Engineering-Co-op--Summer-Fall-2027----Onsite_01872243",
     "date_found": "2026-09-21",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
-    "title": "Head-up Guidance Systems Engineering Co-op, Spring/Summer 2027 (Onsite)",
-    "location": "US-OR-WILSONVILLE-596 ~ 27500 SW Parkway Ave ~ BLDG 596",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Head-up-Guidance-Systems-Engineering-Co-op--Spring-Summer-2027--Onsite-_01872670",
-    "date_found": "2026-09-14",
     "disciplines": [],
     "category": "engineering"
   },
@@ -10421,15 +10466,6 @@
     "location": "US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01872600",
     "date_found": "2026-10-01",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
-    "title": "Industrial Engineering Co-op (Spring/Summer 2027)",
-    "location": "US-IA-BELLEVUE-186 ~ 1500 State St ~ STATE",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-BELLEVUE-186--1500-State-St--STATE/Industrial-Engineering-Co-op--Spring-Summer-2027-_01876770",
-    "date_found": "2026-10-28",
     "disciplines": [],
     "category": "engineering"
   },
@@ -10651,24 +10687,6 @@
   },
   {
     "company": "RTX",
-    "title": "Mechanical Engineer Intern (Summer 2027)",
-    "location": "US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01885537",
-    "date_found": "2026-11-11",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
-    "title": "Mechanical Engineer Intern (Summer 2027)",
-    "location": "US-CA-EL SEGUNDO-E01 ~ 2000 E El Segundo Blvd ~ BLDG E01",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Mechanical-Engineer-Intern--Summer-2027-_01884278",
-    "date_found": "2026-11-10",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
     "title": "Mechanical Engineering Co-op (Summer/Fall 2027)",
     "location": "US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Mechanical-Engineering-Co-op--Summer-Fall-2027-_01887850",
@@ -10700,6 +10718,15 @@
     "location": "US-PR-SANTA ISABEL-B1 ~ Felicia Industrial Park - St B1 ~ BLDG 1",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-PR-SANTA-ISABEL-B1--Felicia-Industrial-Park---St-B1--BLDG-1/Operational-Excellence--OPEX--Co-Op--January-2027---Onsite-_01886048",
     "date_found": "2026-10-31",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Operations Engineering Intern (Summer 2027)",
+    "location": "US-NM-FARMINGTON-426S ~ 10059 Hwy 371 S ~ SOUTH BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-NM-FARMINGTON-426S--10059-Hwy-371-S--SOUTH-BLDG/Operations-Engineering-Intern--Summer-2027-_01878570",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -10813,6 +10840,33 @@
   },
   {
     "company": "RTX",
+    "title": "Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027)",
+    "location": "US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027-_01873437",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Receiver, Exciter & Processing Architecture Electrical Engineer Intern (Summer 2027) - Onsite",
+    "location": "US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Receiver--Exciter---Processing-Architecture-Electrical-Engineer-Intern--Summer-2027----Onsite_01889033",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "SAP ERP Transformation, Plan to Sustain (Aftermarket) Intern (Summer 2027)",
+    "location": "US-GA-REMOTE",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-GA-REMOTE/SAP-ERP-Transformation--Plan-to-Sustain--Aftermarket--Intern--Summer-2027-_01885502",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Safety and Reliability Intern (Onsite)",
     "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Safety-and-Reliability-Intern--Onsite-_01873849",
@@ -10831,19 +10885,37 @@
   },
   {
     "company": "RTX",
-    "title": "Software Engineering  Intern (Summer 2027)",
-    "location": "US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520",
-    "date_found": "2026-10-23",
+    "title": "Software Engineering Intern (E2D-IN-1)",
+    "location": "US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--E2D-IN-1-_01888020",
+    "date_found": "2026-11-10",
     "disciplines": [],
     "category": "software"
   },
   {
     "company": "RTX",
-    "title": "Software Engineering Intern (E2D-IN-1)",
+    "title": "Software Engineering Intern (ISET-IN-2)",
     "location": "US-VA-STERLING-291 ~ 22640 Davis Dr ~ DAVIS",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--E2D-IN-1-_01888020",
-    "date_found": "2026-11-10",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--ISET-IN-2-_01888017",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "RTX",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "location": "US-IA-CEDAR RAPIDS-143 ~ 855 35Th St NE ~ BLDG 143",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "RTX",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "location": "US-TX-MCKINNEY-513WB ~ 2501 W University Dr ~ WING B BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WB--2501-W-University-Dr--WING-B-BLDG/Software-Engineering-Intern--Summer-2027-_01886440",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "software"
   },
@@ -10876,30 +10948,12 @@
   },
   {
     "company": "RTX",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646",
-    "date_found": "2026-11-05",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "RTX",
     "title": "Software Project Engineer Intern (Summer 2027) Onsite",
     "location": "US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Software-Project-Engineer-Intern--Summer-2027--Onsite_01872660",
     "date_found": "2026-09-19",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "RTX",
-    "title": "Stage - Hiver - Etudiant en droit / Internship - Winter - Legal student",
-    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver---Etudiant-en-droit---Internship---Winter---Legal-student_01867495",
-    "date_found": "2026-08-18",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "RTX",
@@ -10912,28 +10966,19 @@
   },
   {
     "company": "RTX",
+    "title": "Stage - Hiver 2027 - Genie de la fabrication / Internship - Winter 2027 - Manufacturing engineering,",
+    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Genie-de-la-fabrication---Internship---Winter-2027---Manufacturing-engineering-_01871322",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Stage - Hiver 2027 - Spécialiste Qualité / Internship - Winter 2027 - Quality Specialist",
     "location": "CA-QC-SAINT HUBERT-H05 ~ 7007 Chemin De La Savane ~ BLDG H05 FACTORY",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage---Hiver-2027---Spcialiste-Qualit---Internship---Winter-2027---Quality-Specialist_01874468",
     "date_found": "2026-10-28",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
-    "title": "Stage - Hiver 2027 - Spécialiste en ingénierie du support technique aux ateliers MRO / Internship - Winter 2027 - Specialist, MRO Engineering Overhaul Support Services",
-    "location": "CA-QC-SAINT HUBERT-H05 ~ 7007 Chemin De La Savane ~ BLDG H05 FACTORY",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-SAINT-HUBERT-H05--7007-Chemin-De-La-Savane--BLDG-H05-FACTORY/Stage---Hiver-2027---Spcialiste-en-ingnierie-du-support-technique-aux-ateliers-MRO---Internship---Winter-2027---Specialist--MRO-Engineering-Overhaul-Support-Services_01868612",
-    "date_found": "2026-11-10",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
-    "title": "Stage - Hiver 2027-Stagiaire Technicien en Instrumentation/Internship - Winter 2027-Instrumentation Technician",
-    "location": "CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027-Stagiaire-Technicien-en-Instrumentation-Internship---Winter-2027-Instrumentation-Technician_01878634",
-    "date_found": "2026-10-29",
     "disciplines": [],
     "category": "engineering"
   },
@@ -10957,6 +11002,15 @@
   },
   {
     "company": "RTX",
+    "title": "Structural Engineering Intern (Summer 2027)(Onsite)",
+    "location": "US-CT-EAST HARTFORD-ENG ~ 400 Main St ~ BLDG ENG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Structural-Engineering-Intern--Summer-2027--Onsite-_01887158",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
     "title": "Summer 2027 RF Systems Engineer Intern - Onsite",
     "location": "US-IN-FT WAYNE-150A ~ 1010 Production Rd ~ BLDG 150A",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963",
@@ -10970,15 +11024,6 @@
     "location": "US-RI-MIDDLETOWN-201 ~ 127 John Clarke Rd ~ BBN MIDDLETOWN, Ste 3",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-RI-MIDDLETOWN-201--127-John-Clarke-Rd--BBN-MIDDLETOWN-Ste-3/System-Administrator-Intern--Summer-2027-_01879679",
     "date_found": "2026-10-17",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
-    "title": "System Engineering Co-op (Remote)",
-    "location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/System-Engineering-Co-op--Remote-_01868902",
-    "date_found": "2026-11-05",
     "disciplines": [],
     "category": "engineering"
   },
@@ -11155,15 +11200,6 @@
   },
   {
     "company": "RTX",
-    "title": "Systems Engineering Intern- Onsite",
-    "location": "US-MA-WOBURN-WB2 ~ 225 Presidential Way ~ GODDARD BLDG",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Systems-Engineering-Intern--Onsite_01875985",
-    "date_found": "2026-09-21",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
     "title": "Systems Engineering Spring 2027 Co-op, Richardson, TX (Onsite)",
     "location": "US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216",
@@ -11195,6 +11231,15 @@
     "location": "US-MA-ANDOVER-AN1 ~ 350 Lowell St ~ AN1 ESSEX BLDG",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Test-Engineering-Specialist-Co-Op--Onsite-_01874746",
     "date_found": "2026-11-10",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "VA Tech Student Intern Fellowship",
+    "location": "US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/VA-Tech-Student-Intern-Fellowship_01885742",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -11320,17 +11365,6 @@
     "location": "Rochester, NY",
     "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4734540005",
     "date_found": "2026-09-21",
-    "disciplines": [
-      "Engineering"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Re:Build Manufacturing",
-    "title": "Process & Mechanical Engineer Co-op/Intern",
-    "location": "Rochester, NY",
-    "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4728423005",
-    "date_found": "2026-08-28",
     "disciplines": [
       "Engineering"
     ],
@@ -11491,17 +11525,6 @@
   {
     "company": "Rocket Lab",
     "title": "Government Operations Intern Summer 2027",
-    "location": "Washington, DC",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992754003",
-    "date_found": "2026-10-02",
-    "disciplines": [
-      "1550 Government Operations"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Government Operations Intern Summer 2027",
     "location": "Littleton, CO",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001401003",
     "date_found": "2026-10-02",
@@ -11512,12 +11535,12 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Ground Systems Engineering Intern Spring 2027",
-    "location": "Stennis Space Center, MS",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007204003",
-    "date_found": "2026-10-13",
+    "title": "Government Operations Intern Summer 2027",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992754003",
+    "date_found": "2026-10-02",
     "disciplines": [
-      "2246 Neutron - Stennis"
+      "1550 Government Operations"
     ],
     "category": "engineering"
   },
@@ -11534,10 +11557,10 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Ground Systems Engineering Intern Summer 2027",
+    "title": "Ground Systems Engineering Intern Spring 2027",
     "location": "Stennis Space Center, MS",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007202003",
-    "date_found": "2026-10-20",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007204003",
+    "date_found": "2026-10-13",
     "disciplines": [
       "2246 Neutron - Stennis"
     ],
@@ -11551,6 +11574,17 @@
     "date_found": "2026-11-03",
     "disciplines": [
       "2261 SSC Manufacturing Engineering"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Rocket Lab",
+    "title": "Ground Systems Engineering Intern Summer 2027",
+    "location": "Stennis Space Center, MS",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007202003",
+    "date_found": "2026-10-20",
+    "disciplines": [
+      "2246 Neutron - Stennis"
     ],
     "category": "engineering"
   },
@@ -11623,11 +11657,11 @@
   {
     "company": "Rocket Lab",
     "title": "Manufacturing Engineering Intern Summer 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003",
-    "date_found": "2026-09-16",
+    "location": "Wallops Island, VA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996623003",
+    "date_found": "2026-09-17",
     "disciplines": [
-      "2261 SSC Manufacturing Engineering"
+      "2248 Neutron - WDC Production"
     ],
     "category": "engineering"
   },
@@ -11645,11 +11679,11 @@
   {
     "company": "Rocket Lab",
     "title": "Manufacturing Engineering Intern Summer 2027",
-    "location": "Wallops Island, VA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996623003",
-    "date_found": "2026-09-17",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003",
+    "date_found": "2026-09-16",
     "disciplines": [
-      "2248 Neutron - WDC Production"
+      "2261 SSC Manufacturing Engineering"
     ],
     "category": "engineering"
   },
@@ -11766,17 +11800,6 @@
   {
     "company": "Rocket Lab",
     "title": "Security Analyst Intern Spring 2027",
-    "location": "Albuquerque, NM",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003",
-    "date_found": "2026-09-16",
-    "disciplines": [
-      "3635 USA Security"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Security Analyst Intern Spring 2027",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986954003",
     "date_found": "2026-09-16",
@@ -11790,6 +11813,28 @@
     "title": "Security Analyst Intern Spring 2027",
     "location": "Middle River, MD",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986965003",
+    "date_found": "2026-09-16",
+    "disciplines": [
+      "3635 USA Security"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Rocket Lab",
+    "title": "Security Analyst Intern Spring 2027",
+    "location": "Albuquerque, NM",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003",
+    "date_found": "2026-09-16",
+    "disciplines": [
+      "3635 USA Security"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Rocket Lab",
+    "title": "Security Analyst Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003",
     "date_found": "2026-09-16",
     "disciplines": [
       "3635 USA Security"
@@ -11821,17 +11866,6 @@
   {
     "company": "Rocket Lab",
     "title": "Security Analyst Intern Summer 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003",
-    "date_found": "2026-09-16",
-    "disciplines": [
-      "3635 USA Security"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Security Analyst Intern Summer 2027",
     "location": "Wallops Island, VA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986961003",
     "date_found": "2026-09-16",
@@ -11854,17 +11888,6 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Spring 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985032003",
-    "date_found": "2026-09-17",
-    "disciplines": [
-      "2652 USA Supply Chain"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Supply Chain Intern Spring 2027",
     "location": "Silver Spring, MD",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986131003",
     "date_found": "2026-09-17",
@@ -11876,11 +11899,11 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Spring 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990069003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985032003",
     "date_found": "2026-09-17",
     "disciplines": [
-      "2657 SC Sourcing"
+      "2652 USA Supply Chain"
     ],
     "category": "non-engineering"
   },
@@ -11892,6 +11915,17 @@
     "date_found": "2026-09-17",
     "disciplines": [
       "2652 USA Supply Chain"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Rocket Lab",
+    "title": "Supply Chain Intern Spring 2027",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990069003",
+    "date_found": "2026-09-17",
+    "disciplines": [
+      "2657 SC Sourcing"
     ],
     "category": "non-engineering"
   },
@@ -11931,9 +11965,9 @@
   {
     "company": "Rocket Lab",
     "title": "Systems Engineering Intern Summer 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003",
-    "date_found": "2026-09-10",
+    "location": "Pasadena, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003",
+    "date_found": "2026-09-17",
     "disciplines": [
       "4015 USA Space Systems"
     ],
@@ -11942,11 +11976,11 @@
   {
     "company": "Rocket Lab",
     "title": "Systems Engineering Intern Summer 2027",
-    "location": "Tucson, AZ",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003",
-    "date_found": "2026-09-17",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003",
+    "date_found": "2026-09-10",
     "disciplines": [
-      "106 OS - Design Engineering"
+      "4015 USA Space Systems"
     ],
     "category": "engineering"
   },
@@ -11964,11 +11998,11 @@
   {
     "company": "Rocket Lab",
     "title": "Systems Engineering Intern Summer 2027",
-    "location": "Pasadena, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003",
+    "location": "Tucson, AZ",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003",
     "date_found": "2026-09-17",
     "disciplines": [
-      "4015 USA Space Systems"
+      "106 OS - Design Engineering"
     ],
     "category": "engineering"
   },
@@ -11986,22 +12020,22 @@
   {
     "company": "Rocket Lab",
     "title": "Test Engineering Intern Spring 2027",
-    "location": "Wallops Island, VA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
-    "date_found": "2026-09-24",
+    "location": "Stennis Space Center, MS",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990352003",
+    "date_found": "2026-09-17",
     "disciplines": [
-      "2245 Neutron - LC3"
+      "2246 Neutron - Stennis"
     ],
     "category": "engineering"
   },
   {
     "company": "Rocket Lab",
     "title": "Test Engineering Intern Spring 2027",
-    "location": "Stennis Space Center, MS",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990352003",
-    "date_found": "2026-09-17",
+    "location": "Wallops Island, VA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
+    "date_found": "2026-09-24",
     "disciplines": [
-      "2246 Neutron - Stennis"
+      "2245 Neutron - LC3"
     ],
     "category": "engineering"
   },
@@ -12460,15 +12494,6 @@
   },
   {
     "company": "Sierra Nevada Corporation",
-    "title": "Liaison Engineer Intern - Summer 2027",
-    "location": "Vandalia, OH",
-    "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Vandalia-OH/Liason-Engineer-Intern_R0031178",
-    "date_found": "2026-11-06",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Sierra Nevada Corporation",
     "title": "Mechanical Engineer Intern (Summer 2027)",
     "location": "Dayton, OH",
     "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Mechanical-Engineer-Intern--Summer-2027-_R0030744",
@@ -12617,6 +12642,15 @@
     "location": "Lone Tree, CO",
     "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Structural-Engineering-Intern---Summer-2027_R0031160-1",
     "date_found": "2026-10-23",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Sierra Nevada Corporation",
+    "title": "Systems Engineer Intern (Summer 2027)",
+    "location": "Dayton, OH",
+    "url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749",
+    "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
   },
@@ -13836,6 +13870,15 @@
   },
   {
     "company": "The Aerospace Corporation",
+    "title": "2027 Defensive Cyber Operations Grad Intern",
+    "location": "El Segundo, CA",
+    "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "The Aerospace Corporation",
     "title": "2027 Defensive Cyber Operations Undergrad Intern",
     "location": "El Segundo, CA",
     "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
@@ -13926,6 +13969,15 @@
   },
   {
     "company": "The Aerospace Corporation",
+    "title": "2027 Enterprise Performance Modeling and Simulation Graduate Intern",
+    "location": "Colorado Springs, CO",
+    "url": "https://aero.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/XMLNAME-2027-Enterprise-Performance-Modeling-and-Simulation-Graduate-Intern_R016942",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "The Aerospace Corporation",
     "title": "2027 Flight Loads Structural Dynamics Graduate Intern",
     "location": "El Segundo, CA",
     "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Graduate-Intern_R016755",
@@ -13980,15 +14032,6 @@
   },
   {
     "company": "The Aerospace Corporation",
-    "title": "2027 Navigation & Positioning Architecture Systems Graduate Intern",
-    "location": "3 Locations",
-    "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Navigation---Positioning-Architecture-Systems-Graduate-Intern_R016445",
-    "date_found": "2026-09-14",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "The Aerospace Corporation",
     "title": "2027 Network Systems Grad Intern",
     "location": "El Segundo, CA",
     "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836",
@@ -14034,6 +14077,15 @@
   },
   {
     "company": "The Aerospace Corporation",
+    "title": "2027 Power and Analog Circuit Engineering Grad Intern",
+    "location": "El Segundo, CA",
+    "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Intern_R016430",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "The Aerospace Corporation",
     "title": "2027 Propulsion Engineering Graduate Intern",
     "location": "El Segundo, CA",
     "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Propulsion-Engineering-Graduate-Intern_R016729",
@@ -14065,15 +14117,6 @@
     "location": "El Segundo, CA",
     "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Radio-Frequency--RF--Spectrum-Engineering-Undergrad-Intern_R017050",
     "date_found": "2026-10-29",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "The Aerospace Corporation",
-    "title": "2027 Remote Sensing Architecture Performance Graduate Intern",
-    "location": "3 Locations",
-    "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Remote-Sensing-Architecture-Performance-Graduate-Intern_R016443",
-    "date_found": "2026-09-07",
     "disciplines": [],
     "category": "engineering"
   },
@@ -14133,6 +14176,15 @@
   },
   {
     "company": "The Aerospace Corporation",
+    "title": "2027 Software Engineering Grad Intern",
+    "location": "El Segundo, CA",
+    "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Grad-Intern_R017101",
+    "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "The Aerospace Corporation",
     "title": "2027 Software Tools and Assurance Engineering Grad Intern",
     "location": "El Segundo, CA",
     "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
@@ -14160,28 +14212,10 @@
   },
   {
     "company": "The Aerospace Corporation",
-    "title": "2027 Space Domain Awareness Undergraduate Intern",
-    "location": "2 Locations",
-    "url": "https://aero.wd5.myworkdayjobs.com/External/job/Colorado-Springs-CO/XMLNAME-2027-Space-Domain-Awareness-Undergraduate-Intern_R017183",
-    "date_found": "2026-11-11",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "The Aerospace Corporation",
     "title": "2027 Space Systems Architect Graduate Intern",
     "location": "3 Locations",
     "url": "https://aero.wd5.myworkdayjobs.com/External/job/Chantilly-VA/XMLNAME-2027-Space-Systems-Architect-Graduate-Intern_R016773",
     "date_found": "2026-10-09",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "The Aerospace Corporation",
-    "title": "2027 Space Vehicle and Ground Systems Graduate Intern",
-    "location": "2 Locations",
-    "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Space-Vehicle-and-Ground-Systems-Graduate-Intern_R016692",
-    "date_found": "2026-09-24",
     "disciplines": [],
     "category": "engineering"
   },
@@ -14209,15 +14243,6 @@
     "location": "2 Locations",
     "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Tracking-Architecture-and-Performance-Graduate-Intern_R016510",
     "date_found": "2026-09-14",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "The Aerospace Corporation",
-    "title": "2027 Trajectory Optimization Graduate Intern",
-    "location": "3 Locations",
-    "url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Trajectory-Optimization-Graduate-Intern_R016478",
-    "date_found": "2026-09-09",
     "disciplines": [],
     "category": "engineering"
   },
@@ -14293,15 +14318,6 @@
       "DA - Mission Operations"
     ],
     "category": "software"
-  },
-  {
-    "company": "Tyto Athene",
-    "title": "Finance Summer 2027 Internship (Sales & Expense)",
-    "location": "West Des Moines, Iowa",
-    "url": "https://athene.wd5.myworkdayjobs.com/athene_careers/job/West-Des-Moines-Iowa/Finance-Summer-2027-Internship--Sales---Expense-_R255321",
-    "date_found": "2026-11-10",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "Tyto Athene",
