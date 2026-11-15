@@ -1,14 +1,5 @@
 [
   {
-    "company": "AAR Corp",
-    "title": "Intern Bd",
-    "location": "Grand Prairie, TX",
-    "url": "https://aarcorp.dejobs.org/grand-prairie-tx/intern-bd/8AFB0CC2651C41FC9D56DCF5347BFB5E/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "AEVEX Aerospace",
     "title": "Robotics Engineering Co-op",
     "location": "Tampa, Florida, United States",
@@ -17,15 +8,6 @@
     "disciplines": [
       "Internships "
     ],
-    "category": "engineering"
-  },
-  {
-    "company": "ASRC Federal",
-    "title": "Trmci Paid Intern Program Full Time Temporary Summer 2027",
-    "location": "Virtual, USA",
-    "url": "https://asrcfederal.dejobs.org/virtual-usa/trmci-paid-intern-program-full-time-temporary-summer-2027/F8EFB2224C3D4317BE2977EDE24DF632/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
     "category": "engineering"
   },
   {
@@ -2103,6 +2085,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "AI ML Engineer Intern Summer 2027",
+    "location": "Rockville, Maryland, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/132319BR/AI-ML-Engineer-Intern-Summer-2027",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Accounting Internship Winter 2027",
     "location": "Kingsport, Tennessee, United States",
     "url": "https://jobs.baesystems.com/global/en/job/132387BR/Accounting-Internship-Winter-2027",
@@ -2152,6 +2143,15 @@
     "location": "Kingsport, Tennessee, United States",
     "url": "https://jobs.baesystems.com/global/en/job/132336BR/Civil-Structural-Engineering-Co-Op-2027",
     "date_found": "2026-11-11",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Continuous Improvement Engineering Intern III Summer 2027 Merrimac NH",
+    "location": "Merrimack, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/131045BR/Continuous-Improvement-Engineering-Intern-III-Summer-2027-Merrimac-NH",
+    "date_found": "2026-11-15",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2256,6 +2256,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Electrical Engineering Electronics Technology Test Intern Co op 2027 Part Time",
     "location": "Greenlawn, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/132147BR/Electrical-Engineering-Electronics-Technology-Test-Intern-Co-op-2027-Part-Time",
@@ -2337,6 +2346,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "F 35 Program Quality Engineer Intern III Summer 2027 Nashua NH",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/131945BR/F-35-Program-Quality-Engineer-Intern-III-Summer-2027-Nashua-NH",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Facilities Project Management Intern III Onsite Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/130468BR/Facilities-Project-Management-Intern-III-Onsite-Summer-2027",
@@ -2349,6 +2367,15 @@
     "title": "Facilities Project Management Intern Onsite Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/129504BR/Facilities-Project-Management-Intern-Onsite-Summer-2027",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Finance Internship Summer 2027",
+    "location": "Maple Grove, Minnesota, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/132219BR/Finance-Internship-Summer-2027",
     "date_found": "2026-11-15",
     "disciplines": [],
     "category": "non-engineering"
@@ -2490,10 +2517,37 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Mechanical Engineer Intern Summer 2027",
+    "location": "Kingsport, Tennessee, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/132333BR/Mechanical-Engineer-Intern-Summer-2027",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Mechanical Engineering Coop Spring Summer 2027 Onsite",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127776BR/Mechanical-Engineering-Coop-Spring-Summer-2027-Onsite",
     "date_found": "2026-11-12",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Mechanical Engineering Coop Summer Fall 2027 Onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Mechanical Engineering Internship Summer 2027",
+    "location": "Wayne, New Jersey, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/131346BR/Mechanical-Engineering-Internship-Summer-2027",
+    "date_found": "2026-11-15",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2571,6 +2625,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Research Engineering Intern IV Summer 2027 Onsite",
+    "location": "Merrimack, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/131390BR/Research-Engineering-Intern-IV-Summer-2027-Onsite",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Software Developer Intern III Summer 2027 Onsite",
     "location": "Rome, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/129774BR/Software-Developer-Intern-III-Summer-2027-Onsite",
@@ -2620,6 +2683,15 @@
     "location": "Fort Wayne, Indiana, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131092BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
     "date_found": "2026-11-01",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern IV Summer 2027 Onsite",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/128055BR/Software-Engineering-Intern-IV-Summer-2027-Onsite",
+    "date_found": "2026-11-15",
     "disciplines": [],
     "category": "software"
   },
@@ -2876,285 +2948,6 @@
     "category": "engineering"
   },
   {
-    "company": "Bechtel",
-    "title": "27 Intern Us Accountingfinance",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-accountingfinance/BCD2DD34B1014B07AF0354094144A1BD/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Ai Innovation",
-    "location": "Houston, TX",
-    "url": "https://bechtel.dejobs.org/houston-tx/27-intern-us-ai-innovation/147F71067506463FB85F737049B63A8D/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Automation Engr",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-automation-engr/158B50EEC4ED40018A7ABB1CD6E55347/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Civil Engr",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-civil-engr/BEB743AEBEBF4BA5BE5D96ADCABFC9D1/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Civil Field Eng",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-civil-field-eng/7AABDE910BF04A1891AE30A53071B629/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Comm Affairs",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-comm-affairs/3F3351CC67CD44EDA9875921C3FA16E9/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Const Mgmt Fe",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-const-mgmt-fe/D5B1640800BD4A21A7ED49DA67EEC73D/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Control Systems Engr",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-control-systems-engr/CF55DCABC2C84A1DBFF77FF3C62F354D/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Corp Security",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-corp-security/7843D0D96F924AC2A3C48BB1BDC0C08B/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Cybersecurity Engr",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-cybersecurity-engr/D94E95E10CB34E2A8A0304270324FCC5/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Diversity Inclusion",
-    "location": "Reston, VA",
-    "url": "https://bechtel.dejobs.org/reston-va/27-intern-us-diversity-inclusion/6E6894CEA39043C2A6FA3D50BF04FC38/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Elec Field Eng",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-elec-field-eng/CB27DF18F8A04A44BCDD938939FE47FE/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Electrical Engr",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-electrical-engr/C95D5BE6FDE54A5283ADA42A3C1631DC/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Env Science",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-env-science/615700A7D1124314BC4987C0B98F99FC/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Environmental Engr",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-environmental-engr/0B942FF822944F09B687BBB12CE5D878/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Esh Safety",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-esh-safety/8B5CA2361E1C4F639B1FAB6E63542EBF/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Human Resources",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-human-resources/B68FEC1183D64F77A20E4C9577C1CF5B/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Industrial Hygiene",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-industrial-hygiene/67D14DCA9917475BAC7A310BFDF111E8/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Info Digital Tech",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-info-digital-tech/553D2352D4304994B2386A8F74826212/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us International Affairs",
-    "location": "Washington, DC",
-    "url": "https://bechtel.dejobs.org/washington-dc/27-intern-us-international-affairs/E2C0002EDAE84574B5F04C3F74ED9689/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Mech Field Eng",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-mech-field-eng/D1B15C2EB4A6466CAE91A6864A875A68/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Mechanical Engr",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-mechanical-engr/EB6D25B578D7427592B75F53032B3A2C/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Nuclear Engr",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-nuclear-engr/1A262C80EEC24C72B968644BEB2F00AC/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Office Admin Services",
-    "location": "Richland, WA",
-    "url": "https://bechtel.dejobs.org/richland-wa/27-intern-us-office-admin-services/33D789858E94455A89EDAFE699C46805/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Plant Design Engr",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-plant-design-engr/2374F743DF0A40778D64204A84D28FBB/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Process Engr",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-process-engr/36D3F86456FF40538C36A17432D86AD8/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Project Controls Engr",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-project-controls-engr/B0CBF9A1A69D4FDAAC12F23194847847/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Qualitysix Sigma",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-qualitysix-sigma/E448BEF855C54C5CBBE66A15E418E948/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Startup Engr",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-startup-engr/FF7B6A6CD00B45F0AA7661090F3E03F9/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Supply Chain",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-supply-chain/4B20304448274CEEA175FF651A797905/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Bechtel",
-    "title": "27 Intern Us Systems Engr",
-    "location": "Virtual, USA",
-    "url": "https://bechtel.dejobs.org/virtual-usa/27-intern-us-systems-engr/1942A60BF8D2437B89DDF3BD4482D20C/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Blue Origin",
     "title": "Summer 2027 Aerospace Systems Engineering Intern - Graduate",
     "location": "3 Locations",
@@ -3349,15 +3142,6 @@
     "location": "6 Locations",
     "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Test-Engineering-Internship---Undergraduate_R71433",
     "date_found": "2026-10-17",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Boeing",
-    "title": "Boeing Summer 2027 Internship Program (Paid) – Security & Fire Operation (S&FO)",
-    "location": "30 Locations",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Security---Fire-Operation--S-FO-_JR2026521717-1",
-    "date_found": "2026-08-10",
     "disciplines": [],
     "category": "engineering"
   },
@@ -6577,32 +6361,12 @@
   },
   {
     "company": "Idaho National Laboratory",
-    "title": "Super Inteligence Assisted Modeling and Simulation Intern - Summer 2027",
-    "location": "Idaho Falls, ID, United States",
-    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/2266",
-    "date_found": "2026-10-29",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Idaho National Laboratory",
     "title": "Vibroacoustic Monitoring Intern - Summer 2027",
     "location": "Idaho Falls, ID, United States",
     "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/2319",
     "date_found": "2026-11-11",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Kodiak Robotics",
-    "title": "Winter 2027 Intern, Data Engineering",
-    "location": "Mountain View, CA",
-    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4396622009",
-    "date_found": "2026-09-04",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "software"
   },
   {
     "company": "Kodiak Robotics",
@@ -8538,24 +8302,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "2027 Aeronautical Engineering Intern - Sunnyvale CA",
-    "location": "United States-California-Sunnyvale",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Aeronautical-Engineering-Intern---Sunnyvale-CA_R10260488",
-    "date_found": "2026-11-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Business Operations Intern - Radford VA",
-    "location": "United States-Virginia-Radford",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Radford/XMLNAME-2027-Business-Operations-Intern---Radford-VA_R10259949",
-    "date_found": "2026-11-11",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "2027 Electromechanical Engineer Intern - Rolling Meadows IL",
     "location": "United States-Illinois-Rolling Meadows",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Electromechanical-Engineer-Intern---Rolling-Meadows-IL_R10260085",
@@ -8583,15 +8329,6 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "2027 Industrial Engineering Intern - Elkridge MD",
-    "location": "United States-Maryland-Elkridge",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Industrial-Engineering-Intern---Elkridge-MD_R10260314",
-    "date_found": "2026-11-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "2027 Intern Facilities Management - San Diego CA",
     "location": "United States-California-San Diego",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Facilities-Management---San-Diego-CA_R10258075",
@@ -8610,55 +8347,10 @@
   },
   {
     "company": "Northrop Grumman",
-    "title": "2027 Manufacturing Engineering Intern - Charlottesville VA",
-    "location": "United States-Virginia-Charlottesville",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260251",
-    "date_found": "2026-11-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Manufacturing Engineering Intern - Charlottesville VA",
-    "location": "United States-Virginia-Charlottesville",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260268-1",
-    "date_found": "2026-11-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Manufacturing Engineering Intern - Charlottesville VA",
-    "location": "United States-Virginia-Charlottesville",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260260",
-    "date_found": "2026-11-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Manufacturing Engineering Intern - Elkridge MD",
-    "location": "United States-Maryland-Elkridge",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Manufacturing-Engineering-Intern---Elkridge-MD_R10260318",
-    "date_found": "2026-11-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Northrop Grumman",
     "title": "2027 Manufacturing Engineering Intern - Sunnyvale CA",
     "location": "United States-California-Sunnyvale",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Manufacturing-Engineering-Intern---Sunnyvale-CA_R10260394",
     "date_found": "2026-11-13",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Northrop Grumman",
-    "title": "2027 Manufacturing Engineering Intern - Waynesboro VA",
-    "location": "United States-Virginia-Charlottesville",
-    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Waynesboro-VA_R10260271",
-    "date_found": "2026-11-12",
     "disciplines": [],
     "category": "engineering"
   },
@@ -10068,9 +9760,9 @@
   {
     "company": "RTX",
     "title": "Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027)",
-    "location": "US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253",
-    "date_found": "2026-10-23",
+    "location": "US-MN-BURNSVILLE-WEST ~ 14300 Judicial Rd ~ WEST BLDG",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874254",
+    "date_found": "2026-11-15",
     "disciplines": [],
     "category": "engineering"
   },
@@ -10437,6 +10129,15 @@
   {
     "company": "RTX",
     "title": "Industrial Engineering Co-Op (Spring/Summer 2027)",
+    "location": "US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01887963",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Industrial Engineering Co-Op (Spring/Summer 2027)",
     "location": "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01871284",
     "date_found": "2026-11-05",
@@ -10535,15 +10236,6 @@
   },
   {
     "company": "RTX",
-    "title": "Intern: Quality Core Lab (Summer 2027)",
-    "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Core-Lab--Summer-2027-_01868899",
-    "date_found": "2026-11-12",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "RTX",
     "title": "Internship Spring 2027 - Mechanical Engineering Technology, CNC, or Precision Machining Student",
     "location": "CA-NS-HALIFAX-PLANT 41 ~ 189 Pratt & Whitney Dr ~ PLANT 41",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Internship-Spring-2027---Mechanical-Engineering-Technology--CNC--or-Precision-Machining-Student_01883260",
@@ -10566,6 +10258,15 @@
     "location": "US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/JEDI-Network-Systems-Engineer-2027-Spring-Summer-Co-op---Onsite_01873473",
     "date_found": "2026-10-17",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "RTX",
+    "title": "Lean & Continuous Improvement Industrial Engineering Co-Op (Summer/Fall 2027)",
+    "location": "US-NC-WILSON-4200 ~ 4200 Airport Dr ~ BLDG 4200",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-NC-WILSON-4200--4200-Airport-Dr--BLDG-4200/Lean---Continuous-Improvement-Industrial-Engineering-Co-Op--Summer-Fall-2027-_01888251",
+    "date_found": "2026-11-15",
     "disciplines": [],
     "category": "engineering"
   },
@@ -11367,17 +11068,6 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Flight Software Intern Spring 2027",
-    "location": "Littleton, CO",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989724003",
-    "date_found": "2026-09-09",
-    "disciplines": [
-      "2600 Software"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "Rocket Lab",
     "title": "Flight Software Intern Summer 2027",
     "location": "Littleton, CO",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003",
@@ -11412,8 +11102,8 @@
   {
     "company": "Rocket Lab",
     "title": "Government Operations Intern Spring 2027",
-    "location": "Littleton, CO",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992752003",
     "date_found": "2026-10-02",
     "disciplines": [
       "1550 Government Operations"
@@ -11423,8 +11113,8 @@
   {
     "company": "Rocket Lab",
     "title": "Government Operations Intern Spring 2027",
-    "location": "Washington, DC",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992752003",
+    "location": "Littleton, CO",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003",
     "date_found": "2026-10-02",
     "disciplines": [
       "1550 Government Operations"
@@ -11456,22 +11146,22 @@
   {
     "company": "Rocket Lab",
     "title": "Ground Systems Engineering Intern Spring 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
-    "date_found": "2026-11-03",
+    "location": "Stennis Space Center, MS",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007204003",
+    "date_found": "2026-10-13",
     "disciplines": [
-      "2261 SSC Manufacturing Engineering"
+      "2246 Neutron - Stennis"
     ],
     "category": "engineering"
   },
   {
     "company": "Rocket Lab",
     "title": "Ground Systems Engineering Intern Spring 2027",
-    "location": "Stennis Space Center, MS",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007204003",
-    "date_found": "2026-10-13",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
+    "date_found": "2026-11-03",
     "disciplines": [
-      "2246 Neutron - Stennis"
+      "2261 SSC Manufacturing Engineering"
     ],
     "category": "engineering"
   },
@@ -11533,17 +11223,6 @@
   {
     "company": "Rocket Lab",
     "title": "Manufacturing Engineering Intern Spring 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003",
-    "date_found": "2026-09-16",
-    "disciplines": [
-      "2256 Neutron - SSC"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Manufacturing Engineering Intern Spring 2027",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
     "date_found": "2026-09-16",
@@ -11554,12 +11233,23 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Manufacturing Engineering Intern Summer 2027",
+    "title": "Manufacturing Engineering Intern Spring 2027",
     "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003",
     "date_found": "2026-09-16",
     "disciplines": [
-      "2261 SSC Manufacturing Engineering"
+      "2256 Neutron - SSC"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Rocket Lab",
+    "title": "Manufacturing Engineering Intern Summer 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
+    "date_found": "2026-09-16",
+    "disciplines": [
+      "2420 USA Manufacturing Engineering"
     ],
     "category": "engineering"
   },
@@ -11577,11 +11267,11 @@
   {
     "company": "Rocket Lab",
     "title": "Manufacturing Engineering Intern Summer 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003",
     "date_found": "2026-09-16",
     "disciplines": [
-      "2420 USA Manufacturing Engineering"
+      "2261 SSC Manufacturing Engineering"
     ],
     "category": "engineering"
   },
@@ -11698,8 +11388,8 @@
   {
     "company": "Rocket Lab",
     "title": "Security Analyst Intern Spring 2027",
-    "location": "Albuquerque, NM",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986965003",
     "date_found": "2026-09-16",
     "disciplines": [
       "3635 USA Security"
@@ -11720,19 +11410,8 @@
   {
     "company": "Rocket Lab",
     "title": "Security Analyst Intern Spring 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986965003",
-    "date_found": "2026-09-16",
-    "disciplines": [
-      "3635 USA Security"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Security Analyst Intern Summer 2027",
-    "location": "Wallops Island, VA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986961003",
+    "location": "Albuquerque, NM",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986872003",
     "date_found": "2026-09-16",
     "disciplines": [
       "3635 USA Security"
@@ -11753,8 +11432,8 @@
   {
     "company": "Rocket Lab",
     "title": "Security Analyst Intern Summer 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986963003",
+    "location": "Wallops Island, VA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986961003",
     "date_found": "2026-09-16",
     "disciplines": [
       "3635 USA Security"
@@ -11774,10 +11453,32 @@
   },
   {
     "company": "Rocket Lab",
+    "title": "Security Analyst Intern Summer 2027",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986963003",
+    "date_found": "2026-09-16",
+    "disciplines": [
+      "3635 USA Security"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Rocket Lab",
     "title": "Supply Chain Intern",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984786003",
     "date_found": "2026-10-06",
+    "disciplines": [
+      "2652 USA Supply Chain"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Rocket Lab",
+    "title": "Supply Chain Intern Spring 2027",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985032003",
+    "date_found": "2026-09-17",
     "disciplines": [
       "2652 USA Supply Chain"
     ],
@@ -11808,17 +11509,6 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Spring 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985032003",
-    "date_found": "2026-09-17",
-    "disciplines": [
-      "2652 USA Supply Chain"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Supply Chain Intern Spring 2027",
     "location": "Silver Spring, MD",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986131003",
     "date_found": "2026-09-17",
@@ -11841,17 +11531,6 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Summer 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990063003",
-    "date_found": "2026-09-17",
-    "disciplines": [
-      "2652 USA Supply Chain"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Supply Chain Intern Summer 2027",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984568003",
     "date_found": "2026-09-17",
@@ -11862,20 +11541,20 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Systems Engineering Intern Summer 2027",
-    "location": "Pasadena, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003",
+    "title": "Supply Chain Intern Summer 2027",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990063003",
     "date_found": "2026-09-17",
     "disciplines": [
-      "4015 USA Space Systems"
+      "2652 USA Supply Chain"
     ],
-    "category": "engineering"
+    "category": "non-engineering"
   },
   {
     "company": "Rocket Lab",
     "title": "Systems Engineering Intern Summer 2027",
-    "location": "Chantilly, VA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
+    "location": "Tucson, AZ",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003",
     "date_found": "2026-09-17",
     "disciplines": [
       "106 OS - Design Engineering"
@@ -11885,8 +11564,8 @@
   {
     "company": "Rocket Lab",
     "title": "Systems Engineering Intern Summer 2027",
-    "location": "Tucson, AZ",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003",
+    "location": "Chantilly, VA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
     "date_found": "2026-09-17",
     "disciplines": [
       "106 OS - Design Engineering"
@@ -11906,6 +11585,17 @@
   },
   {
     "company": "Rocket Lab",
+    "title": "Systems Engineering Intern Summer 2027",
+    "location": "Pasadena, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003",
+    "date_found": "2026-09-17",
+    "disciplines": [
+      "4015 USA Space Systems"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Rocket Lab",
     "title": "Test Engineering Intern - Manufacturing Spring 2027",
     "location": "Long Beach, CA",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987042003",
@@ -11918,22 +11608,22 @@
   {
     "company": "Rocket Lab",
     "title": "Test Engineering Intern Spring 2027",
-    "location": "Stennis Space Center, MS",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990352003",
-    "date_found": "2026-09-17",
+    "location": "Wallops Island, VA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
+    "date_found": "2026-09-24",
     "disciplines": [
-      "2246 Neutron - Stennis"
+      "2245 Neutron - LC3"
     ],
     "category": "engineering"
   },
   {
     "company": "Rocket Lab",
     "title": "Test Engineering Intern Spring 2027",
-    "location": "Wallops Island, VA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8003533003",
-    "date_found": "2026-09-24",
+    "location": "Stennis Space Center, MS",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990352003",
+    "date_found": "2026-09-17",
     "disciplines": [
-      "2245 Neutron - LC3"
+      "2246 Neutron - Stennis"
     ],
     "category": "engineering"
   },
@@ -12475,6 +12165,15 @@
   },
   {
     "company": "StandardAero",
+    "title": "CFA Division Intern",
+    "location": "3 Locations",
+    "url": "https://standard.wd1.myworkdayjobs.com/Search/job/Portland-OR/CFA-Division-Intern_REQ007036",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "StandardAero",
     "title": "Mortgage Loan Analyst - Internship",
     "location": "2 Locations",
     "url": "https://standard.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Mortgage-Loan-Analyst---Internship_REQ007218",
@@ -13009,114 +12708,6 @@
     "category": "software"
   },
   {
-    "company": "Teledyne Technologies",
-    "title": "College Intern Technical",
-    "location": "Woodridge, IL",
-    "url": "https://teledynecareers.dejobs.org/woodridge-il/college-intern-technical/2F1FEEE026A04A38954AA551CF723106/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Computer Engineering Intern",
-    "location": "Lincoln, NE",
-    "url": "https://teledynecareers.dejobs.org/lincoln-ne/computer-engineering-intern/085B4F21FF414AEF88D07DA3F960AED5/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Eadsim Mbse Intern Summer 2027",
-    "location": "Huntsville, AL",
-    "url": "https://teledynecareers.dejobs.org/huntsville-al/eadsim-mbse-intern-summer-2027/7CF894007D9B41E7BC14B8E013FF4AF2/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Eadsim Software Engineering Intern Summer 2027",
-    "location": "Huntsville, AL",
-    "url": "https://teledynecareers.dejobs.org/huntsville-al/eadsim-software-engineering-intern-summer-2027/B717737398204C07A8922A0C16ABF3D4/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Manufacturing Engineering Intern",
-    "location": "Miamisburg, OH",
-    "url": "https://teledynecareers.dejobs.org/miamisburg-oh/manufacturing-engineering-intern/A06582EAA49A477D9FEE32B00AAA3188/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Mechanical Engineering Intern Cw",
-    "location": "Wilsonville, OR",
-    "url": "https://teledynecareers.dejobs.org/wilsonville-or/mechanical-engineering-intern-cw/579DCEFCB18147C8B935BCAD65F1E493/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Nhrc Software Engineering Internship Summer 2027",
-    "location": "Huntsville, AL",
-    "url": "https://teledynecareers.dejobs.org/huntsville-al/nhrc-software-engineering-internship-summer-2027/4E7AAE080AE54401BE4B672324E28463/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Nhrc Software Engineering Internship Summer 2027",
-    "location": "Huntsville, AL",
-    "url": "https://teledynecareers.dejobs.org/huntsville-al/nhrc-software-engineering-internship-summer-2027/DCA85751AC384A7B86E47C4756A4917D/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Systems Technologies Intern",
-    "location": "Orlando, FL",
-    "url": "https://teledynecareers.dejobs.org/orlando-fl/systems-technologies-intern/37ECF0D6055A47219DBDE97490895AA9/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Systems Technologies Intern",
-    "location": "Wilsonville, OR",
-    "url": "https://teledynecareers.dejobs.org/wilsonville-or/systems-technologies-intern/EC5FD183C08C464996DCE942EAAB3B49/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Systems Technologies Intern Cw",
-    "location": "Wilsonville, OR",
-    "url": "https://teledynecareers.dejobs.org/wilsonville-or/systems-technologies-intern-cw/E5ED44809EA148CEA710976D4526AF91/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Teledyne Technologies",
-    "title": "Systems Technologies Intern Cw",
-    "location": "Orlando, FL",
-    "url": "https://teledynecareers.dejobs.org/orlando-fl/systems-technologies-intern-cw/E995FCEA3C834A5B8380F74A3BC1DD84/job/",
-    "date_found": "2026-11-15",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
     "company": "Textron",
     "title": "2026 Fall Co Op Hr Piney Flats Tn",
     "location": "Piney Flats, TN",
@@ -13226,45 +12817,9 @@
   },
   {
     "company": "Textron",
-    "title": "2027 Intern Integration Test Engineer Marine New Orleans La",
-    "location": "New Orleans, LA",
-    "url": "https://careers.textron.com/new-orleans-la/2027-intern-integration-test-engineer-marine-new-orleans-la/918F359BA69D47F5870CAF34EC915DB3/job/",
-    "date_found": "2026-09-06",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Textron",
     "title": "2027 Intern Intellectual Property Hunt Valley Md",
     "location": "Hunt Valley, MD",
     "url": "https://careers.textron.com/hunt-valley-md/2027-intern-intellectual-property-hunt-valley-md/EE877AC6B347405E8892C1F8E436D820/job/",
-    "date_found": "2026-09-06",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Textron",
-    "title": "2027 Intern Logistics Analyst Marine New Orleans La",
-    "location": "New Orleans, LA",
-    "url": "https://careers.textron.com/new-orleans-la/2027-intern-logistics-analyst-marine-new-orleans-la/FD4705427A474712A70494C81C677C8D/job/",
-    "date_found": "2026-09-06",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Textron",
-    "title": "2027 Intern Manufacturing Engineer Crewed Land Slidell La",
-    "location": "Slidell, LA",
-    "url": "https://careers.textron.com/slidell-la/2027-intern-manufacturing-engineer-crewed-land-slidell-la/4B7439C7508E45409B2EC43617101227/job/",
-    "date_found": "2026-09-06",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Textron",
-    "title": "2027 Intern Manufacturing Engineer Lycoming Williamsport Pa",
-    "location": "Williamsport, PA",
-    "url": "https://careers.textron.com/williamsport-pa/2027-intern-manufacturing-engineer-lycoming-williamsport-pa/8D8ABE4F06EA49BC8F0F35E0A24A9C7F/job/",
     "date_found": "2026-09-06",
     "disciplines": [],
     "category": "engineering"
@@ -13275,15 +12830,6 @@
     "location": "New Orleans, LA",
     "url": "https://careers.textron.com/new-orleans-la/2027-intern-manufacturing-engineer-marine-new-orleans-la/3591A4855184474A9E6008C0B6D94BE9/job/",
     "date_found": "2026-09-06",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Textron",
-    "title": "2027 Intern Mechanical Engineer Weapons Wilmington Ma",
-    "location": "Wilmington, MA",
-    "url": "https://careers.textron.com/wilmington-ma/2027-intern-mechanical-engineer-weapons-wilmington-ma/53D60121AF22491494583439C02D8F14/job/",
-    "date_found": "2026-11-08",
     "disciplines": [],
     "category": "engineering"
   },
@@ -13361,6 +12907,15 @@
   },
   {
     "company": "Textron",
+    "title": "2027 Internship Business Analyst Cust Svc",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-business-analyst-cust-svc/BF1C7571440A4D0B8A4D5B138FEB958C/job/",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Textron",
     "title": "2027 Internship Customer Experience Events Associate",
     "location": "Wichita, KS",
     "url": "https://careers.textron.com/wichita-ks/2027-internship-customer-experience-events-associate/345E6F5AD80440BABF16784DCBAAC49B/job/",
@@ -13370,21 +12925,21 @@
   },
   {
     "company": "Textron",
+    "title": "2027 Internship Customer Support Engagement Orlando Fl",
+    "location": "Orlando, FL",
+    "url": "https://careers.textron.com/orlando-fl/2027-internship-customer-support-engagement-orlando-fl/59A5E4BAB2A84A4BAC1E19ADD646176B/job/",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Textron",
     "title": "2027 Internship Cwc Environmental Health Safety Muskegon Mi",
     "location": "Muskegon, MI",
     "url": "https://careers.textron.com/muskegon-mi/2027-internship-cwc-environmental-health-safety-muskegon-mi/3FCC990BEA4248998101C9C84EADDF0D/job/",
     "date_found": "2026-11-08",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Textron",
-    "title": "2027 Internship Cwc Finance Muskegon Mi",
-    "location": "Muskegon, MI",
-    "url": "https://careers.textron.com/muskegon-mi/2027-internship-cwc-finance-muskegon-mi/25F56780DA874D3BAAC0BA4DECB5412D/job/",
-    "date_found": "2026-09-06",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "Textron",
@@ -13403,6 +12958,15 @@
     "date_found": "2026-09-06",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Internship Human Resources Associate Independence Ks",
+    "location": "Independence, KS",
+    "url": "https://careers.textron.com/independence-ks/2027-internship-human-resources-associate-independence-ks/1F8FA1D251604623A15C0D074BDD2626/job/",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "Textron",
@@ -13433,12 +12997,12 @@
   },
   {
     "company": "Textron",
-    "title": "2027 Internship Procurement Troy Mi",
-    "location": "Troy, MI",
-    "url": "https://careers.textron.com/troy-mi/2027-internship-procurement-troy-mi/14CE1F65ACF74099AC58BEE699C942FD/job/",
-    "date_found": "2026-09-06",
+    "title": "2027 Internship Operations Tru Simulation Lutz Fl",
+    "location": "Lutz, FL",
+    "url": "https://careers.textron.com/lutz-fl/2027-internship-operations-tru-simulation-lutz-fl/E1E5965E4730491FA8EC59F9D6BF4095/job/",
+    "date_found": "2026-11-15",
     "disciplines": [],
-    "category": "non-engineering"
+    "category": "engineering"
   },
   {
     "company": "Textron",
@@ -13448,6 +13012,33 @@
     "date_found": "2026-11-01",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Internship Production Control Logistics Fabrication",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-production-control-logistics-fabrication/02F00B970AE14D57821C08E926B705F9/job/",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Internship Production Control Logistics Interiors Manufacturing Facility",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-production-control-logistics-interiors-manufacturing-facility/6E8A7C2BAD744138B46066E67CA82592/job/",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Internship Production Control Logistics Plant Iv",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-production-control-logistics-plant-iv/5766A9D11D814DA5A2DD85345E3531B8/job/",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "non-engineering"
   },
   {
     "company": "Textron",
@@ -13493,6 +13084,15 @@
     "date_found": "2026-09-13",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "2027 Internship System Safety Engineer",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/2027-internship-system-safety-engineer/3434BD3C8AE94DDE85C908A8B083C07F/job/",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Textron",
@@ -13550,21 +13150,21 @@
   },
   {
     "company": "Textron",
-    "title": "Grinder Production Machinist Intern Mtc 2Nd Shift",
-    "location": "Fort Worth, TX",
-    "url": "https://careers.textron.com/fort-worth-tx/grinder-production-machinist-intern-mtc-2nd-shift/C677E4DAD00E494697578C8B7D555313/job/",
-    "date_found": "2026-09-20",
+    "title": "Metallurgy Co Op Muskegon Mi",
+    "location": "Muskegon, MI",
+    "url": "https://careers.textron.com/muskegon-mi/metallurgy-co-op-muskegon-mi/3484DFB6DAD4443B8AF96D30763486E8/job/",
+    "date_found": "2026-11-15",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "Textron",
-    "title": "Spring Co Op Avionics And Electrical Systems Engineer",
-    "location": "Wichita, KS",
-    "url": "https://careers.textron.com/wichita-ks/spring-co-op-avionics-and-electrical-systems-engineer/7B8724ABEA374668A5CCB423714749D9/job/",
-    "date_found": "2026-10-25",
+    "title": "Spring Co Op Customer Accounts Independence Ks",
+    "location": "Independence, KS",
+    "url": "https://careers.textron.com/independence-ks/spring-co-op-customer-accounts-independence-ks/F7353C0AC5014118800F938A05A291B0/job/",
+    "date_found": "2026-11-15",
     "disciplines": [],
-    "category": "engineering"
+    "category": "non-engineering"
   },
   {
     "company": "Textron",
@@ -13574,6 +13174,15 @@
     "date_found": "2026-10-18",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "Textron",
+    "title": "Spring Co Op Marketing Digital Marketing Developer",
+    "location": "Wichita, KS",
+    "url": "https://careers.textron.com/wichita-ks/spring-co-op-marketing-digital-marketing-developer/CFDC8A0AA02740EE966DB86A834DA3F0/job/",
+    "date_found": "2026-11-15",
+    "disciplines": [],
+    "category": "software"
   },
   {
     "company": "Textron",
@@ -13592,15 +13201,6 @@
     "date_found": "2026-10-18",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "Textron",
-    "title": "Spring Co Op Supply Chain Management",
-    "location": "Wichita, KS",
-    "url": "https://careers.textron.com/wichita-ks/spring-co-op-supply-chain-management/02093622D5034DFC9BC725BF6F48EA92/job/",
-    "date_found": "2026-10-18",
-    "disciplines": [],
-    "category": "non-engineering"
   },
   {
     "company": "Textron",
