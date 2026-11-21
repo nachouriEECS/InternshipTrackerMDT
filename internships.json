@@ -2105,15 +2105,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Civil Structural Engineering Co Op 2027",
-    "location": "Kingsport, Tennessee, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/132336BR/Civil-Structural-Engineering-Co-Op-2027",
-    "date_found": "2026-11-21",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Continuous Improvement Engineering Intern III Summer 2027 Merrimac NH",
     "location": "Merrimack, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131045BR/Continuous-Improvement-Engineering-Intern-III-Summer-2027-Merrimac-NH",
@@ -2159,15 +2150,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Contracts Intern Summer 2027 Greenlawn NY Hybrid",
-    "location": "Greenlawn, New York, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/131581BR/Contracts-Intern-Summer-2027-Greenlawn-NY-Hybrid",
-    "date_found": "2026-11-14",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Contracts Intern Summer 2027 New Hampshire",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131749BR/Contracts-Intern-Summer-2027-New-Hampshire",
@@ -2186,24 +2168,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Customer Analyst Intern Summer 2027",
-    "location": "Fort Wayne, Indiana, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/132613BR/Customer-Analyst-Intern-Summer-2027",
-    "date_found": "2026-11-21",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Cyber Systems Engineering Intern II Spring 2007",
-    "location": "Hudson, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/132276BR/Cyber-Systems-Engineering-Intern-II-Spring-2007",
-    "date_found": "2026-11-21",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
     "title": "ECAD Designer Internship Winter Spring 2027",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/132343BR/ECAD-Designer-Internship-Winter-Spring-2027",
@@ -2217,6 +2181,15 @@
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127774BR/Electrical-Engineering-Coop-Spring-Summer-2027-Onsite",
     "date_found": "2026-10-23",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Electrical Engineering Coop Summer Fall 2027 Onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127775BR/Electrical-Engineering-Coop-Summer-Fall-2027-Onsite",
+    "date_found": "2026-11-21",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2249,18 +2222,18 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Electrical Engineering Internship Summer 2027",
-    "location": "Wayne, New Jersey, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/132094BR/Electrical-Engineering-Internship-Summer-2027",
-    "date_found": "2026-11-20",
+    "title": "Electronic Combat Solutions Operations Mechanical Engineering Intern II Summer 2027",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129212BR/Electronic-Combat-Solutions-Operations-Mechanical-Engineering-Intern-II-Summer-2027",
+    "date_found": "2026-11-21",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "BAE Systems",
-    "title": "Electronic Systems Finance Intern III Summer 2027 Hybrid",
-    "location": "Fort Wayne, Indiana, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/130393BR/Electronic-Systems-Finance-Intern-III-Summer-2027-Hybrid",
+    "title": "Electronic Systems Finance Intern III Summer 2027",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129972BR/Electronic-Systems-Finance-Intern-III-Summer-2027",
     "date_found": "2026-11-21",
     "disciplines": [],
     "category": "engineering"
@@ -2271,6 +2244,15 @@
     "location": "Endicott, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/129132BR/Electronic-Systems-Finance-Intern-III-Summer-2027-Hybrid",
     "date_found": "2026-11-18",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Electronic Systems Finance Intern III Summer 2027 Hybrid",
+    "location": "Fort Wayne, Indiana, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/130393BR/Electronic-Systems-Finance-Intern-III-Summer-2027-Hybrid",
+    "date_found": "2026-11-21",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2294,6 +2276,24 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Engineering Intern III Summer 2027",
+    "location": "Endicott, New York, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129873BR/Engineering-Intern-III-Summer-2027",
+    "date_found": "2026-11-21",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "F 35 Program Quality Engineer Intern III Summer 2027 Nashua NH",
+    "location": "Nashua, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/131945BR/F-35-Program-Quality-Engineer-Intern-III-Summer-2027-Nashua-NH",
+    "date_found": "2026-11-21",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Facilities Project Management Intern III Onsite Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/130468BR/Facilities-Project-Management-Intern-III-Onsite-Summer-2027",
@@ -2303,12 +2303,12 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Facilities Project Management Intern Onsite Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129504BR/Facilities-Project-Management-Intern-Onsite-Summer-2027",
-    "date_found": "2026-11-20",
+    "title": "Hardware Engineering Intern III Summer 2027 Onsite",
+    "location": "San Diego, California, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129896BR/Hardware-Engineering-Intern-III-Summer-2027-Onsite",
+    "date_found": "2026-11-21",
     "disciplines": [],
-    "category": "non-engineering"
+    "category": "engineering"
   },
   {
     "company": "BAE Systems",
@@ -2348,19 +2348,19 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Industrial Engineering Intern Winter 2027",
-    "location": "York, Pennsylvania, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/131217BR/Industrial-Engineering-Intern-Winter-2027",
-    "date_found": "2026-11-21",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Intellectual Property Legal Intern IV Spring 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131239BR/Intellectual-Property-Legal-Intern-IV-Spring-2027-Hybrid",
     "date_found": "2026-11-08",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Learning and Development HR Intern Summer 2027",
+    "location": "Fort Wayne, Indiana, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/132187BR/Learning-and-Development-HR-Intern-Summer-2027",
+    "date_found": "2026-11-21",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -2393,15 +2393,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Manufacturing Engineering Intern II Summer 2027",
-    "location": "Austin, Texas, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/131672BR/Manufacturing-Engineering-Intern-II-Summer-2027",
-    "date_found": "2026-11-20",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Manufacturing Engineering Intern III Summer 2027 Greenlawn NY",
     "location": "Greenlawn, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131949BR/Manufacturing-Engineering-Intern-III-Summer-2027-Greenlawn-NY",
@@ -2429,10 +2420,28 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Mechanical Engineer Intern Summer 2027",
+    "location": "Kingsport, Tennessee, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/132333BR/Mechanical-Engineer-Intern-Summer-2027",
+    "date_found": "2026-11-21",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Mechanical Engineering Coop Spring Summer 2027 Onsite",
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127776BR/Mechanical-Engineering-Coop-Spring-Summer-2027-Onsite",
     "date_found": "2026-11-12",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Mechanical Engineering Coop Summer Fall 2027 Onsite",
+    "location": "Cedar Rapids, Iowa, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/127778BR/Mechanical-Engineering-Coop-Summer-Fall-2027-Onsite",
+    "date_found": "2026-11-21",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2480,15 +2489,6 @@
     "date_found": "2026-11-17",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Programmer Analyst Intern Summer 2027",
-    "location": "Fort Wayne, Indiana, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/132614BR/Programmer-Analyst-Intern-Summer-2027",
-    "date_found": "2026-11-21",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "BAE Systems",
@@ -2546,6 +2546,24 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Software Developer Intern III Summer 2027 Onsite",
+    "location": "Rome, New York, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129774BR/Software-Developer-Intern-III-Summer-2027-Onsite",
+    "date_found": "2026-11-21",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Software Engineering Intern II Summer 2027 Onsite",
+    "location": "Totowa, New Jersey, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/130817BR/Software-Engineering-Intern-II-Summer-2027-Onsite",
+    "date_found": "2026-11-21",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Software Engineering Intern II Summer 2027 Onsite",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/128054BR/Software-Engineering-Intern-II-Summer-2027-Onsite",
@@ -2559,15 +2577,6 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/127189BR/Software-Engineering-Intern-III-Summer-2027",
     "date_found": "2026-11-13",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern III Summer 2027 Onsite",
-    "location": "San Diego, California, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129576BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-11-20",
     "disciplines": [],
     "category": "software"
   },
@@ -2600,15 +2609,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Supply Chain Intern III Summer 2027 Greenlawn NY",
-    "location": "Greenlawn, New York, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/131953BR/Supply-Chain-Intern-III-Summer-2027-Greenlawn-NY",
-    "date_found": "2026-11-20",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Supply Chain Intern III Summer 2027 Onsite",
     "location": "Fort Wayne, Indiana, United States",
     "url": "https://jobs.baesystems.com/global/en/job/130711BR/Supply-Chain-Intern-III-Summer-2027-Onsite",
@@ -2636,19 +2636,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "System Test Development Intern Missile Focus Summer 2027",
-    "location": "Rockville, Maryland, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/131166BR/System-Test-Development-Intern-Missile-Focus-Summer-2027",
-    "date_found": "2026-11-20",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Systems Engineer Intern Mechanical Focus Summer 2027",
-    "location": "Rockville, Maryland, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/130026BR/Systems-Engineer-Intern-Mechanical-Focus-Summer-2027",
-    "date_found": "2026-11-20",
+    "title": "Systems Engineering Internship Summer 2027",
+    "location": "Hudson, New Hampshire, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/132795BR/Systems-Engineering-Internship-Summer-2027",
+    "date_found": "2026-11-21",
     "disciplines": [],
     "category": "engineering"
   },
@@ -4691,6 +4682,15 @@
     "location": "Hooksett, New Hampshire, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5041386EXTERNALENGLOBAL/Manufacturing-Supply-Chain-Intern-Hooksett-NH-Summer-2027",
     "date_found": "2026-10-17",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GE Aerospace",
+    "title": "Propulsion Performance Engineering Intern Bohemia NY Summer 2027",
+    "location": "Bohemia, New York, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5042754EXTERNALENGLOBAL/Propulsion-Performance-Engineering-Intern-Bohemia-NY-Summer-2027",
+    "date_found": "2026-11-21",
     "disciplines": [],
     "category": "engineering"
   },
@@ -7877,6 +7877,15 @@
     "date_found": "2026-10-21",
     "disciplines": [],
     "category": "software"
+  },
+  {
+    "company": "MITRE",
+    "title": "Underwater Sensors Engineer Intern",
+    "location": "Bedford, Massachusetts, United States of America",
+    "url": "https://careers.mitre.org/us/en/job/R118077/Underwater-Sensors-Engineer-Intern",
+    "date_found": "2026-11-21",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "MITRE",
