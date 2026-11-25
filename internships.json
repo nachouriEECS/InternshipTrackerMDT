@@ -150,8 +150,8 @@
   {
     "company": "ATI",
     "title": "Summer 2027 Intern Process Controls and Automation",
-    "location": "Monaca,Pennsylvania,United States",
-    "url": "https://careers.atimaterials.com/us/en/job/26-3436/Summer-2027-Intern-Process-Controls-and-Automation",
+    "location": "Washington,Pennsylvania,United States",
+    "url": "https://careers.atimaterials.com/us/en/job/26-3438/Summer-2027-Intern-Process-Controls-and-Automation",
     "date_found": "2026-10-17",
     "disciplines": [],
     "category": "engineering"
@@ -159,8 +159,8 @@
   {
     "company": "ATI",
     "title": "Summer 2027 Intern Process Controls and Automation",
-    "location": "Washington,Pennsylvania,United States",
-    "url": "https://careers.atimaterials.com/us/en/job/26-3438/Summer-2027-Intern-Process-Controls-and-Automation",
+    "location": "Monaca,Pennsylvania,United States",
+    "url": "https://careers.atimaterials.com/us/en/job/26-3436/Summer-2027-Intern-Process-Controls-and-Automation",
     "date_found": "2026-10-17",
     "disciplines": [],
     "category": "engineering"
@@ -1206,17 +1206,6 @@
   },
   {
     "company": "Anduril",
-    "title": "Winter 2027 Research Engineer Co-op",
-    "location": "Santa Ana, California, United States",
-    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
-    "date_found": "2026-10-17",
-    "disciplines": [
-      "Maritime & Maneuver Dominance : Heavy Metal - Engineering & Operations : Software Engineering"
-    ],
-    "category": "software"
-  },
-  {
-    "company": "Anduril",
     "title": "Winter 2027 Software Engineer Co-op",
     "location": "Quincy, Massachusetts, United States",
     "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
@@ -1998,15 +1987,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Civil Structural Engineering Co Op 2027",
-    "location": "Kingsport, Tennessee, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/132336BR/Civil-Structural-Engineering-Co-Op-2027",
-    "date_found": "2026-11-25",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Continuous Improvement Engineering Intern III Summer 2027 Merrimac NH",
     "location": "Merrimack, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131045BR/Continuous-Improvement-Engineering-Intern-III-Summer-2027-Merrimac-NH",
@@ -2061,15 +2041,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Contracts Intern Summer 2027 New Hampshire",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/131749BR/Contracts-Intern-Summer-2027-New-Hampshire",
-    "date_found": "2026-11-20",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Contracts Intern Summer 2027 Wayne NJ",
     "location": "Wayne, New Jersey, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131580BR/Contracts-Intern-Summer-2027-Wayne-NJ",
@@ -2079,9 +2050,9 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Customer Analyst Intern Summer 2027",
-    "location": "Fort Wayne, Indiana, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/132613BR/Customer-Analyst-Intern-Summer-2027",
+    "title": "Corporate Legal Internship",
+    "location": "Falls Church, Virginia, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/133092BR/Corporate-Legal-Internship",
     "date_found": "2026-11-25",
     "disciplines": [],
     "category": "non-engineering"
@@ -2151,15 +2122,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Electrical Engineering Internship Summer 2027",
-    "location": "Wayne, New Jersey, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/132094BR/Electrical-Engineering-Internship-Summer-2027",
-    "date_found": "2026-11-24",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Electronic Combat Solutions Operations Mechanical Engineering Intern II Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/129212BR/Electronic-Combat-Solutions-Operations-Mechanical-Engineering-Intern-II-Summer-2027",
@@ -2173,6 +2135,15 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/129972BR/Electronic-Systems-Finance-Intern-III-Summer-2027",
     "date_found": "2026-11-24",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "BAE Systems",
+    "title": "Electronic Systems Finance Intern III Summer 2027 Hybrid",
+    "location": "Endicott, New York, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/129132BR/Electronic-Systems-Finance-Intern-III-Summer-2027-Hybrid",
+    "date_found": "2026-11-25",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2218,15 +2189,6 @@
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/130468BR/Facilities-Project-Management-Intern-III-Onsite-Summer-2027",
     "date_found": "2026-11-08",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Facilities Project Management Intern Onsite Summer 2027",
-    "location": "Nashua, New Hampshire, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129504BR/Facilities-Project-Management-Intern-Onsite-Summer-2027",
-    "date_found": "2026-11-24",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -2286,15 +2248,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Industrial Engineering Intern Winter 2027",
-    "location": "York, Pennsylvania, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/131217BR/Industrial-Engineering-Intern-Winter-2027",
-    "date_found": "2026-11-25",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Intellectual Property Legal Intern IV Spring 2027 Hybrid",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131239BR/Intellectual-Property-Legal-Intern-IV-Spring-2027-Hybrid",
@@ -2335,15 +2288,6 @@
     "location": "Cedar Rapids, Iowa, United States",
     "url": "https://jobs.baesystems.com/global/en/job/132349BR/MCAD-Designer-Internship-Winter-Spring-2027",
     "date_found": "2026-11-05",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Manufacturing Engineering Intern II Summer 2027",
-    "location": "Austin, Texas, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/131672BR/Manufacturing-Engineering-Intern-II-Summer-2027",
-    "date_found": "2026-11-24",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2403,15 +2347,6 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Operations Engineering Industrial Mechanical Electrical Co op Summer Fall 2027",
-    "location": "Cedar Rapids, Iowa, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/130509BR/Operations-Engineering-Industrial-Mechanical-Electrical-Co-op-Summer-Fall-2027",
-    "date_found": "2026-11-25",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Operations Program Management Intern III Summer 2027 Onsite",
     "location": "Greenlawn, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/129685BR/Operations-Program-Management-Intern-III-Summer-2027-Onsite",
@@ -2436,15 +2371,6 @@
     "date_found": "2026-11-17",
     "disciplines": [],
     "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Programmer Analyst Intern Summer 2027",
-    "location": "Fort Wayne, Indiana, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/132614BR/Programmer-Analyst-Intern-Summer-2027",
-    "date_found": "2026-11-25",
-    "disciplines": [],
-    "category": "software"
   },
   {
     "company": "BAE Systems",
@@ -2548,15 +2474,6 @@
   {
     "company": "BAE Systems",
     "title": "Software Engineering Intern III Summer 2027 Onsite",
-    "location": "San Diego, California, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/129576BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
-    "date_found": "2026-11-24",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Software Engineering Intern III Summer 2027 Onsite",
     "location": "Fort Wayne, Indiana, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131092BR/Software-Engineering-Intern-III-Summer-2027-Onsite",
     "date_found": "2026-11-01",
@@ -2574,28 +2491,10 @@
   },
   {
     "company": "BAE Systems",
-    "title": "Software or Computer Engineering Co op 2027",
-    "location": "Sterling Heights, Michigan, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/132220BR/Software-or-Computer-Engineering-Co-op-2027",
-    "date_found": "2026-11-24",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "BAE Systems",
     "title": "Supply Chain Intern II Summer 2027",
     "location": "Nashua, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131676BR/Supply-Chain-Intern-II-Summer-2027",
     "date_found": "2026-11-11",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Supply Chain Intern III Summer 2027 Greenlawn NY",
-    "location": "Greenlawn, New York, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/131953BR/Supply-Chain-Intern-III-Summer-2027-Greenlawn-NY",
-    "date_found": "2026-11-24",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -2614,24 +2513,6 @@
     "location": "Rockville, Maryland, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131759BR/System-Modeling-Engineer-Intern-Summer-2027",
     "date_found": "2026-10-23",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "System Test Development Intern Missile Focus Summer 2027",
-    "location": "Rockville, Maryland, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/131166BR/System-Test-Development-Intern-Missile-Focus-Summer-2027",
-    "date_found": "2026-11-24",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Systems Engineer Intern Mechanical Focus Summer 2027",
-    "location": "Rockville, Maryland, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/130026BR/Systems-Engineer-Intern-Mechanical-Focus-Summer-2027",
-    "date_found": "2026-11-24",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2664,10 +2545,10 @@
   },
   {
     "company": "BWX Technologies",
-    "title": "Intern - Applications Development",
+    "title": "Intern - Applications Development (Year-Round)",
     "location": "Lynchburg, VA, US",
-    "url": "https://careers.bwxt.com/job/Lynchburg-Intern-Applications-Development-VA-24501/1449049000/",
-    "date_found": "2026-11-10",
+    "url": "https://careers.bwxt.com/job/Lynchburg-Intern-Applications-Development-%28Year-Round%29-VA-24501/1449049000/",
+    "date_found": "2026-11-25",
     "disciplines": [],
     "category": "engineering"
   },
@@ -2677,24 +2558,6 @@
     "location": "Oak Ridge, TN, US",
     "url": "https://careers.bwxt.com/job/Oak-Ridge-Intern-Communications%2C-Tennessee-TN/1431563400/",
     "date_found": "2026-10-29",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BWX Technologies",
-    "title": "Intern - Human Resources, Erwin, Tennessee - Summer 2027",
-    "location": "Erwin, TN, US",
-    "url": "https://careers.bwxt.com/job/Erwin-Intern-Human-Resources%2C-Erwin%2C-Tennessee-Summer-2027-TN/1428619000/",
-    "date_found": "2026-09-10",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BWX Technologies",
-    "title": "Intern - Human Resources, Mt. Vernon, IN - Summer 2027",
-    "location": "Mt Vernon, IN, US",
-    "url": "https://careers.bwxt.com/job/Mt-Vernon-Intern-Human-Resources%2C-Mt_-Vernon%2C-IN-Summer-2027-IN/1428827100/",
-    "date_found": "2026-09-10",
     "disciplines": [],
     "category": "non-engineering"
   },
@@ -4591,6 +4454,15 @@
   },
   {
     "company": "GE Aerospace",
+    "title": "Design Engineering Intern Bohemia NY Summer 2027",
+    "location": "Bohemia, New York, United States of America",
+    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5042864EXTERNALENGLOBAL/Design-Engineering-Intern-Bohemia-NY-Summer-2027",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "GE Aerospace",
     "title": "Digital Systems Engineering Intern Bohemia NY Summer 2027",
     "location": "Bohemia, New York, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5042961EXTERNALENGLOBAL/Digital-Systems-Engineering-Intern-Bohemia-NY-Summer-2027",
@@ -4604,15 +4476,6 @@
     "location": "Hooksett, New Hampshire, United States of America",
     "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5041385EXTERNALENGLOBAL/Environmental-Health-Safety-Intern-Hooksett-NH-Summer-2027",
     "date_found": "2026-11-24",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "GE Aerospace",
-    "title": "GE Aerospace Research Coatings Internship",
-    "location": "Niskayuna, New York, United States of America",
-    "url": "https://careers.geaerospace.com/global/en/job/GAOGAYGLOBALR5043479EXTERNALENGLOBAL/GE-Aerospace-Research-Coatings-Internship",
-    "date_found": "2026-11-18",
     "disciplines": [],
     "category": "engineering"
   },
@@ -6010,6 +5873,15 @@
   },
   {
     "company": "Howmet Aerospace",
+    "title": "Quality Engineer Intern Summer 2027",
+    "location": "Rochester, NY, United States",
+    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120690",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Howmet Aerospace",
     "title": "Summer 2027 EHS Intern",
     "location": "Cleveland, OH, United States",
     "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119770",
@@ -6266,6 +6138,33 @@
     "location": "Idaho Falls, ID, United States",
     "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/2093",
     "date_found": "2026-09-22",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Idaho National Laboratory",
+    "title": "Cyber-Informed Engineering - Engineering Use Case and Model Development Intern - Spring 2027",
+    "location": "Idaho Falls, ID, United States",
+    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/2412",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Idaho National Laboratory",
+    "title": "Cyber-Informed Engineering - Engineering Use Case and Model Development Intern - Summer 2027",
+    "location": "Idaho Falls, ID, United States",
+    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/2413",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Idaho National Laboratory",
+    "title": "Cybersecurity Awareness Program Intern - Summer 2027",
+    "location": "Idaho Falls, ID, United States",
+    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/2416",
+    "date_found": "2026-11-25",
     "disciplines": [],
     "category": "software"
   },
@@ -6565,15 +6464,6 @@
     "date_found": "2026-11-20",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "Idaho National Laboratory",
-    "title": "TREAT Instrument & Controls Engineering Intern - Fall 2027",
-    "location": "Idaho Falls, ID, United States",
-    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/2371",
-    "date_found": "2026-11-20",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "Idaho National Laboratory",
@@ -6998,15 +6888,6 @@
     "date_found": "2026-10-08",
     "disciplines": [],
     "category": "software"
-  },
-  {
-    "company": "MIT Lincoln Laboratory",
-    "title": "Advanced Sensors and Techniques Co-Op (Spring 2027) - Group 09-92",
-    "location": "Lexington, MA, US",
-    "url": "https://careers.ll.mit.edu/job/Lexington-Advanced-Sensors-and-Techniques-Co-Op-%28Spring-2027%29-Group-09-92-MA-02420/1437466700/",
-    "date_found": "2026-10-17",
-    "disciplines": [],
-    "category": "engineering"
   },
   {
     "company": "MIT Lincoln Laboratory",
@@ -7678,8 +7559,8 @@
     "company": "MITRE",
     "title": "Communications Engineering Intern",
     "location": "Bedford, Massachusetts, United States of America",
-    "url": "https://careers.mitre.org/us/en/job/R118100/Communications-Engineering-Intern",
-    "date_found": "2026-11-21",
+    "url": "https://careers.mitre.org/us/en/job/R117638/Communications-Engineering-Intern",
+    "date_found": "2026-10-08",
     "disciplines": [],
     "category": "engineering"
   },
@@ -7687,8 +7568,8 @@
     "company": "MITRE",
     "title": "Communications Engineering Intern",
     "location": "Bedford, Massachusetts, United States of America",
-    "url": "https://careers.mitre.org/us/en/job/R117638/Communications-Engineering-Intern",
-    "date_found": "2026-10-08",
+    "url": "https://careers.mitre.org/us/en/job/R118100/Communications-Engineering-Intern",
+    "date_found": "2026-11-21",
     "disciplines": [],
     "category": "engineering"
   },
@@ -9273,6 +9154,24 @@
   },
   {
     "company": "Parsons",
+    "title": "Architectural Summer Intern",
+    "location": "Sandy Springs, Georgia",
+    "url": "https://jobs.parsons.com/jobs/architectural-summer-intern-sandy-springs-r-188324-jobs--internship-program--",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
+    "title": "Architecture Intern - Summer 2027",
+    "location": "San Antonio, Texas",
+    "url": "https://jobs.parsons.com/jobs/architecture-intern-summer-2027-san-antonio-r-188309-jobs--internship-program--",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
     "title": "Bridge Engineering Intern",
     "location": "Denver, Colorado",
     "url": "https://jobs.parsons.com/jobs/bridge-engineering-intern-denver-r-186212-jobs--internship-program--",
@@ -9327,6 +9226,15 @@
   },
   {
     "company": "Parsons",
+    "title": "Bridge Engineering Intern/Co-Op - Summer 2027",
+    "location": "CINCINNATI, Ohio",
+    "url": "https://jobs.parsons.com/jobs/bridge-engineering-intern-co-op-summer-2027-cincinnati-r-188455-jobs--internship-program--",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
     "title": "Bridge and Structural Intern",
     "location": "Seattle, Washington",
     "url": "https://jobs.parsons.com/jobs/bridge-and-structural-intern-seattle-r-187778-jobs--internship-program--",
@@ -9354,10 +9262,37 @@
   },
   {
     "company": "Parsons",
+    "title": "Civil Engineering (Transportation) Intern - Summer 2027",
+    "location": "Richardson, Texas",
+    "url": "https://jobs.parsons.com/jobs/civil-engineering-transportation-intern-summer-2027-richardson-r-188763-jobs--internship-program--",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
+    "title": "Civil Engineering Intern - Summer 2027",
+    "location": "Sandy Springs, Georgia",
+    "url": "https://jobs.parsons.com/jobs/civil-engineering-intern-summer-2027-sandy-springs-r-188453-jobs--internship-program--",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
     "title": "Civil Engineering Intern - Summer 2027",
     "location": "Troy, Michigan",
     "url": "https://jobs.parsons.com/jobs/civil-engineering-intern-summer-2027-troy-r-187946-jobs--internship-program--",
     "date_found": "2026-11-10",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
+    "title": "Civil-Highway Engineering Intern - Summer 2027",
+    "location": "Newark, New Jersey",
+    "url": "https://jobs.parsons.com/jobs/civil-highway-engineering-intern-summer-2027-newark-r-188938-jobs--internship-program--",
+    "date_found": "2026-11-25",
     "disciplines": [],
     "category": "engineering"
   },
@@ -9435,6 +9370,33 @@
   },
   {
     "company": "Parsons",
+    "title": "Engineering Internship / Co-Op Summer 2027",
+    "location": "Centreville, Virginia",
+    "url": "https://jobs.parsons.com/jobs/engineering-internship-co-op-summer-2027-centreville-r-185683-jobs--internship-program--",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
+    "title": "Facility Programs and Services Intern",
+    "location": "Virtual, Virginia",
+    "url": "https://jobs.parsons.com/jobs/facility-programs-and-services-intern-virtual-r-188819-jobs--internship-program--",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
+    "title": "Fire Protection Engineer Intern - Summer 2027",
+    "location": "Pasadena, California",
+    "url": "https://jobs.parsons.com/jobs/fire-protection-engineer-intern-summer-2027-pasadena-r-188315-jobs--internship-program--",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
     "title": "HVAC - Mechanical Engineer Intern - Summer 2027",
     "location": "Pasadena, California",
     "url": "https://jobs.parsons.com/jobs/hvac-mechanical-engineer-intern-summer-2027-pasadena-r-187605-jobs--internship-program--",
@@ -9453,10 +9415,28 @@
   },
   {
     "company": "Parsons",
+    "title": "ITS Intern",
+    "location": "Altamonte Springs, Florida",
+    "url": "https://jobs.parsons.com/jobs/its-intern-altamonte-springs-r-188729-jobs--internship-program--",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
     "title": "Process Engineer Intern, Summer 2027",
     "location": "Lexington, Kentucky",
     "url": "https://jobs.parsons.com/jobs/process-engineer-intern-summer-2027-lexington-r-187663-jobs--internship-program--",
     "date_found": "2026-10-28",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
+    "title": "Process Improvement Intern - Summer 2027",
+    "location": "Huntsville, Alabama",
+    "url": "https://jobs.parsons.com/jobs/process-improvement-intern-summer-2027-huntsville-r-188705-jobs--internship-program--",
+    "date_found": "2026-11-25",
     "disciplines": [],
     "category": "engineering"
   },
@@ -9601,6 +9581,15 @@
     "location": "Sandy Springs, Georgia",
     "url": "https://jobs.parsons.com/jobs/traffic-engineering-intern-summer-2027-sandy-springs-r-185669-jobs--internship-program--",
     "date_found": "2026-09-17",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Parsons",
+    "title": "Transportation Engineering Co-op - Summer 2027",
+    "location": "Akron, Ohio",
+    "url": "https://jobs.parsons.com/jobs/transportation-engineering-co-op-summer-2027-akron-r-188171-jobs--internship-program--",
+    "date_found": "2026-11-25",
     "disciplines": [],
     "category": "engineering"
   },
@@ -11326,8 +11315,8 @@
   {
     "company": "Rocket Lab",
     "title": "Government Operations Intern Spring 2027",
-    "location": "Washington, DC",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992752003",
+    "location": "Littleton, CO",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003",
     "date_found": "2026-10-02",
     "disciplines": [
       "1550 Government Operations"
@@ -11337,8 +11326,8 @@
   {
     "company": "Rocket Lab",
     "title": "Government Operations Intern Spring 2027",
-    "location": "Littleton, CO",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992752003",
     "date_found": "2026-10-02",
     "disciplines": [
       "1550 Government Operations"
@@ -11370,22 +11359,22 @@
   {
     "company": "Rocket Lab",
     "title": "Ground Systems Engineering Intern Spring 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
-    "date_found": "2026-11-03",
+    "location": "Stennis Space Center, MS",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007204003",
+    "date_found": "2026-10-13",
     "disciplines": [
-      "2261 SSC Manufacturing Engineering"
+      "2246 Neutron - Stennis"
     ],
     "category": "engineering"
   },
   {
     "company": "Rocket Lab",
     "title": "Ground Systems Engineering Intern Spring 2027",
-    "location": "Stennis Space Center, MS",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007204003",
-    "date_found": "2026-10-13",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
+    "date_found": "2026-11-03",
     "disciplines": [
-      "2246 Neutron - Stennis"
+      "2261 SSC Manufacturing Engineering"
     ],
     "category": "engineering"
   },
@@ -11436,22 +11425,22 @@
   {
     "company": "Rocket Lab",
     "title": "Manufacturing Engineering Intern Spring 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
     "date_found": "2026-09-16",
     "disciplines": [
-      "2256 Neutron - SSC"
+      "2420 USA Manufacturing Engineering"
     ],
     "category": "engineering"
   },
   {
     "company": "Rocket Lab",
     "title": "Manufacturing Engineering Intern Spring 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003",
     "date_found": "2026-09-16",
     "disciplines": [
-      "2420 USA Manufacturing Engineering"
+      "2256 Neutron - SSC"
     ],
     "category": "engineering"
   },
@@ -11601,8 +11590,8 @@
   {
     "company": "Rocket Lab",
     "title": "Security Analyst Intern Summer 2027",
-    "location": "Albuquerque, NM",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986963003",
     "date_found": "2026-09-16",
     "disciplines": [
       "3635 USA Security"
@@ -11612,8 +11601,8 @@
   {
     "company": "Rocket Lab",
     "title": "Security Analyst Intern Summer 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986963003",
+    "location": "Albuquerque, NM",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986874003",
     "date_found": "2026-09-16",
     "disciplines": [
       "3635 USA Security"
@@ -11667,6 +11656,17 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Summer 2027",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990063003",
+    "date_found": "2026-09-17",
+    "disciplines": [
+      "2652 USA Supply Chain"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Rocket Lab",
+    "title": "Supply Chain Intern Summer 2027",
     "location": "Silver Spring, MD",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7999237003",
     "date_found": "2026-10-17",
@@ -11677,14 +11677,14 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Supply Chain Intern Summer 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990063003",
+    "title": "Systems Engineering Intern Summer 2027",
+    "location": "Chantilly, VA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
     "date_found": "2026-09-17",
     "disciplines": [
-      "2652 USA Supply Chain"
+      "106 OS - Design Engineering"
     ],
-    "category": "non-engineering"
+    "category": "engineering"
   },
   {
     "company": "Rocket Lab",
@@ -11702,17 +11702,6 @@
     "title": "Systems Engineering Intern Summer 2027",
     "location": "Tucson, AZ",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003",
-    "date_found": "2026-09-17",
-    "disciplines": [
-      "106 OS - Design Engineering"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Systems Engineering Intern Summer 2027",
-    "location": "Chantilly, VA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
     "date_found": "2026-09-17",
     "disciplines": [
       "106 OS - Design Engineering"
@@ -11791,21 +11780,113 @@
     "category": "engineering"
   },
   {
-    "company": "SAIC",
-    "title": "Site Support Intern",
-    "location": "Reston, VA, United States",
-    "url": "https://jobs.saic.com/jobs/18427683-site-support-intern",
-    "date_found": "2026-11-24",
-    "disciplines": [],
+    "company": "SambaNova Systems",
+    "title": "AI Performance Engineer Intern ",
+    "location": "Austin, Texas, United States; San Jose, California, United States",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271183004",
+    "date_found": "2026-11-25",
+    "disciplines": [
+      "Software"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "SambaNova Systems",
+    "title": "Cloud Platform Engineer Intern (San Jose)",
+    "location": "San Jose, California, United States",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271352004",
+    "date_found": "2026-11-25",
+    "disciplines": [
+      "Software"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "SambaNova Systems",
+    "title": "Compiler Engineer Intern ",
+    "location": "Austin, Texas, United States; San Jose, California, United States",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6270729004",
+    "date_found": "2026-11-25",
+    "disciplines": [
+      "Hardware"
+    ],
     "category": "engineering"
   },
   {
-    "company": "SAIC",
-    "title": "Technical Intern",
-    "location": "Reston, VA, United States",
-    "url": "https://jobs.saic.com/jobs/18485645-technical-intern",
-    "date_found": "2026-11-24",
-    "disciplines": [],
+    "company": "SambaNova Systems",
+    "title": "DFT Engineer Intern",
+    "location": "Austin, Texas, United States; San Jose, California, United States",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271345004",
+    "date_found": "2026-11-25",
+    "disciplines": [
+      "Hardware"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "SambaNova Systems",
+    "title": "Design Verification Engineer Intern",
+    "location": "Austin, Texas, United States; San Jose, California, United States",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271308004",
+    "date_found": "2026-11-25",
+    "disciplines": [
+      "Hardware"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "SambaNova Systems",
+    "title": "ML Infrastructure Engineer Intern",
+    "location": "Austin, Texas, United States; San Jose, California, United States",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271289004",
+    "date_found": "2026-11-25",
+    "disciplines": [
+      "Software"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "SambaNova Systems",
+    "title": "Machine Learning Engineer Intern ",
+    "location": "Austin, Texas, United States; San Jose, California, United States",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004",
+    "date_found": "2026-11-25",
+    "disciplines": [
+      "Software"
+    ],
+    "category": "software"
+  },
+  {
+    "company": "SambaNova Systems",
+    "title": "Physical Design Engineer Intern",
+    "location": "Austin, Texas, United States; San Jose, California, United States",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004",
+    "date_found": "2026-11-25",
+    "disciplines": [
+      "Hardware"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "SambaNova Systems",
+    "title": "Post-Silicon Validation Engineer Intern ",
+    "location": "Austin, Texas, United States; San Jose, California, United States",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004",
+    "date_found": "2026-11-25",
+    "disciplines": [
+      "Hardware"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "SambaNova Systems",
+    "title": "RTL Design Engineer Intern ",
+    "location": "Austin, Texas, United States; San Jose, California, United States",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271328004",
+    "date_found": "2026-11-25",
+    "disciplines": [
+      "Hardware"
+    ],
     "category": "engineering"
   },
   {
@@ -14197,17 +14278,6 @@
       "Internships"
     ],
     "category": "non-engineering"
-  },
-  {
-    "company": "Varda Space Industries",
-    "title": "Thermal Engineering Internship - Summer 2027",
-    "location": "El Segundo, California, United States",
-    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010172003",
-    "date_found": "2026-10-01",
-    "disciplines": [
-      "Internships"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Varda Space Industries",
