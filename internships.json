@@ -2070,6 +2070,15 @@
   },
   {
     "company": "BAE Systems",
+    "title": "Corporate Legal Internship",
+    "location": "Falls Church, Virginia, United States",
+    "url": "https://jobs.baesystems.com/global/en/job/133092BR/Corporate-Legal-Internship",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "non-engineering"
+  },
+  {
+    "company": "BAE Systems",
     "title": "Cyber Systems Engineering Intern II Spring 2007",
     "location": "Hudson, New Hampshire, United States",
     "url": "https://jobs.baesystems.com/global/en/job/132276BR/Cyber-Systems-Engineering-Intern-II-Spring-2007",
@@ -2559,15 +2568,6 @@
     "title": "Supply Chain Intern III Summer 2027 Greenlawn NY",
     "location": "Greenlawn, New York, United States",
     "url": "https://jobs.baesystems.com/global/en/job/131953BR/Supply-Chain-Intern-III-Summer-2027-Greenlawn-NY",
-    "date_found": "2026-11-24",
-    "disciplines": [],
-    "category": "non-engineering"
-  },
-  {
-    "company": "BAE Systems",
-    "title": "Supply Chain Intern III Summer 2027 Onsite",
-    "location": "Fort Wayne, Indiana, United States",
-    "url": "https://jobs.baesystems.com/global/en/job/130711BR/Supply-Chain-Intern-III-Summer-2027-Onsite",
     "date_found": "2026-11-24",
     "disciplines": [],
     "category": "non-engineering"
@@ -5191,7 +5191,7 @@
   },
   {
     "company": "Hermeus",
-    "title": "Flight Software & GNC Intern - Spring 2027",
+    "title": "Flight Software & GNC Intern - Summer 2027",
     "location": "Atlanta, GA",
     "url": "https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7",
     "date_found": "2026-09-03",
@@ -5301,7 +5301,7 @@
   },
   {
     "company": "Hermeus",
-    "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
+    "title": "Software Engineering Intern (Command & Control) - Summer 2027",
     "location": "Atlanta, GA",
     "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796",
     "date_found": "2026-09-03",
@@ -6307,6 +6307,15 @@
   },
   {
     "company": "Idaho National Laboratory",
+    "title": "Electrical System Engineering Intern - Summer 2027",
+    "location": "Idaho Falls, ID, United States",
+    "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/2409",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Idaho National Laboratory",
     "title": "Employee Experience Internship - Spring 2027",
     "location": "Idaho Falls, ID, United States",
     "url": "https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/2378",
@@ -6741,37 +6750,10 @@
   },
   {
     "company": "Leidos",
-    "title": "AI/Automation Development Intern - Assessment & Authorization",
-    "location": "6314 Remote/Teleworker US",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319",
-    "date_found": "2026-11-06",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Leidos",
     "title": "Business Systems AI Intern",
     "location": "6314 Remote/Teleworker US",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
     "date_found": "2026-10-02",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Leidos",
-    "title": "Business Systems AI Intern",
-    "location": "6314 Remote/Teleworker US",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
-    "date_found": "2026-10-06",
-    "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Leidos",
-    "title": "Business Systems AI Intern",
-    "location": "6314 Remote/Teleworker US",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767",
-    "date_found": "2026-10-06",
     "disciplines": [],
     "category": "software"
   },
@@ -6795,10 +6777,10 @@
   },
   {
     "company": "Leidos",
-    "title": "Cybersecurity Engineer Co-op",
-    "location": "Bethesda, MD",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764",
-    "date_found": "2026-10-29",
+    "title": "Cybersecurity Intern",
+    "location": "Fort Belvoir, VA",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Cybersecurity-Intern_R-00197087",
+    "date_found": "2026-11-25",
     "disciplines": [],
     "category": "software"
   },
@@ -6806,46 +6788,28 @@
     "company": "Leidos",
     "title": "Data Engineer Intern",
     "location": "Fort Belvoir, VA",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
-    "date_found": "2026-10-29",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00196994",
+    "date_found": "2026-11-25",
     "disciplines": [],
     "category": "software"
   },
   {
     "company": "Leidos",
-    "title": "Energy & Infrastructure Consulting Summer Intern",
-    "location": "Denver, CO",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Denver-CO/Energy---Infrastructure-Consulting-Summer-Intern_R-00195653-1",
-    "date_found": "2026-11-10",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Leidos",
-    "title": "Flight Test and Integration Summer Intern",
+    "title": "Electrical Design Engineering Intern",
     "location": "Huntsville, AL",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Flight-Test-and-Integration-Summer-Intern_R-00196666",
-    "date_found": "2026-11-14",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400",
+    "date_found": "2026-11-25",
     "disciplines": [],
     "category": "engineering"
   },
   {
     "company": "Leidos",
-    "title": "Helpdesk IT Support Intern",
-    "location": "2 Locations",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Helpdesk-IT-Support-Intern_R-00196247-1",
-    "date_found": "2026-11-10",
+    "title": "Integration and Test Engineer Intern",
+    "location": "Atlantic City, NJ",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Atlantic-City-NJ/Integration-and-Test-Engineer-Intern_R-00196657",
+    "date_found": "2026-11-25",
     "disciplines": [],
-    "category": "software"
-  },
-  {
-    "company": "Leidos",
-    "title": "Junior Software Engineer / Data Scientist Intern",
-    "location": "Tucson, AZ",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
-    "date_found": "2026-11-12",
-    "disciplines": [],
-    "category": "software"
+    "category": "engineering"
   },
   {
     "company": "Leidos",
@@ -6858,28 +6822,28 @@
   },
   {
     "company": "Leidos",
+    "title": "Missile Systems Engineer Intern",
+    "location": "Huntsville, AL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Missile-Systems-Engineer-Intern_R-00195265",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Leidos",
+    "title": "Network Engineering & Operations Intern",
+    "location": "Shiloh, IL",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00197462",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
+  },
+  {
+    "company": "Leidos",
     "title": "Network Site Design Intern",
     "location": "6314 Remote/Teleworker US",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Network-Site-Design-Intern_R-00195057",
     "date_found": "2026-10-21",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Leidos",
-    "title": "Power Delivery Engineering Intern",
-    "location": "Charlotte, NC",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Charlotte-NC/Power-Delivery-Engineering-Intern_R-00193282",
-    "date_found": "2026-11-06",
-    "disciplines": [],
-    "category": "engineering"
-  },
-  {
-    "company": "Leidos",
-    "title": "Power Delivery Engineering Intern",
-    "location": "Charlotte, NC",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Charlotte-NC/Power-Delivery-Engineering-Intern_R-00195881",
-    "date_found": "2026-10-31",
     "disciplines": [],
     "category": "engineering"
   },
@@ -6903,12 +6867,48 @@
   },
   {
     "company": "Leidos",
+    "title": "Software Developer Intern",
+    "location": "Fort Belvoir, VA",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Software-Developer-Intern_R-00197399-1",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Leidos",
+    "title": "Software Engineering Intern",
+    "location": "Arlington, VA",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Software-Engineering-Intern_R-00197526",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Leidos",
+    "title": "System Administration/Cybersecurity Intern",
+    "location": "Clarksburg, WV",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Clarksburg-WV/System-Administration-Cybersecurity-Intern_R-00197267",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "software"
+  },
+  {
+    "company": "Leidos",
     "title": "Systems Administration Intern",
     "location": "3 Locations",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Systems-Administration-Intern_R-00195528",
     "date_found": "2026-10-29",
     "disciplines": [],
     "category": "non-engineering"
+  },
+  {
+    "company": "Leidos",
+    "title": "Systems Engineer Intern",
+    "location": "Fort Belvoir, VA",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Systems-Engineer-Intern_R-00197398",
+    "date_found": "2026-11-25",
+    "disciplines": [],
+    "category": "engineering"
   },
   {
     "company": "Leidos",
@@ -11308,8 +11308,8 @@
   {
     "company": "Rocket Lab",
     "title": "Government Operations Intern Spring 2027",
-    "location": "Littleton, CO",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992752003",
     "date_found": "2026-10-02",
     "disciplines": [
       "1550 Government Operations"
@@ -11319,8 +11319,8 @@
   {
     "company": "Rocket Lab",
     "title": "Government Operations Intern Spring 2027",
-    "location": "Washington, DC",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992752003",
+    "location": "Littleton, CO",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8001399003",
     "date_found": "2026-10-02",
     "disciplines": [
       "1550 Government Operations"
@@ -11352,22 +11352,22 @@
   {
     "company": "Rocket Lab",
     "title": "Ground Systems Engineering Intern Spring 2027",
-    "location": "Stennis Space Center, MS",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007204003",
-    "date_found": "2026-10-13",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
+    "date_found": "2026-11-03",
     "disciplines": [
-      "2246 Neutron - Stennis"
+      "2261 SSC Manufacturing Engineering"
     ],
     "category": "engineering"
   },
   {
     "company": "Rocket Lab",
     "title": "Ground Systems Engineering Intern Spring 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003",
-    "date_found": "2026-11-03",
+    "location": "Stennis Space Center, MS",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007204003",
+    "date_found": "2026-10-13",
     "disciplines": [
-      "2261 SSC Manufacturing Engineering"
+      "2246 Neutron - Stennis"
     ],
     "category": "engineering"
   },
@@ -11418,17 +11418,6 @@
   {
     "company": "Rocket Lab",
     "title": "Manufacturing Engineering Intern Spring 2027",
-    "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
-    "date_found": "2026-09-16",
-    "disciplines": [
-      "2420 USA Manufacturing Engineering"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Manufacturing Engineering Intern Spring 2027",
     "location": "Middle River, MD",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987020003",
     "date_found": "2026-09-16",
@@ -11439,12 +11428,23 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Manufacturing Engineering Intern Summer 2027",
+    "title": "Manufacturing Engineering Intern Spring 2027",
     "location": "Long Beach, CA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984943003",
     "date_found": "2026-09-16",
     "disciplines": [
       "2420 USA Manufacturing Engineering"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Rocket Lab",
+    "title": "Manufacturing Engineering Intern Summer 2027",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003",
+    "date_found": "2026-09-16",
+    "disciplines": [
+      "2261 SSC Manufacturing Engineering"
     ],
     "category": "engineering"
   },
@@ -11462,22 +11462,11 @@
   {
     "company": "Rocket Lab",
     "title": "Manufacturing Engineering Intern Summer 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7988835003",
+    "location": "Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7984564003",
     "date_found": "2026-09-16",
     "disciplines": [
-      "2261 SSC Manufacturing Engineering"
-    ],
-    "category": "engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Mechanical Engineering Intern Summer 2027",
-    "location": "Silver Spring, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
-    "date_found": "2026-09-16",
-    "disciplines": [
-      "5250 PRODUCTION"
+      "2420 USA Manufacturing Engineering"
     ],
     "category": "engineering"
   },
@@ -11489,6 +11478,17 @@
     "date_found": "2026-09-14",
     "disciplines": [
       "4015 USA Space Systems"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Rocket Lab",
+    "title": "Mechanical Engineering Intern Summer 2027",
+    "location": "Silver Spring, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989904003",
+    "date_found": "2026-09-16",
+    "disciplines": [
+      "5250 PRODUCTION"
     ],
     "category": "engineering"
   },
@@ -11616,17 +11616,6 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Spring 2027",
-    "location": "Middle River, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990069003",
-    "date_found": "2026-09-17",
-    "disciplines": [
-      "2657 SC Sourcing"
-    ],
-    "category": "non-engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Supply Chain Intern Spring 2027",
     "location": "Tucson, AZ",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990378003",
     "date_found": "2026-09-17",
@@ -11637,12 +11626,12 @@
   },
   {
     "company": "Rocket Lab",
-    "title": "Supply Chain Intern Summer 2027",
-    "location": "Silver Spring, MD",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7999237003",
-    "date_found": "2026-10-17",
+    "title": "Supply Chain Intern Spring 2027",
+    "location": "Middle River, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990069003",
+    "date_found": "2026-09-17",
     "disciplines": [
-      "122 OS - Supply Chain"
+      "2657 SC Sourcing"
     ],
     "category": "non-engineering"
   },
@@ -11660,6 +11649,17 @@
   {
     "company": "Rocket Lab",
     "title": "Supply Chain Intern Summer 2027",
+    "location": "Silver Spring, MD",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7999237003",
+    "date_found": "2026-10-17",
+    "disciplines": [
+      "122 OS - Supply Chain"
+    ],
+    "category": "non-engineering"
+  },
+  {
+    "company": "Rocket Lab",
+    "title": "Supply Chain Intern Summer 2027",
     "location": "Middle River, MD",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990063003",
     "date_found": "2026-09-17",
@@ -11667,17 +11667,6 @@
       "2652 USA Supply Chain"
     ],
     "category": "non-engineering"
-  },
-  {
-    "company": "Rocket Lab",
-    "title": "Systems Engineering Intern Summer 2027",
-    "location": "Chantilly, VA",
-    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
-    "date_found": "2026-09-17",
-    "disciplines": [
-      "106 OS - Design Engineering"
-    ],
-    "category": "engineering"
   },
   {
     "company": "Rocket Lab",
@@ -11698,6 +11687,17 @@
     "date_found": "2026-09-17",
     "disciplines": [
       "4015 USA Space Systems"
+    ],
+    "category": "engineering"
+  },
+  {
+    "company": "Rocket Lab",
+    "title": "Systems Engineering Intern Summer 2027",
+    "location": "Chantilly, VA",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003",
+    "date_found": "2026-09-17",
+    "disciplines": [
+      "106 OS - Design Engineering"
     ],
     "category": "engineering"
   },
@@ -11789,6 +11789,17 @@
     "date_found": "2026-11-24",
     "disciplines": [],
     "category": "engineering"
+  },
+  {
+    "company": "SambaNova Systems",
+    "title": "Runtime Engineer Intern",
+    "location": "Austin, Texas, United States; San Jose, California, United States",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004",
+    "date_found": "2026-11-25",
+    "disciplines": [
+      "Software"
+    ],
+    "category": "software"
   },
   {
     "company": "Scale AI",
@@ -13790,10 +13801,10 @@
     "company": "Two Six Technologies",
     "title": "Summer Research Intern",
     "location": "Arlington, Virginia",
-    "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6228304004",
-    "date_found": "2026-10-28",
+    "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236149004",
+    "date_found": "2026-11-03",
     "disciplines": [
-      "Trusted Electronics & Effects (TE2)"
+      "TE2 Trusted Electronics - Secure Comms"
     ],
     "category": "engineering"
   },
@@ -13801,10 +13812,10 @@
     "company": "Two Six Technologies",
     "title": "Summer Research Intern",
     "location": "Arlington, Virginia",
-    "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236149004",
-    "date_found": "2026-11-03",
+    "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6228304004",
+    "date_found": "2026-10-28",
     "disciplines": [
-      "TE2 Trusted Electronics - Secure Comms"
+      "Trusted Electronics & Effects (TE2)"
     ],
     "category": "engineering"
   },
